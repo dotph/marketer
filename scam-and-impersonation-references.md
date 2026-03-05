@@ -338,13 +338,15 @@
 ### AWARENESS (Weeks 1–3) — "This is happening."
 Best references: #1, #2, #3, #5, #6, #7, #8, #9, #13, #14, #15, #19, #20, #22, #23, #25, #27, #28, #30, #31, #33
 
-**Goal:** Make businesses feel the pain. No product mention yet.
+**Goal:** Make businesses feel the pain. **Cold audiences:** no product mention. **Warm audiences** (existing .ph holders, FB page followers, high-scam-exposure industries): soft product teaser alongside the problem — name "Verified by dotPH" without a full pitch.
 **Content types:** Stat-driven Facebook ads, news article shares, "Did you know?" posts, infographics, short video/carousel
 **Industry-specific hooks:**
 - Tourism/resorts: #5, #6, #7, #31, #32
 - E-commerce/online sellers: #25
 - Food/restaurants: #27, #28
 - Banking/fintech: #30
+
+**Best for warm awareness (problem + product bridge):** #2, #5, #6, #9, #27, #30 — these references naturally bridge from the problem to a "what can be done" angle, making them ideal for warm audiences where the product is named alongside the problem.
 
 ### CONSIDERATION (Weeks 3–5) — "There's a way to fight back."
 Best references: #2, #6, #9, #10, #11, #12, #16, #17, #18, #21, #24, #26, #27, #29, #30

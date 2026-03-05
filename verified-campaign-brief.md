@@ -10,9 +10,9 @@
 
 ## The One Idea
 
-**Lead with the problem, not the product.**
+**Lead with the problem, not the product — unless they already know the problem.**
 
-People don't want verification. They want their customers to trust them and stop paying scammers. The campaign makes them feel that problem first, then presents Verified by dotPH as the answer.
+People don't want verification. They want their customers to trust them and stop paying scammers. For **cold audiences**, the campaign makes them feel the problem first, then presents Verified by dotPH as the answer. For **warm audiences** (existing .ph domain holders, dotPH page followers, high-scam-exposure industries), the problem is already felt — so Phase 1 names the product alongside the problem to start building brand recognition from day 1.
 
 ---
 
@@ -23,6 +23,8 @@ People don't want verification. They want their customers to trust them and stop
 | **1. Problem Awareness** | 1–3 | "This is happening to businesses like yours." | Create the need |
 | **2. Solution Reveal** | 3–5 | "There's now a way to prove you're real." | Position dotPH as the answer |
 | **3. Signup Drive** | 5–8 | "Get verified before everyone else does." | Convert interest to signups |
+
+**Phase 1 hybrid note:** For warm audiences, Phase 1 includes a soft product mention ("We're building something to fix this — it's called Verified by dotPH"). The problem still leads, but the product name is planted early. Cold audiences get pure problem education with no product mention.
 
 ---
 
@@ -42,8 +44,8 @@ All channels point to the landing page. The landing page converts.
 ## Campaign Arc by Channel
 
 ```
-Week 1-2   Email 1 (problem seed)  |  FB Ads: Awareness  |  Organic: Problem posts
-Week 3     Email 2 (introduce product)  |  FB Ads: Retarget  |  Organic: Product reveal
+Week 1-2   Warm Email 1 (problem + product teaser)  |  FB Ads: Awareness (cold=problem-only, warm=problem+product)  |  Organic: Problem posts (with soft product teasers)
+Week 3     Email 2 (introduce product fully)  |  FB Ads: Retarget  |  Organic: Product reveal
 Week 4-5   Email 3 (social proof)  |  FB Ads: Conversion  |  Cold Emails 1-4
 Week 6-8   Email 4 (final push)  |  FB Ads: Shift to conversion  |  Cold Email 5  |  Daily posts
 ```
@@ -66,7 +68,8 @@ Week 6-8   Email 4 (final push)  |  FB Ads: Shift to conversion  |  Cold Email 5
 
 **Campaign 1: AWARENESS** (50% of budget, Weeks 1-3)
 - Audience: Business owners PH + industry-specific (hospitality, F&B, retail, healthcare)
-- Creative: Impersonation stories, scam stats, "Is someone copying your business?"
+- Creative (cold ad sets): Impersonation stories, scam stats, "Is someone copying your business?" — no product mention
+- Creative (warm ad set): Same problem hooks + soft product teaser ("dotPH is launching free verification")
 - Objective: Reach / Video Views
 
 **Campaign 2: CONSIDERATION** (30% of budget, Weeks 3+)
@@ -95,7 +98,7 @@ Week 6-8   Email 4 (final push)  |  FB Ads: Shift to conversion  |  Cold Email 5
 
 | # | Send | Subject | Angle |
 |---|------|---------|-------|
-| 1 | Week 1 | Is someone pretending to be your business online? | Problem seed (no pitch) |
+| 1 | Week 1 | Is someone pretending to be your business online? | Problem seed + soft product name |
 | 2 | Week 2 | Your domain proves ownership. But does it prove legitimacy? | Introduce product |
 | 3 | Week 3 | [X] businesses have already signed up for verification | Social proof |
 | 4 | Week 4 | Verification opens soon. Are you in? | Scarcity + final push |
@@ -129,7 +132,7 @@ Week 6-8   Email 4 (final push)  |  FB Ads: Shift to conversion  |  Cold Email 5
 | Zero-Price Effect | "It's free" — psychologically removes all friction |
 | Authority Bias | "From the official .ph domain registry" — credibility no one else can claim |
 | Mimetic Desire | "Your competitors are getting verified" — people want what others want |
-| Zeigarnik Effect | Email 1 deliberately has no CTA — it opens a loop that Email 2 closes |
+| Zeigarnik Effect | Email 1 has no CTA but names the product — it opens a loop with a known destination that Email 2 closes |
 | Social Proof | Live signup counter on landing page and in emails |
 | Scarcity | "First batch" framing creates urgency without being dishonest |
 

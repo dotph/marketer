@@ -19,7 +19,8 @@
 
 ## AWARENESS ADS (Weeks 1–3)
 
-> **Rule:** No product mention. No dotPH branding. Pure problem education.
+> **Rule (cold ad sets):** No product mention. No dotPH branding. Pure problem education.
+> **Rule (warm ad set):** Lead with the problem, but include a soft product teaser (e.g., "dotPH is launching free verification to fix this"). See [verified-marketing-strategy.md](verified-marketing-strategy.md) for warm awareness ad copy variants (#13–#15).
 > **Objective:** Engagement / Video Views — build retargeting audiences.
 
 ---

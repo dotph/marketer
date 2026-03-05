@@ -18,10 +18,12 @@
 ║   │   Goal: Make the audience FEEL the problem exists                │  ║
 ║   │                                                                  │  ║
 ║   │   Channels:                                                      │  ║
-║   │   ├── FB Ads → Problem education (broad targeting)               │  ║
-║   │   ├── Warm Email → Problem seed (no product mention)             │  ║
-║   │   ├── Cold Email → Problem alert (personalized)                  │  ║
+║   │   ├── FB Ads → Problem education (cold: problem-only,            │  ║
+║   │   │             warm: problem + soft product mention)             │  ║
+║   │   ├── Warm Email → Problem seed + product teaser                 │  ║
+║   │   ├── Cold Email → Problem alert (personalized, no product)      │  ║
 ║   │   └── Organic FB → Scam stories, stats, polls                    │  ║
+║   │                      (with soft product teasers for followers)    │  ║
 ║   └──────────────────────────┬───────────────────────────────────────┘  ║
 ║                              │                                          ║
 ║                              ▼                                          ║
@@ -82,15 +84,27 @@
                     │                                  │
                     │  Ad Sets:                        │
                     │  ├── Business Owners PH (broad)  │
+                    │  │   COLD — problem-only          │
                     │  │   ├── Impersonation story     │
                     │  │   ├── "Is someone copying     │
                     │  │   │    your business?" video  │
                     │  │   └── Online scam stats       │
                     │  │       (carousel)              │
-                    │  └── Industry-Specific           │
-                    │      ├── Resort booking scam     │
-                    │      ├── Fake food seller page   │
-                    │      └── Fake online shop        │
+                    │  ├── Industry-Specific           │
+                    │  │   COLD — problem-only          │
+                    │  │   ├── Resort booking scam     │
+                    │  │   ├── Fake food seller page   │
+                    │  │   └── Fake online shop        │
+                    │  └── Warm Audiences (custom)     │
+                    │      problem + soft product       │
+                    │      ├── Impersonation story +   │
+                    │      │   "dotPH is launching     │
+                    │      │    free verification"     │
+                    │      ├── Industry scam +         │
+                    │      │   "prove you're real"     │
+                    │      └── Problem stats +         │
+                    │          "Verified by dotPH —    │
+                    │           coming soon"           │
                     └────────────────┬────────────────┘
                                      │
                         Engaged? (watched video 25%+,
@@ -174,15 +188,18 @@
                         │
                         ▼
    ┌─────────────────────────────────────────────────┐
-   │  EMAIL 1: PROBLEM SEED                          │
+   │  EMAIL 1: PROBLEM SEED + PRODUCT TEASER          │
    │  "Is someone pretending to be your business?"   │
    │                                                  │
-   │  ► No product mention                           │
-   │  ► No CTA (intentional)                         │
-   │  ► Opens a loop: "We'll share what dotPH        │
-   │    is doing about it"                           │
+   │  ► Soft product mention (names Verified by      │
+   │    dotPH as what's coming)                      │
+   │  ► No CTA (intentional — loop stays open)       │
+   │  ► Opens a loop with a named destination:       │
+   │    "It's called Verified by dotPH —             │
+   │     more details next week"                     │
    │                                                  │
-   │  Psychology: Zeigarnik Effect, Loss Aversion    │
+   │  Psychology: Zeigarnik Effect (they know WHAT   │
+   │  is coming, not HOW), Loss Aversion             │
    └────────────────────┬────────────────────────────┘
                         │
                         ▼
@@ -609,8 +626,9 @@
    │   in Palawan? That's scary."                             │
    │                                                          │
    │   After email: "Wait — dotPH is emailing me about the   │
-   │   same thing? My customer just asked me 'Is this your   │
-   │   real GCash?' last week."                               │
+   │   same thing? And they're building something called      │
+   │   Verified by dotPH? My customer just asked me 'Is      │
+   │   this your real GCash?' last week."                     │
    │                                                          │
    │   After organic post: "A friend shared this too.         │
    │   May nag-comment na ganun din nangyari sa kanya."       │
@@ -707,12 +725,14 @@ Each journey shows a different entry point, a different industry, and a differen
    Reaction: "Wait — first the           │  The email describes how     │
    Facebook ad, now dotPH is             │  scammers screenshot resort  │
    emailing about the same thing?        │  photos, create a new FB     │
-   This must be a real problem."         │  page, and add a different   │
-                                         │  GCash number for deposits.  │
-   Action: Reads the full email.         │                              │
-   No CTA — just a story. She           │  No link. Ends with:         │
-   tells her front desk staff            │  "We'll share what dotPH     │
-   about it.                             │  is doing about it."         │
+   And they're building something        │  page, and add a different   │
+   called Verified by dotPH?             │  GCash number for deposits.  │
+   I need to keep an eye on this."       │                              │
+                                         │  Ends with: "We're building  │
+   Action: Reads the full email.         │  something to fix this. It's │
+   No CTA — but now she knows the       │  called Verified by dotPH —  │
+   product name. She mentions it         │  more details next week."    │
+   to her business partner.              │                              │
                                          └────────────────┬─────────────┘
                                                           │
    TOUCHPOINT 3                         ┌─────────────────▼────────────┐

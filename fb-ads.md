@@ -4,8 +4,10 @@ You can't just run "Sign up for free verification" ads cold. Nobody knows what i
 
 Think of it as 3 jobs:
 
-Job 1 — Make them feel the problem (Cold audience)
-Run problem-education ads to business owners who've never heard of Verified by dotPH. No product mention yet. Just: "Fake pages are stealing your customers. Here's how it happens." The goal is engagement and video views — not clicks.
+Job 1 — Make them feel the problem (Cold + Warm audiences)
+For **cold audiences** (business owners who've never heard of Verified by dotPH): run problem-education ads with no product mention. Just: "Fake pages are stealing your customers. Here's how it happens." The goal is engagement and video views — not clicks.
+
+For **warm audiences** (existing .ph domain holders, dotPH page engagers, site visitors): run the same problem hooks but include a soft product teaser. "Fake pages are stealing your customers — and dotPH is launching free verification to fix it." The goal is the same (engagement + views), but the product name starts building recognition from day 1.
 
 Job 2 — Show them the solution (Warm audience — people who engaged with Job 1)
 Retarget the people who watched your video or engaged with your problem posts. Now introduce Verified by dotPH. "There's now a way to prove you're real." Drive them to the landing page.
@@ -34,6 +36,8 @@ The product is free — cost per signup will be very low because there's zero fi
 Industry-specific targeting — you can run separate ad sets for resorts, F&B, retail, clinics with copy that speaks directly to their exact pain. A resort owner responds to "fake booking pages" differently than a generic impersonation message.
 
 dotPH has authority — "From the official .ph domain registry" is a trust signal no competitor can copy. It belongs in every ad, especially in the conversion stage when people are deciding whether to sign up.
+
+The hybrid awareness model accelerates warm audiences — existing .ph holders and page engagers already know the problem (many have experienced impersonation directly). For them, a pure problem-education phase feels like a lecture. Including a soft product teaser in their awareness ads means they enter Phase 2 with the product name already planted, which shortens the path from awareness to consideration. Cold audiences still get the full problem-first treatment.
 
 The One Risk to Watch
 The awareness campaigns need to generate enough volume before the retargeting pools become useful. With a $500-$2K/month budget, it takes 2-3 weeks before you have enough warm audiences to retarget meaningfully. That's why the first weeks are awareness-heavy — you're filling the funnel, not just running ads.

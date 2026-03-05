@@ -29,6 +29,26 @@ People don't wake up wanting "verification." They wake up worried about scammers
 - Phase 2 positions dotPH as the authority solving the problem
 - Phase 3 leverages social proof and scarcity to convert interest into action
 
+### Hybrid Model: Cold vs. Warm Awareness
+
+Not all audiences need the same Phase 1. The strict "no product mention" approach is designed for cold audiences who haven't felt the problem yet. But two segments are already problem-aware:
+
+1. **Warm audiences** — existing .ph domain holders who already trust dotPH as sender
+2. **High-scam-exposure industries** — resorts, online sellers, clinics — where impersonation is already a lived experience, not a hypothetical
+
+For these segments, pure problem education risks feeling like a lecture about something they already know. The hybrid approach:
+
+| Audience | Phase 1 Treatment |
+|----------|-------------------|
+| **Cold** (broad targeting, no prior dotPH interaction) | Problem-only. No product mention. Build the emotional need from scratch. |
+| **Warm** (existing .ph holders, FB page engagers, site visitors) | Problem-led, but names the product. "We're building something to fix this. It's called Verified by dotPH." The Zeigarnik loop stays open, but the destination is named. |
+| **High-scam-exposure industries** (hospitality, online sellers) | Same as warm — these audiences have likely experienced impersonation directly. They don't need to be convinced the problem exists. |
+
+**Why this works better than one-size-fits-all:**
+- Warm audiences start building brand recognition for "Verified by dotPH" from day 1
+- When they hit Phase 2, the product isn't brand-new — it's a callback they've been waiting for
+- Cold audiences still get the full emotional arc — no shortcuts for people who haven't felt the pain yet
+
 ---
 
 ## Deliverable 1: Landing Page Copy
@@ -206,7 +226,7 @@ A: A government-issued ID (for individuals) and/or business registration documen
 
 #### Email 1 — Problem Seed (Week 1)
 
-**Purpose:** Plant the problem. No product pitch. Open a loop.
+**Purpose:** Plant the problem. Soft product name-drop. Open a loop with a named destination.
 
 ```
 Subject: Is someone pretending to be your business online?
@@ -223,15 +243,17 @@ The worst part? Your customers blame *you*.
 
 We're seeing this across every industry — resorts, restaurants, clinics, online shops. And a domain name alone is no longer enough to prove you're the real deal.
 
-In the coming days, we'll share what dotPH is doing about it.
+We're building something to fix this. It's called **Verified by dotPH** — a way for businesses to prove they're real, backed by the official .ph domain registry. More details next week.
 
-Stay tuned,
 [Name]
 dotPH — The .ph Domain Registry
 
 ```
-CTA: None (intentional — Zeigarnik Effect, open the loop)
-Psychology: Zeigarnik Effect (unfinished narrative), Loss Aversion (customers paying scammers)
+CTA: None (intentional — loop stays open, but the destination is named)
+Psychology: Zeigarnik Effect (they now know WHAT is coming but not HOW it works),
+Loss Aversion (customers paying scammers)
+Note: This is the warm audience version. These are existing .ph holders who trust dotPH —
+naming the product builds recognition without closing the loop.
 ```
 
 ---
@@ -368,14 +390,18 @@ Psychology: Scarcity ("first batch"), Loss Aversion ("who will they trust?"), Ze
 Account: dotPH — Verified
 │
 ├── Campaign 1: AWARENESS (Problem Education)
-│   ├── Ad Set: Business Owners PH (broad)
+│   ├── Ad Set: Business Owners PH (broad) — COLD, problem-only
 │   │   ├── Ad: Impersonation story (static image)
 │   │   ├── Ad: "Is someone copying your business?" (short video)
 │   │   └── Ad: Online scam stats PH (carousel)
-│   └── Ad Set: Industry-Specific (Hospitality / F&B / Retail)
-│       ├── Ad: Resort booking scam scenario
-│       ├── Ad: Fake food seller page scenario
-│       └── Ad: Fake online shop scenario
+│   ├── Ad Set: Industry-Specific (Hospitality / F&B / Retail) — COLD, problem-only
+│   │   ├── Ad: Resort booking scam scenario
+│   │   ├── Ad: Fake food seller page scenario
+│   │   └── Ad: Fake online shop scenario
+│   └── Ad Set: Warm Audiences (custom) — problem + soft product mention
+│       ├── Ad: Impersonation story + "dotPH is launching free verification"
+│       ├── Ad: Industry scam scenario + "there's now a way to prove you're real"
+│       └── Ad: Problem stats + "Verified by dotPH — coming soon"
 │
 ├── Campaign 2: CONSIDERATION (Solution Intro)
 │   ├── Ad Set: Retargeting — Engaged with awareness ads
@@ -438,6 +464,15 @@ Account: dotPH — Verified
 | F&B | Restaurant owners, food delivery, food business Philippines |
 | Retail | Online shopping, fashion business, jewelry business, Shopee seller |
 | Professional services | Clinic management, dental practice, law firm, accounting firm |
+
+**Awareness messaging split by audience warmth:**
+
+| Audience Segment | Awareness Treatment | Source |
+|------------------|--------------------:|--------|
+| **Cold** — no prior dotPH interaction | Problem-only ads. No product mention. | Interest-based targeting (above) |
+| **Warm** — existing .ph holders | Problem + soft product teaser. Names "Verified by dotPH." | Custom audience from email list |
+| **Warm** — FB page engagers, site visitors | Problem + soft product teaser. | Facebook page engagers, website custom audience |
+| **High-scam-exposure industries** | Problem + soft product teaser (these audiences are already problem-aware). | Interest-based but served warm creative |
 
 **Retargeting audiences:**
 - Video viewers (25%+ watch time from Campaign 1)
@@ -516,6 +551,24 @@ Account: dotPH — Verified
 **Angle: Peer Pressure**
 
 12. "Other businesses in your industry are already getting verified. When a customer compares your page to a verified competitor, who do you think they'll trust more?" (162 chars)
+
+---
+
+### Warm Awareness Ad Copy (Problem + Soft Product Mention)
+
+> Use these for the warm audience ad set in Campaign 1. They lead with the problem but name the product — distinct from Consideration ads, which are full product explainers.
+
+**Angle: Impersonation + Product Teaser**
+
+13. "Someone is using your business name to scam your customers. Same logo, same photos, different payment link. It's happening to resorts, restaurants, clinics, and online shops across the Philippines. dotPH is doing something about it — it's called Verified by dotPH. Free verification for .ph domain holders. Details coming soon." (323 chars)
+
+**Angle: Customer Hesitation + Product Teaser**
+
+14. "Your customers DM you before every payment: 'Is this your real GCash?' They screenshot your page and send it to you. Every. Single. Time. What if there was a way for them to check — without asking you? We're building exactly that. It's called Verified by dotPH, and it's free for .ph domain holders." (300 chars)
+
+**Angle: Industry Scam + Solution Bridge**
+
+15. "Fake booking pages in Palawan. Fake food seller pages in Manila. Fake online shops everywhere. Scammers are copying Philippine businesses — and customers can't tell the difference. The official .ph domain registry is launching free verification to fix this. Watch this space." (275 chars)
 
 ---
 
@@ -653,10 +706,12 @@ How scammers copy your business:
 5. They add their own GCash number
 
 Your customers can't tell the difference.
-This is why verification matters. More on this soon.
+This is why we built Verified by dotPH — a free way for businesses
+to prove they're real. More on this soon.
 ```
 Format: Carousel (one step per slide) or numbered image
 CTA: "Share this with a business owner who needs to see it."
+Note: Soft product teaser included — organic followers are warm (they already follow dotPH).
 
 **Post 5: Infographic — "3 Signs a Business Page Is Fake"**
 ```
@@ -669,9 +724,11 @@ CTA: "Share this with a business owner who needs to see it."
 3. No official website or verified links listed
 
 Protect yourself — and help your customers protect themselves.
+That's exactly what Verified by dotPH is for. Stay tuned.
 ```
 Format: Designed infographic
 CTA: "Save this and share it."
+Note: Soft product teaser — organic followers are warm.
 
 ---
 
