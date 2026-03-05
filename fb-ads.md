@@ -11,7 +11,7 @@ Job 2 — Show them the solution (Warm audience — people who engaged with Job 
 Retarget the people who watched your video or engaged with your problem posts. Now introduce Verified by dotPH. "There's now a way to prove you're real." Drive them to the landing page.
 
 Job 3 — Convert the ones who didn't sign up (Hot audience — landing page visitors)
-Retarget people who visited the landing page but didn't complete the signup. Use social proof ("X businesses already signed up"), objection busters ("It's free. Takes 5 minutes."), and urgency ("First batch closing soon").
+Retarget people who visited the landing page but didn't complete the signup. Use social proof ("X businesses already signed up"), objection busters ("It's free. Backed by the .ph registry."), and urgency ("First batch closing soon").
 
 Budget Flow Over 8 Weeks
 

@@ -206,16 +206,16 @@ Step 6: The scammer creates a new page.
 
 That's the process. For ONE fake page.
 
-Or — you could get verified in 5 minutes.
+Or — you could just get verified.
 
 Verified by dotPH gives your business a verified badge, a public verification page, and verified links your customers can check before they pay. It's free. It's from the official .ph registry. And it works before scammers even try.
 
 Prevention beats prosecution. Every time.
 
-**Headline:** 5 Minutes vs. 5 Months
+**Headline:** Prevention vs. Prosecution
 **Description:** Get verified. It's free.
 
-**Creative direction:** Split-screen or "vs." format. Left side (red/dark): "Prosecution" — list of painful steps in small text. Right side (green/light): "Prevention" — "Get verified in 5 minutes." dotPH logo at bottom. CTA button: "Learn How."
+**Creative direction:** Split-screen or "vs." format. Left side (red/dark): "Prosecution" — list of painful steps in small text. Right side (green/light): "Prevention" — "Get verified. Free." dotPH logo at bottom. CTA button: "Learn How."
 
 ---
 
@@ -234,7 +234,7 @@ If a banking professional almost got fooled, what chance do your customers have?
 
 The problem isn't that people are careless. It's that fakes look real.
 
-That's why Verified by dotPH exists. It gives your business a verified badge and a public verification page — so your customers don't have to guess. They can check if you're real before they pay. It's free, and it takes 5 minutes.
+That's why Verified by dotPH exists. It gives your business a verified badge and a public verification page — so your customers don't have to guess. They can check if you're real before they pay. And it's free.
 
 Don't make your customers figure it out on their own.
 
@@ -268,7 +268,7 @@ They found out when customers showed up expecting their bookings.
 
 Verification could have given their guests a way to check which page was real — before sending money.
 
-Verified by dotPH is free. It takes 5 minutes. And it gives your customers a verified badge, a verification page, and verified links to confirm you're the real business.
+Verified by dotPH is free. It gives your customers a verified badge, a verification page, and verified links to confirm you're the real business.
 
 Don't wait for it to happen to you.
 
@@ -296,14 +296,14 @@ Some of that money was meant for real businesses like yours. Customers who wante
 
 Verification won't stop all scams. But it gives your customers a way to confirm you're real before they pay. That's the difference between getting the sale and losing it to a fake page.
 
-Verified by dotPH is free. From the official .ph domain registry. Takes 5 minutes.
+Verified by dotPH is free. From the official .ph domain registry.
 
 [X] businesses have already signed up. Don't get left behind.
 
 [Get Verified — It's Free]
 
 **Headline:** P480B Lost to Scams. Yearly.
-**Description:** Get verified. 5 minutes. Free.
+**Description:** Get verified. Free.
 
 **Creative direction:** Infographic-style. Center: "P480,000,000,000" in large bold text. Below in smaller text: "lost to scams every year in the Philippines." Then: "P1.3B per day. P55M per hour." Final frame: dotPH verification CTA. Clean, data-driven, authoritative.
 
@@ -588,11 +588,11 @@ Verified by dotPH is designed for any .ph domain holder — individuals, small b
 - **Clinics and professionals** with fake appointment pages
 - **Any business that accepts online payments** and deals with customer hesitation
 
-**It's free. And it takes 5 minutes.**
+**It's free.**
 
-Verified by dotPH is free for all .ph domain holders. Submitting your documents takes about 5 minutes. The verification is done by the dotPH team.
+Verified by dotPH is free for all .ph domain holders. Submit your documents, and the dotPH team handles the verification.
 
-There's no financial friction. The only question is whether you care enough about your customers' trust to take 5 minutes.
+There's no financial friction. The only question is whether you care enough about your customers' trust to do it.
 
 [Get Verified — It's Free →]
 
@@ -641,7 +641,7 @@ Healthcare providers and professional service firms are verifying to ensure pati
 > *"I didn't think we needed it until I saw a fake page using our photos. Now I tell every business owner I know to get verified."*
 > — [Name], [Business], [Location]
 
-> *"It took me 5 minutes to submit. My customers can now check our real payment links before they send money. That's worth more than any ad we've ever run."*
+> *"I submitted my documents and got verified the same week. My customers can now check our real payment links before they send money. That's worth more than any ad we've ever run."*
 > — [Name], [Business], [Location]
 
 > *"We put the verified badge on our website footer and our Instagram bio. Customers mention it — they actually check it."*
@@ -666,7 +666,7 @@ Step 1: Submit your government-issued ID and business documents.
 Step 2: dotPH reviews and confirms your identity.
 Step 3: Get your verified badge, verification page, and verified links.
 
-Takes about 5 minutes. No cost. No catch.
+No cost. No catch.
 
 [Get Verified — It's Free →]
 

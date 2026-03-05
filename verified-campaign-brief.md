@@ -58,8 +58,6 @@ Week 6-8   Email 4 (final push)  |  FB Ads: Shift to conversion  |  Cold Email 5
 
 > "Free identity verification from the official .ph registry."
 
-> "It takes 5 minutes."
-
 > "Don't let scammers profit from your brand."
 
 ---

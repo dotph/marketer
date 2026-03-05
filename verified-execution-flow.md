@@ -280,7 +280,7 @@
    │   for businesses like yours"                      │
    │                                                   │
    │  ► 3-step how it works                           │
-   │  ► Free + 5 minutes                              │
+   │  ► Free for .ph holders                            │
    │  ► CTA → Landing page                            │
    └────────────────────┬─────────────────────────────┘
                         │
@@ -355,7 +355,7 @@
    │    → A) Yes, all the time  B) Not yet, but I'm worried
    │       C) I didn't know this was happening
    │
-   ├── "How Scammers Copy You in 5 Minutes" carousel
+   ├── "How Scammers Copy Your Business" carousel
    │    → Slide 1: Screenshot your logo
    │      Slide 2: Copy your business name
    │      Slide 3: Create a new FB page
@@ -383,7 +383,7 @@
    │       your official social media, payment links
    │       (GCash, bank, Stripe), address, and contact
    │       number. Plus a trust badge for your website.
-   │       5 minutes to submit."
+   │       Submit your docs and get verified."
    │
    ├── "How It Works" 3-slide carousel
    │    → Slide 1: Submit documents (gov ID + DTI/SEC)
@@ -531,7 +531,7 @@
                             │  2. dotPH reviews        │
                             │  3. Get your badge       │
                             │                          │
-                            │  "5 minutes to submit"   │
+                            │  "Free for .ph holders"  │
                             └────────────┬────────────┘
                                          │
                                          ▼
@@ -758,7 +758,7 @@ Each journey shows a different entry point, a different industry, and a differen
                                          │  Reads the problem section.  │
    Reaction: "This is exactly            │  Sees the resort example.    │
    my situation. But let me              │  Scrolls to "How it works."  │
-   think about it — I need to            │  Sees: "5 minutes."          │
+   think about it — I need to            │  Sees: "Free."               │
    ask my business partner."             │                              │
                                          │  Gets to FAQ. Reads the      │
    Action: Closes tab.                   │  SSL vs. verification        │
@@ -835,7 +835,7 @@ Each journey shows a different entry point, a different industry, and a differen
    ──────────                            │  Sees FB carousel ad:        │
    Channel: Facebook Ad (Awareness)      │                              │
                                          │  "How scammers copy your     │
-   He's in the "online selling           │  business in 5 minutes:"     │
+   He's in the "online selling           │  business:"                  │
    Philippines" interest bucket.         │                              │
                                          │  Slide 1: Screenshot logo    │
    Reaction: "Yan, exactly ganyan        │  Slide 2: Copy business name │
@@ -902,7 +902,7 @@ Each journey shows a different entry point, a different industry, and a differen
    Channel: Landing Page                 │                              │
                                          │  Signs up immediately.       │
    Action: Signs up.                     │  Uploads DTI cert and        │
-   Uploads docs. Takes 5 minutes.        │  government ID.              │
+   Uploads docs.                         │  government ID.              │
                                          │                              │
    Immediately after: screenshots         │  ✓ SIGNED UP                 │
    the confirmation page and              └──────────────────────────────┘
@@ -1209,7 +1209,7 @@ Non-converters don't exit the funnel — they get recycled.
         │
         ├── FB Campaign 3: Conversion retarget ads
         │   ├── Social proof: "[X] businesses signed up"
-        │   ├── Objection buster: "Free. 5 minutes. Backed by registry."
+        │   ├── Objection buster: "Free. Backed by the .ph registry."
         │   └── Urgency: "First batch closing soon"
         │
         ├── Next email in sequence

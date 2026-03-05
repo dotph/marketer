@@ -124,7 +124,7 @@ Our team verifies your identity and confirms you are the legitimate owner of you
 **Step 3: Get your verified badge**
 Once approved, you receive your verified badge, verification page, and verified links — ready to share with your customers.
 
-> *Takes about 5 minutes to submit. Verification is done by the dotPH team.*
+> *Submit your documents and our team handles the verification.*
 
 ---
 
@@ -159,7 +159,7 @@ A: No single tool stops all scams. But Verified by dotPH makes it much easier fo
 A: It's free for all .ph domain holders.
 
 **Q: How long does verification take?**
-A: Submitting your documents takes about 5 minutes. Review time depends on volume, but we'll notify you as soon as your verification is approved.
+A: Submit your documents through the portal. Review time depends on volume, but we'll notify you as soon as your verification is approved.
 
 **Q: What documents do I need?**
 A: A government-issued ID (for individuals) and/or business registration documents (for companies). The exact requirements depend on your verification type.
@@ -172,7 +172,7 @@ A: A government-issued ID (for individuals) and/or business registration documen
 > Don't let scammers profit from your brand.
 
 **Body:**
-> Verification is free. Submission takes 5 minutes. And your customers will finally have a way to confirm you're real.
+> Verification is free. And your customers will finally have a way to confirm you're real.
 
 **CTA Button:**
 > Get Verified — It's Free
@@ -263,7 +263,7 @@ Here's what it does:
 - A **public verification page** anyone can check
 - **Verified links** to your real social media pages and payment channels
 
-It's free. It takes about 5 minutes to submit. And it gives your customers a way to confirm you're real — before they pay.
+It's free. And it gives your customers a way to confirm you're real — before they pay.
 
 [**Learn How to Get Verified →**]
 
@@ -300,7 +300,7 @@ Since we announced Verified by dotPH, [X] businesses have signed up to get verif
 
 They all have one thing in common: they're done letting scammers profit from their name.
 
-Verification is free for all .ph domain holders. It takes about 5 minutes.
+Verification is free for all .ph domain holders.
 
 [**Get Verified — It's Free →**]
 
@@ -320,7 +320,7 @@ Psychology: Social Proof (X businesses), Mimetic Desire (peers are doing it), In
 
 ```
 Subject: Verification opens soon. Are you in?
-Preview: It's free, takes 5 minutes, and your competitors are already signing up.
+Preview: It's free, and your competitors are already signing up.
 ```
 
 Hi [First Name],
@@ -331,7 +331,7 @@ If you haven't signed up yet, here's what you need to know:
 
 **It's free.** No fees, no subscriptions. Free for all .ph domain holders.
 
-**It takes 5 minutes.** Upload your documents, and our team handles the rest.
+**It's simple.** Upload your documents, and our team handles the rest.
 
 **Your competitors are already in.** [X] businesses signed up this month. If their customers can verify them and yours can't verify you — who do you think they'll trust?
 
@@ -390,7 +390,7 @@ Account: dotPH — Verified
 │   ├── Ad Set: Retargeting — Visited landing page (didn't sign up)
 │   │   ├── Ad: Social proof + signup count
 │   │   ├── Ad: "It's free. What are you waiting for?"
-│   │   └── Ad: Objection buster ("5 minutes, free, backed by registry")
+│   │   └── Ad: Objection buster ("free, backed by the .ph registry")
 │   └── Ad Set: Retargeting — Started form but didn't complete
 │       └── Ad: "You're almost verified. Finish your signup."
 ```
@@ -547,12 +547,12 @@ Account: dotPH — Verified
 |---|-------------|-------|----------|
 | 1 | Free for all .ph domains | 24 | Any headline |
 | 2 | By the .ph domain registry | 26 | Impersonation headlines |
-| 3 | Takes 5 minutes to submit | 25 | Urgency headlines |
+| 3 | Submit and get verified | 22 | Action headlines |
 | 4 | Join [X]+ businesses | 20 | Social proof headlines |
 | 5 | Badge + verification page | 25 | Product headlines |
 | 6 | Prove you're real. Free. | 24 | Any headline |
 | 7 | The official trust badge | 24 | Authority headlines |
-| 8 | Sign up in 5 minutes | 20 | Action headlines |
+| 8 | Sign up now. It's free. | 23 | Action headlines |
 
 ---
 
@@ -566,7 +566,7 @@ Account: dotPH — Verified
 **F&B (Restaurants & Food Sellers)**
 - Primary text: "A fake page is taking food orders under your restaurant's name. Same menu, same photos, different bank account. Your customers pay, get nothing, and leave you a 1-star review. Get verified and show them where to really order."
 - Headline: "Stop Fake Food Pages" (20)
-- Description: "Free. Takes 5 minutes." (22)
+- Description: "Free. From the .ph registry." (27)
 
 **Retail (Online Sellers)**
 - Primary text: "You sell on Facebook and Shopee. Someone copies your product photos, creates a page with your name, and sells counterfeit versions at a lower price. Your customers think they bought from you. Get verified so they can tell the difference."
@@ -644,7 +644,7 @@ CTA: Engagement (comments)
 
 **Post 4: "How Scammers Copy You" Explainer**
 ```
-How scammers copy your business in 5 minutes:
+How scammers copy your business:
 
 1. They screenshot your logo
 2. They copy your business name
@@ -691,7 +691,7 @@ customers you're the real deal.
 - Verified links to your real accounts
 - Wallet cards with scannable proof
 
-It's free. It takes 5 minutes.
+It's free for all .ph domain holders.
 
 [Link to landing page]
 ```
@@ -706,7 +706,7 @@ Slide 1: Submit your documents (government ID + business docs)
 Slide 2: dotPH reviews your identity
 Slide 3: Get your verified badge, verification page, and verified links
 
-That's it. 5 minutes to submit. Free for all .ph domain holders.
+That's it. Free for all .ph domain holders.
 
 [Link to landing page]
 ```
@@ -969,7 +969,7 @@ Psychology: Loss Aversion (quantified losses), Zeigarnik (open loop)
 
 ```
 Subject: The .ph registry just launched something for businesses like yours
-Preview: It's free and takes 5 minutes.
+Preview: It's free. From the official .ph registry.
 ```
 
 Hi [First Name],
@@ -987,7 +987,7 @@ Here's how it works:
 
 Your customers can check your verification page before they transact — so they know they're dealing with the real you.
 
-**It's free.** No fees, no subscriptions. And it takes about 5 minutes to submit.
+**It's free.** No fees, no subscriptions. Submit your documents and our team handles the rest.
 
 Interested? Sign up here: [Landing page link]
 
@@ -998,7 +998,7 @@ dotPH
 ```
 Goal: Convert interest to landing page visit.
 Length: ~130 words
-Psychology: Authority (registry-backed), Zero-Price Effect (free), Activation Energy (5 minutes)
+Psychology: Authority (registry-backed), Zero-Price Effect (free), Activation Energy (simple 3-step process)
 ```
 
 ---
@@ -1040,7 +1040,7 @@ Psychology: Social Proof (peer businesses), Mimetic Desire (competitors doing it
 
 ```
 Subject: Last chance: first batch of verifications closing soon
-Preview: Free. 5 minutes. No reason not to.
+Preview: Free. No reason not to.
 ```
 
 Hi [First Name],
@@ -1052,7 +1052,7 @@ We're closing signups for the first batch of Verified by dotPH verifications soo
 Quick recap:
 
 - **Free** for all Philippine businesses
-- **5 minutes** to submit your documents
+- **Simple** — submit your documents through the portal
 - **Backed by dotPH**, the official .ph domain registry
 - Get a **verified badge**, **verification page**, and **verified links**
 
@@ -1067,7 +1067,7 @@ dotPH
 ```
 Goal: Final conversion push.
 Length: ~90 words
-Psychology: Scarcity ("first batch closing"), Zero-Price Effect, Activation Energy ("5 minutes")
+Psychology: Scarcity ("first batch closing"), Zero-Price Effect, Activation Energy (simple process)
 ```
 
 ---
@@ -1106,7 +1106,7 @@ Psychology: Scarcity ("first batch closing"), Zero-Price Effect, Activation Ener
 | **Commitment & Consistency** | Signup flow | Small commitment (signup) → deeper engagement when product launches |
 | **Social Proof** | Landing page, emails, organic | Display signup counter, industry-specific adoption, early adopter spotlights |
 | **Scarcity Framing** | Week 4+ emails, ads | "First batch" / "Verification opens soon" — urgency without being dishonest |
-| **Activation Energy** | Landing page, emails | "5 minutes to submit" reduces perceived effort. 3-step process feels manageable. |
+| **Activation Energy** | Landing page, emails | 3-step process reduces perceived effort. Simple submission feels manageable. |
 | **Contrast Effect** | Ads, cold emails | Before (unverified, customers hesitate) vs. After (verified, customers trust) |
 | **Bandwagon Effect** | Signup milestones, organic | "[X] businesses signed up this week" — popularity signals safety |
 
@@ -1224,7 +1224,7 @@ Someone sees the problem on Facebook, gets an email about it, sees the solution 
 | "Your customers can't tell if your page is real." | Headlines, email subjects, ad hooks |
 | "Prove you're the real business behind your .ph domain." | Subheadlines, email body, ad descriptions |
 | "Free identity verification from the official .ph registry." | CTAs, trust signals, closing statements |
-| "It takes 5 minutes." | Objection handling, CTAs, email nudges |
+| "Submit your docs. Our team handles the rest." | Objection handling, CTAs, email nudges |
 | "Don't let scammers profit from your brand." | Emotional hooks, final CTAs |
 | "Your competitors are getting verified." | FOMO triggers, social proof emails |
 

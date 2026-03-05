@@ -96,7 +96,7 @@
 ### 7. Porto Laiya Beach Resort Fake Page — Batangas (March 2025)
 - **What happened:** A fake Facebook page ran *paid ads* impersonating Porto Laiya Beach Resort in Batangas, using the resort's name and photos to collect bookings.
 - **Stage:** AWARENESS (Weeks 1–3)
-- **Campaign approach:** The fact that scammers ran *paid* Facebook ads makes this story especially alarming. Use in organic posts: "Scammers are now PAYING for Facebook ads to impersonate real businesses. If they're investing money to fake you, shouldn't you invest 5 minutes to prove you're real?" This story works well for tourism and hospitality-focused targeting.
+- **Campaign approach:** The fact that scammers ran *paid* Facebook ads makes this story especially alarming. Use in organic posts: "Scammers are now PAYING for Facebook ads to impersonate real businesses. If they're investing money to fake you, shouldn't you prove you're real?" This story works well for tourism and hospitality-focused targeting.
 - **Link:** [Interaksyon/Philstar](https://interaksyon.philstar.com/rumor-cop/2025/03/25/293885/fake-facebook-account-batangas-beach-resort-name/)
 
 ### 8. PHLPost Name Used in Scam Messages
@@ -126,7 +126,7 @@
 ### 11. Respicio & Co: Reporting Fake Facebook Pages
 - **What it covers:** Step-by-step legal process for businesses whose pages have been cloned
 - **Stage:** CONSIDERATION (Weeks 3–5)
-- **Campaign approach:** The pain of the legal process IS the selling point. Create content showing how long and complicated it is to report a fake page (DTI complaints, PNP-ACG, NBI-CCD filings, etc.) then contrast with: "Or... you could just get verified in 5 minutes and let your customers know you're real before scammers even try." Prevention > prosecution.
+- **Campaign approach:** The pain of the legal process IS the selling point. Create content showing how long and complicated it is to report a fake page (DTI complaints, PNP-ACG, NBI-CCD filings, etc.) then contrast with: "Or... you could just get verified and let your customers know you're real before scammers even try." Prevention > prosecution.
 - **Links:**
   - [Reporting Scams from Fake Facebook Pages](https://www.lawyer-philippines.com/articles/reporting-online-scams-from-fake-facebook-pages-in-the-philippines)
   - [Reporting Fake Social Media Accounts](https://www.respicio.ph/commentaries/reporting-fake-social-media-accounts-and-identity-impersonation-in-the-philippines)
@@ -317,7 +317,7 @@
 - **Stage:** AWARENESS (Weeks 1–3) + CONVERSION (Weeks 5–8+)
 - **Campaign approach:**
   - **Awareness:** "Even Cebu's tourism office is sounding the alarm. Fake hotel pages are using YOUR photos, YOUR rates, and YOUR name to steal from YOUR customers."
-  - **Conversion:** "The tourism industry is fighting back. Join them. Get verified — it's free and it takes 5 minutes."
+  - **Conversion:** "The tourism industry is fighting back. Join them. Get verified — it's free."
 - **Links:**
   - [InsiderPH: Cebu hotels, tourism office warn vs rising scams](https://insiderph.com/cebu-hotels-tourism-office-warn-vs-rising-online-booking-scams)
   - [TheTraveler.org: Fake Cebu Resort Deals Leave Tourists Stranded](https://www.thetraveler.org/fake-cebu-resort-deals-leave-tourists-stranded-as-online-booking-scams-surge/)
