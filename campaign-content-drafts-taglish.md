@@ -303,7 +303,7 @@ Verification won't stop all scams. But it gives your customers a way to confirm 
 
 Verified by dotPH is free for .ph domain holders. From the official .ph domain registry. Every verified business goes through an ID and document check — so when customers see the badge, they know it's legit.
 
-[X] businesses have already signed up. Huwag ka nang mahuli.
+[X] businesses have already signed up. Ikaw, kailan pa?
 
 [Get Verified — It's Free]
 

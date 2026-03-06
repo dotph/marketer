@@ -373,7 +373,7 @@ Best references: #2, #6, #9, #10, #11, #12, #16, #17, #18, #21, #24, #26, #27, #
 ### CONVERSION (Weeks 5–8+) — "Get verified now."
 Best references: #4, #5, #16, #32
 
-**Goal:** Drive signups. Use urgency, FOMO, and case studies.
+**Goal:** Drive signups. Use urgency, social proof, and case studies.
 **Content types:** Retargeting ads, case study emails, "last chance" messaging, social proof (early adopter counts)
 
 ---

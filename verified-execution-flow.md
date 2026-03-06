@@ -44,15 +44,15 @@
 ║                              ▼                                          ║
 ║   ┌──────────────────────────────────────────────────────────────────┐  ║
 ║   │                     CONVERSION                                   │  ║
-║   │         "Get verified before everyone else does"                 │  ║
+║   │         "Join [X] businesses already verified."                  │  ║
 ║   │                                                                  │  ║
-║   │   Emotion: Urgency, FOMO                                         │  ║
+║   │   Emotion: Urgency, social proof                                  │  ║
 ║   │   Goal: Convert interest into signups                            │  ║
 ║   │                                                                  │  ║
 ║   │   Channels:                                                      │  ║
 ║   │   ├── FB Ads → Social proof + signup count (retarget visitors)   │  ║
 ║   │   ├── Warm Email → Social proof + urgency                        │  ║
-║   │   ├── Cold Email → Peer pressure + scarcity                      │  ║
+║   │   ├── Cold Email → Peer pressure + social proof                   │  ║
 ║   │   └── Organic FB → Milestones, adopter spotlights, UGC           │  ║
 ║   └──────────────────────────┬───────────────────────────────────────┘  ║
 ║                              │                                          ║
@@ -454,7 +454,7 @@
           feature verified businesses every week.
           #VerifiedBydotPH"
    │
-   │   Goal: Create FOMO, build community
+   │   Goal: Build community, drive momentum
    │   CTA: Get verified / get featured
    │
    ▼
@@ -1236,7 +1236,7 @@ Non-converters don't exit the funnel — they get recycled.
         │   (social proof → urgency → final nudge)
         │
         └── Organic FB: milestone posts, adopter spotlights
-            (creates FOMO through the regular feed)
+            (creates momentum through the regular feed)
 
 
    FORM ABANDONERS
@@ -1269,7 +1269,7 @@ Non-converters don't exit the funnel — they get recycled.
                                                     out?"
 
    FEAR ──────────►  RELIEF ──────────►  URGENCY
-   RECOGNITION        CURIOSITY           FOMO
+   RECOGNITION        CURIOSITY           RELEVANCE
 
 
    Psychology applied at each stage:

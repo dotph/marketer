@@ -23,7 +23,7 @@ People don't want verification. They want their customers to trust them and stop
 |-------|-------|---------|------|
 | **1. Problem Awareness** | 1–3 | "This is happening to businesses like yours." | Create the need |
 | **2. Solution Reveal** | 3–5 | "There's now a way to prove you're real." | Position dotPH as the answer |
-| **3. Signup Drive** | 5–8 | "Get verified before everyone else does." | Convert interest to signups |
+| **3. Signup Drive** | 5–8 | "Get verified now — it's free." | Convert interest to signups |
 
 **Phase 1 hybrid note:** For warm audiences, Phase 1 includes a soft product mention ("We're building something to fix this — it's called Verified by dotPH"). The problem still leads, but the product name is planted early. Cold audiences get pure problem education with no product mention.
 
@@ -34,7 +34,7 @@ People don't want verification. They want their customers to trust them and stop
 | Channel | Audience | Role |
 |---------|----------|------|
 | **Email — Warm** | 10K-50K existing .ph holders | Lead the arc. 4-email sequence over 4 weeks. |
-| **Email — Cold** | New prospects (non-.ph holders) | 5-email sequence over 18 days. Problem → solution → FOMO. |
+| **Email — Cold** | New prospects (non-.ph holders) | 5-email sequence over 18 days. Problem → solution → social proof. |
 | **Facebook Ads** | PH business owners 25-55 | Awareness, retargeting, conversion. 3 campaigns. |
 | **Organic Facebook** | dotPH page audience | Problem education, product posts, social proof. 3x/week. |
 

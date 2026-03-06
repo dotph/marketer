@@ -22,12 +22,12 @@ People don't wake up wanting "verification." They wake up worried about scammers
 |-------|-------|---------|---------|
 | **1. PROBLEM AWARENESS** | 1–3 | "This is happening to businesses like yours." | Fear, recognition |
 | **2. SOLUTION REVEAL** | 3–5 | "There's now a way to prove you're real." | Relief, curiosity |
-| **3. SIGNUP DRIVE** | 5–8+ | "Get verified before everyone else does." | Urgency, FOMO |
+| **3. SIGNUP DRIVE** | 5–8+ | "Your customers are already looking for it." | Urgency, relevance |
 
 **Why this works:**
 - Phase 1 creates the emotional need (you can't sell a painkiller to someone who doesn't feel pain)
 - Phase 2 positions dotPH as the authority solving the problem
-- Phase 3 leverages social proof and scarcity to convert interest into action
+- Phase 3 leverages social proof and relevance to convert interest into action
 
 ### Hybrid Model: Cold vs. Warm Awareness
 
@@ -338,7 +338,7 @@ Psychology: Social Proof (X businesses), Mimetic Desire (peers are doing it), In
 
 #### Email 4 — Last Nudge (Week 4)
 
-**Purpose:** Final push. Address the top objection (effort). Create scarcity framing.
+**Purpose:** Final push. Address the top objection (effort). Reinforce customer demand.
 
 ```
 Subject: Verification opens soon. Are you in?
@@ -897,7 +897,7 @@ CTA: Tag and share
 | 4 | Badge showcase | FAQ post | Signup milestone |
 | 5 | Industry spotlight (resorts) | "How it works" reminder | Industry spotlight (F&B) |
 
-**Weeks 6-8 (Momentum + FOMO)**
+**Weeks 6-8 (Momentum + Social Proof)**
 
 | Week | Mon | Wed | Fri |
 |------|-----|-----|-----|
@@ -1214,7 +1214,7 @@ Psychology: Scarcity ("first batch closing"), Zero-Price Effect, Activation Ener
 | **Cold outreach** | Send cold Emails 3-4 (solution reveal + social proof) |
 | **Goal** | Drive first wave of signups |
 
-### Week 6-8: MOMENTUM + FOMO
+### Week 6-8: MOMENTUM + SOCIAL PROOF
 
 | Channel | Action |
 |---------|--------|
@@ -1283,7 +1283,7 @@ Someone sees the problem on Facebook, gets an email about it, sees the solution 
 | "Free identity verification from the official .ph registry." | CTAs, trust signals, closing statements |
 | "Submit your docs. Our team handles the rest." | Objection handling, CTAs, email nudges |
 | "Don't let scammers profit from your brand." | Emotional hooks, final CTAs |
-| "Your competitors are getting verified." | FOMO triggers, social proof emails |
+| "Your competitors are getting verified." | Social proof triggers, peer momentum emails |
 
 ### What Verified by dotPH Is NOT
 
