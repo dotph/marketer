@@ -128,32 +128,32 @@ Your customers don't blame the scammer. They blame you.
 
 ---
 
-### Ad 5: "Jollibee Gets Faked" — Household Name Shock
+### Ad 5: "They Faked a Household Name" — Brand Shock
 
 **Stage:** Awareness
-**Based on:** Reference #28 (Jollibee Impersonation Scams)
+**Based on:** Reference #28 (Major Fast Food Chain Impersonation — Verafiles Fact-Checked)
 **Target:** All business owners PH — especially F&B, restaurants, food businesses
 
 **Primary Text:**
-Fake Facebook pages impersonated Jollibee — the most recognized brand in the Philippines.
+Fake Facebook pages impersonated one of the most recognized fast food brands in the Philippines.
 
 They ran fake anniversary promos. P7,000 cash giveaways. P10,000 gift vouchers. "Labor Day gifts." All fake.
 
-Customers clicked. They entered their email, phone number, personal data. They thought they were interacting with the real Jollibee.
+Customers clicked. They entered their email, phone number, personal data. They thought they were interacting with the real brand.
 
-Even Jollibee had to issue an official statement: "These are scams."
+The company had to issue an official statement: "These are scams."
 
-If scammers can fake Jollibee — with their legal team, their social media team, their million-peso marketing budget — what's stopping them from faking YOUR business?
+If scammers can fake a household name — with their legal team, their social media team, their million-peso marketing budget — what's stopping them from faking YOUR business?
 
-**Headline:** They Faked Jollibee.
+**Headline:** They Faked a Household Name.
 **Description:** Your business could be next.
 
 **Creative direction:** Carousel:
-1. "Scammers impersonated Jollibee on Facebook."
+1. "Scammers impersonated a major PH fast food chain on Facebook."
 2. "Fake anniversary giveaways. P7,000 cash. P10,000 vouchers."
-3. "Customers shared personal data. Jollibee had to issue a warning."
-4. "If they can fake Jollibee, they can fake you."
-Use bold text on simple backgrounds. Red accent color (not Jollibee's exact red — avoid trademark issues). Cite: "Verafiles fact-checked, confirmed fake."
+3. "Customers shared personal data. The company had to issue a warning."
+4. "If they can fake a household name, they can fake you."
+Use bold text on simple backgrounds. Cite: "Verafiles fact-checked, confirmed fake."
 
 ---
 
@@ -220,14 +220,14 @@ Prevention beats prosecution. Every time.
 
 ---
 
-### Ad 8: "Even a Bank Manager" — BPI Phishing Story
+### Ad 8: "Even a Bank Manager" — Phishing Story
 
 **Stage:** Consideration
-**Based on:** Reference #29 (BPI Phishing Scam — Rappler Investigation)
+**Based on:** Reference #29 (Bank Phishing Scam — Rappler Investigation)
 **Target:** Retarget — engaged with Awareness ads (all industries)
 
 **Primary Text:**
-A bank manager at BPI almost fell for a phishing scam.
+A bank manager at one of the largest banks in the Philippines almost fell for a phishing scam.
 
 The fake app looked exactly like a real government app. It captured biometrics to authorize fund transfers. The scam only failed because the bank's security team had already flagged the account.
 
@@ -242,7 +242,7 @@ Don't make your customers figure it out on their own.
 **Headline:** Even Bankers Get Fooled
 **Description:** Help customers know it's you.
 
-**Creative direction:** Clean editorial style. Dark background. Opening text: "A BPI bank manager almost fell for a phishing scam." — Rappler. Then: "If professionals can be fooled, your customers can too." Transition to dotPH value prop. CTA: "Get Verified — It's Free." dotPH branding visible.
+**Creative direction:** Clean editorial style. Dark background. Opening text: "A senior bank manager almost fell for a phishing scam." — Rappler. Then: "If professionals can be fooled, your customers can too." Transition to dotPH value prop. CTA: "Get Verified — It's Free." dotPH branding visible.
 
 ---
 
@@ -397,13 +397,13 @@ In La Union's popular surf town of San Juan, a Facebook page called "Cabanas La 
 
 When guests arrived, there was nothing there.
 
-The resort didn't exist. Not on Google Maps. Not in the DTI's Business Name Registration portal. Nowhere. The photos had been stolen from Seabliss Beach Resort in Lian, Batangas — a real resort hundreds of kilometers away.
+The resort didn't exist. Not on Google Maps. Not in the DTI's Business Name Registration portal. Nowhere. The photos had been stolen from a real beach resort in Batangas — hundreds of kilometers away.
 
 Verafiles fact-checked and confirmed the entire operation was fabricated. The page had been created in February 2024 and changed its name twice to evade detection before finally being taken down.
 
 **Paid ads for fake resorts**
 
-In Batangas, Porto Laiya Beach Resort discovered that scammers weren't just creating fake pages — they were running paid Facebook ads using the resort's name and photos to collect bookings.
+In Batangas, a well-known beach resort discovered that scammers weren't just creating fake pages — they were running paid Facebook ads using the resort's name and photos to collect bookings.
 
 The fact that scammers are investing money in advertising fake businesses shows how profitable the operation has become. If they're spending on ads, the return on investment must be significant.
 
@@ -487,7 +487,7 @@ Some industries are hit harder than others:
 
 **Tourism and hospitality** face the highest volume. Fake booking pages for resorts in Bantayan Island, La Union, Batangas, and across Cebu have become so common that the Cebu provincial tourism office issued a joint warning with the hotel industry.
 
-**Online sellers and e-commerce** deal with fake storefronts. Scammers register domains like "shopee-ph.com" (instead of shopee.ph) and run phishing operations. The Philippines had the highest number of online shopping scams among 11 economies in the 2023 Asia Scam Report.
+**Online sellers and e-commerce** deal with fake storefronts. Scammers register lookalike domains — adding dashes, hyphens, or extra words to mimic major e-commerce platforms — and run phishing operations. The Philippines had the highest number of online shopping scams among 11 economies in the 2023 Asia Scam Report.
 
 **Food and restaurant businesses** see their Facebook pages cloned with fake delivery pages that take advance payment for orders that never arrive.
 
@@ -551,7 +551,7 @@ Customers are making split-second decisions about whether to trust an online pag
 - Are there reviews and likes?
 - Does it accept popular payment methods?
 
-Scammers know this checklist, and they optimize for every item on it. That's why the Cabanas La Union fake resort page had 8,000 likes despite not being a real place. That's why fake Shopee domains use "shopee-ph.com" instead of the official shopee.ph. Every signal that customers use to gauge trust can be faked.
+Scammers know this checklist, and they optimize for every item on it. That's why the Cabanas La Union fake resort page had 8,000 likes despite not being a real place. That's why scammers register lookalike domains that mirror major e-commerce platforms — adding a single dash or extra word is enough to fool a customer scanning quickly. Every signal that customers use to gauge trust can be faked.
 
 What customers actually need is a way to verify business identity that can't be faked. Not a visual signal. An actual check.
 
@@ -687,10 +687,10 @@ Join the [X] businesses that are already verified. Your customers will thank you
 | 2 | Bantayan Resort Story | Awareness | #5 Bantayan | Tourism / Visayas |
 | 3 | Cabanas La Union | Awareness | #6 Cabanas | Tourism / La Union |
 | 4 | 52% of Filipinos | Awareness | #1 GSMA | All business owners |
-| 5 | Jollibee Gets Faked | Awareness | #28 Jollibee | F&B / All |
+| 5 | Household Name Gets Faked | Awareness | #28 Fast Food Chain | F&B / All |
 | 6 | Book Now, Fly Never | Awareness | #31 GMA News | Travel / Tourism |
 | 7 | Prevention vs. Prosecution | Consideration | #10, #11 | Retarget — engaged |
-| 8 | Even a Bank Manager | Consideration | #29 BPI | Retarget — engaged |
+| 8 | Even a Bank Manager | Consideration | #29 Bank Phishing | Retarget — engaged |
 | 9 | P500K Lost | Conversion | #5 Bantayan | Retarget — LP visitors |
 | 10 | P480 Billion | Conversion | #4 ScamWatch | Retarget — LP visitors |
 

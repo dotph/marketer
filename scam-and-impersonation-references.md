@@ -88,7 +88,7 @@
 - **Campaign approach:**
   - **Awareness:** This story is perfect for La Union / Elyu-focused targeting. "A fake resort page in La Union got 8,000 likes using stolen photos from a Batangas resort. Guests paid and showed up to... nothing." The detail that the resort *didn't even exist* is more shocking than impersonation — it shows how easy it is to create a convincing fake.
   - **Consideration:** Use to explain why verification matters even for tourism businesses that rely on Facebook: "Your resort is real. But can your guests prove it before they send money? That's what Verified by dotPH is for."
-  - **Note:** This happened in the same San Juan, La Union area as popular resorts like Palms Beachfront Suites (@palms.elyu) — any real resort in the area could be the next target.
+  - **Note:** This happened in the same San Juan, La Union area as many popular surf and beach resorts — any real resort in the area could be the next target.
 - **Links:**
   - [Verafiles Fact Check: FB page posing as La Union resort a SCAM](https://verafiles.org/articles/fact-check-fb-page-posing-as-la-union-resort-a-scam)
   - [GMA Regional TV: Public warned vs scams using fake resort FB pages](https://www.gmanetwork.com/regionaltv/news/111512/public-warned-vs-scams-using-fake-resort-fb-pages/story/)
