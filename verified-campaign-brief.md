@@ -2,9 +2,10 @@
 
 **Product:** Verified by dotPH — free identity verification for .ph domain holders
 **Stage:** Pre-launch (product not yet live)
-**Goal:** Collect signups. Build demand so businesses want and feel the need for verification.
-**Timeline:** 8 weeks
+**Goal:** Collect signups (B2B) + teach consumers to check before they pay (B2C)
+**Timeline:** 10 weeks (B2B: Weeks 1–8, Consumer: Weeks 3–10)
 **Budget:** $500–$2,000/month (Facebook Ads)
+**Campaign hashtag:** #CheckBeforeYouPay
 
 ---
 
@@ -54,6 +55,8 @@ Week 6-8   Email 4 (final push)  |  FB Ads: Shift to conversion  |  Cold Email 5
 
 ## Key Messages
 
+### B2B (Business Owners)
+
 > "Your customers can't tell if your business page is real."
 
 > "Prove you're the real business behind your .ph domain."
@@ -61,6 +64,18 @@ Week 6-8   Email 4 (final push)  |  FB Ads: Shift to conversion  |  Cold Email 5
 > "Free identity verification from the official .ph registry."
 
 > "Don't let scammers profit from your brand."
+
+### B2C (Consumers)
+
+> "Before you pay, check." #CheckBeforeYouPay
+
+> "50,000 likes. All fake. How would YOU know?"
+
+> "Look for the Verified by dotPH badge before you send money."
+
+> "No badge? Ask why. Verification is free."
+
+> "Tell your nanay. Tell your tita. Tell your barkada."
 
 ---
 
@@ -117,14 +132,26 @@ Week 6-8   Email 4 (final push)  |  FB Ads: Shift to conversion  |  Cold Email 5
 
 ## Target Audiences
 
-**Primary:** Business owners in the Philippines, 25-55, with online presence
-**Priority industries:** Resorts/hotels, restaurants/F&B, online sellers, clinics, influencer-led brands
+### B2B (Business Owners) — Primary
 
+**Who:** Business owners in the Philippines, 25-55, with online presence
+**Priority industries:** Resorts/hotels, restaurants/F&B, online sellers, clinics, influencer-led brands
 **Why these:** Highest impersonation risk. Clearest pain. Most likely to convert fast.
+**Goal:** Get them to sign up for Verified by dotPH.
+
+### B2C (Consumers) — Supporting Campaign
+
+**Who:** Filipino consumers 18-55 who shop, book, or pay businesses online
+**Key segments:** Online shoppers, resort/travel bookers, GCash/Maya users, family "protectors" (25-45 who look out for nanay/tita/barkada)
+**Why them:** If consumers ask "Are you verified by dotPH?" before paying, businesses feel organic pressure to get verified.
+**Goal:** Behavior change — teach them to check for the Verified by dotPH badge before paying. No consumer signup.
+**Launch:** Week 3 (2-week lag behind B2B so verified businesses exist when consumers start looking)
 
 ---
 
 ## Psychology Behind the Campaign
+
+### B2B (Business Owners)
 
 | Principle | How Used |
 |-----------|----------|
@@ -136,6 +163,18 @@ Week 6-8   Email 4 (final push)  |  FB Ads: Shift to conversion  |  Cold Email 5
 | Social Proof | Live signup counter on landing page and in emails |
 | Scarcity | "First batch" framing creates urgency without being dishonest |
 
+### B2C (Consumers)
+
+| Principle | How Used |
+|-----------|----------|
+| Availability Heuristic | Vivid scam stories ("200 guests lost P500K") make the threat feel immediate and personal |
+| Learned Helplessness Reversal | Consumers feel helpless about scams. "You CAN check. Here's how." gives them a tool. |
+| Implementation Intentions | "Before you pay, check" — a when-then plan that increases follow-through |
+| Social Norms | "Smart consumers check before they pay" establishes checking as the default |
+| Commitment & Consistency | Sharing #CheckBeforeYouPay makes consumers more likely to actually check |
+| Reciprocal Altruism | "Tell your nanay" positions checking as an act of care for family — culturally resonant |
+| Protection Motivation Theory | Threat severity + vulnerability + response efficacy + self-efficacy = action |
+
 ---
 
 ## What "Verified" Is NOT (Do Not Imply)
@@ -146,7 +185,9 @@ Week 6-8   Email 4 (final push)  |  FB Ads: Shift to conversion  |  Cold Email 5
 
 ---
 
-## Success Targets (8 Weeks)
+## Success Targets
+
+### B2B Targets (8 Weeks)
 
 | Metric | Target |
 |--------|--------|
@@ -155,6 +196,18 @@ Week 6-8   Email 4 (final push)  |  FB Ads: Shift to conversion  |  Cold Email 5
 | Landing page conversion | 15–25% |
 | FB Ads cost per signup | < $2 |
 | Organic FB engagement | 3%+ |
+
+### Consumer Targets (Weeks 3–10)
+
+| Metric | Target |
+|--------|--------|
+| Verification page views (consumer traffic) | 1,000+ unique views/week by Week 8 |
+| #CheckBeforeYouPay hashtag usage | 100+ uses by Week 10 |
+| Consumer content engagement rate | 5%+ (higher than B2B benchmark) |
+| Consumer content share rate | 2x the share rate of B2B content |
+| Consumer blog article traffic | 500+ views per article within 2 weeks |
+| Post-signup survey: "customer asked about verification" | 15%+ of new signups citing consumer demand |
+| B2B signup velocity increase (after consumer launch) | 20%+ increase comparing Weeks 1–3 vs. Weeks 5–8 |
 
 ---
 

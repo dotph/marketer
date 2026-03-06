@@ -1347,3 +1347,264 @@ Non-converters don't exit the funnel — they get recycled.
 ║                                                                          ║
 ╚════════════════════════════════════════════════════════════════════════════╝
 ```
+
+---
+
+# CONSUMER-FACING CAMPAIGN: #CheckBeforeYouPay
+
+> **Audience:** Filipino consumers (NOT business owners)
+> **Goal:** Behavior change — teach consumers to check before they pay
+> **Timeline:** Weeks 3–10 (2-week lag behind B2B campaign)
+
+---
+
+## 6. Consumer Funnel — Behavior Change
+
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║   ┌────────────────────────────────────────────────────────────────┐  ║
+║   │                CONSUMER: FEAR ACTIVATION                       │  ║
+║   │              "The fakes look real. You can't tell."            │  ║
+║   │                                                                │  ║
+║   │   Weeks: 3–5                                                   │  ║
+║   │   Emotion: Recognition, alertness, personal fear               │  ║
+║   │   Goal: Make the threat feel personal and immediate            │  ║
+║   │                                                                │  ║
+║   │   Channels:                                                    │  ║
+║   │   ├── Organic FB → Scam stories from the VICTIM's             │  ║
+║   │   │                  perspective ("I booked a resort...")       │  ║
+║   │   ├── Organic FB → "Spot the Fake" interactive posts           │  ║
+║   │   ├── Dual-audience posts → Same scam stories,                 │  ║
+║   │   │                         consumer closing line              │  ║
+║   │   └── Blog articles → Consumer-framed scam coverage            │  ║
+║   │                                                                │  ║
+║   │   Key message: "50,000 likes. All fake.                        │  ║
+║   │   How would YOU know?"                                         │  ║
+║   └──────────────────────────┬─────────────────────────────────────┘  ║
+║                              │                                        ║
+║                              ▼                                        ║
+║   ┌────────────────────────────────────────────────────────────────┐  ║
+║   │              CONSUMER: EMPOWERMENT                             │  ║
+║   │         "There's now a way to check. Here's how."              │  ║
+║   │                                                                │  ║
+║   │   Weeks: 5–7                                                   │  ║
+║   │   Emotion: Relief, sense of control                            │  ║
+║   │   Goal: Teach the checking behavior                            │  ║
+║   │                                                                │  ║
+║   │   Channels:                                                    │  ║
+║   │   ├── Organic FB → "How to Check" visual guide (carousel)      │  ║
+║   │   ├── Organic FB → "The GCash Check" tutorial                  │  ║
+║   │   ├── Blog articles → "How to Tell If a Business Is Real"      │  ║
+║   │   └── Boosted posts → Top performers from Phase 1 + 2          │  ║
+║   │                                                                │  ║
+║   │   Key message: "Before you pay, check.                         │  ║
+║   │   Look for the Verified by dotPH badge."                       │  ║
+║   └──────────────────────────┬─────────────────────────────────────┘  ║
+║                              │                                        ║
+║                              ▼                                        ║
+║   ┌────────────────────────────────────────────────────────────────┐  ║
+║   │              CONSUMER: HABIT FORMATION                         │  ║
+║   │         "Always check. Tell everyone."                         │  ║
+║   │                                                                │  ║
+║   │   Weeks: 7–10+                                                 │  ║
+║   │   Emotion: Confidence, social responsibility                   │  ║
+║   │   Goal: Make checking a reflex + spread through networks       │  ║
+║   │                                                                │  ║
+║   │   Channels:                                                    │  ║
+║   │   ├── Organic FB → "#CheckBeforeYouPay" campaign posts         │  ║
+║   │   ├── Organic FB → "Tell Your Nanay" family protection         │  ║
+║   │   ├── Organic FB → UGC showcase (consumers who checked)        │  ║
+║   │   └── Blog articles → "Why You Should Ask: Are You Verified?"  │  ║
+║   │                                                                │  ║
+║   │   Key message: "Tell your nanay. Tell your tita.               │  ║
+║   │   Tell your barkada. #CheckBeforeYouPay"                       │  ║
+║   └──────────────────────────┬─────────────────────────────────────┘  ║
+║                              │                                        ║
+║                              ▼                                        ║
+║                    ┌───────────────────┐                              ║
+║                    │  BEHAVIOR CHANGE  │                              ║
+║                    │  ───────────────  │                              ║
+║                    │  Consumer checks  │                              ║
+║                    │  for badge before │                              ║
+║                    │  paying.          │                              ║
+║                    │                   │                              ║
+║                    │  Consumer asks:   │                              ║
+║                    │  "Are you         │                              ║
+║                    │   Verified by     │                              ║
+║                    │   dotPH?"         │                              ║
+║                    └────────┬──────────┘                              ║
+║                             │                                         ║
+║                             ▼                                         ║
+║                  ┌──────────────────────┐                             ║
+║                  │  B2B PRESSURE LOOP   │                             ║
+║                  │                      │                             ║
+║                  │  Consumer demand     │                             ║
+║                  │  feeds back into     │                             ║
+║                  │  B2B conversion:     │                             ║
+║                  │                      │                             ║
+║                  │  Business hears      │                             ║
+║                  │  "Are you verified?" │                             ║
+║                  │  → Signs up for      │                             ║
+║                  │    Verified by dotPH │                             ║
+║                  └──────────────────────┘                             ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 7. B2B ↔ B2C Feedback Loop
+
+```
+   ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
+   │  B2B ADS     │     │  B2B EMAIL   │     │  B2C ORGANIC │
+   │  (awareness) │     │  (problem    │     │  (scam       │
+   │              │     │   seed)      │     │   stories)   │
+   └──────┬───────┘     └──────┬───────┘     └──────┬───────┘
+          │                    │                     │
+          ▼                    ▼                     ▼
+   ┌──────────────────────────────────────────────────────────┐
+   │                                                          │
+   │              MERE EXPOSURE EFFECT                        │
+   │              (works on BOTH audiences)                   │
+   │                                                          │
+   │   Business owner's experience:                           │
+   │   After FB ad: "Fake pages are stealing my customers"    │
+   │   After email: "dotPH is building verification for this" │
+   │   After CONSUMER asks: "Wait — my customer just asked    │
+   │     'Are you verified by dotPH?' I need to sign up."     │
+   │                                                          │
+   │   Consumer's experience:                                 │
+   │   After scam story: "That's scary. Could happen to me."  │
+   │   After "How to Check" guide: "Now I know what to look   │
+   │     for before I pay."                                   │
+   │   After friend shares: "Even my tita is checking now."   │
+   │                                                          │
+   └──────────────────────────┬───────────────────────────────┘
+                              │
+                              ▼
+   ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
+   │  B2B ADS     │     │  B2C ORGANIC │     │  B2B + B2C   │
+   │  (solution   │     │  ("How to    │     │  ORGANIC     │
+   │   explainer) │     │   Check")    │     │  (dual posts)│
+   └──────┬───────┘     └──────┬───────┘     └──────┬───────┘
+          │                    │                     │
+          └────────────────────┼─────────────────────┘
+                               │
+                               ▼
+                      ┌─────────────────┐
+                      │  LANDING PAGE   │
+                      │  (B2B traffic   │
+                      │   converts to   │
+                      │   signup)       │
+                      │                 │
+                      │  (B2C traffic   │
+                      │   learns how    │
+                      │   to check)     │
+                      └────────┬────────┘
+                               │
+                    ┌──────────┴──────────┐
+               B2B converts          B2C learns
+                    │                      │
+                    ▼                      ▼
+             ✓ SIGNED UP          ✓ CHECKS BEFORE PAYING
+                    │                      │
+                    │                      │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │    FLYWHEEL          │
+                    │                      │
+                    │  More verified       │
+                    │  businesses          │
+                    │       +              │
+                    │  More consumers      │
+                    │  checking            │
+                    │       =              │
+                    │  More businesses     │
+                    │  WANTING to verify   │
+                    └──────────────────────┘
+```
+
+---
+
+## 8. Consumer Journey — Online Shopper in Metro Manila
+
+**Entry point:** Organic Facebook post (Consumer Fear Activation)
+**Consumer type:** Ate Joy, 32, buys from Facebook sellers and pays via GCash
+
+```
+   CONSUMER: Ate Joy shops from small businesses on Facebook.
+   Last month she paid P3,500 for a bag from a seller she
+   found in a buy-and-sell group. The bag never arrived.
+   The seller blocked her. The GCash number is now inactive.
+   ══════════════════════════════════════════════════════════
+
+   TOUCHPOINT 1                      ┌───────────────────────────────┐
+   ──────────                         │  Sees organic FB post         │
+   Channel: Organic Facebook          │  (dual-audience):             │
+   (Consumer Fear Activation)         │                               │
+                                      │  "A Facebook page for a       │
+   Reaction: "Dios ko, nangyari      │  Bantayan Island resort had   │
+   din 'to sa akin." (This           │  50,000 likes. Guests sent    │
+   happened to me too.)              │  deposits. The resort had no  │
+                                      │  record of them. 200+ victims.│
+   Action: Reads full post.           │  P500,000 lost."              │
+   Shares to her Viber group:         │                               │
+   "Mga bes, ingat kayo sa           │  Closing: "How would YOU know │
+   online sellers."                   │  if a page is real?"          │
+                                      └──────────────┬────────────────┘
+                                                      │
+   TOUCHPOINT 2                      ┌────────────────▼────────────────┐
+   ──────────                         │  Sees consumer post on dotPH   │
+   Channel: Organic Facebook          │  page (Week 5):                │
+   (Consumer Empowerment)             │                                │
+                                      │  "Before you pay, check.       │
+   Reaction: "May ganito pala?"       │                                │
+   (There's something like this?)     │  1. Look for a Verified by    │
+                                      │     dotPH badge on their site  │
+   Action: Saves the post.            │  2. Visit their verification   │
+   Clicks to learn more about         │     page on dotPH              │
+   how verification works.            │  3. Check their verified GCash │
+                                      │     matches what they gave you │
+                                      │                                │
+                                      │  #CheckBeforeYouPay"           │
+                                      └──────────────┬────────────────┘
+                                                      │
+   TOUCHPOINT 3                      ┌────────────────▼────────────────┐
+   ──────────                         │  Sees another consumer post:   │
+   Channel: Organic Facebook          │                                │
+   (Consumer Habit Formation)         │  "Your nanay shops online.     │
+                                      │  Your tita books resorts on    │
+   Reaction: Forwards to              │  Facebook. Your barkada sends  │
+   family group chat with             │  GCash to sellers in FB groups.│
+   note: "Ma, check mo muna          │                                │
+   bago magbayad." (Ma, check        │  Do they know how to check?    │
+   first before paying.)             │  Share this. #CheckBeforeYouPay│
+                                      │  "                             │
+   Action: Tags her mother            └──────────────┬────────────────┘
+   and sister in the post.                            │
+                                                      │
+   TOUCHPOINT 4                      ┌────────────────▼────────────────┐
+   ──────────                         │  Ate Joy finds a new seller    │
+   Channel: Real life                 │  she wants to buy from on FB.  │
+   (Behavior Change)                  │                                │
+                                      │  Before sending GCash, she     │
+   This is the moment                 │  checks the seller's website.  │
+   the campaign succeeds.             │                                │
+                                      │  No Verified by dotPH badge.   │
+   She DMs the seller:                │                                │
+   "Hi, are you Verified              │  She messages the seller:      │
+   by dotPH?"                         │  "Are you Verified by dotPH?"  │
+                                      │                                │
+   The seller has never               │  Seller: "What's that?"        │
+   heard of it. Searches.             │  Joy: "It's free verification  │
+   Finds the landing page.            │  from the .ph registry. My     │
+   Signs up.                          │  friend said I should check    │
+                                      │  before I pay."                │
+   ✓ B2C → B2B CONVERSION             │                                │
+                                      │  Seller looks it up. Signs up. │
+                                      └────────────────────────────────┘
+```

@@ -94,25 +94,101 @@ Full article drafts in [campaign-content-drafts.md](campaign-content-drafts.md),
 
 ---
 
-## Budget Flow Over 8 Weeks
+## Budget Flow Over 10 Weeks
 
-**Weeks 1–3 (Awareness-heavy):**
-
-| Campaign | Share | Purpose |
-|----------|-------|---------|
-| Awareness | 50% | Fill the funnel — problem education |
-| Consideration | 30% | Solution retargeting (warm) |
-| Conversion | 20% | Early converters (hot) |
-
-**Weeks 4–8 (Conversion-heavy):**
+### Weeks 1–3 (Awareness-heavy, B2B only)
 
 | Campaign | Share | Purpose |
 |----------|-------|---------|
-| Awareness | 30% | Replenish the top — never fully stops |
-| Consideration | 30% | Solution retargeting |
-| Conversion | 40% | Push for signups as pools grow |
+| Awareness (B2B) | 50% | Fill the funnel — problem education |
+| Consideration (B2B) | 30% | Solution retargeting (warm) |
+| Conversion (B2B) | 20% | Early converters (hot) |
+| Consumer boost | 0% | Not yet — consumer campaign starts Week 3 |
 
-The top of funnel never fully stops — you need to keep feeding new people in. But as the retargeting pools grow, you shift more budget toward converting them.
+### Weeks 4–6 (Conversion ramp + consumer launch)
+
+| Campaign | Share | Purpose |
+|----------|-------|---------|
+| Awareness (B2B) | 25% | Replenish the top — never fully stops |
+| Consideration (B2B) | 25% | Solution retargeting |
+| Conversion (B2B) | 40% | Push for signups as pools grow |
+| **Consumer boost** | **10%** | Boost top-performing consumer posts |
+
+### Weeks 7–10 (Dual campaign, sustained)
+
+| Campaign | Share | Purpose |
+|----------|-------|---------|
+| Awareness (B2B) | 20% | Maintain top-of-funnel flow |
+| Consideration (B2B) | 20% | Solution retargeting |
+| Conversion (B2B) | 50% | Maximum conversion push |
+| **Consumer boost** | **10%** | Sustained consumer behavior change |
+
+**Where does the consumer 10% come from?** Reallocated from B2B Awareness once the retargeting pools are built (Week 4+). By that point, the awareness pool is large enough that reducing from 30% to 20–25% has minimal impact on retarget volume.
+
+The top of funnel never fully stops — you need to keep feeding new people in. But as the retargeting pools grow, you shift more budget toward converting them. The consumer budget stays small (10%) because the consumer campaign is primarily organic — boosts are only for amplifying top performers.
+
+---
+
+## Consumer Boost Strategy
+
+> **Start:** Week 4 (consumer content goes live Week 3; first boost-eligible posts appear Week 4)
+> **Budget:** 10% of total FB ads budget, reallocated from B2B Awareness
+> **Goal:** Amplify top-performing consumer posts to drive behavior change (#CheckBeforeYouPay)
+
+### Budget by Total Spend Level
+
+| Total FB Budget | Consumer Boost | Monthly | Weekly |
+|-----------------|---------------|---------|--------|
+| $500/month | 10% | $50 | ~$12 |
+| $1,000/month | 10% | $100 | ~$25 |
+| $2,000/month | 10% | $200 | ~$50 |
+
+At $500/month, you get 1–2 boosted posts per month. At $2,000/month, you can boost 4–6 posts.
+
+### Boost Criteria
+
+Only boost consumer posts that meet ALL of these:
+
+1. **>5% organic engagement rate within 48 hours** — this ensures you're boosting content that already resonates, not propping up underperformers
+2. **High share/save ratio** — shares and saves indicate content people want to pass along (which is the entire consumer campaign goal)
+3. **Aligns with current phase** — Fear Activation posts in Weeks 3–5, Empowerment posts in Weeks 5–7, Habit Formation posts in Weeks 7+
+
+### Boost Targeting
+
+| Parameter | Setting | Rationale |
+|-----------|---------|-----------|
+| **Audience** | Filipino consumers 18–55, broad | Cast wide — behavior change is universal |
+| **Exclusion** | Exclude B2B custom audiences | Avoid overlap with business owner campaigns |
+| **Placement** | Facebook Feed + Stories | Where consumers actually scroll |
+| **Objective** | Engagement (Weeks 3–6) → Reach (Weeks 7+) | Early: build shareability. Later: maximize exposure for habit formation |
+
+### What NOT to Boost
+
+- Posts with <3% organic engagement — if it didn't resonate organically, money won't fix it
+- B2B-specific content — this budget is strictly for consumer-facing posts
+- Phase-mismatched content — don't boost "How to Check" guides before the Fear Activation phase has established the problem
+
+### Consumer Post Priority for Boosting
+
+| Priority | Post Type | Why |
+|----------|-----------|-----|
+| 1 | "Spot the Fake" interactive (C1) | Highest engagement potential — comments drive reach |
+| 2 | "How to Check" visual guide (C6) | Most shareable — designed for Messenger/Viber forwarding |
+| 3 | "Tell Your Nanay" (C10) | Family-forwarding behavior amplifies organic reach |
+| 4 | Scam victim stories (C2, C3) | Emotional anchor — high share rate expected |
+| 5 | "#CheckBeforeYouPay" launch (C9) | Hashtag adoption — boost to establish momentum |
+
+### Monitoring
+
+Review consumer boost performance weekly:
+
+- If boosted consumer posts achieve **>3x the engagement of organic reach**, maintain budget
+- If B2B cost per lead rises **>20%** after consumer boost starts, reduce consumer allocation to 5% and investigate overlap
+- If consumer shares are **>2x B2B shares**, consider increasing allocation to 15% (take from B2B Awareness)
+
+### Consumer Boost vs. B2B Ads: Key Difference
+
+B2B campaigns are full-funnel paid campaigns with dedicated budgets, custom audiences, and conversion tracking. The consumer boost is NOT a campaign — it's a tactical amplifier for organic content that's already working. The consumer strategy is organic-first; paid is only the accelerant.
 
 ---
 

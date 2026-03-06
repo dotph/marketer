@@ -6,7 +6,7 @@
 **Objective:** Get first signups and build demand so businesses *want* and *feel the need* for verification
 **Channels:** Email mailers (warm + cold) | Facebook Ads | Organic Facebook
 **Budget:** $500–$2,000/month (Facebook Ads)
-**Timeline:** 8 weeks
+**Timeline:** 10 weeks (B2B: Weeks 1–8, Consumer: Weeks 3–10)
 
 ---
 
@@ -1299,3 +1299,308 @@ Always avoid implying:
 - **Register:** Professional but accessible (no jargon)
 - **Emotion:** Start with concern, move to confidence
 - **Never:** Sensationalize, fear-monger without offering a solution, or make promises the product can't keep
+
+---
+
+# CONSUMER-FACING CAMPAIGN: #CheckBeforeYouPay
+
+> **Audience:** Filipino consumers (NOT business owners)
+> **Goal:** Behavior change — teach consumers to check for Verified by dotPH before paying online
+> **Timeline:** Weeks 3–10 (starts 2 weeks after B2B campaign launch)
+> **Budget:** Primarily organic. 10% of existing FB budget for boosted posts ($50–$200/month).
+
+---
+
+## Why a Consumer Campaign
+
+The B2B campaign pushes businesses to get verified. The consumer campaign creates pull from the other side: customers asking "Are you verified?" before they pay. Together, they form a pincer movement.
+
+A verified badge that nobody checks is a badge nobody cares about. The consumer campaign makes the badge meaningful — which makes businesses want it.
+
+**The two-sided logic:**
+
+| Campaign | Says | To Whom | Creates |
+|----------|------|---------|---------|
+| B2B (existing) | "Get verified so customers trust you" | Business owners | Supply of verified businesses |
+| B2C (new) | "Check if they're verified before you pay" | Consumers | Demand for verification |
+| Combined | Both sides push toward the same outcome | Everyone | Flywheel: more checking → more verifying → more checking |
+
+---
+
+## Why the 2-Week Lag
+
+The consumer campaign starts Week 3, not Week 1. If consumers start looking for verified businesses before any exist, it creates frustration instead of pressure. The 2-week head start lets the B2B campaign generate early adopters. By Week 3, there are real verified businesses to point to — and unverified businesses feel the gap.
+
+---
+
+## 3 Consumer Phases
+
+| Phase | Weeks | Message | Emotion | Goal |
+|-------|-------|---------|---------|------|
+| **1. Fear Activation** | 3–5 | "The fakes look real. You can't tell." | Recognition, alertness | Make consumers feel the threat is personal |
+| **2. Empowerment** | 5–7 | "There's now a way to check. Here's how." | Relief, control | Teach the checking behavior |
+| **3. Habit Formation** | 7–10+ | "Always check. Tell everyone. #CheckBeforeYouPay" | Confidence, social responsibility | Make checking a reflex |
+
+---
+
+## Consumer Funnel (Behavior Change, Not Signup)
+
+Unlike the B2B funnel which ends at "SIGNED UP," the consumer funnel ends at a learned behavior:
+
+```
+FEAR ACTIVATION → "Scams are everywhere. The fakes look real."
+        │
+        ▼
+EMPOWERMENT → "There's a way to check. Look for Verified by dotPH."
+        │
+        ▼
+HABIT FORMATION → "Always check. Tell your nanay. #CheckBeforeYouPay"
+        │
+        ▼
+BEHAVIOR CHANGE → Consumer checks for badge before paying.
+                  Consumer asks businesses: "Are you verified?"
+                  (This creates organic B2B pressure.)
+```
+
+---
+
+## B2B ↔ B2C Feedback Loop
+
+This is the strategic heart of the two-sided campaign:
+
+```
+B2B CAMPAIGN                              B2C CAMPAIGN
+
+Business sees awareness ad ──────┐
+"Scammers are copying your       │
+ business"                       │
+                                 │        Consumer sees scam story:
+                                 │        "50,000 likes. All fake."
+Business starts considering ◄────┤
+verification                     │        Consumer learns to check:
+                                 │        "Look for Verified by dotPH"
+                                 │
+Business hesitates ──────────────┤
+"Do I really need this?"         │        Consumer asks business:
+                                 │        "Are you verified by dotPH?"
+                                 │
+Business feels customer ◄────────┘        Consumer behavior creates
+pressure: "My customers are               organic demand signal
+asking about verification"
+                                 │
+Business signs up ───────────────┤        Consumer checks and finds
+                                 │        verified page: trust confirmed
+                                 │
+Business shares badge ───────────┤        Consumer sees badge,
+on their page/site               │        recognizes it, trusts more
+                                 │
+Consumer tells friends: ◄────────┘        Word spreads:
+"Check for Verified by dotPH"             "This is how you know it's real"
+                                 │
+More businesses feel ◄───────────┘
+pressure to get verified
+                                          More consumers learn to check
+
+              (FLYWHEEL ACCELERATES)
+```
+
+**Critical acceleration points:**
+- **Week 3–4:** First consumer posts go live. Early-verified businesses start getting asked about their badge.
+- **Week 5–6:** Consumer "how to check" content spreads via group chats and Viber. Unverified businesses receive DMs: "Are you verified by dotPH?" This is where the two campaigns connect.
+- **Week 7+:** Verified businesses promote their status organically. The campaign becomes self-reinforcing.
+
+---
+
+## Consumer Content Strategy
+
+### Content Classification
+
+| Type | Audience | % of Organic Posts (Weeks 3+) |
+|------|----------|-------------------------------|
+| **B2B-specific** | Business owners only | ~40% |
+| **Consumer-specific** | Consumers only | ~30% |
+| **Dual-audience** | Both (reframed scam stories) | ~30% |
+
+Dual-audience content is the most efficient — one post generates engagement from both segments.
+
+### Consumer-Specific Content Types
+
+**1. "Spot the Fake" interactive posts** (Phase 1)
+- Show two versions of a business page. Ask: "Which one is real?"
+- Designed for comments and shares
+
+**2. Scam stories from the VICTIM's perspective** (Phase 1)
+- Retell Bantayan, Cabanas, travel scams from the consumer angle
+- "I booked a resort for our family vacation..." format
+
+**3. "How to Check" visual guides** (Phase 2)
+- Step-by-step carousel showing how to check a business's verification page
+- Shareable in Messenger and group chats
+
+**4. "The GCash Check" tutorial** (Phase 2)
+- "Before you send money, check their verified payment links on dotPH"
+- Directly targets the "Is this your real GCash?" behavior
+
+**5. "#CheckBeforeYouPay" campaign launch** (Phase 3)
+- Branded hashtag content
+- UGC prompts: share screenshots of checking before purchasing
+
+**6. "Tell Your Nanay" family protection posts** (Phase 3)
+- "Your nanay shops online. Does she know how to check?"
+- Leverages Filipino family culture — checking is an act of care
+
+### Dual-Audience Reframing
+
+Existing B2B scam stories can serve both audiences with one change — the closing line:
+
+| Story | B2B closing | B2C closing |
+|-------|-------------|-------------|
+| Bantayan resort (50K likes) | "How would YOUR guests know?" | "How would YOU know? Here's how to check." |
+| 52% of Filipinos scammed | "Your business pays the price." | "You could be next. Here's how to protect yourself." |
+| Household-name fast food chain | "What's stopping them from faking YOUR business?" | "What's stopping them from faking any business YOU buy from?" |
+
+---
+
+## Consumer Content Calendar (Weeks 3–10)
+
+### Weeks 3–4 (Fear Activation)
+
+| Week | Mon | Wed | Fri |
+|------|-----|-----|-----|
+| 3 | B2B: Final problem post | B2B: Product announcement | **DUAL:** Bantayan story (consumer framing + B2B CTA in comments) |
+| 4 | **CONSUMER:** "Spot the Fake" interactive | B2B: Badge showcase | **CONSUMER:** "52% of Filipinos" — consumer protection angle |
+
+### Weeks 5–6 (Empowerment)
+
+| Week | Mon | Wed | Fri |
+|------|-----|-----|-----|
+| 5 | B2B: Industry spotlight (resorts) | **CONSUMER:** "How to Check" visual guide | B2B: Signup milestone |
+| 6 | **CONSUMER:** "The GCash Check" tutorial | B2B: Early adopter spotlight | **DUAL:** "3 Signs a Page Is Fake" (+ how to verify) |
+
+### Weeks 7–8 (Habit Formation)
+
+| Week | Mon | Wed | Fri |
+|------|-----|-----|-----|
+| 7 | **CONSUMER:** "#CheckBeforeYouPay" launch | B2B: Industry spotlight (clinics) | **DUAL:** Consumer + business testimonial combo |
+| 8 | **CONSUMER:** "Tell Your Nanay" | B2B: "Verification closing soon" | **CONSUMER:** UGC showcase — consumers who checked |
+
+### Weeks 9–10 (Sustained)
+
+| Week | Mon | Wed | Fri |
+|------|-----|-----|-----|
+| 9 | **DUAL:** Scam update + check reminder | B2B: New industry spotlight | **CONSUMER:** Family protection follow-up |
+| 10 | **CONSUMER:** Milestone — "X consumers checked this month" | B2B: Social proof push | **DUAL:** Verified business + happy customer story |
+
+---
+
+## Consumer Boosted Post Strategy
+
+The consumer campaign is primarily organic. Boosting is reserved for top performers only.
+
+**Budget:** 10% of existing FB ads budget (reallocated from B2B Awareness in Weeks 4+, since the awareness pool is built by then)
+- At $500/month: $50/month for consumer boosts
+- At $2,000/month: $200/month for consumer boosts
+
+**Boost criteria:** Only boost consumer posts that achieve >5% organic engagement rate within 48 hours.
+
+**Boost targeting:** Filipino consumers 18–55, broad. Not business owners (avoid overlap with B2B campaigns).
+
+---
+
+## Consumer Key Messages by Phase
+
+### Phase 1: Fear Activation (Weeks 3–5)
+
+> "50,000 likes. All fake. How would YOU know?"
+
+> "This resort had 8,000 likes. It didn't exist. Before you book, check."
+
+> "52% of Filipinos have been scammed. Your GCash payment might be going to a scammer."
+
+> "Scammers don't hack. They copy. Same name. Same photos. Different bank account."
+
+### Phase 2: Empowerment (Weeks 5–7)
+
+> "Before you pay, check." #CheckBeforeYouPay
+
+> "Look for the Verified by dotPH badge on their website."
+
+> "Visit their verification page on dotPH — check their real GCash, real Facebook, real website."
+
+> "No badge? Ask why. Verification is free."
+
+> "3 things to check before you pay: 1. Badge. 2. Verification page. 3. Verified payment links."
+
+### Phase 3: Habit Formation (Weeks 7–10+)
+
+> "Always check. Tell your nanay. Tell your tita. Tell your barkada." #CheckBeforeYouPay
+
+> "Smart consumers check before they pay. Are you checking?"
+
+> "Next time you buy from a Facebook page, ask: 'Are you Verified by dotPH?'"
+
+> "Verified businesses support consumers who check. Reward them with your trust."
+
+---
+
+## Consumer Psychology Framework
+
+| Principle | How Applied | Phase |
+|-----------|-------------|-------|
+| Availability Heuristic | Vivid scam stories make the threat feel common and personal | Fear Activation |
+| Learned Helplessness Reversal | "You CAN check. Here's how." — gives agency to people who feel helpless about scams | Empowerment |
+| Implementation Intentions | "Before you pay, check" is a when-then plan that increases follow-through | Empowerment |
+| Social Norms | "Smart consumers check" establishes checking as the default behavior | Habit Formation |
+| Commitment & Consistency | Sharing #CheckBeforeYouPay makes people more likely to actually check | Habit Formation |
+| Reciprocal Altruism | "Tell your nanay" — checking is an act of care for family, not just self-protection | Habit Formation |
+| Protection Motivation Theory | All 4 PMT variables: threat severity, vulnerability, response efficacy, self-efficacy | All phases |
+
+---
+
+## Consumer Success Metrics
+
+### Primary (Direct Measurement)
+
+| Metric | Target | How to Measure |
+|--------|--------|----------------|
+| Verification page views (non-business) | 1,000+/week by Week 8 | Analytics, filtered by non-business traffic |
+| #CheckBeforeYouPay hashtag usage | 100+ by Week 10 | Social listening |
+| Consumer content engagement rate | 5%+ | Facebook insights |
+| Consumer content share rate | 2x B2B share rate | Facebook insights |
+| Consumer blog article traffic | 500+ views/article in 2 weeks | Newsroom analytics |
+
+### Feedback Loop Indicators
+
+| Metric | Target | How to Measure |
+|--------|--------|----------------|
+| B2B signup velocity increase | 20%+ after consumer launch | Compare Weeks 1–3 vs. 5–8 |
+| "Customer asked about verification" in post-signup survey | 15%+ | Add survey question to signup flow |
+| Organic mentions in consumer FB groups | Any presence | Monitor 10 key PH consumer groups |
+| DMs from consumers (not businesses) | Growing week/week | Page inbox categorization |
+| Businesses sharing badge screenshots | 10+ by Week 8 | Track UGC and mentions |
+
+### North Star Metric
+
+**Verification page check-to-business ratio.** If 100 businesses are verified and each gets 50 consumer views/month on their verification page, the system is working. Target: 10+ consumer checks per verified business per month by Week 10.
+
+---
+
+## Risks and Mitigations
+
+| Risk | Mitigation |
+|------|------------|
+| Consumer demand before businesses are verified | 2-week lag. Ensure 50+ businesses verified before consumer launch. |
+| Consumer campaign dilutes B2B effectiveness | Only 10% budget. Monitor B2B CPL weekly — pull back consumer boosts if CPL rises >20%. |
+| "Checking" behavior doesn't stick | Phase 3 focuses on habits. Partner with verified businesses to promote checking from their end. |
+| Perception: "dotPH is scaring people" | Product is free. Always end consumer content with the actionable step, never on fear alone. |
+| Scammers fake the badge | Proactive education: "Always CLICK the badge to visit the verification page on dotPH. A screenshot of a badge means nothing." |
+
+---
+
+## Consumer Brand Voice
+
+- **Tone:** Protective, empowering, practical — not corporate or alarmist
+- **Register:** Casual, conversational — the way you'd warn a friend
+- **Emotion:** Start with concern, move to confidence and agency
+- **Language:** Mix of English and Filipino context (GCash, nanay, tita, barkada)
+- **Never:** Fear-monger without a solution, talk down to consumers, or imply that Verified by dotPH is 100% scam-proof
