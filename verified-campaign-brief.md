@@ -3,7 +3,7 @@
 **Product:** Verified by dotPH — free identity verification for .ph domain holders
 **Stage:** Pre-launch (product not yet live)
 **Goal:** Collect signups (B2B) + teach consumers to check before they pay (B2C)
-**Timeline:** 10 weeks (B2B: Weeks 1–8, Consumer: Weeks 3–10)
+**Timeline:** 10 weeks (B2B: Weeks 1–8, Consumer: Weeks 3–5 scam awareness, Weeks 6–10 verification angle)
 **Budget:** $500–$2,000/month (Facebook Ads)
 **Campaign hashtag:** #CheckBeforeYouPay
 
@@ -39,6 +39,23 @@ People don't want verification. They want their customers to trust them and stop
 | **Organic Facebook** | dotPH page audience | Problem education, product posts, social proof. 3x/week. |
 
 All channels point to the landing page. The landing page converts.
+
+### Budget-Tier Playbook
+
+The campaign structure scales with budget. Email is always the primary conversion driver — it's free and reaches the largest warm audience.
+
+**At $500/month (FB Ads):**
+- **Email (warm) leads conversions.** 10K–50K contacts, free, highest ROI channel.
+- **FB Ads:** Run 2 campaigns, not 3. Awareness (60%) + Retarget (40%). The retargeting pool will be too thin for a dedicated conversion campaign. Collapse consideration + conversion into one retarget campaign.
+- **Organic FB:** Carries more weight at this tier — 3x/week minimum, daily in Weeks 6+.
+- **Signup target:** 500–1,000 (mostly from email).
+
+**At $1,000–$2,000/month (FB Ads):**
+- **Full 3-campaign FB funnel is viable.** Enough weekly spend (~$250+) to build a 5,000+ retarget pool by Week 3.
+- **Email still leads early conversions** (Weeks 1–4). FB conversion campaign takes over Weeks 5+.
+- **Signup target:** 1,000–3,000.
+
+At any budget, warm email is the fastest path to first signups. FB ads build the retargeting pool that compounds over time.
 
 ---
 
@@ -116,7 +133,7 @@ Week 6-8   Email 4 (final push)  |  FB Ads: Shift to conversion  |  Cold Email 5
 | 1 | Week 1 | Is someone pretending to be your business online? | Problem seed + soft product name |
 | 2 | Week 2 | Your domain proves ownership. But does it prove legitimacy? | Introduce product |
 | 3 | Week 3 | [X] businesses have already signed up for verification | Social proof |
-| 4 | Week 4 | Verification opens soon. Are you in? | Scarcity + final push |
+| 4 | Week 4 | Your competitors are already verified. Are you? | Relevance + final push |
 
 ## Email Strategy — Cold (New Prospects)
 
@@ -126,7 +143,7 @@ Week 6-8   Email 4 (final push)  |  FB Ads: Shift to conversion  |  Cold Email 5
 | 2 | 3 | How much are fake pages costing Philippine businesses? | Agitate |
 | 3 | 7 | The .ph registry just launched something for businesses like yours | Solution |
 | 4 | 12 | [X] businesses in [industry] just got verified | Social proof |
-| 5 | 18 | Last chance: first batch of verifications closing soon | Final push |
+| 5 | 18 | Your industry is getting verified. Are you? | Final push |
 
 ---
 
@@ -145,7 +162,9 @@ Week 6-8   Email 4 (final push)  |  FB Ads: Shift to conversion  |  Cold Email 5
 **Key segments:** Online shoppers, resort/travel bookers, GCash/Maya users, family "protectors" (25-45 who look out for nanay/tita/barkada)
 **Why them:** If consumers ask "Are you verified by dotPH?" before paying, businesses feel organic pressure to get verified.
 **Goal:** Behavior change — teach them to check for the Verified by dotPH badge before paying. No consumer signup.
-**Launch:** Week 3 (2-week lag behind B2B so verified businesses exist when consumers start looking)
+**Launch:** Two phases:
+- **Weeks 3–5:** Scam awareness only. Build fear, drive shares through family networks. No badge/verification mention — the "so pano?" tension builds naturally.
+- **Weeks 6–10:** Introduce Verified by dotPH badge-checking. By Week 6, 300–500+ businesses are verified — enough for the advice to be actionable.
 
 ---
 
@@ -161,7 +180,7 @@ Week 6-8   Email 4 (final push)  |  FB Ads: Shift to conversion  |  Cold Email 5
 | Mimetic Desire | "Your competitors are getting verified" — people want what others want |
 | Zeigarnik Effect | Email 1 has no CTA but names the product — it opens a loop with a known destination that Email 2 closes |
 | Social Proof | Live signup counter on landing page and in emails |
-| Scarcity | "First batch" framing creates urgency without being dishonest |
+| Relevance | "Your customers are already looking for it" — urgency grounded in real customer demand |
 
 ### B2C (Consumers)
 

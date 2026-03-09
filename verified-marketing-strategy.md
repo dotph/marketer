@@ -6,7 +6,7 @@
 **Objective:** Get first signups and build demand so businesses *want* and *feel the need* for verification
 **Channels:** Email mailers (warm + cold) | Facebook Ads | Organic Facebook
 **Budget:** $500–$2,000/month (Facebook Ads)
-**Timeline:** 10 weeks (B2B: Weeks 1–8, Consumer: Weeks 3–10)
+**Timeline:** 10 weeks (B2B: Weeks 1–8, Consumer: Weeks 3–5 scam awareness, Weeks 6–10 verification angle)
 
 ---
 
@@ -341,13 +341,13 @@ Psychology: Social Proof (X businesses), Mimetic Desire (peers are doing it), In
 **Purpose:** Final push. Address the top objection (effort). Reinforce customer demand.
 
 ```
-Subject: Verification opens soon. Are you in?
-Preview: It's free, and your competitors are already signing up.
+Subject: Your competitors are already verified. Are you?
+Preview: It's free, and [X] businesses signed up this month.
 ```
 
 Hi [First Name],
 
-Quick update: we're getting close to opening verification for the first batch of businesses.
+Quick update: [X] businesses have signed up for Verified by dotPH this month.
 
 If you haven't signed up yet, here's what you need to know:
 
@@ -355,18 +355,18 @@ If you haven't signed up yet, here's what you need to know:
 
 **It's simple.** Upload your documents, and our team handles the rest.
 
-**Your competitors are already in.** [X] businesses signed up this month. If their customers can verify them and yours can't verify you — who do you think they'll trust?
+**Your competitors are already verified.** If their customers can verify them and yours can't verify you — who do you think they'll trust?
 
-This is your chance to be one of the first verified businesses in the Philippines.
+Your customers are already looking for verified businesses. Give them a reason to trust you.
 
-[**Secure Your Spot →**]
+[**Get Verified — It's Free →**]
 
 [Name]
 dotPH — The .ph Domain Registry
 
 ```
 CTA: Link to landing page signup
-Psychology: Scarcity ("first batch"), Loss Aversion ("who will they trust?"), Zero-Price Effect ("free")
+Psychology: Relevance ("customers looking"), Social Proof ([X] businesses), Loss Aversion ("who will they trust?"), Zero-Price Effect ("free")
 ```
 
 ---
@@ -378,7 +378,7 @@ Psychology: Scarcity ("first batch"), Loss Aversion ("who will they trust?"), Ze
 | 1 | Week 1 | Is someone pretending to be your business online? | Plant the problem | Zeigarnik, Loss Aversion |
 | 2 | Week 2 | Your .ph domain proves ownership. But does it prove legitimacy? | Introduce solution | Authority, Zero-Price |
 | 3 | Week 3 | [X] businesses have already signed up for verification | Social proof + signup | Social Proof, Mimetic Desire |
-| 4 | Week 4 | Verification opens soon. Are you in? | Final push | Scarcity, Loss Aversion |
+| 4 | Week 4 | Your competitors are already verified. Are you? | Final push | Relevance, Loss Aversion |
 
 ---
 
@@ -438,6 +438,17 @@ Account: dotPH — Verified
 | Awareness | 30% | $300 |
 | Consideration | 30% | $300 |
 | Conversion | 40% | $400 |
+
+**$500/month variant (simplified 2-campaign structure):**
+
+At $500/month, the retargeting pool will be too thin for 3 separate campaigns. Collapse to 2:
+
+| Campaign | % of Budget | Monthly Spend |
+|----------|-------------|---------------|
+| Awareness | 60% | $300 |
+| Retarget (consideration + conversion combined) | 40% | $200 |
+
+The warm email list (10K–50K contacts, free) is the primary conversion driver at this budget. FB ads build the retargeting pool that email can't reach.
 
 **Budget rules:**
 - Increase budgets by 20-30% at a time maximum
@@ -903,7 +914,7 @@ CTA: Tag and share
 |------|-----|-----|-----|
 | 6 | Early adopter spotlight | Signup milestone update | UGC prompt |
 | 7 | Industry spotlight (clinics) | Peer pressure post | Signup milestone update |
-| 8 | Adopter spotlight #2 | "Verification closing soon" | Final push CTA |
+| 8 | Adopter spotlight #2 | Adopter spotlight — why they verified | Final push CTA |
 
 **Posting frequency:** 3x/week (Mon, Wed, Fri). Increase to daily in Weeks 6-8 with Stories.
 
@@ -1096,7 +1107,7 @@ Psychology: Social Proof (peer businesses), Mimetic Desire (competitors doing it
 #### Cold Email 5 — Final Nudge (Day 18)
 
 ```
-Subject: Last chance: first batch of verifications closing soon
+Subject: Still thinking about verification?
 Preview: Free. No reason not to.
 ```
 
@@ -1104,9 +1115,9 @@ Hi [First Name],
 
 Last email from me on this.
 
-We're closing signups for the first batch of Verified by dotPH verifications soon. After that, there will be a waitlist.
+[X] businesses in [industry] got verified this month. Here's what they all have in common: their customers can now confirm they're real before paying.
 
-Quick recap:
+Quick recap on Verified by dotPH:
 
 - **Free** for all Philippine businesses
 - **Simple** — submit your documents through the portal
@@ -1115,7 +1126,7 @@ Quick recap:
 
 Your customers want to know you're real. This is the simplest way to prove it.
 
-Sign up before the first batch closes: [Landing page link]
+Get verified — it's free: [Landing page link]
 
 Best,
 [Name]
@@ -1123,8 +1134,8 @@ dotPH
 
 ```
 Goal: Final conversion push.
-Length: ~90 words
-Psychology: Scarcity ("first batch closing"), Zero-Price Effect, Activation Energy (simple process)
+Length: ~95 words
+Psychology: Social Proof ([X] businesses), Zero-Price Effect, Activation Energy (simple process)
 ```
 
 ---
@@ -1137,7 +1148,7 @@ Psychology: Scarcity ("first batch closing"), Zero-Price Effect, Activation Ener
 | 2 | 3 | How much are fake pages costing Philippine businesses? | Agitate | Loss Aversion, Zeigarnik |
 | 3 | 7 | The .ph registry just launched something for businesses like yours | Reveal solution | Authority, Zero-Price |
 | 4 | 12 | [X] businesses in [industry] just got verified | Social proof | Mimetic Desire, Contrast |
-| 5 | 18 | Last chance: first batch of verifications closing soon | Final push | Scarcity, Activation Energy |
+| 5 | 18 | Still thinking about verification? | Final push | Social Proof, Activation Energy |
 
 ### Cold Outreach KPIs
 
@@ -1162,7 +1173,7 @@ Psychology: Scarcity ("first batch closing"), Zero-Price Effect, Activation Ener
 | **Zeigarnik Effect** | Warm Email 1, Cold Email 2 | Open loops ("we'll show you what we're doing about it") create tension that drives opens |
 | **Commitment & Consistency** | Signup flow | Small commitment (signup) → deeper engagement when product launches |
 | **Social Proof** | Landing page, emails, organic | Display signup counter, industry-specific adoption, early adopter spotlights |
-| **Scarcity Framing** | Week 4+ emails, ads | "First batch" / "Verification opens soon" — urgency without being dishonest |
+| **Relevance** | Week 4+ emails, ads | "Your customers are already looking for it" — urgency grounded in real customer demand |
 | **Activation Energy** | Landing page, emails | 3-step process reduces perceived effort. Simple submission feels manageable. |
 | **Contrast Effect** | Ads, cold emails | Before (unverified, customers hesitate) vs. After (verified, customers trust) |
 | **Bandwagon Effect** | Signup milestones, organic | "[X] businesses signed up this week" — popularity signals safety |
@@ -1218,11 +1229,11 @@ Psychology: Scarcity ("first batch closing"), Zero-Price Effect, Activation Ener
 
 | Channel | Action |
 |---------|--------|
-| **Email (warm)** | Send Email 4 — "Verification opens soon. Are you in?" |
+| **Email (warm)** | Send Email 4 — "Your competitors are already verified. Are you?" |
 | **Facebook Ads** | Shift budget: 30% awareness / 30% consideration / 40% conversion. Refresh creative. |
 | **Organic FB** | Daily posting. Adopter spotlights, UGC, milestone updates, final push posts. |
 | **Cold outreach** | Send cold Email 5 (final nudge). Start second batch of prospects. |
-| **Goal** | Maximize signups, build waitlist pressure |
+| **Goal** | Maximize conversion velocity |
 
 ### How Channels Reinforce Each Other
 
@@ -1329,7 +1340,7 @@ A verified badge that nobody checks is a badge nobody cares about. The consumer 
 
 ## Why the 2-Week Lag
 
-The consumer campaign starts Week 3, not Week 1. If consumers start looking for verified businesses before any exist, it creates frustration instead of pressure. The 2-week head start lets the B2B campaign generate early adopters. By Week 3, there are real verified businesses to point to — and unverified businesses feel the gap.
+The consumer campaign starts Week 3, not Week 1 — but in two distinct sub-phases. **Weeks 3–5 are pure scam awareness** with no badge or verification mention. This builds fear and drives organic shares through family networks (Viber GCs, Messenger groups) while the "so pano?" tension builds naturally. **Weeks 6–10 introduce the verification angle** — by then 300–500+ businesses are verified, making the badge-checking advice actionable. Filipino consumers need to feel the problem before they'll adopt the solution.
 
 ---
 
@@ -1337,9 +1348,9 @@ The consumer campaign starts Week 3, not Week 1. If consumers start looking for 
 
 | Phase | Weeks | Message | Emotion | Goal |
 |-------|-------|---------|---------|------|
-| **1. Fear Activation** | 3–5 | "The fakes look real. You can't tell." | Recognition, alertness | Make consumers feel the threat is personal |
-| **2. Empowerment** | 5–7 | "There's now a way to check. Here's how." | Relief, control | Teach the checking behavior |
-| **3. Habit Formation** | 7–10+ | "Always check. Tell everyone. #CheckBeforeYouPay" | Confidence, social responsibility | Make checking a reflex |
+| **1. Fear Activation** | 3–5 | "The fakes look real. You can't tell." | Recognition, alertness | Make consumers feel the threat is personal. No badge mention. |
+| **2. Empowerment** | 6–8 | "There's now a way to check. Here's how." | Relief, control | Teach the checking behavior. Badge-checking becomes actionable. |
+| **3. Habit Formation** | 8–10+ | "Always check. Tell everyone. #CheckBeforeYouPay" | Confidence, social responsibility | Make checking a reflex |
 
 ---
 
@@ -1463,32 +1474,34 @@ Existing B2B scam stories can serve both audiences with one change — the closi
 
 ## Consumer Content Calendar (Weeks 3–10)
 
-### Weeks 3–4 (Fear Activation)
+> Weeks 3–5: Scam awareness only (no badge/verification mention). Weeks 6+: Verification angle introduced.
+
+### Weeks 3–5 (Fear Activation — scam awareness only, no badge mention)
 
 | Week | Mon | Wed | Fri |
 |------|-----|-----|-----|
 | 3 | B2B: Final problem post | B2B: Product announcement | **DUAL:** Bantayan story (consumer framing + B2B CTA in comments) |
 | 4 | **CONSUMER:** "Spot the Fake" interactive | B2B: Badge showcase | **CONSUMER:** "52% of Filipinos" — consumer protection angle |
+| 5 | B2B: Industry spotlight (resorts) | **CONSUMER:** "They Faked a Household Name" | B2B: Signup milestone |
 
-### Weeks 5–6 (Empowerment)
-
-| Week | Mon | Wed | Fri |
-|------|-----|-----|-----|
-| 5 | B2B: Industry spotlight (resorts) | **CONSUMER:** "How to Check" visual guide | B2B: Signup milestone |
-| 6 | **CONSUMER:** "The GCash Check" tutorial | B2B: Early adopter spotlight | **DUAL:** "3 Signs a Page Is Fake" (+ how to verify) |
-
-### Weeks 7–8 (Habit Formation)
+### Weeks 6–7 (Empowerment — badge-checking advice now actionable)
 
 | Week | Mon | Wed | Fri |
 |------|-----|-----|-----|
-| 7 | **CONSUMER:** "#CheckBeforeYouPay" launch | B2B: Industry spotlight (clinics) | **DUAL:** Consumer + business testimonial combo |
-| 8 | **CONSUMER:** "Tell Your Nanay" | B2B: "Verification closing soon" | **CONSUMER:** UGC showcase — consumers who checked |
+| 6 | **CONSUMER:** "How to Check" visual guide | B2B: Early adopter spotlight | **DUAL:** "3 Signs a Page Is Fake" (+ how to verify) |
+| 7 | **CONSUMER:** "The GCash Check" tutorial | B2B: Industry spotlight (clinics) | **DUAL:** Consumer + business testimonial combo |
 
-### Weeks 9–10 (Sustained)
+### Weeks 8–10 (Habit Formation)
 
 | Week | Mon | Wed | Fri |
 |------|-----|-----|-----|
-| 9 | **DUAL:** Scam update + check reminder | B2B: New industry spotlight | **CONSUMER:** Family protection follow-up |
+| 8 | **CONSUMER:** "#CheckBeforeYouPay" launch | B2B: Adopter spotlight — why they verified | **CONSUMER:** "Tell Your Nanay" |
+| 9 | **CONSUMER:** UGC showcase — consumers who checked | B2B: New industry spotlight | **CONSUMER:** Family protection follow-up |
+
+### Week 10 (Sustained)
+
+| Week | Mon | Wed | Fri |
+|------|-----|-----|-----|
 | 10 | **CONSUMER:** Milestone — "X consumers checked this month" | B2B: Social proof push | **DUAL:** Verified business + happy customer story |
 
 ---

@@ -243,10 +243,10 @@
                │   │    ┌────┴────┐   │                        │
                │   │   YES    NO  │   │  ► Address effort      │
                │   │    │     │   │   │    objection           │
-               ▼   ▼    ▼     ▼   ▼   │  ► Scarcity framing   │
+               ▼   ▼    ▼     ▼   ▼   │  ► Relevance framing  │
               (all non-converters      │  ► CTA → Landing page │
                enter FB retarget       │                        │
-               pool)                   │  Psychology: Scarcity, │
+               pool)                   │  Psychology: Relevance,│
                                        │  Loss Aversion         │
                                        └───────────┬───────────┘
                                                     │
@@ -320,10 +320,10 @@
                │   │         ▼                    ▼
                │   │   Landing Page    ┌────────────────────────┐
                │   │                   │  EMAIL 5: FINAL (D18) │
-               │   │                   │  "Last chance: first   │
-               │   │                   │   batch closing soon"  │
+               │   │                   │  "Still thinking about │
+               │   │                   │   verification?"       │
                │   │                   │                        │
-               │   │                   │  ► Scarcity framing    │
+               │   │                   │  ► Social proof        │
                │   │                   │  ► Full recap          │
                │   │                   │  ► CTA → Landing page  │
                │   │                   └───────────┬────────────┘
@@ -1230,7 +1230,7 @@ Non-converters don't exit the funnel — they get recycled.
         ├── FB Campaign 3: Conversion retarget ads
         │   ├── Social proof: "[X] businesses signed up"
         │   ├── Objection buster: "Free. Backed by the .ph registry."
-        │   └── Urgency: "First batch closing soon"
+        │   └── Relevance: "Your customers are looking for verified businesses"
         │
         ├── Next email in sequence
         │   (social proof → urgency → final nudge)
@@ -1279,7 +1279,7 @@ Non-converters don't exit the funnel — they get recycled.
    ├──────────────────┼──────────────────┼──────────────────┤
    │  Loss Aversion   │  Authority Bias  │  Social Proof    │
    │  Zeigarnik       │  Zero-Price      │  Mimetic Desire  │
-   │  (open loops)    │  (it's free)     │  Scarcity        │
+   │  (open loops)    │  (it's free)     │  Relevance       │
    │  Mere Exposure   │  Activation      │  Bandwagon       │
    │  (repetition)    │  Energy          │  Contrast Effect │
    │                  │  (5 min, 3 steps)│  (verified vs    │
@@ -1354,7 +1354,7 @@ Non-converters don't exit the funnel — they get recycled.
 
 > **Audience:** Filipino consumers (NOT business owners)
 > **Goal:** Behavior change — teach consumers to check before they pay
-> **Timeline:** Weeks 3–10 (2-week lag behind B2B campaign)
+> **Timeline:** Weeks 3–10 (Weeks 3–5: scam awareness only, no badge mention. Weeks 6–10: verification angle, badge-checking advice becomes actionable with 300–500+ verified businesses.)
 
 ---
 
@@ -1388,7 +1388,7 @@ Non-converters don't exit the funnel — they get recycled.
 ║   │              CONSUMER: EMPOWERMENT                             │  ║
 ║   │         "There's now a way to check. Here's how."              │  ║
 ║   │                                                                │  ║
-║   │   Weeks: 5–7                                                   │  ║
+║   │   Weeks: 6–8                                                   │  ║
 ║   │   Emotion: Relief, sense of control                            │  ║
 ║   │   Goal: Teach the checking behavior                            │  ║
 ║   │                                                                │  ║
@@ -1407,7 +1407,7 @@ Non-converters don't exit the funnel — they get recycled.
 ║   │              CONSUMER: HABIT FORMATION                         │  ║
 ║   │         "Always check. Tell everyone."                         │  ║
 ║   │                                                                │  ║
-║   │   Weeks: 7–10+                                                 │  ║
+║   │   Weeks: 8–10+                                                 │  ║
 ║   │   Emotion: Confidence, social responsibility                   │  ║
 ║   │   Goal: Make checking a reflex + spread through networks       │  ║
 ║   │                                                                │  ║

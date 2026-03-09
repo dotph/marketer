@@ -131,9 +131,11 @@ The top of funnel never fully stops — you need to keep feeding new people in. 
 
 ## Consumer Boost Strategy
 
-> **Start:** Week 4 (consumer content goes live Week 3; first boost-eligible posts appear Week 4)
+> **Start:** Week 6 (consumer scam awareness posts go live Week 3; badge/verification content starts Week 6 when 300–500+ businesses are verified)
 > **Budget:** 10% of total FB ads budget, reallocated from B2B Awareness
 > **Goal:** Amplify top-performing consumer posts to drive behavior change (#CheckBeforeYouPay)
+>
+> **Why Week 6, not Week 4:** Weeks 3–5 consumer posts are pure scam awareness (no badge mention) — they build organic momentum through family-sharing (Viber GCs, Messenger groups). Boosting starts when the Empowerment phase begins and the badge-checking advice is actionable. Exception: if a scam awareness post in Weeks 4–5 hits >5% organic engagement, boost it regardless — fear activation content compounds through shares.
 
 ### Budget by Total Spend Level
 
@@ -151,7 +153,7 @@ Only boost consumer posts that meet ALL of these:
 
 1. **>5% organic engagement rate within 48 hours** — this ensures you're boosting content that already resonates, not propping up underperformers
 2. **High share/save ratio** — shares and saves indicate content people want to pass along (which is the entire consumer campaign goal)
-3. **Aligns with current phase** — Fear Activation posts in Weeks 3–5, Empowerment posts in Weeks 5–7, Habit Formation posts in Weeks 7+
+3. **Aligns with current phase** — Fear Activation posts in Weeks 3–5 (boost only organic standouts), Empowerment posts in Weeks 6–8 (primary boost phase), Habit Formation posts in Weeks 8+
 
 ### Boost Targeting
 
@@ -220,6 +222,16 @@ FB ads don't work in isolation. The execution flow ([verified-execution-flow.md]
 The awareness campaigns need to generate enough volume before the retargeting pools become useful. With a $500–$2K/month budget, it takes 2–3 weeks before you have enough warm audiences to retarget meaningfully. That's why the first weeks are awareness-heavy — you're filling the funnel, not just running ads.
 
 If budget is on the lower end ($500/month), prioritize the warm email list over Facebook for early signups, and use Facebook mainly to build the retargeting pool. At $2K/month, the full funnel is viable from week one.
+
+**Budget decision framework:**
+
+| Monthly FB Budget | Campaign Structure | Primary Conversion Driver |
+|-------------------|-------------------|--------------------------|
+| **$500** | 2 campaigns: Awareness (60%) + Retarget (40%). Collapse consideration + conversion into one retarget campaign. | Warm email list (free, 10K–50K contacts) |
+| **$1,000** | 3 campaigns viable. Awareness (50%) + Consideration (25%) + Conversion (25%). | Email leads Weeks 1–4, FB takes over Weeks 5+ |
+| **$2,000** | Full 3-campaign funnel from Week 1. Budget shifts as planned. | Email and FB work in parallel |
+
+At $500/month, your weekly awareness spend (~$75) generates maybe 10K–20K impressions. That means a retarget pool of 2,000–4,000 by Week 3 — too thin for a dedicated conversion campaign with separate ad sets. Combine consideration + conversion into one retarget campaign to keep frequency manageable and let the algorithm optimize across a larger pool.
 
 ---
 

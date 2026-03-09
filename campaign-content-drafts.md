@@ -717,13 +717,13 @@ Join the [X] businesses that are already verified. Your customers will thank you
 | C3 | This Resort Had 8,000 Likes | Fear Activation | 3–5 | Consumer |
 | C4 | 52% of Filipinos — Consumer Angle | Fear Activation | 3–5 | Dual |
 | C5 | They Faked a Household Name — Consumer Angle | Fear Activation | 3–5 | Dual |
-| C6 | How to Check — Visual Guide | Empowerment | 5–7 | Consumer |
-| C7 | The GCash Check | Empowerment | 5–7 | Consumer |
-| C8 | 3 Signs a Page Is Fake | Empowerment | 5–7 | Dual |
-| C9 | #CheckBeforeYouPay Launch | Habit Formation | 7–10+ | Consumer |
-| C10 | Tell Your Nanay | Habit Formation | 7–10+ | Consumer |
-| C11 | UGC Showcase Prompt | Habit Formation | 7–10+ | Consumer |
-| C12 | Milestone — X Consumers Checked | Habit Formation | 7–10+ | Dual |
+| C6 | How to Check — Visual Guide | Empowerment | 6–8 | Consumer |
+| C7 | The GCash Check | Empowerment | 6–8 | Consumer |
+| C8 | 3 Signs a Page Is Fake | Empowerment | 6–8 | Dual |
+| C9 | #CheckBeforeYouPay Launch | Habit Formation | 8–10+ | Consumer |
+| C10 | Tell Your Nanay | Habit Formation | 8–10+ | Consumer |
+| C11 | UGC Showcase Prompt | Habit Formation | 8–10+ | Consumer |
+| C12 | Milestone — X Consumers Checked | Habit Formation | 8–10+ | Dual |
 
 ## Consumer Blog Articles by Phase
 
@@ -731,9 +731,9 @@ Join the [X] businesses that are already verified. Your customers will thank you
 |---|-------|-------|---------|-----------------|
 | CB1 | How to Spot a Fake Business Page on Facebook | Fear Activation | Week 3 | Soft |
 | CB2 | I Paid a Scammer Who Copied a Real Resort | Fear Activation | Week 3–4 | No |
-| CB3 | How to Check if a Business Is Verified by dotPH | Empowerment | Week 5 | Yes |
-| CB4 | Before You Send Money: The 3-Step Check | Empowerment | Week 5–6 | Yes |
-| CB5 | Tell Your Nanay: A Family Guide to Avoiding Scams | Habit Formation | Week 7+ | Yes |
+| CB3 | How to Check if a Business Is Verified by dotPH | Empowerment | Week 6 | Yes |
+| CB4 | Before You Send Money: The 3-Step Check | Empowerment | Week 6–7 | Yes |
+| CB5 | Tell Your Nanay: A Family Guide to Avoiding Scams | Habit Formation | Week 8+ | Yes |
 
 ---
 
@@ -896,8 +896,10 @@ If there's no way to verify, there's no way to be sure.
 
 ---
 
-## PHASE 2: EMPOWERMENT (Weeks 5–7)
+## PHASE 2: EMPOWERMENT (Weeks 6–8)
 
+> **Starts Week 6** — after sufficient verified businesses exist (300–500+) for the badge-checking advice to be actionable. Weeks 3–5 (Fear Activation) build the "so pano?" tension; this phase answers it.
+>
 > **Goal:** Give consumers a specific, actionable way to check. Teach the behavior.
 > **Emotion:** Relief, control.
 > **Rule:** Every post includes the how. This is where Verified by dotPH enters the consumer conversation.
@@ -993,7 +995,7 @@ If they don't — ask why. Verification is free.
 
 ---
 
-## PHASE 3: HABIT FORMATION (Weeks 7–10+)
+## PHASE 3: HABIT FORMATION (Weeks 8–10+)
 
 > **Goal:** Make checking a reflex. Normalize it socially. Spread through family and friend networks.
 > **Emotion:** Confidence, social responsibility.
