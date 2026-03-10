@@ -1,1 +1,0 @@
-../../.agents/skills/copy-editing/SKILL.md

@@ -1,7 +1,8 @@
 # Scam & Business Impersonation References
 
 **Purpose:** Curated list of articles, reports, and stories to fuel the "Verified by dotPH" campaign.
-**Last updated:** 2026-03-05
+**Last updated:** 2026-03-09
+**Aligned with:** [campaign-content-drafts.md](campaign-content-drafts.md) and [verified-marketing-strategy.md](verified-marketing-strategy.md)
 
 ---
 
@@ -65,8 +66,8 @@
 
 ### 4. Philippines Scams 2025: National Crisis Response
 - **Key finding:** 2nd-highest global fraud rate; P480B annual losses (1.9% of GDP)
-- **Stage:** CONVERSION (Weeks 5–8+)
-- **Campaign approach:** The P480B number is the "macro" closer. Use it in conversion-stage content when business owners are already aware of the problem but haven't signed up: "The Philippines loses P480 billion a year to scams. Verification is free. What's your excuse?" Works best in retargeting ads and follow-up emails to people who visited the landing page but didn't convert.
+- **Stage:** AWARENESS (Weeks 2–3, macro context in blog articles) + CONVERSION (Weeks 5–8+, as conversion closer in ads and emails)
+- **Campaign approach:** The P480B number serves two roles. In Awareness (Article 3, "The P480 Billion Problem"), it reframes scams as a business crisis, not just a consumer one — published Week 2–3 with no product mention. In Conversion (Ad 10, retargeting emails), it's the "macro" closer: "The Philippines loses P480 billion a year to scams. Verification is free. Your customers are already looking for verified businesses."
 - **Consumer angle:** Break down the P480B into personal terms: "P1.3 billion per day. P55 million per hour. Some of that money came from people like you — paying a scammer who copied a real business." The personal framing ("people like you") hits harder than the macro number for consumers. Use in the #CheckBeforeYouPay launch post (C9).
 - **Link:** [ScamWatch HQ](https://www.scamwatchhq.com/philippines-scams-2025-second-highest-global-fraud-rate-sparks-national-crisis-response/)
 
@@ -100,6 +101,7 @@
   - [GMA Regional TV: Public warned vs scams using fake resort FB pages](https://www.gmanetwork.com/regionaltv/news/111512/public-warned-vs-scams-using-fake-resort-fb-pages/story/)
 
 ### 7. Porto Laiya Beach Resort Fake Page — Batangas (March 2025)
+- **Status: Backlog — partially used in Consumer Article 2 (inline mention of Batangas paid ads, no formal citation)**
 - **What happened:** A fake Facebook page ran *paid ads* impersonating Porto Laiya Beach Resort in Batangas, using the resort's name and photos to collect bookings.
 - **Stage:** AWARENESS (Weeks 1–3)
 - **Campaign approach:** The fact that scammers ran *paid* Facebook ads makes this story especially alarming. Use in organic posts: "Scammers are now PAYING for Facebook ads to impersonate real businesses. If they're investing money to fake you, shouldn't you prove you're real?" This story works well for tourism and hospitality-focused targeting.
@@ -107,12 +109,14 @@
 - **Link:** [Interaksyon/Philstar](https://interaksyon.philstar.com/rumor-cop/2025/03/25/293885/fake-facebook-account-batangas-beach-resort-name/)
 
 ### 8. PHLPost Name Used in Scam Messages
+- **Status: Backlog — no content produced yet**
 - **What happened:** Scammers used the Philippine Postal Corporation (PHLPost) name in online messages to trick people into clicking malicious links.
 - **Stage:** AWARENESS (Weeks 1–3)
 - **Campaign approach:** Use as a "nobody is safe" proof point: "If scammers can impersonate the Philippine Post Office, they can impersonate your business." Works well as a supporting data point in long-form Facebook posts or email content — not as a standalone ad, but as part of a thread showing the breadth of the problem.
 - **Link:** [PHLPost Official Warning](https://phlpost.gov.ph/cpt-press-releases/public-warned-on-scam-messages-online-using-phlpost-name/)
 
 ### 9. Rise in Fake Company Websites (Investigator Report)
+- **Status: Backlog — no content produced yet**
 - **What happened:** Philippine private investigators reported a steady rise in fake company websites impersonating real businesses and contacting victims using the real company's identity.
 - **Stage:** AWARENESS (Weeks 1–3) + CONSIDERATION (Weeks 3–5)
 - **Campaign approach:**
@@ -141,18 +145,21 @@
   - [Penalty for Fake Social Media Accounts](https://www.lawyer-philippines.com/articles/penalty-for-fake-social-media-accounts-philippines)
 
 ### 12. Fake Online Store Scam Legal Guide
+- **Status: Backlog — no content produced yet**
 - **What it covers:** How fake online stores work, applicable laws (Estafa, Cybercrime Prevention Act), how to report
 - **Stage:** CONSIDERATION (Weeks 3–5)
 - **Campaign approach:** Reference in email mailers when explaining the problem to e-commerce business owners: "Here's what happens after someone clones your store — and trust us, you don't want to find out the hard way." Link to this as a resource, then offer verification as the proactive alternative.
 - **Link:** [Respicio & Co](https://www.lawyer-philippines.com/articles/fake-online-store-scam-in-the-philippines-how-to-report-and-recover-payments)
 
 ### 13. Common Types of Fraud in PH (2025 Guide)
+- **Status: Backlog — no content produced yet**
 - **What it covers:** Comprehensive fraud taxonomy — business impersonation, phishing, e-commerce fraud
 - **Stage:** AWARENESS (Weeks 1–3)
 - **Campaign approach:** Use as background research to inform ad copy and social content. Pull specific fraud types mentioned (account takeover, brand cloning) to create a "Did you know?" post series. Each post highlights one fraud type and ends with: "Verified by dotPH helps your customers know it's really you."
 - **Link:** [Tookitaki Compliance Hub](https://www.tookitaki.com/compliance-hub/common-types-of-fraud-in-the-philippines-2025-guide)
 
 ### 14. 12 Online Scams in the Philippines 2025
+- **Status: Backlog — no content produced yet**
 - **What it covers:** Consumer-facing list of common scams — fake stores, phishing, impersonation
 - **Stage:** AWARENESS (Weeks 1–3)
 - **Campaign approach:** Share directly in organic posts as "know your enemy" content. Good for community engagement — ask followers "Have you experienced any of these?" to spark comments and shares. High engagement = free reach for the dotPH brand.
@@ -160,6 +167,7 @@
 - **Link:** [Home Credit PH](https://www.homecredit.ph/stories/online-scams-in-the-philippines)
 
 ### 15. 19 Common Scams in the Philippines
+- **Status: Backlog — no content produced yet**
 - **What it covers:** Broad scam overview — online selling scams, identity theft, fake businesses
 - **Stage:** AWARENESS (Weeks 1–3)
 - **Campaign approach:** Same as #13 — use for organic engagement content. The Grit PH framing is practical and accessible, making it easy to reshare with a dotPH commentary layer.
@@ -190,6 +198,7 @@
 ## Academic & Research
 
 ### 18. Social Media Content Compilation of Online Banking Scams in PH
+- **Status: Backlog — no content produced yet**
 - **What it covers:** Literature review on social media-driven banking scams in the Philippines
 - **Stage:** CONSIDERATION (Weeks 3–5)
 - **Campaign approach:** Use as a credibility cite in thought leadership content — blog posts, LinkedIn articles, or partner communications. Not for ads, but for building dotPH's authority with industry stakeholders, press, and potential B2B partners.
@@ -200,18 +209,21 @@
 ## Social Media & Viral Content Angles
 
 ### 19. Radar PH: "Social Media Scams Are Exploding — Who Should Pay?"
+- **Status: Backlog — no content produced yet**
 - **Key framing:** Emotional, accountability-focused headline
 - **Stage:** AWARENESS (Weeks 1–3)
 - **Campaign approach:** Reshare or reference the article in organic posts with the angle: "Social media scams are exploding in the Philippines. But who's responsible? Platforms? Government? Or should businesses take matters into their own hands?" This sparks debate and engagement — then dotPH enters the conversation with: "We built a way for businesses to prove they're real."
 - **Link:** [Radar PH](https://radar.ph/social-media-scams-are-exploding-a-new-cybercrime-wave-hits-ph-who-should-pay/)
 
 ### 20. Simpol PH: Online Scam Prevention (P480B Loss)
+- **Status: Backlog — no content produced yet**
 - **Key framing:** Breaks down the P480B loss in accessible, visual terms
 - **Stage:** AWARENESS (Weeks 1–3)
 - **Campaign approach:** Use as source material for an infographic: "P480 billion lost to scams every year. That's P1.3 billion per day. P55 million per hour." Visual content gets shared more — pair with the dotPH logo and a CTA to learn more. Perfect for Facebook carousel ads.
 - **Link:** [Simpol PH](https://www.simpol.ph/philippines-online-scam-prevention-480b-loss/)
 
 ### 21. Feedzai: Combating Emerging Scams in the Philippines
+- **Status: Backlog — no content produced yet**
 - **Key framing:** Industry/B2B perspective on evolving PH fraud landscape
 - **Stage:** CONSIDERATION (Weeks 3–5)
 - **Campaign approach:** Use for B2B-facing content and partner outreach. "Even global fintech companies are sounding the alarm about scams in the Philippines. Verification isn't just nice-to-have — it's becoming industry standard." Works in cold email to potential enterprise dotPH customers.
@@ -224,11 +236,13 @@
 - **Link:** [Inquirer](https://newsinfo.inquirer.net/1898085/identity-theft-scams-via-socmed-on-the-rise)
 
 ### 23. PNP: Over 1,300 Online Selling Scams (Jan–Aug 2025)
+- **Status: Backlog — no content produced yet**
 - **Stage:** AWARENESS (Weeks 1–3)
 - **Campaign approach:** Use as a quick stat in ad copy or email subject lines: "1,300+ online selling scams reported in just 8 months. Is your business protected?" Simple, punchy, works in short-form formats.
 - **Link:** [Inquirer](https://newsinfo.inquirer.net/2103620/pnp-logs-over-1300-online-selling-scams-in-first-8-months-of-2025)
 
 ### 24. Cyberint: Social Media Poisoning Campaigns in PH
+- **Status: Backlog — no content produced yet**
 - **What it covers:** How threat actors use fake brand pages to distribute malware and harvest credentials
 - **Stage:** CONSIDERATION (Weeks 3–5)
 - **Campaign approach:** Use for technically-minded audiences and B2B messaging: "Scammers aren't just stealing your brand — they're using fake versions of your page to distribute malware to your customers." This elevates the threat beyond lost revenue to reputational damage and liability. Works in email mailers to IT/security-conscious business owners.
@@ -250,6 +264,7 @@
   - [MarqVision: Is Lazada Legit?](https://www.marqvision.com/blog/is-lazada-legit)
 
 ### 26. DTI Holds Platforms Liable for Seller Scams
+- **Status: Backlog — no content produced yet**
 - **What happened:** DTI declared that Shopee, Lazada, and other platforms are equally liable for vendors found guilty of selling deceptive products — penalties up to P300,000. DTI also began issuing takedown orders under the Internet Transactions Act of 2023.
 - **Stage:** CONSIDERATION (Weeks 3–5)
 - **Campaign approach:** "If platforms are now liable for fake sellers, imagine what a scammer posing as YOUR business could cost you — not just lost customers, but legal exposure. Verification puts you on the right side of the law." Targets business owners who understand regulatory risk.
@@ -262,6 +277,7 @@
 ## Restaurant & Food Business Scams
 
 ### 27. Fake Food Business Pages on Facebook
+- **Status: Backlog — mapped to Post C10 and Consumer Article 5 but not cited in either**
 - **What happened:** Scammers create fake Facebook pages mimicking real restaurants and food businesses, using professional-looking graphics and purchased fake reviews/likes. They take advance payments for non-existent food orders, deliveries, or catering. DTI Memorandum Circular 20-22 requires sellers to disclose registration info, but fake pages rarely comply — and most customers don't check.
 - **Stage:** AWARENESS (Weeks 1–3) + CONSIDERATION (Weeks 3–5)
 - **Campaign approach:**
@@ -340,6 +356,7 @@
   - [SunStar: Scam alert — Town flags fake resort pages on FB](https://www.sunstar.com.ph/cebu/scam-alert-town-flags-fake-resort-pages-on-fb)
 
 ### 33. Verafiles: Impostor Pages Post FAKE Company Anniversary Giveaways
+- **Status: Backlog — no content produced yet**
 - **What happened:** Verafiles documented a pattern of impostor Facebook pages posting fake "anniversary giveaways" from major Philippine companies — not just Jollibee, but across industries. These pages use stolen branding and direct users to phishing sites.
 - **Stage:** AWARENESS (Weeks 1–3)
 - **Campaign approach:** "Scammers are running fake anniversary promos using YOUR company's name. Your customers click, share their data, and blame YOU when things go wrong. Verification stops this before it starts."
@@ -374,7 +391,7 @@ Best references: #2, #6, #9, #10, #11, #12, #16, #17, #18, #21, #24, #26, #27, #
 Best references: #4, #5, #16, #32
 
 **Goal:** Drive signups. Use urgency, social proof, and case studies.
-**Content types:** Retargeting ads, case study emails, "last chance" messaging, social proof (early adopter counts)
+**Content types:** Retargeting ads, case study emails, social proof (early adopter counts), relevance messaging ("your customers are already looking for it")
 
 ---
 
@@ -393,17 +410,17 @@ Best references: #4, #5, #16, #32
 
 **Consumer content cross-references:**
 - Post C1 (Spot the Fake): general — no specific reference needed
-- Post C2 (Victim Story): #5 (Bantayan)
-- Post C3 (8,000 Likes): #6 (Cabanas La Union)
-- Post C4 (52% of Filipinos): #1 (GSMA)
-- Post C5 (Household Name): #28 (Jollibee)
+- Post C2 (Victim Story): #5 (Bantayan) — formal "Based on" citation
+- Post C3 (8,000 Likes): #6 (Cabanas La Union) — formal "Based on" citation
+- Post C4 (52% of Filipinos): #1 (GSMA) — formal "Based on" citation
+- Post C5 (Household Name): #28 (Jollibee) — formal "Based on" citation
 - Post C6 (How to Check): product tutorial — no reference
-- Post C7 (GCash Check): #30 (GCash/Maya phishing)
-- Post C8 (3 Signs): #6, #25, #32
-- Post C9 (#CheckBeforeYouPay): #1, #4
-- Post C10 (Tell Your Nanay): #5, #27, #29, #30
-- Consumer Article 1: #2, #1, #25, #28
-- Consumer Article 2: #5, #6, #7, #31, #32
-- Consumer Article 3: product tutorial
-- Consumer Article 4: #30
-- Consumer Article 5: #1, #5, #27, #29, #30
+- Post C7 (GCash Check): #30 (GCash/Maya phishing) — inline use of findings, no formal citation
+- Post C8 (3 Signs): #6, #25, #32 — informed by these references but no formal citations in post
+- Post C9 (#CheckBeforeYouPay): #1, #4 — inline stat use, no formal citation
+- Post C10 (Tell Your Nanay): #5, #29, #30 — inline use; ~~#27 (food scams) originally mapped but absent from content~~
+- Consumer Article 1: #2, #1, #25, #28 — #2 and #1 in sources line; #25 and #28 inline only
+- Consumer Article 2: #5, #6, #31, #32 — all used in body/sources; #7 (Porto Laiya) mentioned inline as "Batangas paid ads" without formal citation
+- Consumer Article 3: product tutorial — no reference
+- Consumer Article 4: #30 — originally mapped but absent from article content; article is a standalone tutorial
+- Consumer Article 5: #1, #5, #29, #30 — all present inline or in sources; ~~#27 (food scams) originally mapped but absent~~
