@@ -15,6 +15,21 @@
 >
 > Each ad includes: primary text, headline, description, campaign stage, target audience, creative direction, and source reference.
 
+### Visual Specs for Designer
+
+| Spec | Details |
+|------|---------|
+| **Static image** | 1080 x 1080 px (square) or 1080 x 1350 px (4:5 portrait, recommended for feed) |
+| **Carousel slides** | 1080 x 1080 px per slide, 3–5 slides |
+| **Video** | 1080 x 1080 px (feed) or 1080 x 1920 px (Stories/Reels), 15–30 sec |
+| **File formats** | PNG for statics, MP4 for video. Max 30 MB for images, 4 GB for video |
+| **Text on image** | Keep under 20% of image area (Meta's recommendation for ad delivery) |
+| **Color palette** | **Awareness phase:** Dark/muted backgrounds (black, dark navy) with bold white/red text — urgency, alarm. **Consideration phase:** Split tones — dark (problem) vs. light/green (solution). **Conversion phase:** Clean white/light backgrounds with dotPH brand colors — trust, action |
+| **Typography** | Bold sans-serif for hero stat/number (e.g., "423%", "P500K"). Clean readable sans-serif for body. All caps sparingly — for single-word emphasis only |
+| **Branding rule** | **Awareness ads (1–6):** NO dotPH logo, NO product branding — pure problem education. **Consideration ads (7–8):** dotPH logo in bottom corner, CTA button visible. **Conversion ads (9–10):** Full dotPH branding, prominent CTA button, badge visual |
+| **Source citations** | Always visible in small text, bottom corner. Format: "Source, Year" (e.g., "Check Point, 2025") |
+| **Accessibility** | Minimum contrast ratio 4.5:1 for text on backgrounds. Avoid red-green only color distinctions |
+
 ---
 
 ## AWARENESS ADS (Weeks 1–3)
@@ -32,11 +47,14 @@
 **Target:** All business owners PH, 25–55
 
 **Primary Text:**
-Phishing websites impersonating Philippine businesses jumped 423% in one year.
 
-From 731 to 3,824.
+> **ABOVE FOLD** — first 125 characters visible before "See more":
 
-Fake brand profiles on social media? Up 37%.
+423% more fake business pages this year. Is yours one of them?
+
+> **BELOW FOLD:**
+
+Phishing websites impersonating Philippine businesses jumped from 731 to 3,824 in one year. Fake brand profiles on social media? Up 37%.
 
 Scammers aren't slowing down. They're scaling up — faster than most businesses realize. And they don't need to hack anything. They just copy your name, your logo, your photos. Then they wait for your customers to pay.
 
@@ -56,13 +74,18 @@ The question isn't whether it's happening. It's whether it's already happening t
 **Target:** Tourism, hospitality, resort owners — Visayas geo-targeting
 
 **Primary Text:**
-A fake Facebook page copied a resort in Bantayan Island. Same name. Same photos. Same location on the map.
 
-It got 50,000 likes. The real page? It was offline.
+> **ABOVE FOLD** — first 125 characters visible before "See more":
 
-Guests sent deposits through GCash. They showed up at the resort expecting their booking. The resort had no record of them.
+A Facebook page got 50,000 likes. It looked exactly like a real Bantayan resort. It was completely fake.
 
-Over 200 victims. P500,000 lost — from one resort alone.
+> **BELOW FOLD:**
+
+Same name. Same photos. Same location on the map. The real resort page? It was offline.
+
+Guests sent deposits through GCash. They showed up expecting their booking. The resort had no record of them.
+
+Over 200 victims. P500,000 lost — from one fake page.
 
 The scammers didn't hack anything. They just made a page that looked real. And customers couldn't tell the difference.
 
@@ -87,15 +110,16 @@ Each slide: clean text on a muted beach/resort background. No product branding.
 **Target:** Tourism, hospitality — La Union / Elyu / North Luzon geo-targeting
 
 **Primary Text:**
-A Facebook page called "Cabanas La Union" had 8,000 likes. It looked like a real resort — beautiful photos, a Urbiztondo address, and a payment link.
 
-Guests paid. Then they showed up.
+> **ABOVE FOLD** — first 125 characters visible before "See more":
 
-The resort didn't exist.
+This resort in La Union had 8,000 likes. Beautiful photos. Guests paid for bookings. Then they showed up. It didn't exist.
+
+> **BELOW FOLD:**
 
 No building. No location on Google Maps. No DTI registration. The photos were stolen from a resort in Batangas.
 
-Verafiles fact-checked and confirmed: it was a total fabrication. The page changed its name twice to avoid getting caught.
+A Facebook page called "Cabanas La Union" — with a Urbiztondo address and a payment link — was a total fabrication. Verafiles fact-checked and confirmed it. The page changed its name twice to avoid getting caught.
 
 If a completely fake resort can get 8,000 likes, imagine what a scammer can do with YOUR real business name.
 
@@ -113,13 +137,18 @@ If a completely fake resort can get 8,000 likes, imagine what a scammer can do w
 **Target:** All business owners PH, 25–55
 
 **Primary Text:**
-52% of Filipinos have been scammed at least once.
+
+> **ABOVE FOLD** — first 125 characters visible before "See more":
+
+Your customers don't blame the scammer. They blame you. And 52% of Filipinos have already been scammed at least once.
+
+> **BELOW FOLD:**
 
 That's 7 percentage points above the ASEAN average. And 96% of us are worried it'll happen again.
 
 But here's what nobody talks about: scams don't just hurt customers. They hurt the businesses being impersonated. When a scammer copies your page and takes money from your customers, it's YOUR reputation that takes the hit.
 
-Your customers don't blame the scammer. They blame you.
+Every lost customer thinks they got scammed by YOU — not by the fake page that used your name.
 
 **Headline:** 52% of Filipinos Have Been Scammed
 **Description:** Your business pays the price.
@@ -135,15 +164,22 @@ Your customers don't blame the scammer. They blame you.
 **Target:** All business owners PH — especially F&B, restaurants, food businesses
 
 **Primary Text:**
-Fake Facebook pages impersonated one of the most recognized fast food brands in the Philippines.
 
-They ran fake anniversary promos. P7,000 cash giveaways. P10,000 gift vouchers. "Labor Day gifts." All fake.
+> **ABOVE FOLD** — first 125 characters visible before "See more":
+
+If scammers can fake one of the biggest fast food chains in the Philippines, what's stopping them from faking yours?
+
+> **BELOW FOLD:**
+
+Fake Facebook pages impersonated a household name. They ran fake anniversary promos — P7,000 cash giveaways, P10,000 gift vouchers, "Labor Day gifts." All fake.
 
 Customers clicked. They entered their email, phone number, personal data. They thought they were interacting with the real brand.
 
 The company had to issue an official statement: "These are scams."
 
-If scammers can fake a household name — with their legal team, their social media team, their million-peso marketing budget — what's stopping them from faking YOUR business?
+That brand has a legal team. A social media team. A million-peso marketing budget. And they still got faked.
+
+What's protecting YOUR business page right now?
 
 **Headline:** They Faked a Household Name.
 **Description:** Your business could be next.
@@ -164,13 +200,18 @@ Use bold text on simple backgrounds. Cite: "Verafiles fact-checked, confirmed fa
 **Target:** Travel agencies, tour operators, hospitality businesses
 
 **Primary Text:**
-89 travel scam reports in just 5 months. And those are only the ones that got reported.
+
+> **ABOVE FOLD** — first 125 characters visible before "See more":
+
+"Book now, fly never." 89 travel scam reports in 5 months — and those are only the ones that got reported.
+
+> **BELOW FOLD:**
 
 Fake hotel bookings. Bogus flight deals. "Travel agents" who vanish after collecting payment. All using cloned pages — real photos, real logos, fake everything else.
 
-GMA News called it: "Book now, fly never."
+GMA News called it a surge. But if you run a legit travel business, you already know.
 
-If you run a legit travel business, every fake page erodes the trust your customers have in online booking. They hesitate. They second-guess. They call to confirm every single transaction.
+Every fake page erodes the trust your customers have in online booking. They hesitate. They second-guess. They call to confirm every single transaction.
 
 The scammers don't just steal money. They steal your customers' confidence in you.
 
@@ -196,7 +237,14 @@ The scammers don't just steal money. They steal your customers' confidence in yo
 **Target:** Retarget — engaged with Awareness ads
 
 **Primary Text:**
-Here's what happens when someone copies your business page:
+
+> **ABOVE FOLD** — first 125 characters visible before "See more":
+
+6 steps to take down a fake page. Months of waiting. Or — one free verification that prevents it. Your call.
+
+> **BELOW FOLD:**
+
+Here's the prosecution route:
 
 Step 1: File a complaint with DTI.
 Step 2: Report to PNP Anti-Cybercrime Group.
@@ -207,9 +255,11 @@ Step 6: The scammer creates a new page.
 
 That's the process. For ONE fake page.
 
-Or — you could just get verified.
+Here's the prevention route:
 
-Verified by dotPH gives your business a verified badge, a public verification page, and verified links your customers can check before they pay. It's free for .ph domain holders. And it's not a self-claimed badge — dotPH checks your Valid ID and business documents before you get verified. That's why scammers can't get one.
+Verified by dotPH gives your business a verified badge, a public verification page, and verified links your customers can check before they pay. dotPH checks your Valid ID and business documents — so scammers can't get one.
+
+It's free for .ph domain holders. From the official .ph domain registry.
 
 Prevention beats prosecution. Every time.
 
@@ -227,19 +277,22 @@ Prevention beats prosecution. Every time.
 **Target:** Retarget — engaged with Awareness ads (all industries)
 
 **Primary Text:**
-A bank manager at one of the largest banks in the Philippines almost fell for a phishing scam.
 
-The fake app looked exactly like a real government app. It captured biometrics to authorize fund transfers. The scam only failed because the bank's security team had already flagged the account.
+> **ABOVE FOLD** — first 125 characters visible before "See more":
 
-If a banking professional almost got fooled, what chance do your customers have?
+If a bank manager almost fell for a fake page, your customers don't stand a chance. Unless you give them a way to check.
+
+> **BELOW FOLD:**
+
+A senior bank manager at one of the PH's largest banks nearly got fooled by a phishing app that looked exactly like a real government app. The scam only failed because the bank's security team had already flagged the account.
 
 The problem isn't that people are careless. It's that fakes look real.
 
-That's why Verified by dotPH exists. It gives your business a verified badge and a public verification page — so your customers don't have to guess. They can check if you're real before they pay. And it's free for .ph domain holders.
+That's exactly what Verified by dotPH solves. Your business gets a verified badge, a public verification page, and verified links — so customers can check you're real before they pay. No guessing.
 
-Every verified business goes through an actual ID and document check. That's the difference — scammers can copy your page, but they can't pass a verification process.
+Every verified business goes through an actual ID and document check. Scammers can copy your page. They can't pass verification.
 
-Don't make your customers figure it out on their own.
+Free for .ph domain holders. From the official .ph domain registry.
 
 **Headline:** Even Bankers Get Fooled
 **Description:** Help customers know it's you.
@@ -263,19 +316,20 @@ Don't make your customers figure it out on their own.
 **Target:** Retarget — visited landing page, didn't sign up
 
 **Primary Text:**
-One resort in Bantayan Island lost P500,000 to scammers who copied their Facebook page.
 
-200+ guests paid a fake page. The resort didn't see a single peso.
+> **ABOVE FOLD** — first 125 characters visible before "See more":
 
-They found out when customers showed up expecting their bookings.
+[X] businesses already got verified. It's free. It takes 5 minutes. The only question is why you haven't yet.
 
-Verification could have given their guests a way to check which page was real — before sending money.
+> **BELOW FOLD:**
 
-Verified by dotPH is free for .ph domain holders. It gives your customers a verified badge, a verification page, and verified links to confirm you're the real business. And it's backed by a real process — dotPH checks your Valid ID and business documents before issuing the badge.
+You've seen the problem. P500K lost from one fake resort page. 200+ guests scammed. And that's just one case.
 
-A scammer can copy your page. They can't pass a document check.
+Verified by dotPH gives your customers a way to check you're real — before they send money. A verified badge, a verification page, and verified links to your real payment channels. All confirmed by dotPH through an actual ID and document check.
 
-Don't wait for it to happen to you.
+Scammers can copy your page. They can't pass verification.
+
+Free for .ph domain holders. From the official .ph domain registry.
 
 [Get Verified — It's Free]
 
@@ -293,17 +347,20 @@ Don't wait for it to happen to you.
 **Target:** Retarget — visited landing page, didn't sign up
 
 **Primary Text:**
-The Philippines loses P480 billion to scams every year.
 
-That's P1.3 billion per day. P55 million per hour.
+> **ABOVE FOLD** — first 125 characters visible before "See more":
 
-Some of that money was meant for real businesses like yours. Customers who wanted to pay you — but paid a scammer instead.
+[X] businesses signed up this week. Free. 5 minutes. Your competitors are on the list. Are you?
 
-Verification won't stop all scams. But it gives your customers a way to confirm you're real before they pay. That's the difference between getting the sale and losing it to a fake page.
+> **BELOW FOLD:**
 
-Verified by dotPH is free for .ph domain holders. From the official .ph domain registry. Every verified business goes through an ID and document check — so when customers see the badge, they know it's real.
+P480 billion lost to scams in the Philippines every year. P1.3 billion per day. Some of that money was meant for businesses like yours — customers who wanted to pay you, but paid a scammer instead.
 
-[X] businesses have already signed up. When will you?
+You already know the problem. Here's what you haven't done yet:
+
+Verified by dotPH gives your customers a verified badge, a verification page, and verified links — so they can confirm you're real before they pay. Every verified business goes through an ID and document check. Scammers can't pass it.
+
+Free for .ph domain holders. From the official .ph domain registry.
 
 [Get Verified — It's Free]
 
@@ -337,7 +394,7 @@ The number of phishing websites targeting the Philippines surged 423% in 2025 �
 
 The report, published in February 2026, paints a picture of what researchers call "industrialized" fraud: scam operations that don't just target individuals, but systematically impersonate businesses, brands, and government agencies at scale.
 
-**The numbers are getting worse**
+**Every metric is accelerating — and businesses are in the crosshairs**
 
 The Check Point data comes on the heels of other alarming findings:
 
@@ -347,7 +404,7 @@ The Check Point data comes on the heels of other alarming findings:
 
 These aren't isolated incidents. They're part of a trend that's been accelerating for years.
 
-**It's not just consumers who are at risk**
+**The second victim nobody talks about: the business being impersonated**
 
 Most scam coverage focuses on consumer victims — the people who click the wrong link or pay the wrong account. But there's a second victim that rarely gets mentioned: the business being impersonated.
 
@@ -361,13 +418,13 @@ The GSMA report identified social media as the leading channel for scams in the 
 
 A fake Facebook page doesn't need to look perfect. It needs to look real enough that a customer in a hurry doesn't double-check. And with professional-looking templates, purchased likes, and stolen photos available for almost nothing, the barrier to creating a convincing fake is essentially zero.
 
-**What's being done**
+**New laws exist — but enforcement can't keep pace**
 
 The Philippine government has responded with legislation. The Anti-Financial Account Scamming Act (AFASA), enacted in 2024, targets digital financial fraud. The Internet Transactions Act of 2023 gave the DTI authority to issue takedown orders against fraudulent online sellers.
 
 But enforcement is reactive — it addresses scams after they happen. The question facing Philippine businesses is increasingly not "will we get impersonated?" but "when it happens, will our customers be able to tell the difference?"
 
-**The road ahead**
+**The old ways of proving legitimacy no longer work**
 
 With scammers scaling operations faster than enforcement can keep up, the burden is shifting to businesses themselves. Companies that invest in visible, verifiable proof of their identity will be better positioned to maintain customer trust in an environment where fakes are becoming indistinguishable from the real thing.
 
@@ -411,7 +468,7 @@ In Batangas, a well-known beach resort discovered that scammers weren't just cre
 
 The fact that scammers are investing money in advertising fake businesses shows how profitable the operation has become. If they're spending on ads, the return on investment must be significant.
 
-**A coordinated problem**
+**Cebu tourism issued a joint warning — one syndicate is behind multiple fake hotels**
 
 By late 2025 and into 2026, the Cebu hotel industry and provincial tourism office issued a joint warning. Fake Facebook pages were mimicking real hotels across the province, with scammers using official photos and offering realistic rates — not suspiciously cheap ones — to avoid detection.
 
@@ -485,7 +542,7 @@ The real business does all the marketing. The scammer harvests the demand.
 
 Check Point's 2025 report documented a 37% increase in fake brand profiles on social media. The GSMA found that social media has overtaken SMS as the #1 scam channel in the Philippines. PNP identity theft cases more than doubled from 2022 to 2023 — from 1,402 to 2,999.
 
-**Industries under siege**
+**Tourism, e-commerce, F&B, banking — no industry is safe**
 
 Some industries are hit harder than others:
 
@@ -505,7 +562,7 @@ Filing a complaint against a fake Facebook page involves DTI, PNP-ACG, NBI-CCD, 
 
 This doesn't mean enforcement is pointless. It means businesses can't rely on enforcement alone.
 
-**The shift that needs to happen**
+**Businesses are the primary victims — and they need to start acting like it**
 
 The conversation about scams in the Philippines is still framed as a consumer protection issue. Government warns consumers. Banks tell customers to be careful. But the businesses being impersonated are treated as background characters in their own story.
 
@@ -545,7 +602,7 @@ SSL certificates — the padlock icon in the browser — prove that the connecti
 
 So a scammer can register a domain, install an SSL certificate, and present a website that looks exactly like a legitimate business. To the customer, everything looks right: .ph domain, padlock icon, professional design.
 
-**The trust gap**
+**Customers use 4 signals to decide if a page is real — scammers fake all 4**
 
 The real problem isn't technology. It's human.
 
@@ -559,7 +616,7 @@ Scammers know this checklist, and they optimize for every item on it. That's why
 
 What customers actually need is a way to verify business identity that can't be faked. Not a visual signal. An actual check.
 
-**What identity verification looks like**
+**A verification process scammers can't pass**
 
 This is the gap that Verified by dotPH was built to close.
 
@@ -573,7 +630,7 @@ Verified by dotPH is a free identity verification service from the official .ph 
 
 The key difference: this isn't self-reported. It's verified by the domain registry itself — the organization that manages the entire .ph domain system. That's a level of authority that no one else in the ecosystem can claim.
 
-**Why this matters for your business**
+**With vs. without verification: two very different customer journeys**
 
 Consider the customer journey:
 
@@ -619,7 +676,7 @@ There's no financial friction. The only question is whether you care enough abou
 
 Since Verified by dotPH launched, [X] businesses have signed up for free identity verification. Here's what's driving them — and why the number keeps growing.
 
-**The problem hasn't slowed down**
+**423% more fake pages — and the number is still climbing**
 
 Phishing sites impersonating Philippine businesses surged 423% in 2025. Fake Facebook pages cloning real resorts, restaurants, and online shops continue to appear daily. And the Philippines loses an estimated P480 billion to scams every year.
 
@@ -641,7 +698,7 @@ Restaurants dealing with cloned delivery pages — fake versions of their page t
 **Clinics and professionals: [X]% of signups**
 Healthcare providers and professional service firms are verifying to ensure patients and clients find the right contact information and appointment pages.
 
-**What they're saying**
+**In their own words: why they got verified**
 
 > *"I didn't think we needed it until I saw a fake page using our photos. Now I tell every business owner I know to get verified."*
 > — [Name], [Business], [Location]
@@ -654,7 +711,7 @@ Healthcare providers and professional service firms are verifying to ensure pati
 
 *(Replace with real testimonials as they come in.)*
 
-**Why they chose to verify**
+**The #1 reason: "I don't want my customers paying a scammer"**
 
 In a post-signup survey, the top reasons businesses cited:
 
@@ -745,6 +802,21 @@ Join the [X] businesses that are already verified. Your customers will thank you
 > **Tone:** Protective, empowering, practical — like warning a friend. Mix of English and Filipino context.
 > **Rule:** Never end on fear alone. Every post ends with an actionable step.
 
+### Visual Specs for Consumer Creatives
+
+| Spec | Details |
+|------|---------|
+| **Organic post images** | 1080 x 1080 px (square) for feed. 1080 x 1920 px for Stories |
+| **Carousel posts** | 1080 x 1080 px per slide, 3–5 slides. Design for swipe — each slide must work standalone AND in sequence |
+| **Boosted posts** | Same dimensions as organic — these get boosted from organic if >5% engagement, so don't design differently |
+| **Screenshot-able design** | Consumer posts should be designed to look good as a screenshot in Messenger/Viber. Avoid dark mode-only designs. Keep text large enough to read on a forwarded screenshot |
+| **Color palette** | **Fear Activation (Weeks 3–5):** Muted/dark tones — blacks, dark blues, muted reds. Somber, not sensational. **Empowerment (Weeks 6–8):** Transitional — lighter backgrounds, green/teal accents. Instructional feel. **Habit Formation (Weeks 8–10):** Warm, bright, community colors — yellows, oranges, light greens. Confidence and social momentum |
+| **Typography** | Conversational sans-serif. Headlines bold but not corporate. Body text at 16pt minimum equivalent for mobile readability. Use line breaks generously — these are mobile-first |
+| **Branding** | **Fear Activation posts:** NO dotPH branding. Posts should feel editorial/news, not branded. **Empowerment posts:** dotPH badge visual prominent — consumers need to learn what it looks like. **Habit Formation posts:** #CheckBeforeYouPay hashtag as visual element. dotPH badge as supporting visual |
+| **Interactive posts (C1)** | Side-by-side comparison must be genuinely hard to distinguish. Label "A" and "B" clearly. Reveal in pinned comment, not in the image |
+| **Tutorial posts (C6, C7)** | Step numbers large and prominent. Each step = one carousel slide. Include actual screenshots or mockups of the verification page and badge |
+| **Shareability test** | Every visual must pass the "Viber GC test" — would it make sense forwarded without the caption? If the image needs the caption to make sense, redesign |
+
 ---
 
 ## PHASE 1: FEAR ACTIVATION (Weeks 3–5)
@@ -761,17 +833,17 @@ Join the [X] businesses that are already verified. Your customers will thank you
 **Format:** Side-by-side image or carousel (2 slides)
 
 **Primary Text:**
-One of these Facebook pages is real. The other is a scam.
+One of these pages is real. One is a scam.
 
-Same name. Same logo. Same beach photos. Same GCash payment link.
+Same name. Same photos. Same GCash link.
 
-Can you tell which one is fake?
+Which one is fake? 👇
 
-(If you had to think about it — that's the point.)
+(If you had to think about it for even a second — that's the whole problem.)
 
-Scammers don't make obvious fakes anymore. They make pages that look exactly like the real thing. And they only need ONE customer to believe it.
+Scammers don't make obvious fakes anymore. They only need ONE person to fall for it.
 
-Comment your guess below. We'll reveal the answer in the comments.
+Guess in the comments. We'll drop the answer below.
 
 **Creative direction:** Two screenshots of Facebook business pages, side by side or in a carousel. Both look professional — same name, similar bio, similar photos. One is labeled "A" and the other "B." The differences are subtle (page creation date, slight URL variation). The answer is revealed in the first comment, with context: "The fake page had more likes than the real one."
 
@@ -787,23 +859,19 @@ Comment your guess below. We'll reveal the answer in the comments.
 **Format:** Text post or single image with text overlay
 
 **Primary Text:**
-I booked a resort in Bantayan Island for our family vacation. Found the Facebook page — it had 50,000 likes, real-looking photos, and accepted GCash.
+Booked a resort in Bantayan for a family trip. Found the page on Facebook — 50,000 likes, nice photos, accepts GCash.
 
 Sent the deposit. P3,500.
 
-When we arrived, the resort had no record of our booking. The page that took our money? It was a fake copy of the real resort.
+Got there. Resort had no record of us. The page that took our money was a fake copy. The REAL page only had 12,000 likes.
 
-The real page only had 12,000 likes. The fake one had 50,000.
+200+ families got scammed the same way. P500K gone.
 
-Over 200 families were scammed the same way. P500,000 gone — from one fake page.
+I checked the likes. I checked the photos. I checked the reviews. Still got scammed.
 
-I did everything "right." I checked the likes. I checked the photos. I checked the reviews. And I still got scammed.
+Because there was no way to check if the page actually belonged to the real resort.
 
-Because the one thing I didn't check — the one thing I COULDN'T check — was whether the page actually belonged to the real resort.
-
-Now there's a way to check. Before you book. Before you pay. Before you send money to anyone.
-
-But we'll get to that. For now, just know: what happened to us can happen to anyone.
+This can happen to literally anyone. Send this to someone before they book their next trip.
 
 **Creative direction:** Clean text on a muted background. No sales. No product mention (or very soft at most). The story does the work. Optional: include a real screenshot of the Bantayan scam news headline (SunStar Cebu).
 
@@ -817,19 +885,19 @@ But we'll get to that. For now, just know: what happened to us can happen to any
 **Format:** Carousel (3–4 slides)
 
 **Primary Text:**
-A Facebook page called "Cabanas La Union" had 8,000 likes. Beautiful photos. An address in Urbiztondo. It accepted bookings.
+"Cabanas La Union." 8,000 likes. Beautiful beach photos. Address in Urbiztondo.
 
-People paid. Then they showed up.
+People booked. They paid.
 
-The resort didn't exist. Not on Google Maps. Not registered with DTI. The photos were stolen from a resort in Batangas — hundreds of kilometers away.
+Then they showed up.
 
-The page was fact-checked by Verafiles: total fabrication. Created in February 2024, changed its name twice to avoid detection.
+The resort didn't exist. No building. No location on Google Maps. No DTI registration. The photos were stolen from a resort in Batangas.
 
-8,000 people liked a page for a place that was never real. Some of them paid.
+Verafiles confirmed: completely fabricated.
 
-Before you book a resort online — before you send a single peso — ask yourself: how do I know this is real?
+8,000 people liked a place that was never real. Some of them sent money.
 
-If you can't answer that question in 5 seconds, don't pay yet.
+Next time you're about to book something online — if you can't verify it's real in 5 seconds, don't pay yet.
 
 **Creative direction:** Carousel slides:
 1. "This resort in La Union had 8,000 likes." (scenic beach photo)
@@ -847,17 +915,17 @@ If you can't answer that question in 5 seconds, don't pay yet.
 **Format:** Static image or motion graphic
 
 **Primary Text:**
-52% of Filipinos have been scammed at least once.
+52% of Filipinos have been scammed at least once. More than half of us.
 
-That's more than half the country. Higher than Thailand. Higher than Indonesia. Higher than the ASEAN average.
+Higher than Thailand. Higher than Indonesia. Higher than the ASEAN average.
 
-96% of us are worried about scams. But most of us still don't know how to check if a business is real before we pay.
+And 96% of us are worried about it happening again.
 
-We check reviews. We check likes. We check if the page "looks professional."
+So what do we do? We check the likes. We check the photos. We check if the page "looks legit."
 
-Scammers know this. They fake all of it.
+Scammers fake all of that.
 
-You deserve a better way to check. One that scammers can't fake.
+There has to be a better way to check. (There is. More on that soon.)
 
 **Headline for image:** 52% of Filipinos Have Been Scammed
 **Subtext:** GSMA, 2025
@@ -874,19 +942,17 @@ You deserve a better way to check. One that scammers can't fake.
 **Format:** Carousel (3–4 slides)
 
 **Primary Text:**
-Fake Facebook pages impersonated one of the most recognized fast food chains in the Philippines. Anniversary promos. Cash giveaways. Gift vouchers.
+They faked one of the biggest fast food chains in the Philippines.
 
-Customers clicked. Entered their email. Their phone number. Their personal data. All fake.
+Anniversary promos. P7,000 cash giveaways. P10,000 gift vouchers. Thousands of people clicked and entered their personal data.
 
-The company had to issue a public statement: "These are scams."
+All fake. The real company had to issue a public statement: "These are scams."
 
 Now think about the businesses you buy from that AREN'T household names. The online sellers. The small resorts. The local restaurants.
 
-If scammers can fake a brand that everyone knows, imagine how easy it is to fake a business you've never heard of.
+If scammers can fake a brand everyone knows — what's stopping them from faking the page you're about to pay?
 
-Next time you see a promo, a giveaway, or a "limited offer" from a Facebook page — pause. Ask yourself: is this real?
-
-If there's no way to verify, there's no way to be sure.
+Next time you see a promo or giveaway on Facebook — pause. If there's no way to verify, don't click.
 
 **Creative direction:** Carousel:
 1. "Scammers impersonated a major PH fast food chain."
@@ -913,16 +979,18 @@ If there's no way to verify, there's no way to be sure.
 **Format:** Carousel (5 slides) — designed to be saved and shared in Messenger/Viber
 
 **Primary Text:**
-Before you pay any business online, here's how to check if they're real:
+Before you pay anyone online, do this:
 
-Step 1: Look for the Verified by dotPH badge on their website.
-Step 2: Click the badge — it should take you to their verification page on dotPH.
-Step 3: On the verification page, check their verified links: real Facebook, real GCash, real website.
+1. Look for the Verified by dotPH badge on their website.
+2. Click it. It takes you to their verification page.
+3. Check the verified links — their real Facebook, real GCash, real website.
 
-If the links on the verification page match the page you're buying from — it's real.
-If they don't — or if there's no badge at all — think twice before sending money.
+Links match the page you're buying from? You're good.
+Links don't match — or there's no badge? Don't send money.
 
-Save this post. Share it with your family. The 30 seconds it takes to check could save you thousands.
+Takes 30 seconds. Could save you thousands.
+
+Save this. Send it to your family GC.
 
 #CheckBeforeYouPay
 
@@ -944,17 +1012,16 @@ Save this post. Share it with your family. The 30 seconds it takes to check coul
 **Primary Text:**
 "Is this your real GCash?"
 
-Every online seller in the Philippines gets this question. And most customers just trust the answer.
+You've probably asked this. Or someone in your family has.
 
-Here's a better way:
+Here's the thing — the seller will always say yes. Even the fake ones.
 
-Before you send money through GCash or any e-wallet, visit the business's Verified by dotPH page. Their verified payment links are listed there — confirmed by the official .ph registry.
+Stop asking. Start checking.
 
-If the GCash number on the page you're buying from matches the one on the verification page — it's real.
+Go to the business's Verified by dotPH page. Their real payment links are listed there — confirmed by the official .ph registry.
 
-If it doesn't — you just saved yourself from a scam.
-
-Stop asking "Is this your real GCash?" Start checking for yourself.
+GCash number matches? Pay.
+Doesn't match? You just dodged a scam.
 
 #CheckBeforeYouPay
 
@@ -975,17 +1042,17 @@ Stop asking "Is this your real GCash?" Start checking for yourself.
 **Primary Text:**
 3 signs a Facebook page might be fake:
 
-1. The page was created recently — but the business claims to have been around for years. Check the "Page transparency" section.
+1. Page created last month — but the business says they've been around for years. (Check "Page transparency.")
 
-2. The photos look professional, but there's no website link. Real businesses connect their online channels. Scammers keep it to Facebook only — it's harder to trace.
+2. Professional photos but no website link. Scammers keep it Facebook-only — harder to trace.
 
-3. Payment is only through personal GCash or bank transfer — no business account, no official payment link. If they can't provide a verified payment channel, proceed with caution.
+3. Payment is personal GCash or bank transfer to an individual. No business account.
 
-None of these are 100% proof. Scammers are getting better.
+None of these are 100% proof. Scammers are getting better at faking everything.
 
-The one check that's harder to fake: a Verified by dotPH badge that links to a verification page on the official .ph registry. If the business has one, you can check their real links in seconds.
+The one thing they can't fake: a Verified by dotPH badge that links to a verification page on the official .ph registry. Check their real links in seconds.
 
-If they don't — ask why. Verification is free.
+No badge? Ask why. Verification is free.
 
 **Creative direction:** Carousel:
 1. "3 Signs a Facebook Page Might Be Fake" (title)
@@ -1010,24 +1077,21 @@ If they don't — ask why. Verification is free.
 **Format:** Video (30–60 sec) or high-impact static
 
 **Primary Text:**
-Introducing #CheckBeforeYouPay.
-
-52% of Filipinos have been scammed.
-Fake Facebook pages look real.
-Fake GCash links look real.
-Fake websites look real.
-
-But now there's a way to check.
-
 Before you pay — check.
 Before you book — check.
 Before you send money — check.
 
-Look for the Verified by dotPH badge. Click it. Check the verified links.
+#CheckBeforeYouPay
 
-30 seconds. That's all it takes to protect yourself.
+Fake pages look real. Fake GCash links look real. Fake websites look real. But now there's a way to know for sure.
 
-Share this post if you think everyone should know about this. Tag someone who shops online. Tag someone who books resorts on Facebook. Tag someone who sends money through GCash.
+Look for the Verified by dotPH badge. Click it. Check the verified links. 30 seconds.
+
+Tag someone who shops online.
+Tag someone who books resorts on Facebook.
+Tag someone who sends money through GCash.
+
+They need to see this.
 
 #CheckBeforeYouPay
 
@@ -1046,15 +1110,15 @@ Your nanay shops online.
 Your tita books resorts on Facebook.
 Your lolo sends money through GCash.
 
-They don't know how to spot a fake page. They check the likes, the photos, the reviews — just like the 200+ families who got scammed by a fake resort in Bantayan.
+Do they know how to check if a page is real?
 
-You know better now. Tell them.
+200+ families got scammed by a fake resort page in Bantayan. They checked the likes. They checked the photos. Still got scammed.
 
-Show them how to check for the Verified by dotPH badge.
-Show them how to visit the verification page.
-Show them how to confirm the real GCash number before they send money.
+You know better now. Teach them.
 
-It takes 2 minutes to teach them. It could save them thousands.
+Show them the Verified by dotPH badge. Show them how to check the verification page. Show them how to confirm the real GCash number before sending money.
+
+2 minutes to teach. Could save them thousands.
 
 Protecting your family from scams isn't paranoia. It's pagmamahal.
 
@@ -1071,15 +1135,13 @@ Protecting your family from scams isn't paranoia. It's pagmamahal.
 **Format:** Text post with image template
 
 **Primary Text:**
-Have you checked a business's Verified by dotPH page before paying?
+You checked before you paid? Screenshot it.
 
-Screenshot it. Share your experience. Tag us.
+We want to see it — whether you found a verified business and paid with confidence, or you checked and decided NOT to pay because something didn't match.
 
-We want to hear from consumers who are checking before they pay. Whether you found a verified business and paid with confidence — or you checked and decided NOT to pay because something didn't match — your story matters.
+Your story matters. Drop it here. Use #CheckBeforeYouPay and we'll feature the best ones.
 
-Use #CheckBeforeYouPay and we'll feature the best ones on our page.
-
-The more people who check, the harder it gets for scammers to operate.
+The more people who check, the harder it gets for scammers.
 
 **Creative direction:** Simple branded template with a frame for user screenshots. "I checked before I paid. #CheckBeforeYouPay" — designed so consumers can overlay their own screenshot of a verification page visit.
 
@@ -1092,15 +1154,15 @@ The more people who check, the harder it gets for scammers to operate.
 **Format:** Static image or motion graphic
 
 **Primary Text:**
-[X] consumers checked a business's Verified by dotPH page this month.
+[X] people checked before they paid this month.
 
-That's [X] people who didn't just trust the likes, the photos, or the reviews. They checked.
+Not the likes. Not the photos. Not the reviews. They checked the actual verification page.
 
-Every check is a scam that didn't happen. Every check is money that went to the real business — not to a scammer.
+Every check = a scam that didn't happen.
+Every check = money that went to the real business.
 
-To the consumers: keep checking. You're making the internet safer for everyone.
-
-To the businesses: your customers are checking. Are you verified?
+Consumers: keep checking.
+Businesses: your customers are checking. Are you verified?
 
 #CheckBeforeYouPay
 
@@ -1202,7 +1264,7 @@ When we arrived, the resort said they had no record of our booking.
 
 The receptionist looked tired. Not surprised — tired. "You're the fifth one today," she said.
 
-**What happened**
+**The fake page had more likes than the real one**
 
 The page we'd booked through wasn't the real resort's page. It was a copy. Same name. Same photos — downloaded directly from the resort's real page, which had been offline for maintenance. Same location on the Facebook map.
 
@@ -1223,7 +1285,7 @@ Everything passed. And I still got scammed.
 
 Because the one thing I couldn't check was whether the page actually belonged to the resort. There was no way to verify that. I was trusting signals that any scammer can fake.
 
-**It's not just Bantayan**
+**Bantayan, La Union, Batangas, Cebu — it's happening everywhere**
 
 In La Union, a completely fabricated resort called "Cabanas La Union" amassed 8,000 likes using photos stolen from a Batangas resort. The resort didn't exist. Guests showed up to nothing. Verafiles fact-checked and confirmed — total fabrication.
 
@@ -1267,7 +1329,7 @@ You've heard the warnings. You know fake pages exist. You know the likes and pho
 
 But now there's something you can actually check.
 
-**What is Verified by dotPH?**
+**A verification that scammers can't copy — from the official .ph registry**
 
 Verified by dotPH is a free identity verification service from dotPH — the official registry that manages all .ph domains in the Philippines.
 
@@ -1313,7 +1375,7 @@ But you can ask: "Are you Verified by dotPH?" If the business is legitimate, the
 
 If they dismiss the question or get defensive, that tells you something too.
 
-**Why this matters**
+**You're not trusting the business — you're checking with the registry that verified them**
 
 Before Verified by dotPH, consumers had no reliable way to check if a Facebook page or website actually belonged to the business it claimed to represent. You had to trust the likes, the photos, the "vibes."
 
@@ -1380,7 +1442,7 @@ Is the GCash number the seller gave you the same as the one on their verificatio
 - **Match:** You're paying the real business. Send with confidence.
 - **No match:** Stop. Do not send money. The page you're dealing with may be a fake.
 
-**Why this works**
+**Scammers can fake a page in 10 minutes — they can't fake a registry verification**
 
 A scammer can create a fake Facebook page in 10 minutes. They can copy the name, the photos, and the customer service style.
 
@@ -1397,7 +1459,7 @@ But if you're about to send money and you have no way to verify the payment link
 - Check their website for official payment information.
 - Ask if they're Verified by dotPH — it's free, and legitimate businesses have no reason to avoid it.
 
-**The goal: replace "Is this your real GCash?" with a real check**
+**"Is this your real GCash?" is a hope, not a check**
 
 Asking the seller is not a check. It's a hope.
 
