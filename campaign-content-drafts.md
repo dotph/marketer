@@ -50,7 +50,7 @@
 
 > **ABOVE FOLD** — first 125 characters visible before "See more":
 
-423% more fake business pages this year. Is yours one of them?
+423% more fake business pages this year. Is someone copying yours right now?
 
 > **BELOW FOLD:**
 
@@ -113,7 +113,7 @@ Each slide: clean text on a muted beach/resort background. No product branding.
 
 > **ABOVE FOLD** — first 125 characters visible before "See more":
 
-This resort in La Union had 8,000 likes. Beautiful photos. Guests paid for bookings. Then they showed up. It didn't exist.
+A resort in La Union had 8,000 likes and stunning beachfront photos. Guests booked. Guests paid. Then they showed up.
 
 > **BELOW FOLD:**
 
@@ -244,22 +244,19 @@ The scammers don't just steal money. They steal your customers' confidence in yo
 
 > **BELOW FOLD:**
 
-Here's the prosecution route:
+You already know the prosecution route: DTI, PNP-ACG, NBI, sworn statements, screenshots, months of waiting. For ONE fake page. Then the scammer creates a new one.
 
-Step 1: File a complaint with DTI.
-Step 2: Report to PNP Anti-Cybercrime Group.
-Step 3: File with NBI Cybercrime Division.
-Step 4: Provide screenshots, transaction records, sworn statements.
-Step 5: Wait months. Maybe years.
-Step 6: The scammer creates a new page.
+Here's what prevention looks like instead:
 
-That's the process. For ONE fake page.
+1. Submit your ID and business documents to dotPH.
+2. dotPH verifies you're the real owner of your .ph domain.
+3. You get a verified badge and a public verification page — where your real GCash number, social media, and website are listed for customers to check before they pay.
 
-Here's the prevention route:
+Before a customer sends money, they click your badge and pull up your dotPH page. The GCash number matches? They pay. It doesn't? They know something's wrong before any money moves.
 
-Verified by dotPH gives your business a verified badge, a public verification page, and verified links your customers can check before they pay. dotPH checks your Valid ID and business documents — so scammers can't get one.
+Scammers can copy your page. They can't fake a dotPH verification.
 
-It's free for .ph domain holders. From the official .ph domain registry.
+Free for .ph domain holders. From the official .ph domain registry.
 
 Prevention beats prosecution. Every time.
 
@@ -288,9 +285,9 @@ A senior bank manager at one of the PH's largest banks nearly got fooled by a ph
 
 The problem isn't that people are careless. It's that fakes look real.
 
-That's exactly what Verified by dotPH solves. Your business gets a verified badge, a public verification page, and verified links — so customers can check you're real before they pay. No guessing.
+That's exactly what Verified by dotPH solves. Your business gets a verified badge — and a public page on dotPH where your real GCash number, social media, and website are listed. Before your customers pay, they check that page. If the details match, they know it's you. Not because you told them. Because the registry confirmed it.
 
-Every verified business goes through an actual ID and document check. Scammers can copy your page. They can't pass verification.
+Every verified business passes an actual ID and document check. Scammers can copy your page. They can't pass that.
 
 Free for .ph domain holders. From the official .ph domain registry.
 
@@ -319,24 +316,26 @@ Free for .ph domain holders. From the official .ph domain registry.
 
 > **ABOVE FOLD** — first 125 characters visible before "See more":
 
-[X] businesses already got verified. It's free. It takes 5 minutes. The only question is why you haven't yet.
+Your competitors are already verified. Their customers see the badge. Yours don't.
 
 > **BELOW FOLD:**
 
-You've seen the problem. P500K lost from one fake resort page. 200+ guests scammed. And that's just one case.
+[X] businesses have signed up for Verified by dotPH — free identity verification from the official .ph domain registry.
 
-Verified by dotPH gives your customers a way to check you're real — before they send money. A verified badge, a verification page, and verified links to your real payment channels. All confirmed by dotPH through an actual ID and document check.
+Before their customers pay, they pull up the business's dotPH verification page — one click on the badge. They see the real GCash number, the real website, the real social media. All listed. All confirmed by the registry. Then they pay with confidence.
 
-Scammers can copy your page. They can't pass verification.
+Meanwhile, your customers are still asking "Is this your real page?" Some stop asking and just don't pay. Some pay a scammer using your name.
 
-Free for .ph domain holders. From the official .ph domain registry.
+P500K lost from one fake resort page in Bantayan. 200+ guests scammed. That was one business, one month. How many of your customers have hesitated?
+
+Free for .ph domain holders. Submit your documents. dotPH handles the rest.
 
 [Get Verified — It's Free]
 
-**Headline:** P500K Lost. One Fake Page.
-**Description:** Verification is free.
+**Headline:** [X] Businesses Are Verified. Are You?
+**Description:** Free. From the .ph registry.
 
-**Creative direction:** Story-style single image. A receipt or payment screenshot aesthetic (stylized, not real). Bold text: "P500,000 lost." Below: "One fake Facebook page. One real resort." CTA button prominent. Urgency-driven.
+**Creative direction:** Clean, professional split. Left side: "[X] businesses verified" with verified badge visual. Right side: "Your customers are checking. Are you listed?" CTA button prominent. Tone: peer pressure, not fear. Badge visual should be recognizable — this is the audience's third+ exposure to the product.
 
 ---
 
@@ -350,22 +349,22 @@ Free for .ph domain holders. From the official .ph domain registry.
 
 > **ABOVE FOLD** — first 125 characters visible before "See more":
 
-[X] businesses signed up this week. Free. 5 minutes. Your competitors are on the list. Are you?
+[X] businesses signed up this week alone. The number is climbing. Don't be the business your customers can't verify.
 
 > **BELOW FOLD:**
 
 P480 billion lost to scams in the Philippines every year. P1.3 billion per day. Some of that money was meant for businesses like yours — customers who wanted to pay you, but paid a scammer instead.
 
-You already know the problem. Here's what you haven't done yet:
+The businesses that signed up? Their customers stopped asking "Is this really you?" — because now they can check. One click on the badge. Their real GCash number is right there on the dotPH page. Listed. Confirmed by the registry. The hesitation is gone.
 
-Verified by dotPH gives your customers a verified badge, a verification page, and verified links — so they can confirm you're real before they pay. Every verified business goes through an ID and document check. Scammers can't pass it.
+Your customers want that same confidence before they pay you. The question is whether they'll find it on your page — or give up and go somewhere else.
 
-Free for .ph domain holders. From the official .ph domain registry.
+Free for .ph domain holders. Submit your documents. dotPH handles the rest.
 
 [Get Verified — It's Free]
 
-**Headline:** P480B Lost to Scams. Yearly.
-**Description:** Get verified. Free.
+**Headline:** [X] Signed Up This Week. You?
+**Description:** Free. From the .ph registry.
 
 **Creative direction:** Infographic-style. Center: "P480,000,000,000" in large bold text. Below in smaller text: "lost to scams every year in the Philippines." Then: "P1.3B per day. P55M per hour." Final frame: dotPH verification CTA. Clean, data-driven, authoritative.
 
@@ -394,7 +393,7 @@ The number of phishing websites targeting the Philippines surged 423% in 2025 �
 
 The report, published in February 2026, paints a picture of what researchers call "industrialized" fraud: scam operations that don't just target individuals, but systematically impersonate businesses, brands, and government agencies at scale.
 
-**Every metric is accelerating — and businesses are in the crosshairs**
+**Every metric is accelerating**
 
 The Check Point data comes on the heels of other alarming findings:
 
@@ -626,7 +625,7 @@ Verified by dotPH is a free identity verification service from the official .ph 
 
 2. **dotPH reviews your identity.** The team verifies that you are the real person or business behind your .ph domain.
 
-3. **You get verified.** A verified badge for your website. A public verification page anyone can visit. Verified links to your real social media, payment channels, and website — all confirmed by dotPH.
+3. **You get verified.** A verified badge for your website. A public verification page on dotPH that anyone can visit — where you list your real social media, payment channels (GCash, bank accounts), and website. Customers check this page to confirm your details.
 
 The key difference: this isn't self-reported. It's verified by the domain registry itself — the organization that manages the entire .ph domain system. That's a level of authority that no one else in the ecosystem can claim.
 
@@ -636,7 +635,7 @@ Consider the customer journey:
 
 Without verification: A customer sees your website or Facebook page. It looks real. But so does the fake one. They hesitate. They screenshot your GCash number and DM you to confirm. Or they just don't pay.
 
-With verification: A customer sees your verified badge. They click through to your verification page on dotPH. They see your verified links — your real Facebook, your real GCash, your real website. They pay with confidence.
+With verification: A customer sees your verified badge. They click through to your verification page on dotPH. They see your listed payment channels — your real GCash number, your real website, your real social media. The details match? They pay with confidence.
 
 The difference isn't just trust. It's conversion. Every moment of hesitation is a potential lost sale.
 
@@ -690,7 +689,7 @@ The early adopters span multiple industries, but a few patterns have emerged:
 Resorts and hotels were among the first to verify. After high-profile scams in Bantayan Island, La Union, Batangas, and across Cebu — where fake Facebook pages collected deposits from hundreds of guests — tourism businesses see verification as essential. "Our guests kept asking how to confirm our page is real," said one resort owner. "Now we just point them to our verification page."
 
 **Online sellers and e-commerce: [X]% of signups**
-Independent sellers who rely on their own .ph domains — not just marketplace platforms — have been quick to adopt. The number one complaint they heard from customers: "Is this your real GCash?" Verified links solve that problem.
+Independent sellers who rely on their own .ph domains — not just marketplace platforms — have been quick to adopt. The number one complaint they heard from customers: "Is this your real GCash?" Now their GCash number is listed on their verification page — customers check there instead of asking.
 
 **Food and restaurants: [X]% of signups**
 Restaurants dealing with cloned delivery pages — fake versions of their page that accept payment for orders that never arrive — are using verification to help customers distinguish real from fake.
@@ -703,7 +702,7 @@ Healthcare providers and professional service firms are verifying to ensure pati
 > *"I didn't think we needed it until I saw a fake page using our photos. Now I tell every business owner I know to get verified."*
 > — [Name], [Business], [Location]
 
-> *"I submitted my documents and got verified the same week. My customers can now check our real payment links before they send money. That's worth more than any ad we've ever run."*
+> *"I submitted my documents and the team handled the rest. My customers can now pull up our verification page and confirm our real GCash number before they send money. That's worth more than any ad we've ever run."*
 > — [Name], [Business], [Location]
 
 > *"We put the verified badge on our website footer and our Instagram bio. Customers mention it — they actually check it."*
@@ -726,7 +725,7 @@ Verified by dotPH is free for all .ph domain holders.
 
 Step 1: Submit your government-issued ID and business documents.
 Step 2: dotPH reviews and confirms your identity.
-Step 3: Get your verified badge, verification page, and verified links.
+Step 3: Get your verified badge and verification page — where you list your real GCash number, social media, and website for customers to check.
 
 No cost. No catch.
 
@@ -923,14 +922,14 @@ And 96% of us are worried about it happening again.
 
 So what do we do? We check the likes. We check the photos. We check if the page "looks legit."
 
-Scammers fake all of that.
+Scammers fake all of that. Likes, photos, reviews — they know exactly what you check, and they game every signal.
 
-There has to be a better way to check. (There is. More on that soon.)
+Next time you're about to pay online — pause. If you can't verify the page is real through something other than how it looks, don't send money yet.
 
 **Headline for image:** 52% of Filipinos Have Been Scammed
 **Subtext:** GSMA, 2025
 
-**Creative direction:** Bold "52%" center-screen. Below: "of Filipinos have been scammed at least once." Consumer-focused framing — no business owner language. Clean, data-driven. Final text: "You deserve a better way to check."
+**Creative direction:** Bold "52%" center-screen. Below: "of Filipinos have been scammed at least once." Consumer-focused framing — no business owner language. Clean, data-driven. Final text: "If a deal looks too good — pause before you pay."
 
 ---
 
@@ -983,14 +982,14 @@ Before you pay anyone online, do this:
 
 1. Look for the Verified by dotPH badge on their website.
 2. Click it. It takes you to their verification page.
-3. Check the verified links — their real Facebook, real GCash, real website.
+3. Check the listed details — their real GCash number, website, and social media are all there.
 
 Links match the page you're buying from? You're good.
-Links don't match — or there's no badge? Don't send money.
+Links don't match — or there's no badge? Think twice before you pay.
 
 Takes 30 seconds. Could save you thousands.
 
-Save this. Send it to your family GC.
+Save this. Send it to someone you know who books trips, shops online, or sends money online.
 
 #CheckBeforeYouPay
 
@@ -998,7 +997,7 @@ Save this. Send it to your family GC.
 1. "How to Check if a Business Is Real" (title slide — clean, branded)
 2. "Step 1: Look for the Verified by dotPH badge on their website" (screenshot of a badge on a sample website footer)
 3. "Step 2: Click the badge to visit the verification page" (screenshot of a sample verification page)
-4. "Step 3: Check the verified links — real Facebook, real GCash, real website" (close-up of verified links section)
+4. "Step 3: Check the listed details — real GCash number, website, social media" (close-up of payment details section)
 5. "No badge? Ask why. Verification is free." + #CheckBeforeYouPay
 
 ---
@@ -1018,7 +1017,7 @@ Here's the thing — the seller will always say yes. Even the fake ones.
 
 Stop asking. Start checking.
 
-Go to the business's Verified by dotPH page. Their real payment links are listed there — confirmed by the official .ph registry.
+Go to the business's Verified by dotPH page. Their real GCash number is listed right there — confirmed by the official .ph registry, not by the seller themselves.
 
 GCash number matches? Pay.
 Doesn't match? You just dodged a scam.
@@ -1028,7 +1027,7 @@ Doesn't match? You just dodged a scam.
 **Creative direction:** Carousel slides:
 1. "Is this your real GCash?" (Messenger-style screenshot of someone asking this question)
 2. "Stop asking. Start checking." (transition text)
-3. "Visit their Verified by dotPH page. Check verified payment links." (screenshot of verified links with GCash highlighted)
+3. "Visit their Verified by dotPH page. Check their listed GCash number." (screenshot of the payment details section with GCash number visible)
 4. "Match? Pay with confidence. No match? Don't send money." + #CheckBeforeYouPay
 
 ---
@@ -1081,11 +1080,11 @@ Before you pay — check.
 Before you book — check.
 Before you send money — check.
 
+Here's what "check" means: go to the business's website, look for the Verified by dotPH badge, click it, and compare the details listed on their dotPH page with the page you're buying from. GCash number matches? It's real. 30 seconds.
+
 #CheckBeforeYouPay
 
-Fake pages look real. Fake GCash links look real. Fake websites look real. But now there's a way to know for sure.
-
-Look for the Verified by dotPH badge. Click it. Check the verified links. 30 seconds.
+Fake pages look real. Fake GCash links look real. Fake websites look real. But a verification page on dotPH — confirmed by the official .ph registry — can't be faked.
 
 Tag someone who shops online.
 Tag someone who books resorts on Facebook.
@@ -1228,7 +1227,7 @@ Google the business name. Search it on Facebook itself. If you find multiple pag
 
 **5. Check for a verification badge from a trusted source**
 
-This is the most reliable check. Some businesses now have a Verified by dotPH badge on their website — a verification seal from the official .ph domain registry. Clicking the badge takes you to a public verification page where you can see the business's verified links: their real Facebook page, their real payment channels, and their real website.
+This is the most reliable check. Some businesses now have a Verified by dotPH badge on their website — a verification seal from the official .ph domain registry. Clicking the badge takes you to a public verification page where you can see the business's listed details: their real Facebook page, their real payment channels (including GCash number), and their real website.
 
 A scammer can copy photos and buy likes. They can't copy a verification page on dotPH.
 
@@ -1299,13 +1298,13 @@ This isn't an isolated problem. It's an industry under siege.
 
 I wish there had been a way to check — not the likes, not the photos, not the vibes — but the actual identity of the business behind the page.
 
-I've since learned that some businesses are now getting verified through the official .ph domain registry. That means there's a page you can visit to see their real links: real Facebook, real GCash, real website. Confirmed by a third party I can actually trust.
+I've since learned that some businesses are now getting verified through the official .ph domain registry. That means there's a page on dotPH you can visit to see their listed details: their real Facebook, their GCash number, their website. The business's identity is confirmed by the registry — and their payment details are right there for you to compare.
 
 I'm not saying verification would have stopped every scam. But if the resort I booked had been verified — and I knew how to check — I would have known in 10 seconds that the page I was paying wasn't the real one.
 
 **What I do now**
 
-Before I pay any business online, I check. I look for the badge. I visit the verification page. I compare the links.
+Before I pay any business online, I check. I look for the badge. I visit the verification page on dotPH. I compare the GCash number and payment details listed there with what the seller gave me.
 
 It takes 30 seconds. And it would have saved me P3,500 and a ruined vacation.
 
@@ -1337,7 +1336,7 @@ When a business gets verified, dotPH confirms their identity by reviewing govern
 
 1. **A verified badge** they can display on their website
 2. **A public verification page** on dotPH that anyone can visit
-3. **Verified links** — their confirmed Facebook page, payment channels, and website
+3. **A place to list their real details** — their payment channels (GCash number, bank accounts), social media, and website — all on one page customers can check
 
 This is different from a Facebook blue checkmark (which is a paid subscription) or an SSL padlock (which only encrypts the connection). Verified by dotPH confirms the *identity* of the person or business behind the domain.
 
@@ -1355,9 +1354,9 @@ This is the critical step. Click the badge. It should take you directly to the b
 
 If clicking the badge takes you to a page on dotPH (verified.dot.ph or similar), you're looking at a real verification. If it goes nowhere, goes to a different site, or just shows an image — it's not real.
 
-**Step 3: Check the verified links**
+**Step 3: Check the listed details**
 
-On the verification page, you'll see the business's verified links: their official Facebook page, their official payment channels (GCash, bank accounts), and their official website.
+On the verification page, you'll see the business's listed information: their official Facebook page, their payment channels (GCash number, bank accounts), and their official website.
 
 Compare these links with the page you're buying from:
 - Is the Facebook page URL the same?
@@ -1389,7 +1388,7 @@ Now there's a check they can't fake — because it lives on dotPH, not on the bu
 |-------|-----|-------------------|
 | Badge on website | Look for it in footer/checkout | Business claims to be verified |
 | Click the badge | Should go to dotPH verification page | Verification is real, not a copied image |
-| Verified links | Compare with the page you're buying from | Links match = real business |
+| Listed details | Compare GCash/payment info with what seller gave you | Details match = real business |
 
 Save this page. Share it with your family. The 30 seconds it takes to check could save thousands.
 
@@ -1429,11 +1428,11 @@ Before you send money, check if the business has a Verified by dotPH badge on th
 
 If you don't see a badge, search for the business on dotPH directly.
 
-**Step 2: Check the verified payment links**
+**Step 2: Check the listed payment details**
 
-On the verification page, the business's official payment channels are listed — GCash numbers, bank accounts, payment links. These have been confirmed by dotPH.
+On the verification page, the business has listed their official payment channels — GCash number, bank accounts, payment links. The business added these details to their verified profile on dotPH.
 
-Write down or screenshot the verified GCash number.
+Write down or screenshot the GCash number listed on the page.
 
 **Step 3: Compare**
 
@@ -1463,7 +1462,7 @@ But if you're about to send money and you have no way to verify the payment link
 
 Asking the seller is not a check. It's a hope.
 
-Checking their verified payment links on dotPH is a check.
+Checking the payment details listed on their dotPH page is a check.
 
 One takes 5 seconds and tells you nothing. The other takes 30 seconds and could save you thousands.
 
@@ -1515,9 +1514,9 @@ Teach them the phrase. Make it a reflex. Before they send money to any business 
 
 **2. "Look for the Verified by dotPH badge."**
 
-If the business has a website, look for the badge. Click it. It should take you to a verification page on the dotPH website where you can see the business's real links — real Facebook, real GCash, real website.
+If the business has a website, look for the badge. Click it. It should take you to a verification page on dotPH where the business has listed their real details — their GCash number, their website, their social media.
 
-If the links match the page they're buying from, it's safe. If they don't, stop.
+Compare the GCash number on the verification page with the one the seller gave you. If they match, it's safe. If they don't, stop.
 
 **3. "No badge? Call before you pay."**
 
