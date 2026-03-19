@@ -1282,7 +1282,7 @@ Non-converters don't exit the funnel — they get recycled.
    │  (open loops)    │  (it's free)     │  Relevance       │
    │  Mere Exposure   │  Activation      │  Bandwagon       │
    │  (repetition)    │  Energy          │  Contrast Effect │
-   │                  │  (5 min, 3 steps)│  (verified vs    │
+   │                  │  (free, 3 steps) │  (verified vs    │
    │                  │                  │   unverified)    │
    └──────────────────┴──────────────────┴──────────────────┘
 ```

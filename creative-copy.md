@@ -2,7 +2,7 @@
 
 **Document type:** Production-ready ad copies and blog articles
 **Last updated:** 2026-03-05
-**Source material:** [scam-and-impersonation-references.md](scam-and-impersonation-references.md)
+**Source material:** [ref-scam-stories.md](ref-scam-stories.md)
 
 ---
 
@@ -35,7 +35,7 @@
 ## AWARENESS ADS (Weeks 1–3)
 
 > **Rule (cold ad sets):** No product mention. No dotPH branding. Pure problem education.
-> **Rule (warm ad set):** Lead with the problem, but include a soft product teaser (e.g., "dotPH is launching free verification to fix this"). See [verified-marketing-strategy.md](verified-marketing-strategy.md) for warm awareness ad copy variants (#13–#15).
+> **Rule (warm ad set):** Lead with the problem, but include a soft product teaser (e.g., "dotPH is launching free verification to fix this"). See [strategy-marketing.md](strategy-marketing.md) for warm awareness ad copy variants (#13–#15).
 > **Objective:** Engagement / Video Views — build retargeting audiences.
 
 ---
@@ -50,7 +50,7 @@
 
 > **ABOVE FOLD** — first 125 characters visible before "See more":
 
-423% more fake business pages this year. Is someone copying yours right now?
+Someone is collecting payments using your business name. Here's how they work ↓
 
 > **BELOW FOLD:**
 
@@ -60,8 +60,10 @@ Scammers aren't slowing down. They're scaling up — faster than most businesses
 
 The question isn't whether it's happening. It's whether it's already happening to you.
 
-**Headline:** Phishing Sites Up 423% in PH
+**Headline:** Someone Is Using Your Name
 **Description:** Is your business being copied?
+
+> **A/B test note:** Original headline "Phishing Sites Up 423% in PH" — test against "Someone Is Using Your Name." The above-fold line (*"Someone is collecting payments using your business name"*) is the more personally confrontational hook; the headline should match its register.
 
 **Creative direction:** Static image or motion graphic. Dark background, bold white "423%" center-screen. Smaller text below: "increase in phishing websites impersonating PH businesses." Source citation in bottom corner: "Check Point, 2025." No logo, no CTA button — engagement objective only.
 
@@ -150,10 +152,12 @@ But here's what nobody talks about: scams don't just hurt customers. They hurt t
 
 Every lost customer thinks they got scammed by YOU — not by the fake page that used your name.
 
-**Headline:** 52% of Filipinos Have Been Scammed
-**Description:** Your business pays the price.
+**Headline:** They Don't Blame the Scammer.
+**Description:** They blame your business.
 
-**Creative direction:** Text-heavy static or short motion graphic. Big "52%" in the center. Below: "of Filipinos scammed at least once — GSMA, 2025." Second frame or scroll: "But who pays the price?" Arrow pointing to "Your business." Clean, data-driven feel. No product mention.
+**Creative direction:** Text-heavy static or short motion graphic. Opening frame: "They don't blame the scammer." Beat. "They blame your business." Second frame: Big "52%" — "of Filipinos scammed at least once — GSMA, 2025." Arrow pointing to: "And every one of them remembers who they think scammed them." Clean, data-driven feel. No product mention.
+
+> **A/B test note:** Original headline "52% of Filipinos Have Been Scammed" / description "Your business pays the price." — The above-fold reframe (*"Your customers don't blame the scammer. They blame you"*) is the campaign's sharpest insight and should lead as the headline, not be buried in body text.
 
 ---
 
@@ -216,9 +220,41 @@ Every fake page erodes the trust your customers have in online booking. They hes
 The scammers don't just steal money. They steal your customers' confidence in you.
 
 **Headline:** Book Now, Fly Never.
-**Description:** 89 scam reports in 5 months.
+**Description:** They steal your customers' trust.
 
-**Creative direction:** Video or animated text. Open with a beautiful travel destination shot. Text overlay fades in: "Book now..." then shifts to: "...fly never." Cut to black: "89 travel scam reports. Jan–May 2025." Then: "Fake agencies. Fake bookings. Real money lost." Source: GMA News. No product mention.
+**Creative direction:** Video or animated text. Open with a beautiful travel destination shot. Text overlay fades in: "Book now..." then shifts to: "...fly never." Second frame: "Every fake page erodes your customers' trust in online booking." Beat. "They hesitate. They call to confirm. They stop booking." Final frame: "89 travel scam reports. Jan–May 2025." Source: GMA News. No product mention.
+
+> **Copy note:** The trust-damage line (*"They don't just steal money. They steal your customers' confidence in you"*) is the strongest insight in this ad — it now anchors the visual direction. Original description "89 scam reports in 5 months" moved to creative treatment; trust damage takes the description slot as it's more emotionally resonant.
+
+---
+
+### Ad 11: "You've Done Everything Right" — Contrarian Hook
+
+**Stage:** Awareness (Weeks 1–3)
+**Target:** All business owners PH, 25–55 — specifically those with established online presence (high following, active pages)
+
+**Primary Text:**
+
+> **ABOVE FOLD** — first 125 characters visible before "See more":
+
+Your page looks professional. 10,000 likes. 200 reviews. A verified email address. None of that proves you're the real business.
+
+> **BELOW FOLD:**
+
+Likes can be purchased for P500. Photos can be stolen in 30 seconds. Reviews can be manufactured. "Verified email" proves someone owns an email address — not that they own your business.
+
+Scammers know what your customers look for. And they build pages specifically designed to pass every check your customers know how to do.
+
+Right now, somewhere in the Philippines, there's a page using your business name that passes every test your customers trust. The only test it can't pass is one that checks the official .ph domain registry.
+
+But your customers don't know that test exists yet.
+
+**Headline:** Your Page Looks Real. So Does Theirs.
+**Description:** Likes can be bought. Fakes can't be verified.
+
+**Creative direction:** Static or motion graphic. Two columns. Left: real business metrics a customer would trust — "10,000 likes" ✅ "200 reviews" ✅ "Responds within minutes" ✅ "Professional photos" ✅. Right: same checklist but labeled "Fake page — also passes all of these." No product mention. Final frame: "There's only one check scammers can't fake." Source annotation: "Verafiles, SunStar Cebu." No product branding — pure problem.
+
+> **Angle note:** This is the contrarian angle missing from the current set. Every existing awareness ad says "scammers are out there." This ad says "the signals you feel safe about are exactly what scammers exploit." It invalidates the reader's false sense of security — which is a stronger call to action than adding more fear about a distant threat.
 
 ---
 
@@ -267,34 +303,38 @@ Prevention beats prosecution. Every time.
 
 ---
 
-### Ad 8: "Even a Bank Manager" — Phishing Story
+### Ad 8: "They Checked Everything" — Diligent Customer Scammed
 
 **Stage:** Consideration
-**Based on:** Reference #29 (Bank Phishing Scam — Rappler Investigation)
+**Based on:** Reference #5 (Bantayan Island Resort Booking Scams) + Reference #6 (Cabanas La Union)
 **Target:** Retarget — engaged with Awareness ads (all industries)
 
 **Primary Text:**
 
 > **ABOVE FOLD** — first 125 characters visible before "See more":
 
-If a bank manager almost fell for a fake page, your customers don't stand a chance. Unless you give them a way to check.
+She checked the likes. She checked the reviews. She checked the photos. She did everything right. She still got scammed.
 
 > **BELOW FOLD:**
 
-A senior bank manager at one of the PH's largest banks nearly got fooled by a phishing app that looked exactly like a real government app. The scam only failed because the bank's security team had already flagged the account.
+The page had over 8,000 likes. Professional beach photos. Positive comments. A GCash payment link. It looked exactly like a real resort.
 
-The problem isn't that people are careless. It's that fakes look real.
+She paid. She showed up. There was nothing there.
 
-That's exactly what Verified by dotPH solves. Your business gets a verified badge — and a public page on dotPH where your real GCash number, social media, and website are listed. Before your customers pay, they check that page. If the details match, they know it's you. Not because you told them. Because the registry confirmed it.
+The problem wasn't that she was careless. The problem is that every signal she checked — likes, photos, reviews, response time — can be faked in 10 minutes for less than P500.
 
-Every verified business passes an actual ID and document check. Scammers can copy your page. They can't pass that.
+That's exactly what Verified by dotPH solves. Your business gets a verified badge — and a public page on dotPH where your real GCash number, social media, and website are confirmed by the official .ph domain registry. Before your customers pay, they check that page. If the details match, they know it's you. Not because you said so. Because the registry verified it.
+
+Scammers can copy your page. They can't pass a document check.
 
 Free for .ph domain holders. From the official .ph domain registry.
 
-**Headline:** Even Bankers Get Fooled
-**Description:** Help customers know it's you.
+**Headline:** Your Customers Can't Tell Anymore
+**Description:** Give them one check that works.
 
-**Creative direction:** Clean editorial style. Dark background. Opening text: "A senior bank manager almost fell for a phishing scam." — Rappler. Then: "If professionals can be fooled, your customers can too." Transition to dotPH value prop. CTA: "Get Verified — It's Free." dotPH branding visible.
+**Creative direction:** Clean editorial style. Dark background. Opening text (sequence): "She checked the likes." ✅ "She checked the reviews." ✅ "She checked the photos." ✅ Beat. "She still got scammed." ❌ Then: "The problem isn't careless customers. It's that fakes look real." Transition to dotPH value prop. CTA: "Get Verified — It's Free." dotPH branding visible.
+
+> **Revision note:** Previous version used a bank manager / government app phishing story (Rappler ref #29). That scenario involves personal phishing, not business impersonation — a category mismatch with the product. This version uses the Bantayan/La Union resort pattern (the customer was diligent; the signals were all fake) which directly mirrors the product's use case and keeps the consideration stage grounded in the awareness stories the audience has already seen.
 
 ---
 
@@ -306,10 +346,9 @@ Free for .ph domain holders. From the official .ph domain registry.
 
 ---
 
-### Ad 9: "P500K Lost" — Case Study Urgency
+### Ad 9: "Already Verified" — Competitor Urgency
 
 **Stage:** Conversion
-**Based on:** Reference #5 (Bantayan Island Resort Booking Scams)
 **Target:** Retarget — visited landing page, didn't sign up
 
 **Primary Text:**
@@ -320,15 +359,11 @@ Your competitors are already verified. Their customers see the badge. Yours don'
 
 > **BELOW FOLD:**
 
-[X] businesses have signed up for Verified by dotPH — free identity verification from the official .ph domain registry.
+[X] businesses are now verified. Their customers can click the badge, see the real GCash number confirmed by the official .ph registry, and pay without hesitation.
 
-Before their customers pay, they pull up the business's dotPH verification page — one click on the badge. They see the real GCash number, the real website, the real social media. All listed. All confirmed by the registry. Then they pay with confidence.
+Your customers are still asking: "Is this the real page?" Some wait. Some don't pay at all. Some pay a scammer using your name.
 
-Meanwhile, your customers are still asking "Is this your real page?" Some stop asking and just don't pay. Some pay a scammer using your name.
-
-P500K lost from one fake resort page in Bantayan. 200+ guests scammed. That was one business, one month. How many of your customers have hesitated?
-
-Free for .ph domain holders. Submit your documents. dotPH handles the rest.
+It's free. It takes one submission. dotPH handles the rest.
 
 [Get Verified — It's Free]
 
@@ -337,12 +372,13 @@ Free for .ph domain holders. Submit your documents. dotPH handles the rest.
 
 **Creative direction:** Clean, professional split. Left side: "[X] businesses verified" with verified badge visual. Right side: "Your customers are checking. Are you listed?" CTA button prominent. Tone: peer pressure, not fear. Badge visual should be recognizable — this is the audience's third+ exposure to the product.
 
+> **Revision note:** Previous version re-served the Bantayan P500K case study (already used in Ad 2, Reel R1, and Ad 10's original body). At conversion stage, a retargeted audience doesn't need more evidence of the problem — they need a short, direct push. Case study removed; social proof count + consequence gap + zero-friction CTA replaces it.
+
 ---
 
-### Ad 10: "P480 Billion" — National Loss as Closer
+### Ad 10: "Hesitation Costs" — Trust Gap Closer
 
 **Stage:** Conversion
-**Based on:** Reference #4 (ScamWatch HQ — P480B annual losses)
 **Target:** Retarget — visited landing page, didn't sign up
 
 **Primary Text:**
@@ -353,11 +389,11 @@ Free for .ph domain holders. Submit your documents. dotPH handles the rest.
 
 > **BELOW FOLD:**
 
-P480 billion lost to scams in the Philippines every year. P1.3 billion per day. Some of that money was meant for businesses like yours — customers who wanted to pay you, but paid a scammer instead.
+Some of the P480 billion Filipinos lose to scams every year was meant for businesses like yours — customers who wanted to pay you, but paid a scammer instead.
 
-The businesses that signed up? Their customers stopped asking "Is this really you?" — because now they can check. One click on the badge. Their real GCash number is right there on the dotPH page. Listed. Confirmed by the registry. The hesitation is gone.
+The businesses that signed up? The hesitation is gone. Customers click the badge, see the confirmed GCash number, and pay. No more "Is this your real page?"
 
-Your customers want that same confidence before they pay you. The question is whether they'll find it on your page — or give up and go somewhere else.
+Your customers want that confidence. Are they finding it?
 
 Free for .ph domain holders. Submit your documents. dotPH handles the rest.
 
@@ -366,7 +402,45 @@ Free for .ph domain holders. Submit your documents. dotPH handles the rest.
 **Headline:** [X] Signed Up This Week. You?
 **Description:** Free. From the .ph registry.
 
-**Creative direction:** Infographic-style. Center: "P480,000,000,000" in large bold text. Below in smaller text: "lost to scams every year in the Philippines." Then: "P1.3B per day. P55M per hour." Final frame: dotPH verification CTA. Clean, data-driven, authoritative.
+**Creative direction:** Two frames. Frame 1 — clean dark background: "[X] businesses verified this week." Badge visual. Frame 2 — lighter background, CTA prominent: "Your customers are looking for the badge. Are they finding it?" CTA button. Keep it short — this audience has seen the full funnel.
+
+> **Revision note:** P480B stat retained but moved from center-stage infographic to a single supporting line. At conversion stage, leading with a national data visualization re-runs the awareness phase. The focus shifts to the trust gap consequence (lost revenue from hesitation) and momentum (this week's signup count). Shorter copy overall — the audience doesn't need more evidence, they need a reason to act today.
+
+---
+
+### Ad 12: "What Your Customers See Now" — Identity / Aspiration
+
+**Stage:** Conversion (Weeks 5–8+)
+**Target:** Retarget — visited landing page, didn't sign up — specifically businesses in high-impersonation industries (resorts, F&B, clinics, online sellers)
+
+**Primary Text:**
+
+> **ABOVE FOLD** — first 125 characters visible before "See more":
+
+When a verified business's customer searches for their page, they find a badge. One click. Confirmed. No hesitation.
+
+> **BELOW FOLD:**
+
+Here's what your customer sees after you get verified:
+
+They find your page. They see the Verified by dotPH badge. They click it. Your business name, your real GCash number, your official website — all confirmed by the official .ph domain registry. They pay. No DM asking "Is this your real account?" No second-guessing. No hesitation.
+
+That's the experience verified businesses give their customers every day.
+
+Right now, your customers are still doing mental math before they pay you. "Looks legit... but is it?" Some decide yes. Some don't bother.
+
+The badge removes the math.
+
+Free for .ph domain holders. Submit your documents. dotPH handles the rest.
+
+[Get Verified — It's Free]
+
+**Headline:** Verified Businesses Close More.
+**Description:** No more "Is this your real page?"
+
+**Creative direction:** Clean, light background — full dotPH brand colors. This is the aspirational end-state, not the fear state. Show the customer journey: search → find page → click badge → see verified details → pay. Simple iconographic flow. Badge visual prominent. "The hesitation is gone." Final CTA button. No dark color palette — this ad is about the after, not the before.
+
+> **Angle note:** This is the identity/aspiration angle missing from the current set. Every existing ad activates fear. This ad activates desire — showing verified businesses as more professional, more trusted, and winning more customers than their unverified competitors. At conversion stage, showing the positive outcome is often more effective than re-serving the problem the audience already knows.
 
 ---
 
@@ -389,7 +463,7 @@ Free for .ph domain holders. Submit your documents. dotPH handles the rest.
 
 ### Phishing Sites Targeting Philippine Businesses Surge 423% in 2025
 
-The number of phishing websites targeting the Philippines surged 423% in 2025 — from 731 to 3,824 — according to a new report from cybersecurity firm Check Point.
+The number of phishing websites targeting the Philippines surged 423% last year — from 731 to 3,824 — according to a new report from cybersecurity firm Check Point.
 
 The report, published in February 2026, paints a picture of what researchers call "industrialized" fraud: scam operations that don't just target individuals, but systematically impersonate businesses, brands, and government agencies at scale.
 
@@ -398,8 +472,8 @@ The report, published in February 2026, paints a picture of what researchers cal
 The Check Point data comes on the heels of other alarming findings:
 
 - The GSMA's 2025 ASEAN Consumer Scam Report found that 52% of Filipinos have been scammed at least once — 7 percentage points above the regional average.
-- Whoscall's 2025 Philippines Scam Report showed risky URLs surging from 13,602 to 49,431 within the year — a nearly fourfold increase.
-- The PNP logged over 1,525 online selling scam cases in 2025 alone.
+- Whoscall's 2025 Philippines Scam Report showed risky URLs surging from 13,602 to 49,431 within 2025 — a nearly fourfold increase.
+- The PNP logged over 1,525 online selling scam cases last year alone.
 
 These aren't isolated incidents. They're part of a trend that's been accelerating for years.
 
@@ -471,7 +545,7 @@ The fact that scammers are investing money in advertising fake businesses shows 
 
 By late 2025 and into 2026, the Cebu hotel industry and provincial tourism office issued a joint warning. Fake Facebook pages were mimicking real hotels across the province, with scammers using official photos and offering realistic rates — not suspiciously cheap ones — to avoid detection.
 
-Local authorities believe a large syndicate is behind the coordinated attacks. GMA News reported 89 online travel scam reports filed in just the first five months of 2025.
+Local authorities believe a large syndicate is behind the coordinated attacks. GMA News reported 89 online travel scam reports filed in just the first five months of last year.
 
 **Why it keeps working**
 
@@ -750,9 +824,11 @@ Join the [X] businesses that are already verified. Your customers will thank you
 | 5 | Household Name Gets Faked | Awareness | #28 Fast Food Chain | F&B / All |
 | 6 | Book Now, Fly Never | Awareness | #31 GMA News | Travel / Tourism |
 | 7 | Prevention vs. Prosecution | Consideration | #10, #11 | Retarget — engaged |
-| 8 | Even a Bank Manager | Consideration | #29 Bank Phishing | Retarget — engaged |
-| 9 | P500K Lost | Conversion | #5 Bantayan | Retarget — LP visitors |
-| 10 | P480 Billion | Conversion | #4 ScamWatch | Retarget — LP visitors |
+| 8 | They Checked Everything | Consideration | #5 Bantayan / #31 Resort | Retarget — engaged |
+| 9 | Already Verified | Conversion | Signup momentum | Retarget — LP visitors |
+| 10 | Hesitation Costs | Conversion | #4 ScamWatch | Retarget — LP visitors |
+| 11 | Your Page Looks Real | Awareness | Contrarian hook | Cold — business owners |
+| 12 | What Your Customers See Now | Conversion | Identity / aspiration | Retarget — warm |
 
 ## Blog Articles by Stage
 

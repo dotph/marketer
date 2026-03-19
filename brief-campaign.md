@@ -233,4 +233,4 @@ Week 6-8   Email 4 (final push)  |  FB Ads: Shift to conversion  |  Cold Email 5
 ## Full Strategy Document
 
 For complete copy (email bodies, ad copy variations, organic post templates, cold email sequence):
-→ [verified-marketing-strategy.md](verified-marketing-strategy.md)
+→ [strategy-marketing.md](strategy-marketing.md)

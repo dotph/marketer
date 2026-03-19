@@ -3,10 +3,10 @@
 **Document type:** Strategic overview and media buying guide for the Facebook Ads channel
 **Last updated:** 2026-03-06
 **Related documents:**
-- [campaign-content-drafts.md](campaign-content-drafts.md) — Production-ready ad copies and blog articles
-- [verified-execution-flow.md](verified-execution-flow.md) — Full funnel flow maps and prospect journeys
-- [verified-marketing-strategy.md](verified-marketing-strategy.md) — Complete operational playbook (all channels)
-- [verified-campaign-brief.md](verified-campaign-brief.md) — Campaign brief and success targets
+- [creative-copy.md](creative-copy.md) — Production-ready ad copies and blog articles
+- [exec-funnel-flow.md](exec-funnel-flow.md) — Full funnel flow maps and prospect journeys
+- [strategy-marketing.md](strategy-marketing.md) — Complete operational playbook (all channels)
+- [brief-campaign.md](brief-campaign.md) — Campaign brief and success targets
 
 ---
 
@@ -44,7 +44,7 @@ Retarget people who visited the landing page but didn't complete the signup. Use
 | Industry-Specific (resorts, F&B, retail, clinics) | Cold | Problem-only. Industry-specific pain. |
 | Warm Audiences (custom) | Warm | Problem + soft product teaser ("dotPH is launching free verification"). |
 
-> For warm awareness ad copy variants, see [verified-marketing-strategy.md](verified-marketing-strategy.md) — ads #13–#15.
+> For warm awareness ad copy variants (copy options numbered 13–15 within the warm ad set), see [strategy-marketing.md](strategy-marketing.md) → "Warm Awareness Ad Copy" section. These are copy alternatives for the warm audience ad set, not additional campaign ads.
 
 ### Retargeting Triggers
 
@@ -56,7 +56,7 @@ Retarget people who visited the landing page but didn't complete the signup. Use
 
 ## Ad Copies Summary
 
-All production-ready ad copies are in [campaign-content-drafts.md](campaign-content-drafts.md).
+All production-ready ad copies are in [creative-copy.md](creative-copy.md).
 
 | # | Name | Stage | Reference Source | Target Audience | Format |
 |---|------|-------|-----------------|-----------------|--------|
@@ -67,9 +67,11 @@ All production-ready ad copies are in [campaign-content-drafts.md](campaign-cont
 | 5 | Household Name Gets Faked | Awareness | Major fast food chain impersonation | F&B / all business owners | Carousel (4 slides) |
 | 6 | Book Now, Fly Never | Awareness | GMA News travel scams | Travel agencies / tourism | Video / animated text |
 | 7 | Prevention vs. Prosecution | Consideration | Smart + Respicio & Co | Retarget — engaged with awareness | Split-screen static |
-| 8 | Even a Bank Manager | Consideration | Bank phishing / Rappler | Retarget — engaged with awareness | Editorial static |
-| 9 | P500K Lost | Conversion | Bantayan Island scams | Retarget — LP visitors | Story-style static |
-| 10 | P480 Billion | Conversion | ScamWatch HQ | Retarget — LP visitors | Infographic static |
+| 8 | They Checked Everything | Consideration | Bantayan / La Union diligent customer | Retarget — engaged with awareness | Editorial static |
+| 9 | Already Verified | Conversion | Signup momentum (real count) | Retarget — LP visitors | Clean split static |
+| 10 | Hesitation Costs | Conversion | ScamWatch HQ / trust gap | Retarget — LP visitors | Minimal text static |
+| 11 | Your Page Looks Real | Awareness | Contrarian hook | Cold — business owners | Dark minimal static |
+| 12 | What Your Customers See Now | Conversion | Identity / aspiration | Retarget — warm | Before/after static |
 
 > **Meta Ads Specs:**
 > - Primary text: 125 characters visible before "See more" / 2,200 max
@@ -90,7 +92,7 @@ Blog articles on newsroom.dot.ph reinforce the FB ads funnel. They build SEO aut
 | 4 | Why .ph Domain Alone Isn't Enough | Consideration | Week 3 | Yes |
 | 5 | [X] Businesses Already Verified | Conversion | Week 5+ | Yes |
 
-Full article drafts in [campaign-content-drafts.md](campaign-content-drafts.md), Part 2.
+Full article drafts in [creative-copy.md](creative-copy.md), Part 2.
 
 ---
 
@@ -208,7 +210,7 @@ B2B campaigns are full-funnel paid campaigns with dedicated budgets, custom audi
 
 ## Cross-Channel Reinforcement
 
-FB ads don't work in isolation. The execution flow ([verified-execution-flow.md](verified-execution-flow.md), Section 3) maps how FB ads, warm email, cold outreach, and organic Facebook reinforce each other:
+FB ads don't work in isolation. The execution flow ([exec-funnel-flow.md](exec-funnel-flow.md), Section 3) maps how FB ads, warm email, cold outreach, and organic Facebook reinforce each other:
 
 - **FB ad → Warm email:** Prospect sees ad, then gets an email about the same problem. By the 3rd touchpoint, the problem feels real.
 - **Organic posts → FB retarget:** Engagement on organic posts feeds the retargeting pool. Comments on scam stories create social proof.
@@ -245,4 +247,4 @@ At $500/month, your weekly awareness spend (~$75) generates maybe 10K–20K impr
 | Video view rate (25%+ watched) | 30%+ |
 | Retargeting pool size by Week 3 | 5,000+ engaged users |
 
-For full campaign success targets across all channels, see [verified-campaign-brief.md](verified-campaign-brief.md).
+For full campaign success targets across all channels, see [brief-campaign.md](brief-campaign.md).

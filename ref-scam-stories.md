@@ -2,7 +2,7 @@
 
 **Purpose:** Curated list of articles, reports, and stories to fuel the "Verified by dotPH" campaign.
 **Last updated:** 2026-03-09
-**Aligned with:** [campaign-content-drafts.md](campaign-content-drafts.md) and [verified-marketing-strategy.md](verified-marketing-strategy.md)
+**Aligned with:** [creative-copy.md](creative-copy.md) and [strategy-marketing.md](strategy-marketing.md)
 
 ---
 

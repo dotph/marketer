@@ -1,65 +1,46 @@
-# Verified by dotPH — Campaign File Index
+# Verified by dotPH — Campaign Repository
 
-**Campaign:** Verified by dotPH — free identity verification for .ph domain holders
-**Stage:** Pre-launch
-**Last updated:** 2026-03-10
+## Base File
 
----
-
-## How to navigate these files
-
-Start with the brief → read the strategy → use the execution flow as a reference while running → pull copy from the content drafts.
+| File | What's in it |
+|------|-------------|
+| [Verified by dotPH.md](Verified%20by%20dotPH.md) | **Start here.** Product foundation — what Verified by dotPH is, how it works, and who it's for |
 
 ---
 
-## Files
+## File Map
 
-### [Verified by dotPH.md](Verified%20by%20dotPH.md)
-**The origin doc.** Where the product idea and campaign positioning started. Read this to understand the "why" behind the whole campaign before anything else.
+### 📋 Briefs — Campaign positioning and stakeholder docs
+| File | What's in it |
+|------|-------------|
+| [brief-campaign.md](brief-campaign.md) | Full campaign brief — product, goal, audience, KPIs |
+| [brief-overview.md](brief-overview.md) | One-page campaign overview — the one idea |
+| [brief-pitch.md](brief-pitch.md) | Plain-talk pitch — explain the campaign to anyone |
+| [brief-explainer.md](brief-explainer.md) | Strategy rationale for co-marketers and stakeholders |
 
----
+### 🎯 Strategy — Strategic plans and channel guides
+| File | What's in it |
+|------|-------------|
+| [strategy-marketing.md](strategy-marketing.md) | Full marketing strategy — warm email, cold email, organic calendar |
+| [strategy-fb-ads.md](strategy-fb-ads.md) | Facebook Ads channel strategy and media buying guide |
 
-### [verified-campaign-brief.md](verified-campaign-brief.md)
-**The brief.** One-page executive summary of the campaign: what the product is, who we're targeting (B2B businesses + B2C consumers), the 10-week timeline, budget range ($500–$2,000/month), success targets, and the core strategic principle (lead with the problem, not the product). Read this first when onboarding someone new to the campaign.
+### 🎨 Creative — All ad and content assets
+| File | What's in it |
+|------|-------------|
+| [creative-copy.md](creative-copy.md) | All ad copy, blog articles, consumer posts (the master copy doc) |
+| [creative-copy-enhancements.md](creative-copy-enhancements.md) | Reels scripts, organic additions, sharing CTAs |
+| [creative-production-briefs.md](creative-production-briefs.md) | Scene-by-scene video and motion graphic production briefs |
+| [creative-testing.md](creative-testing.md) | A/B testing variants, hook tests, KPIs, kill thresholds |
 
----
+### ⚙️ Execution — What to do and when
+| File | What's in it |
+|------|-------------|
+| [exec-tasks.md](exec-tasks.md) | Week-by-week task checklist for the full campaign |
+| [exec-schedule.md](exec-schedule.md) | Master execution map — all channels, all weeks |
+| [exec-funnel-flow.md](exec-funnel-flow.md) | Funnel flow diagram — awareness to conversion |
+| [exec-post-campaign.md](exec-post-campaign.md) | Post-campaign notes and next phase planning |
 
-### [verified-marketing-strategy.md](verified-marketing-strategy.md)
-**The full playbook.** Covers all channels — email (warm + cold), Facebook Ads, and organic Facebook. Contains the week-by-week content calendar, audience segmentation, messaging per funnel stage, and the dual B2B/consumer campaign structure. This is the primary operational reference for the marketing team.
-
----
-
-### [verified-execution-flow.md](verified-execution-flow.md)
-**The funnel map.** Visual diagrams showing how a prospect moves from unaware → signed up across every channel. Shows channel-by-channel touchpoints, retargeting triggers, and the consumer behavior change journey (#CheckBeforeYouPay). Use this when planning campaign sequencing or troubleshooting drop-off points.
-
----
-
-### [fb-ads.md](fb-ads.md)
-**Facebook Ads playbook — for the media buyer.** Covers the 3-campaign structure (Awareness / Consideration / Conversion), budget splits per week, cold vs. warm audience targeting, retargeting triggers, consumer boost strategy, and success benchmarks. Standalone reference — a media buyer can execute from this file without reading the full strategy.
-
----
-
-### [scam-and-impersonation-references.md](scam-and-impersonation-references.md)
-**The research library.** 33 curated articles, reports, and news stories about scams and business impersonation in the Philippines. Each reference includes the source, key stat or story, and which campaign stage it's used in. This is the factual backbone behind every ad, article, and post — all claims in the content drafts trace back here.
-
----
-
-### [campaign-content-drafts.md](campaign-content-drafts.md)
-**Production-ready copy — English.** All campaign content in English: 10 Facebook ads (awareness → consideration → conversion), 5 newsroom blog articles, 12 consumer Facebook posts across 3 phases, and 5 consumer blog articles. This is the master copy document. Use for English-language delivery and as the source of truth for all content.
-
----
-
-### [campaign-content-drafts-taglish.md](campaign-content-drafts-taglish.md)
-**Production-ready copy — Taglish.** Same content as above, converted to Taglish (English-led with natural Tagalog switches). Covers all 3 parts: FB ads, blog articles, and the full consumer campaign. Use for Filipino-audience delivery on Facebook and boosted posts. Not a translation — adapted for how Filipinos actually speak online.
-
----
-
-## Quick Reference: Who Uses What
-
-| Role | Primary files |
-|------|--------------|
-| Campaign lead / strategist | verified-marketing-strategy.md + verified-campaign-brief.md |
-| Media buyer | fb-ads.md + campaign-content-drafts.md or taglish |
-| Copywriter / content team | campaign-content-drafts.md + scam-and-impersonation-references.md |
-| Onboarding a new team member | This file → verified-campaign-brief.md → verified-marketing-strategy.md |
-| Reviewing funnel sequencing | verified-execution-flow.md |
+### 📚 Reference — Research and source material
+| File | What's in it |
+|------|-------------|
+| [ref-scam-stories.md](ref-scam-stories.md) | Curated scam references, stats, and real incident stories |

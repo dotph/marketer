@@ -8,14 +8,14 @@
 
 | Code | Type | Channel | Where to Find |
 |------|------|---------|---------------|
-| **WE#** | Warm Email | Email → .ph holders | `verified-marketing-strategy.md` → Sequence A |
-| **CE#** | Cold Email | Email → new prospects | `verified-marketing-strategy.md` → Sequence B |
-| **Ad#** | Facebook Ad | FB Ads campaigns | `campaign-content-drafts.md` → Part 1 |
-| **B#** | Blog Article | newsroom.dot.ph | `campaign-content-drafts.md` → Part 2 |
-| **P#** | Organic B2B Post | dotPH Facebook page | `verified-marketing-strategy.md` → Content Calendar |
-| **C#** | Consumer Organic Post | dotPH Facebook page | `campaign-content-drafts.md` → Part 3 |
-| **CA#** | Consumer Blog Article | newsroom.dot.ph | `campaign-content-drafts.md` → Consumer Blog Articles |
-| **CB** | Consumer Boost | FB Ads — paid boost | `fb-ads.md` → Consumer Boost Strategy |
+| **WE#** | Warm Email | Email → .ph holders | `strategy-marketing.md` → Sequence A |
+| **CE#** | Cold Email | Email → new prospects | `strategy-marketing.md` → Sequence B |
+| **Ad#** | Facebook Ad | FB Ads campaigns | `creative-copy.md` → Part 1 |
+| **B#** | Blog Article | newsroom.dot.ph | `creative-copy.md` → Part 2 |
+| **P#** | Organic B2B Post | dotPH Facebook page | `strategy-marketing.md` → Content Calendar |
+| **C#** | Consumer Organic Post | dotPH Facebook page | `creative-copy.md` → Part 3 |
+| **CA#** | Consumer Blog Article | newsroom.dot.ph | `creative-copy.md` → Consumer Blog Articles |
+| **CB** | Consumer Boost | FB Ads — paid boost | `strategy-fb-ads.md` → Consumer Boost Strategy |
 
 ### Code Quick Reference
 
@@ -28,9 +28,11 @@
 | | CE5 — Final push (Day 18) | Ad5 — Household Name Gets Faked (Awareness) | B5 — [X] Businesses Already Verified |
 | | | Ad6 — Book Now, Fly Never (Awareness) | |
 | | | Ad7 — Prevention vs. Prosecution (Consideration) | |
-| | | Ad8 — Even a Bank Manager (Consideration) | |
-| | | Ad9 — P500K Lost (Conversion) | |
-| | | Ad10 — P480 Billion (Conversion) | |
+| | | Ad8 — They Checked Everything (Consideration) | |
+| | | Ad9 — Already Verified (Conversion) | |
+| | | Ad10 — Hesitation Costs (Conversion) | |
+| | | Ad11 — Your Page Looks Real (Awareness) | |
+| | | Ad12 — What Your Customers See Now (Conversion) | |
 
 | Consumer Posts | Consumer Articles |
 |----------------|-------------------|
@@ -238,5 +240,5 @@ Consumer:                    ◄─Fear─►◄─Empower─►◄─Habit─�
 | Weeks 4–6 | 25% | 25% | 40% | 10% |
 | Weeks 7–10 | 20% | 20% | 50% | 10% |
 
-> For budget-tier details ($500 vs. $1K vs. $2K/month), see `verified-campaign-brief.md` → Budget-Tier Playbook
-> For Consumer Boost criteria and targets, see `fb-ads.md` → Consumer Boost Strategy
+> For budget-tier details ($500 vs. $1K vs. $2K/month), see `brief-campaign.md` → Budget-Tier Playbook
+> For Consumer Boost criteria and targets, see `strategy-fb-ads.md` → Consumer Boost Strategy
