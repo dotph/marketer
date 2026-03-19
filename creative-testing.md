@@ -148,6 +148,21 @@ Is yours one of them?
 
 **Winner definition:** Lowest cost per 3-second view WITH engagement rate >3%. If a variant has cheap views but low engagement, it's not the winner — it means people watched but didn't care.
 
+## Copy Test — Headline A/B
+
+Run in parallel with the winning visual format from the hook/format tests above.
+
+| Element | Variant A (stat-led) | Variant B (personal threat — recommended) |
+|---------|---------------------|------------------------------------------|
+| **Headline** | Fake Pages Up 4x Last Year | Someone Is Using Your Name |
+| **Description** | Is your business being copied? | Is your business being copied? |
+
+**Note on Variant A:** The original stat headline "Phishing Sites Up 423% in PH" is retired — "phishing sites" refers to URL-based attacks, not Facebook page impersonation (the campaign's actual subject). If testing a stat-led headline, use "Fake Pages Up 4x Last Year" — accurate to the campaign's use case (37% social, plus the broader fake page trend), avoids dating, and the "4x" framing is more visceral than a percentage. The 423% stat is correctly used in the body copy (below fold) with full context.
+
+**Why test this:** Variant A tests whether a quantified threat (scale of the problem) outperforms a personal threat (it's happening to you). Both are in play — the stat supports in the body either way.
+
+**Winner condition:** Higher CTR. If Variant B wins, the personal confrontation beats scale as a hook. Scale still earns its place in the body.
+
 ---
 
 # AD 2: "Bantayan Resort Story" — Narrative Hook
@@ -243,6 +258,19 @@ The existing carousel from creative-copy.md with these refinements:
 | **Comment sentiment** | >70% relevant | Comments should be "OMG this happened to someone I know" not "nice ad" |
 
 **Winner definition:** Highest share rate with cost-per-engagement under P2.00. For a story-driven awareness ad, shares > everything else because shares = organic reach = cheaper retargeting audiences.
+
+## Copy Test — Caption Order
+
+The creative assessment identified that Slide 4's challenge question — "How would YOUR guests know which page is real?" — is the strongest line in the ad. Test leading the caption with it rather than opening with the setup story.
+
+| Element | Variant A (current) | Variant B (curiosity-first) |
+|---------|--------------------|-----------------------------|
+| **Above fold** | "A resort in Bantayan Island, Cebu had its Facebook page copied..." | "How would YOUR guests know which page is real? A resort in Bantayan found out the hard way." |
+| **Story structure** | Setup → escalation → reveal → challenge | Challenge → setup → escalation → reveal |
+
+**Why test this:** Curiosity-first opens with the reader's problem (can my customers tell?), then earns the story as proof. The current version opens with someone else's problem, asking the reader to follow a narrative before they feel implicated. For a retargeting-eligible audience, the personal challenge may outperform the cold-open story setup.
+
+**Winner condition:** Higher swipe-through rate on the carousel (reaching slide 3+) and higher click-through on the end card CTA.
 
 ---
 
@@ -360,6 +388,17 @@ Sources: GSMA 2025, Check Point,
 
 **Winner definition:** Highest thumb-stop rate with cost per 3s view under P0.40. For stat-driven awareness, the goal is maximum eyeballs at minimum cost — these are audience-building ads, not conversion ads.
 
+## Copy Test — Headline & Description A/B
+
+| Element | Variant A (original) | Variant B (recommended) |
+|---------|---------------------|------------------------|
+| **Headline** | 52% of Filipinos Have Been Scammed | They Don't Blame the Scammer. |
+| **Description** | Your business pays the price. | They blame your business. |
+
+**Why test this:** The original headline reports a national stat. The new headline delivers the campaign's sharpest strategic insight — the reframe from bystander to victim. The above-fold opens with *"Your customers don't blame the scammer. They blame you."* The headline should match this register, not repeat a stat the viewer already saw in the video. The description moves from vague ("pays the price") to specific and personal ("They blame your business.").
+
+**Winner condition:** Higher CTR and lower cost-per-click. A headline that speaks to personal consequence should drive more clicks than one reporting national data.
+
 ---
 
 # AD 5: "They Faked a Household Name" — Brand Shock
@@ -467,6 +506,136 @@ from faking yours?
 | **Share rate** | >0.8% of reach | Brand shock content should share higher than stat content |
 
 **Winner definition:** Highest share-to-reach ratio with thumb-stop rate above 30%. This ad's job is to make business owners feel personally threatened and share the threat with peers.
+
+## Copy Test — Closing Line
+
+The current closer — "What's protecting YOUR business page right now?" — is effective but generic. Test a sharper, more confrontational replacement.
+
+| Element | Variant A (current) | Variant B (recommended) |
+|---------|--------------------|-----------------------------|
+| **Closing line** | "What's protecting YOUR business page right now?" | "They have a full legal team. You have this ad." |
+
+**Why test this:** The current closer is a question — it's open-ended and reflective. The recommended closer is a statement that creates immediate contrast and urgency. It also removes the "big brand = different problem" objection by making the gap between a major chain and a small business owner explicit. The self-referential meta-humor ("You have this ad.") is distinct — nothing else in the campaign sounds like this.
+
+**Winner condition:** Higher comment volume and share rate. This line is designed to provoke a reaction ("wait, that's actually true") not just a click.
+
+---
+
+# AD 6: "Book Now, Fly Never" — Travel Scam Angle
+
+## Current State
+
+One treatment: video or animated text. Opens with travel destination shot, text overlay fades in. The trust-damage line (*"They don't just steal money. They steal your customers' confidence in you"*) anchors the body and the description slot.
+
+## Hook Frame Variants (First 3 Seconds)
+
+### Hook A: "The Tagline" (current)
+- **Frame 1:** Beautiful travel destination shot. Text fades in: *"Book now, fly never."*
+- **Why:** Opens with the most memorable line in the ad — rhythmic, emotionally precise, instantly understood
+- **Risk:** The quote marks slightly distance the viewer. Some may not immediately register it as a threat
+
+### Hook B: "The Trust Damage Lead"
+- **Frame 1:** Clean dark frame. Text only: *"They don't just steal money. They steal your customers' confidence in you."*
+- **Frame 2 (2s):** Scenic destination photo fades in underneath. Text shrinks to corner.
+- **Why:** Leads with the insight that matters most to a travel business owner — not the crime, but the reputational consequence. More personally threatening than the stat
+- **Risk:** Leads with a long line — 11 words before the visual hook. May lose fast scrollers
+
+### Hook C: "The Stat as Proof"
+- **Frame 1:** Dark background. "89 travel scam reports." — large, bold. Smaller below: "Jan–May 2025. GMA News."
+- **Frame 2:** "And those are only the ones that got reported."
+- **Why:** Opens with data credibility, then undermines it — the real number is worse. Classic fear escalation
+- **Risk:** 89 is a small number compared to 423% and P480B used elsewhere. May feel less alarming in context
+
+## Copy Test — Structure Reorder
+
+The assessment identified that the current above-fold buries the strongest insight. Test reordering the copy so the trust damage line leads.
+
+| Element | Variant A (current) | Variant B (trust-lead) |
+|---------|--------------------|-----------------------|
+| **Above fold** | *"Book now, fly never." 89 travel scam reports in 5 months — and those are only the ones that got reported. | The scammers don't just steal money. They steal your customers' confidence in you. Every fake travel page that uses your name costs you bookings you'll never know you lost. |
+| **Tagline position** | Above fold, line 1 | Final line of below fold — the lasting impression |
+| **Stat position** | Above fold, line 2 | Description field |
+| **Description** | They steal your customers' trust. | 89 travel scam reports. Jan–May 2025. |
+
+**Why test this:** "Book now, fly never" is the only line in the campaign that functions as a genuine tagline. Its power is its rhythm and specificity. As an opener, it works. As a closer — after the reader has processed the trust-damage consequence — it may land harder. The stat in the description tests whether data or emotion performs better as the Meta ad preview text.
+
+**Winner condition:** Higher CTR from the trust-lead version would confirm the insight leads better than the tagline. Higher share rate = tagline position is correct.
+
+## Format Test Matrix
+
+| Format | Specs | What You're Testing |
+|--------|-------|-------------------|
+| **Video — Reveal** (current) | 4:5 feed + 9:16 Stories | Travel paradise → trust betrayal arc |
+| **Static — Dark text card** | 1080x1350 (4:5) | *"Book now, fly never."* alone — full bleed text on dark travel photo background |
+| **Animated text only** | 4:5 feed | Lines appear one at a time. No video. No photography. Just the words building. |
+
+## KPIs & Win Conditions
+
+| Metric | Target | Notes |
+|--------|--------|-------|
+| **Thumb-stop rate** | >30% | Travel visuals should stop thumbs — paradise imagery is inherently attention-grabbing |
+| **CTR** | >1.8% | Travel audience is niche — higher CTR expected from narrower targeting |
+| **Share rate** | >0.6% | Travel content shares well on Filipino Facebook (trip inspiration) |
+| **Comment volume** | Track "this happened to us" responses | Validation signal — victims of travel scams should recognize and comment |
+
+**Winner definition:** Highest CTR among the travel-targeted audience segment. For a niche-targeted ad, click-through matters more than broad reach metrics.
+
+---
+
+# AD 7: "Prevention vs. Prosecution" — Legal Process Pain
+
+## Current State
+
+One treatment: static split-screen (dark/red left = prosecution; light/green right = prevention). The rational-decision copy is strong. The visual direction is the clearest metaphor in the campaign.
+
+## Hook Frame Variants (First 3 Seconds)
+
+### Hook A: "The Choice" (current)
+- **Frame 1:** Split-screen visual. Left: "Take down a fake page:" — 6-step bulleted list begins appearing. Right: "Prevent one:" — single step.
+- **Why:** The visual asymmetry immediately communicates the core message without reading the copy
+- **Risk:** Split-screen is complex for 3 seconds. Viewers may not process both columns before scrolling
+
+### Hook B: "The Process Pain"
+- **Frame 1:** Dark background. Text types out: "Step 1: Screenshot every post. Step 2: Report to Meta. Step 3: Wait 30 days…"
+- **Frame 2:** Beat. "Or — one free verification that prevents it."
+- **Why:** Making the victim feel the pain of the 6-step process before offering the solution. The contrast hits harder when you've experienced the frustration first
+- **Risk:** Opens with the problem, not the solution. Some viewers may disengage before the payoff
+
+### Hook C: "Your Call."
+- **Frame 1:** Black screen. White text: *"Your call."*
+- **Frame 2:** "6 steps to take down a fake page. Months of waiting. Or — one free verification that prevents it."
+- **Why:** Leads with the challenge — puts the decision back on the viewer immediately. The minimalism is jarring after awareness ads full of data and stories
+- **Risk:** No context. Viewers who haven't seen awareness ads won't know what "your call" refers to. Best used as a retargeting ad (which it is)
+
+## Copy Test — Headline Clarity
+
+The assessment flagged that "Prosecution" may read as unfamiliar in a small business context.
+
+| Element | Variant A (current) | Variant B (plain language) |
+|---------|---------------------|---------------------------|
+| **Headline** | Prevention vs. Prosecution | Prevention vs. Filing a Complaint |
+
+**Why test this:** "Prosecution" implies legal proceedings most small business owners have never initiated. "Filing a Complaint" is the language they actually use — it's what the DTI, NBI, and Meta all call it. Clarity wins over precision for this audience.
+
+**Winner condition:** Higher CTR. If plain language outperforms, it confirms the audience responds better to familiar terms over accurate legal vocabulary.
+
+## Format Test Matrix
+
+| Format | Specs | What You're Testing |
+|--------|-------|-------------------|
+| **Static split-screen (current)** | 1080x1080 + 1080x1350 | Visual metaphor — red/green, complex/simple |
+| **Short video — process build** | 4:5 feed | The 6 steps appear one by one (typewriter effect), then hard cut to the single prevention step |
+| **Single static — "Your Call."** | 1080x1080 | Minimal. Just the two options in stark contrast. No color coding. |
+
+## KPIs & Win Conditions
+
+| Metric | Target | Notes |
+|--------|--------|-------|
+| **CTR** | >2.5% | Consideration audience is warm — higher CTR expected |
+| **Cost per landing page view** | <P25 | This ad's job is to drive traffic, not just clicks |
+| **Landing page conversion from this ad** | >12% | Consideration ads should convert at higher rates than awareness ads |
+
+**Winner definition:** Lowest cost per landing page view. This is a traffic ad — clicks that don't reach the landing page are wasted spend.
 
 ---
 

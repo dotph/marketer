@@ -63,7 +63,7 @@ The question isn't whether it's happening. It's whether it's already happening t
 **Headline:** Someone Is Using Your Name
 **Description:** Is your business being copied?
 
-> **A/B test note:** Original headline "Phishing Sites Up 423% in PH" — test against "Someone Is Using Your Name." The above-fold line (*"Someone is collecting payments using your business name"*) is the more personally confrontational hook; the headline should match its register.
+> **A/B test note:** Headline test — stat-led ("Fake Pages Up 4x Last Year") vs. personal threat ("Someone Is Using Your Name"). Original "Phishing Sites Up 423% in PH" retired — "phishing sites" refers to URL-based attacks, not Facebook page impersonation. The 423% stat is correctly used in the body copy with context. "4x" framing is accurate, avoids dating, and is more visceral than a percentage. Recommended winner: "Someone Is Using Your Name" — matches the register of the above-fold line and makes no claim that requires stat accuracy.
 
 **Creative direction:** Static image or motion graphic. Dark background, bold white "423%" center-screen. Smaller text below: "increase in phishing websites impersonating PH businesses." Source citation in bottom corner: "Check Point, 2025." No logo, no CTA button — engagement objective only.
 
@@ -102,6 +102,8 @@ How would YOUR guests know which page is real?
 3. "200+ guests paid. The resort had no record of them."
 4. "P500,000 lost. How would YOUR guests know the difference?"
 Each slide: clean text on a muted beach/resort background. No product branding.
+
+> **A/B test note:** Caption-order test — Variant A (current): setup-first above fold ("A Facebook page got 50,000 likes..."). Variant B (curiosity-first): lead above fold with Slide 4's challenge question ("How would YOUR guests know which page is real? A resort in Bantayan found out the hard way."), then reveal the story. Curiosity-first opens with the reader's problem before asking them to follow a narrative about someone else. Winner condition: higher carousel swipe-through rate (reaching Slide 3+) and higher CTR on the end card. See creative-testing.md → AD 2 Copy Test.
 
 ---
 
@@ -195,6 +197,8 @@ What's protecting YOUR business page right now?
 4. "If they can fake a household name, they can fake you."
 Use bold text on simple backgrounds. Cite: "Verafiles fact-checked, confirmed fake."
 
+> **A/B test note:** Closing line — current: "What's protecting YOUR business page right now?" / test variant: "They have a full legal team. You have this ad." The recommended variant creates explicit contrast and urgency, and removes the "big brand = different problem" objection. Test for higher comment volume and share rate. See creative-testing.md → AD 5 Copy Test.
+
 ---
 
 ### Ad 6: "Book Now, Fly Never" — Travel Scam Angle
@@ -225,6 +229,8 @@ The scammers don't just steal money. They steal your customers' confidence in yo
 **Creative direction:** Video or animated text. Open with a beautiful travel destination shot. Text overlay fades in: "Book now..." then shifts to: "...fly never." Second frame: "Every fake page erodes your customers' trust in online booking." Beat. "They hesitate. They call to confirm. They stop booking." Final frame: "89 travel scam reports. Jan–May 2025." Source: GMA News. No product mention.
 
 > **Copy note:** The trust-damage line (*"They don't just steal money. They steal your customers' confidence in you"*) is the strongest insight in this ad — it now anchors the visual direction. Original description "89 scam reports in 5 months" moved to creative treatment; trust damage takes the description slot as it's more emotionally resonant.
+>
+> **A/B test note:** Structure reorder test — Variant A (current): tagline leads above fold ("Book now, fly never..."), stat supports in creative. Variant B (trust-lead): trust damage line leads above fold, tagline moves to closer, stat moves to description. Three hook variants also in test (Hook A: tagline-first; Hook B: trust-damage-first; Hook C: stat-as-proof). Winner condition: higher CTR from trust-lead confirms the insight leads better than the tagline. See creative-testing.md → AD 6 for full hook and format matrix.
 
 ---
 
@@ -300,6 +306,8 @@ Prevention beats prosecution. Every time.
 **Description:** Get verified. It's free.
 
 **Creative direction:** Split-screen or "vs." format. Left side (red/dark): "Prosecution" — list of painful steps in small text. Right side (green/light): "Prevention" — "Get verified. Free." dotPH logo at bottom. CTA button: "Learn How."
+
+> **A/B test note:** Headline — "Prevention vs. Prosecution" (current) vs. "Prevention vs. Filing a Complaint" (plain language). "Prosecution" is legally accurate but unfamiliar to small business owners in a business context. "Filing a Complaint" mirrors the language used by DTI, NBI, and Meta's own reporting flow. Winner condition: higher CTR. See creative-testing.md → AD 7 Copy Test.
 
 ---
 

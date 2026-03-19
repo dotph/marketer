@@ -786,6 +786,11 @@ Constraints:
 - Source citation: "GMA News, 2025"
 - Travel ad section must be convincingly beautiful — the hook depends on the bait-and-switch
 - Must work without sound (text tells the full story)
+
+Testing variants:
+- Hook A (current, produce first): Tagline leads — "Book now, fly never."
+- Hook B (produce in parallel if budget allows): Trust damage leads — "They don't just steal money. They steal your customers' confidence in you."
+- See creative-testing.md → AD 6 for full hook and format matrix before finalizing production scope.
 ```
 
 ## Ad 7 Handoff
@@ -808,6 +813,12 @@ Constraints:
 - Left side must feel overwhelming and chaotic
 - Right side must feel simple and clean
 - Product mention is organic — "dotPH verifies you" within the Prevention steps
+
+Headline A/B test — confirm with media buyer before producing text overlays:
+- Variant A (current): "Prevention vs. Prosecution"
+- Variant B (plain language): "Prevention vs. Filing a Complaint"
+- Closing tagline "Prevention beats prosecution. Every time." applies to both variants — the split-screen visual does not need to change. Only the header text and the on-screen label changes.
+- See creative-testing.md → AD 7 Copy Test.
 ```
 
 ## Post C9 Handoff
