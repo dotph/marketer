@@ -10,7 +10,7 @@
 
 ## File Map
 
-### 📋 Briefs — Campaign positioning and stakeholder docs
+### 📋 Briefs — Campaign positioning
 | File | What's in it |
 |------|-------------|
 | [brief-campaign.md](brief-campaign.md) | Full campaign brief — product, goal, audience, KPIs |
