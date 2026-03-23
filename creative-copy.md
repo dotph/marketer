@@ -6,6 +6,24 @@
 
 ---
 
+## Platform Tone Guide
+
+dotPH's tone adapts to where the content lives. The brand voice stays consistent — direct, authoritative, protective — but the register, language, and warmth shift by platform and audience.
+
+| Platform | Tone | Language | Register |
+|----------|------|----------|----------|
+| **Facebook Ads — B2B** (Ads 1–12) | Direct, authoritative, urgent | English only | Professional — speaks to business owners as peers, not customers |
+| **Facebook Consumer Posts** (C1–C12, E1–E2, I1–I3) | Conversational, warm, human | English — Filipino words only where they land harder than any English equivalent (e.g., "pagmamahal") | Accessible — sounds like a person, not a brand |
+| **Facebook Reels** (R1–R5) | Punchy, visual-first | English — text overlays clean and brief | Mobile-first — every line must read at 150% zoom on a phone screen |
+| **Facebook pinned comments / engagement replies** | Casual, human, Filipino-resonant | Taglish is appropriate — this is a person replying, not a brand publishing | Conversational — invite storytelling, respond with warmth |
+| **Email** (warm sequences, cold outreach) | Professional, friendly | **English only** | Calibrated to intent — warm sequences are warmer; cold outreach is crisp and direct |
+| **B2B Blog Articles** (B1–B5) | Journalistic, data-backed | English only | Authoritative — dotPH speaks as an informed industry voice |
+| **Consumer Blog Articles** (CA1–CA5) | Advice from a smart friend | English only | Accessible — practical, never condescending, always ends with an action |
+
+**Key rule:** The Taglish / Filipino-word register is for Facebook consumer content and comment engagement only. Emails, blog articles, and B2B ads stay in English. When in doubt, match the platform first, then the audience segment.
+
+---
+
 # PART 1: FACEBOOK AD COPIES
 
 > **Meta Ads Specs Reference:**
@@ -123,7 +141,7 @@ A resort in La Union had 8,000 likes and stunning beachfront photos. Guests book
 
 No building. No location on Google Maps. No DTI registration. The photos were stolen from a resort in Batangas.
 
-A Facebook page called "Cabanas La Union" — with a Urbiztondo address and a payment link — was a total fabrication. Verafiles fact-checked and confirmed it. The page changed its name twice to avoid getting caught.
+A Facebook page called "Cabanas La Union," with a Urbiztondo address and a payment link, was a total fabrication. Verafiles fact-checked and confirmed it. The page changed its name twice to avoid getting caught.
 
 If a completely fake resort can get 8,000 likes, imagine what a scammer can do with YOUR real business name.
 
@@ -899,6 +917,7 @@ Join the [X] businesses that are already verified. Your customers will thank you
 | **Interactive posts (C1)** | Side-by-side comparison must be genuinely hard to distinguish. Label "A" and "B" clearly. Reveal in pinned comment, not in the image |
 | **Tutorial posts (C6, C7)** | Step numbers large and prominent. Each step = one carousel slide. Include actual screenshots or mockups of the verification page and badge |
 | **Shareability test** | Every visual must pass the "Viber GC test" — would it make sense forwarded without the caption? If the image needs the caption to make sense, redesign |
+| **Reels** | 1080 x 1920 px (9:16 vertical). 15–30 seconds max. MP4 format. **Captions required** — 87.64% of PH Facebook traffic is mobile, many watch without sound. Text must be readable at mobile size. Keep key text in the center 80% of the frame (top/bottom get cropped by UI overlays). No end-card CTA button — use caption for links. Background music optional but recommended (trending audio gets algorithmic boost) |
 
 ---
 
@@ -928,6 +947,8 @@ Scammers don't make obvious fakes anymore. They only need ONE person to fall for
 
 Guess in the comments. We'll drop the answer below.
 
+Tag someone and see if they can tell the difference.
+
 **Creative direction:** Two screenshots of Facebook business pages, side by side or in a carousel. Both look professional — same name, similar bio, similar photos. One is labeled "A" and the other "B." The differences are subtle (page creation date, slight URL variation). The answer is revealed in the first comment, with context: "The fake page had more likes than the real one."
 
 **Engagement strategy:** Pin the reveal comment. Reply to guesses. This format is designed for high comment volume, which drives organic reach.
@@ -954,7 +975,7 @@ I checked the likes. I checked the photos. I checked the reviews. Still got scam
 
 Because there was no way to check if the page actually belonged to the real resort.
 
-This can happen to literally anyone. Send this to someone before they book their next trip.
+This can happen to literally anyone. Send this to someone before they book their next trip — or tag them below so they see it.
 
 **Creative direction:** Clean text on a muted background. No sales. No product mention (or very soft at most). The story does the work. Optional: include a real screenshot of the Bantayan scam news headline (SunStar Cebu).
 
@@ -980,7 +1001,9 @@ Verafiles confirmed: completely fabricated.
 
 8,000 people liked a place that was never real. Some of them sent money.
 
-Next time you're about to book something online — if you can't verify it's real in 5 seconds, don't pay yet.
+Next time you're about to book something online, if you can't verify it's real in 5 seconds, don't pay yet.
+
+Forward this to your family GC before someone books a trip.
 
 **Creative direction:** Carousel slides:
 1. "This resort in La Union had 8,000 likes." (scenic beach photo)
@@ -1002,13 +1025,15 @@ Next time you're about to book something online — if you can't verify it's rea
 
 Higher than Thailand. Higher than Indonesia. Higher than the ASEAN average.
 
-And 96% of us are worried about it happening again.
+And the worst part? Most people don't even know it was possible to verify before they paid.
 
-So what do we do? We check the likes. We check the photos. We check if the page "looks legit."
+96% of us are worried about it happening again. But we keep checking the wrong things — likes, photos, reviews — because those are the only signals we know.
 
-Scammers fake all of that. Likes, photos, reviews — they know exactly what you check, and they game every signal.
+Scammers know exactly what you check. And they fake every one of those signals. On purpose.
 
 Next time you're about to pay online — pause. If you can't verify the page is real through something other than how it looks, don't send money yet.
+
+Share this with someone who shops online.
 
 **Headline for image:** 52% of Filipinos Have Been Scammed
 **Subtext:** GSMA, 2025
@@ -1036,6 +1061,8 @@ Now think about the businesses you buy from that AREN'T household names. The onl
 If scammers can fake a brand everyone knows — what's stopping them from faking the page you're about to pay?
 
 Next time you see a promo or giveaway on Facebook — pause. If there's no way to verify, don't click.
+
+Tag someone who enters Facebook giveaways.
 
 **Creative direction:** Carousel:
 1. "Scammers impersonated a major PH fast food chain."
@@ -1106,6 +1133,8 @@ Go to the business's Verified by dotPH page. Their real GCash number is listed r
 GCash number matches? Pay.
 Doesn't match? You just dodged a scam.
 
+Send this to the person in your family who sends GCash the most.
+
 #CheckBeforeYouPay
 
 **Creative direction:** Carousel slides:
@@ -1137,6 +1166,8 @@ The one thing they can't fake: a Verified by dotPH badge that links to a verific
 
 No badge? Ask why. Verification is free.
 
+Screenshot this and send it to your family GC.
+
 **Creative direction:** Carousel:
 1. "3 Signs a Facebook Page Might Be Fake" (title)
 2. Sign #1: "Page created last month. Business claims 10 years of experience." (with visual example)
@@ -1148,8 +1179,9 @@ No badge? Ask why. Verification is free.
 ## PHASE 3: HABIT FORMATION (Weeks 8–10+)
 
 > **Goal:** Make checking a reflex. Normalize it socially. Spread through family and friend networks.
-> **Emotion:** Confidence, social responsibility.
+> **Emotion:** Confidence, social responsibility, belonging.
 > **Rule:** Every post reinforces the behavior. Use social proof and Filipino family culture.
+> **Framing shift:** Move from "you should check" (individual instruction) to "more of us are checking now" (collective movement). The audience isn't being told what to do — they're joining something already happening. This is the bayanihan mechanism: showing that the community is already protecting each other creates pressure to participate, not obligation.
 
 ---
 
@@ -1160,6 +1192,8 @@ No badge? Ask why. Verification is free.
 **Format:** Video (30–60 sec) or high-impact static
 
 **Primary Text:**
+More of us are checking now.
+
 Before you pay — check.
 Before you book — check.
 Before you send money — check.
@@ -1226,6 +1260,8 @@ Your story matters. Drop it here. Use #CheckBeforeYouPay and we'll feature the b
 
 The more people who check, the harder it gets for scammers.
 
+Tag a friend who should do this too.
+
 **Creative direction:** Simple branded template with a frame for user screenshots. "I checked before I paid. #CheckBeforeYouPay" — designed so consumers can overlay their own screenshot of a verification page visit.
 
 ---
@@ -1242,16 +1278,593 @@ The more people who check, the harder it gets for scammers.
 Not the likes. Not the photos. Not the reviews. They checked the actual verification page.
 
 Every check = a scam that didn't happen.
+Every check = a scammer who didn't get paid.
 Every check = money that went to the real business.
 
+That's a community looking out for itself.
+
 Consumers: keep checking.
-Businesses: your customers are checking. Are you verified?
+Businesses: your customers are already looking. Are you verified?
+
+Share if you've checked before paying this month.
 
 #CheckBeforeYouPay
 
 > **Editor's note:** Update [X] with real verification page analytics before publishing. Refresh monthly.
 
 **Creative direction:** Big number "[X]" center-screen. Below: "consumers checked before they paid this month." Dual CTA: For consumers — "Keep checking." For businesses — "Get verified. It's free." Split messaging works because both audiences see it.
+
+---
+
+## ORGANIC REELS (5 Scripts)
+
+> **Why Reels:** Video content gets shared **1,200% more** than any other format on Facebook. Reels receive **22% higher engagement** than regular video and **3x median views**. Facebook's algorithm surfaces **50% more same-day Reels** from creators.
+>
+> **Production note:** All scripts are designed for AI-generated motion graphics, text animations, and stock/generated visuals. No live-action filming required.
+>
+> **Specs:** 1080 x 1920 px (vertical), 15–30 seconds, MP4, captions required (87.64% of PH traffic is mobile — many watch without sound)
+
+---
+
+### Reel R1: "50,000 Likes. All Fake." — Scam Reveal
+
+**Phase:** Fear Activation (Weeks 3–5)
+**Based on:** Reference #5 (Bantayan Island Resort Booking Scams)
+**Content pillar:** Problem Education
+**Duration:** 15–20 seconds
+
+**Script:**
+
+```
+[Frame 1 — 0:00-0:04]
+Scenic beach backdrop (AI-generated or stock). Text animates in:
+"A resort in Bantayan had 50,000 likes."
+
+[Frame 2 — 0:04-0:07]
+Same beach, color shifts darker. Text:
+"Guests paid. They showed up."
+
+[Frame 3 — 0:07-0:10]
+Hard cut to black screen. White text slams in:
+"The resort had no record of them."
+
+[Frame 4 — 0:10-0:15]
+Dark background, red accent. Stats appear one by one:
+"200+ victims."
+"P500,000 lost."
+"One fake page."
+
+[Frame 5 — 0:15-0:18]
+Muted tone, clean text:
+"Before you book — can you verify it's real?"
+
+End card: Source: SunStar Cebu. No product branding (Fear Activation phase).
+```
+
+**Caption:**
+The fake page had more likes than the real one.
+
+Over 200 families sent deposits to a page that copied a Bantayan resort's name, photos, and location. The real resort had no idea until guests started showing up.
+
+Send this to someone before they book their next trip.
+
+**Posting guidance:** Post at 8:30 PM PHT (weekday) or 2–3 PM PHT (weekend). These are the peak engagement windows for Philippine Facebook — dinner/wind-down time and lunch break. Avoid posting exactly on the hour (:00) or half-hour (:30) — offset slightly to spread reach. Pin a comment with context: "The fake page was taken down. Then a new one appeared."
+
+---
+
+### Reel R2: "423% in 16 Seconds" — Stat Bomb
+
+**Phase:** Fear Activation (Weeks 3–5)
+**Based on:** Reference #2 (Check Point), #1 (GSMA)
+**Content pillar:** Problem Education
+**Duration:** 16 seconds
+
+**Script:**
+
+```
+[Frame 1 — 0:00-0:03]
+Black screen. "423%" slams in with impact animation + sound effect.
+
+[Frame 2 — 0:03-0:06]
+Text types out below the number:
+"more phishing sites targeting PH businesses. In one year."
+
+[Frame 3 — 0:06-0:11]
+Single stat, 5-second dwell. White text on black:
+"52% of Filipinos have been scammed at least once."
+Smaller text below: "GSMA, 2025"
+
+[Frame 4 — 0:11-0:14]
+Slower pace. Clean white text on black:
+"Scammers don't hack anything."
+"They just copy your name, your photos, your page."
+
+[Frame 5 — 0:14-0:16]
+End card:
+"Is someone copying YOUR business right now?"
+
+Source: Check Point 2025, GSMA 2025. No product branding.
+```
+
+> **Pacing note:** One high-impact stat (52%) at 5-second dwell — more memorable than three stats skimmed. The 423% stat is used in body copy with context; P480B appears in other content.
+
+**Caption:**
+423% increase in phishing websites targeting the Philippines. In one year.
+
+These aren't hackers. They're copiers. Same name. Same logo. Same photos. Different payment link.
+
+Tag a business owner who needs to see this.
+
+Sources: Check Point Philippine Threat Landscape Report 2025, GSMA ASEAN Consumer Scam Report 2025
+
+**Posting guidance:** Post at 8:30 PM PHT (weekday). B2B-facing Reel — weekday evening performs better than weekend for business owner audience.
+
+---
+
+### Reel R3: "The Resort That Didn't Exist" — La Union
+
+**Phase:** Fear Activation (Weeks 3–5)
+**Based on:** Reference #6 (Cabanas La Union Fake Resort Scam)
+**Content pillar:** Problem Education
+**Duration:** 20 seconds
+
+**Script:**
+
+```
+[Frame 1 — 0:00-0:04]
+AI-generated beach visual. Text overlay:
+"This resort in La Union had 8,000 likes."
+
+[Frame 2 — 0:04-0:08]
+Booking-style visual (calendar, GCash payment screen mockup):
+"People booked. They paid through GCash."
+
+[Frame 3 — 0:08-0:12]
+Google Maps-style visual — empty pin, no building:
+"Then they showed up."
+
+[Frame 4 — 0:12-0:16]
+Black screen. Text slams in line by line:
+"No building."
+"No DTI registration."
+"Photos stolen from a resort in Batangas."
+
+[Frame 5 — 0:16-0:20]
+End card, muted tone:
+"8,000 people liked a place that was never real."
+
+Source: Verafiles. No product branding.
+```
+
+**Caption:**
+"Cabanas La Union." 8,000 likes. Scenic beach photos. Urbiztondo address.
+
+Verafiles fact-checked: the resort was completely fabricated. The photos were stolen from a real resort in Batangas — hundreds of kilometers away. The page changed its name twice to avoid detection.
+
+Forward this to your family GC before someone books a trip.
+
+Source: Verafiles, 2024
+
+**Posting guidance:** Post at 8:30 PM PHT (weekday) or 2–3 PM PHT (weekend). Consumer-facing — both windows work. Pair with C3 post on same week.
+
+---
+
+### Reel R4: "How to Check in 30 Seconds" — Tutorial
+
+**Phase:** Empowerment (Weeks 6–8)
+**Content pillar:** Solution & Product
+**Duration:** 25–30 seconds
+
+**Script:**
+
+```
+[Frame 1 — 0:00-0:06]
+Screen recording-style mockup of a business website.
+Arrow animation pointing to badge in footer area.
+Text overlay: "Step 1: Look for the Verified by dotPH badge"
+
+[Frame 2 — 0:06-0:12]
+Click animation on badge. Transition to verification page mockup.
+Text overlay: "Step 2: Click it"
+"It takes you to their verification page on dotPH."
+
+[Frame 3 — 0:12-0:20]
+Close-up of verification page details section.
+Highlight animation on GCash number field.
+Text overlay: "Step 3: Check the listed GCash number"
+
+[Frame 4 — 0:20-0:25]
+Side-by-side comparison animation:
+Left: "GCash number matches? ✅ Pay with confidence."
+Right: "Doesn't match? ❌ Don't send money."
+
+[Frame 5 — 0:25-0:30]
+End card with dotPH branding:
+"30 seconds. Could save you thousands."
+#CheckBeforeYouPay
+```
+
+**Caption:**
+Before you pay anyone online, do this:
+
+1. Look for the Verified by dotPH badge on their website.
+2. Click it — it goes to their verification page on the official .ph registry.
+3. Check the listed GCash number. Does it match what the seller gave you?
+
+Match = real business. No match = don't send money.
+
+Save this. Send it to your nanay.
+
+#CheckBeforeYouPay
+
+**Posting guidance:** Post at 8:30 PM PHT. Tutorial Reels perform best when audience is relaxed (evening window) — they'll watch the full 30 seconds during wind-down time, not during a rushed lunch break.
+
+---
+
+### Reel R5: "Things Scammers Can Fake" — Checklist Reveal
+
+**Phase:** Empowerment (Weeks 6–8)
+**Content pillar:** Problem Education → Solution bridge
+**Duration:** 15 seconds
+
+**Script:**
+
+```
+[Frames 1-7 — 0:00-0:09]
+Rapid-fire checklist. Items appear one by one with green checkmarks:
+✅ Business name
+✅ Logo
+✅ Photos
+✅ Facebook likes
+✅ Reviews
+✅ GCash link
+✅ Professional design
+
+[Frame 8 — 0:09-0:12]
+Pause. All checkmarks visible. Then — red X slams across the screen:
+❌ A verification page on the official .ph registry
+
+[Frame 9 — 0:12-0:15]
+End card, clean:
+"Check the one thing they can't fake."
+dotPH branding. #CheckBeforeYouPay
+```
+
+**Caption:**
+Scammers can copy a business page in 10 minutes. Name, logo, photos, likes, reviews — all fakeable.
+
+The one thing they can't copy: a verification page on dotPH, confirmed by the official .ph domain registry.
+
+Before you pay, check.
+
+#CheckBeforeYouPay
+
+**Posting guidance:** Post at 8:30 PM PHT. Short-form (15 sec) performs well on any day — prioritize consistency over day selection.
+
+---
+
+## Reel Integration into Existing Calendar
+
+The strategy's existing organic calendar runs Mon/Wed/Fri. Reels slot into the existing cadence — they replace or supplement planned posts, not add extra days.
+
+| Week | Day | Current Plan | Reel |
+|------|-----|--------------|------|
+| 3 | Fri | Bantayan story (C2) | **R1** as companion Reel |
+| 4 | Wed or Fri | — | **R2** alongside existing B2B post |
+| 5 | Fri | Alternate slot | **R3** (La Union) |
+| 6 | Mon | "How to Check" (C6) | **R4** as companion Reel |
+| 7 | Mon week | "GCash Check" (C7) | **R5** as companion Reel |
+
+**Rule:** Maximum 2 Reels per week within the 3x/week cadence. Reels can share a posting day with a feed post (algorithm treats them as separate surfaces).
+
+---
+
+## EDUCATIONAL POSTS (2 Posts)
+
+> High-share educational formats that maintain the authoritative brand voice. Infographic and carousel — not memes.
+
+---
+
+### Post E1: "The Scam Copy-Paste Business Model" — Infographic
+
+**Phase:** Fear Activation (Weeks 3–5)
+**Content pillar:** Problem Education
+**Format:** Static infographic (1080 x 1080 px or 1080 x 1350 px)
+
+**Primary Text:**
+How scammers copy your business — and why it keeps working.
+
+1. Copy a real business page — 10 minutes
+2. Buy 5,000 likes — P500
+3. Steal your photos — 5 minutes
+4. Wait for customers to pay
+5. Disappear. Create a new page. Repeat.
+
+Total investment: P500 and 15 minutes.
+Potential return: P500,000 — documented. One fake page. One resort in Bantayan.
+
+The scary part? None of this is hard. You don't need technical skill. You just need a Facebook account and P500.
+
+That's why the number of fake pages keeps growing. 423% more phishing sites in one year. Scammers go where the ROI is — and right now, that's your customers.
+
+Once you know how this works, you can't unsee it. Share this with a business owner who needs to see it.
+
+**Creative direction:** Clean infographic layout — data visualization style, not a meme. Numbered steps with time/cost callouts. Muted dark palette consistent with Awareness phase visual specs. Source citation: "Check Point 2025, SunStar Cebu" in bottom corner. No product branding.
+
+---
+
+### Post E2: "I Checked Everything. Still Got Scammed." — Carousel
+
+**Phase:** Fear Activation (Weeks 3–5)
+**Based on:** Reference #5 (Bantayan Island Resort Booking Scams)
+**Content pillar:** Problem Education
+**Format:** Carousel (5 slides, 1080 x 1080 px per slide)
+
+**Primary Text:**
+I checked the likes — 50,000. Looked legit.
+I checked the photos — professional. Real resort photos.
+I checked the reviews — positive. Recent.
+I checked the response time — fast. Polite.
+
+Still got scammed.
+
+Because every signal I checked can be faked in 10 minutes. Likes can be purchased. Photos can be stolen. Reviews can be manufactured.
+
+The one thing I couldn't check: whether the page actually belonged to the resort.
+
+200+ families went through the same thing. P500,000 lost from one fake page.
+
+Next time — don't check the likes. Check if it's verified.
+
+Tag someone who's about to book a trip or buy from an online seller.
+
+**Creative direction:** Carousel slides:
+1. "I checked the likes. 50,000. ✅" (clean text, muted background)
+2. "I checked the photos. Professional. ✅" (same style)
+3. "I checked the reviews. All positive. ✅" (same style)
+4. "I checked everything." (pause beat — same background)
+5. "Still got scammed." (black background, white text. Below: "Because everything I checked can be faked in 10 minutes." Source: SunStar Cebu)
+
+No product mention on slides 1–5 (Fear Activation phase). Caption carries the bridge to verification.
+
+---
+
+## INTERACTIVE POSTS (3 Posts)
+
+> Interactive content 1–2x/week for algorithm fuel. Fits the existing 3x/week cadence.
+
+---
+
+### Post I1: "How Do YOU Check?" — Poll
+
+**Phase:** Fear Activation (Weeks 3–5)
+**Content pillar:** Problem Education
+**Format:** Text post with poll options in the caption
+
+**Primary Text:**
+Before you pay an online seller, what do you check FIRST?
+
+A) Number of likes
+B) Reviews and comments
+C) Page creation date
+D) I just check if it "looks legit"
+
+Drop your answer below.
+
+(We'll share why all four of these can be faked — and what actually works — in the comments.)
+
+**Engagement strategy:**
+- Pin a reply after 2–4 hours: "All four can be faked. Likes can be purchased for P500. Photos can be stolen. Reviews can be manufactured. Page dates can be manipulated by renaming old pages. The one thing that can't be faked: a verification from the official .ph registry. — Also dropping this below: sino dito na naka-encounter ng fake page? Tell us what happened. 👇"
+- This second question triggers storytelling comments — people who've been scammed or nearly scammed will share their experience in the replies
+- Reply to individual poll answers with the relevant data point (e.g., someone picks A → "A fake Bantayan resort page had 50,000 likes — more than the real one.")
+- Reply to every personal story with: "Thank you for sharing this. This is exactly what other people need to hear. Tag someone who should know before booking/buying."
+- Do NOT mention Verified by dotPH in the post itself during Fear Activation phase — only in the pinned comment
+
+---
+
+### Post I2: "Filipino Online Shopping Bingo" — Interactive Image
+
+**Phase:** Empowerment (Weeks 6–8)
+**Content pillar:** Problem Education + Solution bridge
+**Format:** Static image (1080 x 1080 px) — bingo card design
+
+**Primary Text:**
+Filipino online shopping bingo. How many can you check off?
+
+Screenshot your card and share in the comments — or send it to your family GC.
+
+(If you checked "Bahala na" — we need to talk. 😅)
+
+The one square that actually protects you? "Checked for Verified by dotPH badge."
+
+#CheckBeforeYouPay
+
+**Bingo card squares (5x5):**
+
+| | | | | |
+|---|---|---|---|---|
+| "Legit ba 'to?" | Checked the likes | Googled the business name | Asked in a Facebook group | Checked for a website |
+| Sent screenshot to family GC | "Mukhang legit naman" | DM'd instead of commenting | Compared prices on 3 pages | Checked their DTI |
+| Read the comments first | Asked seller "Is this your real GCash?" | **FREE SPACE: "Sana hindi scam"** | Checked page creation date | Called the business directly |
+| "Sabi ni [friend] ok naman daw" | Paid COD just to be safe | Searched the name on Facebook | Checked for Verified by dotPH badge | Checked if they have IG too |
+| "Bahala na, order na" | Waited for payday muna | Asked for video of the actual item | Checked Google Maps listing | Looked for a business permit |
+
+**Creative direction:** Clean bingo card design. Light, engaging visual (Empowerment phase palette). The "Checked for Verified by dotPH badge" square visually distinct — highlighted or different color. Design must be screenshot-friendly and readable when forwarded in Messenger/Viber.
+
+---
+
+### Post I3: "Which Page Is Real?" — Scenario Post
+
+**Phase:** Fear Activation (Weeks 3–5)
+**Content pillar:** Problem Education
+**Format:** Text post or image with two options
+
+**Primary Text:**
+You found the perfect resort for Holy Week. Great photos. 12,000 likes. Accepts GCash.
+
+But there's a second page with the same name. Same photos. 8,000 likes.
+
+Which one is real? What would you do?
+
+A) Book the one with more likes
+B) Message both pages and compare
+C) Check which page has been around longer
+D) Look for a way to verify which one is the real business
+
+Answer below. Real answer dropping in the comments.
+
+**Engagement strategy:**
+- Pin a reply: "In Bantayan, the fake page had MORE likes (50,000) than the real one (12,000). More likes doesn't mean real. More professional photos doesn't mean real. Fast replies don't mean real. The only reliable check is verifying the business's identity through a source that scammers can't fake. — Sino dito na nakapili ng maling page? Drop your story below. 👇"
+- The storytelling trigger ("Sino dito na...") invites personal testimonies. These comments drive extended conversations and organic reach
+- Reply to each poll answer with the relevant data point
+- Reply to personal stories with: "Salamat sa pagshare. Important 'to para malaman ng lahat. Tag mo 'yung booking buddy mo."
+- Fear Activation phase: keep verification mention to the pinned comment, not the post body
+
+> **Note:** C1 ("Spot the Fake") uses a visual side-by-side comparison. I3 uses a text-based scenario that drives opinion comments. Different mechanics — C1 is visual quiz, I3 is opinion debate.
+
+---
+
+## SEASONAL CONTENT: SUMMER / HOLY WEEK
+
+> **Timing:** Publish 2–3 weeks before Holy Week (target: late March to first week of April). Summer season in the Philippines runs April–May — this content cluster is designed to ride that wave.
+>
+> **Tone:** Utility-first, not fear-first. These are *genuinely helpful* guides that Filipinos will share because they're useful — the verification step lives naturally inside good booking advice. Smart traveler framing throughout.
+>
+> **Language:** English. The resort scam stories in the campaign are Filipino-specific but the tone stays English — accessible, practical, advice-from-a-friend register. No Taglish in the copy itself.
+>
+> **Distribution mechanic:** Designed to be forwarded in barkada and family GCs ahead of trip planning. Save-and-share format for carousels; Reel for viral reach.
+>
+> **Phase placement:** Fits Empowerment (Weeks 6–8) — audiences have been primed on the threat, now get practical tools right before the season they need them.
+
+---
+
+### Post SG1: "Summer Booking Checklist" — Carousel
+
+**Phase:** Empowerment / Seasonal
+**Content pillar:** Solution & Product
+**Format:** Carousel (6 slides, 1080 x 1080 px) — designed to be saved and forwarded before trips
+**Tone:** Smart traveler, practical — not fear-driven
+
+**Primary Text:**
+Planning a trip this summer? Before you send any deposit, go through this first.
+
+Not because every page is fake. Because the ones that are fake look exactly like the real ones.
+
+Swipe through the checklist. Save it. Send it to whoever's handling the booking.
+
+#CheckBeforeYouPay
+
+**Carousel Slides:**
+
+Slide 1 (Title): "The Summer Booking Checklist" — Before you send that GCash deposit.
+
+Slide 2: ✅ **Find their website.** Real resorts and travel businesses have one. Make sure it matches the Facebook page — same name, same contact details, same booking info.
+
+Slide 3: ✅ **Check when the page was created.** Go to "About" and look for "Page transparency." A resort that's been open for years shouldn't have a page made last month. Scammers create fresh pages all the time.
+
+Slide 4: ✅ **Verify the GCash number.** Go to their Verified by dotPH page. Their real GCash number is listed there, confirmed by the official .ph registry. Does it match what the seller gave you?
+
+Slide 5: ✅ **Look for the Verified by dotPH badge.** Find it on their website footer. Click it. It takes you to their official verification page where you can check everything.
+
+Slide 6 (Closer): No badge? No website? Payment to a personal GCash only? Ask why before you pay. Legit businesses can answer. If something doesn't add up, book somewhere else.
+
+**Creative direction:** Clean, travel-inspired visual palette — warm sunshine tones, not the dark Fear Activation colors. Each slide has a single checklist item with a green checkmark. The Verified by dotPH badge appears naturally on Slide 4–5 as part of the checklist flow, not as a product pitch. Final slide uses muted warm background — reassuring, not alarming. Design must be readable as a mobile screenshot (large text, strong contrast).
+
+**Posting guidance:** Post 8:30 PM PHT, 2–3 weeks before Holy Week. Pin a comment: "Sending this to your barkada group chat before you finalize the booking? That's the move. 👌"
+
+---
+
+### Reel SG2: "Before You Book for Holy Week" — Timely Reel
+
+**Phase:** Empowerment / Seasonal
+**Content pillar:** Solution & Product
+**Format:** Reel (20–25 seconds, 1080 x 1920 px)
+**Tone:** Upbeat, practical, forward-worthy — not a scam warning
+
+**Script:**
+
+```
+[Frame 1 — 0:00-0:04]
+Bright beach visual. Text overlay (animated):
+"Planning a Holy Week trip? Before you send the deposit —"
+
+[Frame 2 — 0:04-0:08]
+Split: left side shows a scenic resort; right side shows a GCash payment screen mockup.
+Text:
+"Check the GCash number on their Verified by dotPH page."
+
+[Frame 3 — 0:08-0:13]
+Screen recording-style mockup — badge click → verification page appears → GCash number visible.
+Text:
+"Step 1: Find the badge on their website.
+Step 2: Click it.
+Step 3: Check the number matches."
+
+[Frame 4 — 0:13-0:18]
+Two outcomes, side by side:
+✅ "Matches? Book with confidence."
+❌ "Doesn't match? Book somewhere else."
+
+[Frame 5 — 0:18-0:22]
+End card, warm tones:
+"30 seconds. Could save your whole trip."
+dotPH branding. #CheckBeforeYouPay
+```
+
+**Caption:**
+Holy Week is a few weeks away. The fake resort pages are already up.
+
+Before you send that deposit:
+1. Find the Verified by dotPH badge on their website
+2. Click it — it takes you to their official verification page
+3. Check the listed GCash number against what the seller gave you
+
+Number matches? You're good. Doesn't match? Find a different resort.
+
+Your whole group is counting on whoever's doing the booking. Make sure that person sees this.
+
+Send this to them. 🏖️
+
+#CheckBeforeYouPay
+
+**Posting guidance:** Post 8:30 PM PHT, 2 weeks before Holy Week. The booking decision window for most Filipino families is 2–3 weeks before the trip — this hits right at decision time. Boost as a paid post during this window targeting ages 22–40, interests: travel Philippines, beach resorts, Holy Week.
+
+---
+
+### Post SG3: "Red Flags vs. Green Flags When Booking Online" — Infographic
+
+**Phase:** Empowerment / Seasonal
+**Content pillar:** Problem Education → Solution bridge
+**Format:** Static infographic (1080 x 1080 px or 1080 x 1350 px) — two-column format
+**Tone:** Practical, assertive — not preachy
+
+**Primary Text:**
+Booking a resort or tour online this summer?
+
+Here's how to tell the real ones from the fake ones.
+
+Save this. Send it to your travel group before anyone books.
+
+#CheckBeforeYouPay
+
+**Infographic content (two-column layout):**
+
+| 🚩 Red Flags | ✅ Green Flags |
+|---|---|
+| Page created within the last 3 months | Page has been active for years, with posts to show for it |
+| Thousands of likes, but no website link | Website matches the Facebook page details exactly |
+| Professional photos but no tagged customers | Tagged photos from real guests over time |
+| "Send to my personal GCash" — no business account | GCash number matches their Verified by dotPH page |
+| No badge, no way to verify they're real | Has a Verified by dotPH badge on their website. Click it to confirm. |
+| Responds fast but avoids specific questions | Answers booking questions clearly, including cancellation policy |
+| Price is suspiciously lower than everywhere else | Price is competitive but realistic |
+
+*Bottom of infographic:* "Mostly green? Go ahead and book. Mostly red? Don't send that deposit."
+Source: dotPH / #CheckBeforeYouPay
+
+**Creative direction:** Two-column layout — left column in muted red/orange (🚩 Red Flags), right column in green/teal (✅ Green Flags). Clean, bold typography. The Verified by dotPH badge appears in the Green Flags column as a visual element. Designed to be read as a saved image in a phone gallery or forwarded screenshot. No small text — every item must be legible at 50% scale (forwarded image size in Viber/Messenger). Bottom line large enough to read without zooming.
+
+**Posting guidance:** Post 8:30 PM PHT, 2–3 weeks before Holy Week. This infographic is designed for save-and-forward behavior — pin a comment: "Screenshot this before you book. Your family GC needs to see it." High save rate = high algorithmic value.
 
 ---
 
