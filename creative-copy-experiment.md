@@ -269,7 +269,9 @@ Anyone who has ever sent money before confirming will feel this immediately.
 **Headline:** 200 Guests Paid. The Page Was Gone.
 **Description:** Guests sent ₱5,000. The resort never existed.
 
-> **A/B test note:** Caption-order test — Variant A (current): setup-first above fold ("A Facebook page got 50,000 likes..."). Variant B (curiosity-first): lead above fold with Slide 4's challenge question ("How would YOUR guests know which page is real? A resort in Bantayan found out the hard way."), then reveal the story. Curiosity-first opens with the reader's problem before asking them to follow a narrative about someone else. Winner condition: higher carousel swipe-through rate (reaching Slide 3+) and higher CTR on the end card. See creative-testing.md → AD 2 Copy Test.
+> **Why this angle:** This ad uses the *narrative hook* — a real story, not a statistic. If you run a resort, hotel, or any tourism business, the Bantayan story is your worst nightmare made real: someone copied your page, took your customers' money, and your reputation paid the price. The above-fold hook works because it opens with a detail you can't ignore (50,000 likes — more than your page probably has) and closes on a detail that hits your pride ("How would YOUR guests know which page is real?"). The below-fold escalation gives you the cost (P500,000, 200+ victims) so you can do the math on what this would mean for your business. This isn't hypothetical — it happened, and the only thing separating you from this resort owner is timing.
+
+> **A/B test note:** Caption-order test — Variant A (current): setup-first above fold ("A Facebook page got 50,000 likes..."). Variant B (curiosity-first): lead above fold with Slide 4's challenge question ("How would YOUR guests know which page is real? A resort in Bantayan found out the hard way."), then reveal the story. Curiosity-first opens with your problem before asking you to follow a narrative about someone else. Winner condition: higher carousel swipe-through rate (reaching Slide 3+) and higher CTR on the end card. See creative-testing.md → AD 2 Copy Test.
 
 ---
 
@@ -349,6 +351,8 @@ No explanation needed. The viewer sees immediately what happened — and immedia
 
 **Headline:** Your Photos Could Be Next.
 **Description:** The resort didn't exist.
+
+> **Why this angle:** This ad exploits the *fabrication reveal* — the resort didn't just look real, it never existed at all. If you're a business owner, this is more terrifying than a copycat page: someone didn't even need your real business as a starting point. They stole your competitors' photos, invented an address in your town, and collected bookings on your turf. The above-fold hook works because it reads like a success story ("8,000 likes, stunning beachfront photos") until the rug pull ("Then they showed up"). The Variation B creative — your photos side by side with the stolen originals — makes you immediately wonder: has someone already done this with your photos? You can't unsee the comparison, and you can't unfeel the vulnerability. This ad targets your geographic pride (La Union / Elyu community) and turns local identity into local urgency.
 
 ---
 
