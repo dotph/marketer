@@ -1529,6 +1529,8 @@ Forward this to your family GC before someone books a trip.
 3. "Then they showed up. The resort didn't exist." (empty lot or Google Maps screenshot showing nothing)
 4. "Before you book, check if it's real." (simple CTA, no product yet — Phase 1 is about fear, not solution)
 
+> **Why this works:** The *fabricated place* story is the sharpest scam story in the campaign because there's no "real thing that got copied" — it was invented from scratch. For your audience, that's harder to process than a fake page: someone created an entire fake destination with your region's name and collected bookings. The 8,000 likes detail makes your audience distrust their own intuition ("I would have liked that page too"). The "Forward this to your family GC" CTA lands naturally before Holy Week and summer travel season — it frames sharing as a protective act, not just engagement.
+
 ---
 
 ### Post C4: "52% of Filipinos" — Consumer Protection Angle (Dual Audience)
@@ -1557,6 +1559,8 @@ Share this with someone who shops online.
 **Subtext:** GSMA, 2025
 
 **Creative direction:** Bold "52%" center-screen. Below: "of Filipinos have been scammed at least once." Consumer-focused framing — no business owner language. Clean, data-driven. Final text: "If a deal looks too good — pause before you pay."
+
+> **Why this works:** The *national statistic* post works because it makes you a number before you can opt out. "More than half of us" doesn't leave room for "that wouldn't happen to me." The 96% worried stat confirms your audience already has ambient anxiety about this — this post just names it clearly and gives it context. The pivot to "scammers know exactly what you check" is the insight that converts passive awareness into active vigilance. This post is designed to be shared not because it's emotional, but because it's factual and slightly embarrassing: you didn't know your defenses were this predictable.
 
 ---
 
@@ -1587,6 +1591,8 @@ Tag someone who enters Facebook giveaways.
 2. "Fake anniversary promos. Cash giveaways. Thousands of clicks."
 3. "All fake. The company had to issue a warning."
 4. "If they can fake a household name, they can fake any business you buy from."
+
+> **Why this works:** The *known brand anchor* works because it collapses the "scams only happen to careless people" belief. If thousands of Filipinos were fooled by a fake page for a brand they've eaten at hundreds of times — whose face they know, whose packaging they recognize — then your ability to spot a fake for a small online seller you've never met is essentially zero. The pivot to your everyday purchases ("The online sellers. The small resorts. The local restaurants") puts the threat in your regular behavior, not an exceptional one. Tagging someone who enters Facebook giveaways is surgical: you're surfacing the most at-risk behavior in your social circle.
 
 ---
 
