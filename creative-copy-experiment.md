@@ -1107,67 +1107,67 @@ The tourism industry is one of the Philippines' most important economic sectors.
 
 The Philippines loses an estimated P480 billion (USD 8.29 billion) to scams every year. That's 1.9% of GDP, placing the country second globally in terms of digital fraud rate.
 
-The number comes from ScamWatch HQ's 2025 analysis, and it's staggering. P1.3 billion per day. P55 million per hour. Every hour.
+The number comes from ScamWatch HQ's 2025 analysis, and it's staggering. P1.3 billion per day. P55 million per hour. Every hour. And some of that money was meant for your business.
 
-But here's what gets lost in the headline: most of this money was meant for real businesses. Real resorts. Real online shops. Real restaurants. The scammer didn't create demand — they intercepted it.
+But here's what gets lost in the headline: most of this money was meant for real businesses — businesses like yours. Real resorts. Real online shops. Real restaurants. The scammer didn't create demand — they intercepted it. They intercepted your customers.
 
-**The business victim nobody talks about**
+**You're a victim too — even if you don't know it yet**
 
-When a scammer creates a fake page that copies a real business, two people get hurt.
+When a scammer creates a fake page that copies your business, two people get hurt.
 
 The first is the customer who pays the wrong account. That's the victim the news covers.
 
-The second is the business whose name was used. That's the victim nobody talks about.
+The second is you — the business whose name was used. You're the victim nobody talks about.
 
-The business doesn't just lose the revenue from that transaction. It loses something harder to measure: trust. Customers who've been burned — or who've heard about someone being burned — start questioning everything. "Is this the real page?" "Is this the real GCash number?" "Should I just book somewhere else?"
+You don't just lose the revenue from that transaction. You lose something harder to measure: your customers' trust. Customers who've been burned — or who've heard about someone being burned — start questioning everything. "Is this the real page?" "Is this the real GCash number?" "Should I just book somewhere else?"
 
-Every hesitation is a potential lost sale. And that erosion of trust compounds over time.
+Every hesitation is a potential lost sale for you. And that erosion of trust compounds over time.
 
-**The scam economy runs on stolen identity**
+**The scam economy runs on your identity**
 
-Online scams aren't random. They follow a business model:
+Online scams aren't random. They follow a business model built on copying you:
 
-1. **Copy** a real business's identity — name, photos, logo, branding.
+1. **Copy** your business identity — your name, your photos, your logo, your branding.
 2. **Build** credibility — purchased likes, stolen reviews, professional-looking page.
-3. **Intercept** customer demand — offer the same product, same price, same location.
+3. **Intercept** your customer demand — offer your same product, your same price, your same location.
 4. **Collect** payment — e-wallet, bank transfer, cash on delivery with substituted accounts.
-5. **Disappear** — delete the page, create a new one, repeat.
+5. **Disappear** — delete the page, create a new one, do it to you again.
 
-The real business does all the marketing. The scammer harvests the demand.
+You do all the marketing. The scammer harvests your demand.
 
 Check Point's 2025 report documented a 37% increase in fake brand profiles on social media. The GSMA found that social media has overtaken SMS as the #1 scam channel in the Philippines. PNP identity theft cases more than doubled from 2022 to 2023 — from 1,402 to 2,999.
 
-**Tourism, e-commerce, F&B, banking — no industry is safe**
+**Your industry is already being targeted**
 
-Some industries are hit harder than others:
+Some industries are hit harder than others — but none are safe:
 
-**Tourism and hospitality** face the highest volume. Fake booking pages for resorts in Bantayan Island, La Union, Batangas, and across Cebu have become so common that the Cebu provincial tourism office issued a joint warning with the hotel industry.
+**If you're in tourism and hospitality,** you face the highest volume. Fake booking pages for resorts in Bantayan Island, La Union, Batangas, and across Cebu have become so common that the Cebu provincial tourism office issued a joint warning with the hotel industry.
 
-**Online sellers and e-commerce** deal with fake storefronts. Scammers register lookalike domains — adding dashes, hyphens, or extra words to mimic major e-commerce platforms — and run phishing operations. The Philippines had the highest number of online shopping scams among 11 economies in the 2023 Asia Scam Report.
+**If you sell online,** you're dealing with fake storefronts. Scammers register lookalike domains — adding dashes, hyphens, or extra words to mimic your platform — and run phishing operations. The Philippines had the highest number of online shopping scams among 11 economies in the 2023 Asia Scam Report.
 
-**Food and restaurant businesses** see their Facebook pages cloned with fake delivery pages that take advance payment for orders that never arrive.
+**If you run a food or restaurant business,** your Facebook page is being cloned with fake delivery pages that take advance payment for orders that never arrive.
 
-**Banking and financial services** contend with increasingly sophisticated phishing — scam SMS messages now appear inside legitimate GCash and Maya message threads, making them nearly impossible to distinguish from real notifications.
+**If you're in banking or financial services,** you're contending with increasingly sophisticated phishing — scam SMS messages now appear inside legitimate GCash and Maya message threads, making them nearly impossible for your customers to distinguish from your real notifications.
 
-**Why enforcement isn't enough**
+**Why enforcement can't protect you fast enough**
 
-The government has taken action. AFASA targets digital financial fraud. The Internet Transactions Act gave DTI takedown powers. But there's a structural mismatch: enforcement is reactive, and scammers move faster than regulators.
+The government has taken action. AFASA targets digital financial fraud. The Internet Transactions Act gave DTI takedown powers. But there's a structural mismatch: enforcement is reactive, and scammers move faster than you can file complaints.
 
-Filing a complaint against a fake Facebook page involves DTI, PNP-ACG, NBI-CCD, sworn statements, screenshots, and months of waiting. By the time one page gets taken down, three more have appeared.
+Filing a complaint against a fake version of your Facebook page involves DTI, PNP-ACG, NBI-CCD, sworn statements, screenshots, and months of waiting. By the time one page gets taken down, three more with your name have appeared.
 
-This doesn't mean enforcement is pointless. It means businesses can't rely on enforcement alone.
+This doesn't mean enforcement is pointless. It means you can't rely on enforcement alone.
 
-**Businesses are the primary victims — and they need to start acting like it**
+**You are the primary victim — and you need to start acting like it**
 
-The conversation about scams in the Philippines is still framed as a consumer protection issue. Government warns consumers. Banks tell customers to be careful. But the businesses being impersonated are treated as background characters in their own story.
+The conversation about scams in the Philippines is still framed as a consumer protection issue. Government warns consumers. Banks tell customers to be careful. But you — the business being impersonated — are treated as a background character in your own story.
 
 That needs to change.
 
-Businesses are the ones whose identity is being stolen. They're the ones whose customers are being intercepted. And they're the ones who bear the reputational cost when things go wrong.
+You're the one whose identity is being stolen. You're the one whose customers are being intercepted. And you're the one who bears the reputational cost when things go wrong.
 
-P480 billion is a national problem. But it's felt at the level of individual businesses — one lost booking, one suspicious customer, one damaged reputation at a time.
+P480 billion is a national problem. But you feel it at the level of your business — one lost booking, one suspicious customer, one damaged reputation at a time.
 
-The question for every business owner is: what are you doing to make sure your customers can tell you're real?
+The question is: what are you doing to make sure your customers can tell you're real?
 
 *Sources: ScamWatch HQ, Check Point, GSMA, PNP-ACG, Inquirer, SunStar Cebu, GMA News*
 
