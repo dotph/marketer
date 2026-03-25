@@ -1467,6 +1467,8 @@ Tag someone and see if they can tell the difference.
 
 **Engagement strategy:** Pin the reveal comment. Reply to guesses. This format is designed for high comment volume, which drives organic reach.
 
+> **Why this works:** The *interactive quiz* format converts passive scrollers into active participants. The moment you ask "Which one is fake?", your audience can't just scroll past — they have to stop and try to answer. The genius of this post is that the right answer is unknowable without verification, and that discomfort is the entire message. If you had to think about it for even a second — your customers are thinking about it too. Before paying. Every time. The tagging mechanic ("see if your friend can tell the difference") is organic sharing built into the post itself.
+
 ---
 
 ### Post C2: "I Booked a Resort for Our Family Vacation" — Victim Perspective
@@ -1492,6 +1494,8 @@ Because there was no way to check if the page actually belonged to the real reso
 This can happen to literally anyone. Send this to someone before they book their next trip — or tag them below so they see it.
 
 **Creative direction:** Clean text on a muted background. No sales. No product mention (or very soft at most). The story does the work. Optional: include a real screenshot of the Bantayan scam news headline (SunStar Cebu).
+
+> **Why this works:** The *first-person victim story* is the most shareable format in the campaign. It's not a brand telling you scams are bad — it's a person telling you what happened to them. The specific details (P3,500 deposit, 50,000 likes, "The REAL page only had 12,000 likes") give you enough to picture yourself in the same situation. The closer ("This can happen to literally anyone") is deliberately broad — it removes the "that wouldn't happen to me" defense your audience uses to stay comfortable. The tag CTA ("Send this to someone before they book their next trip") travels this post into every Holy Week and summer barkada group chat in the Philippines.
 
 ---
 
