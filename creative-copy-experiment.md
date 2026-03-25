@@ -82,6 +82,8 @@ The question isn't whether it's happening. It's whether it's already happening t
 **Headline:** Someone Is Using Your Name
 **Description:** Is your business being copied?
 
+> **Why this angle:** This ad uses the *personal threat* frame — not a statistic about the Philippines, but a direct accusation that someone is already using YOUR name. The above-fold hook ("Someone is collecting payments using your business name") bypasses the "that's someone else's problem" defense by making you the subject of the sentence from the first word. The below-fold escalation works because it gives you the data to confirm the threat is real (423%, 37%) AFTER you're already emotionally invested. The closing question ("whether it's already happening to you") turns passive reading into active self-assessment — you can't read it without mentally checking your own business.
+
 > **A/B test note:** Headline test — stat-led ("Fake Pages Up 4x Last Year") vs. personal threat ("Someone Is Using Your Name"). Original "Phishing Sites Up 423% in PH" retired — "phishing sites" refers to URL-based attacks, not Facebook page impersonation. The 423% stat is correctly used in the body copy with context. "4x" framing is accurate, avoids dating, and is more visceral than a percentage. Recommended winner: "Someone Is Using Your Name" — matches the register of the above-fold line and makes no claim that requires stat accuracy.
 
 **Creative direction:**
