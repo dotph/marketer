@@ -438,6 +438,8 @@ No person. No expression needed. The 1-star review speaks for itself — anyone 
 **Headline:** They Don't Blame the Scammer.
 **Description:** They blame your business.
 
+> **Why this angle:** This ad uses the *blame reversal* — the most uncomfortable truth in the campaign. Your customers don't care that you're the victim. When they get scammed by a page using your name, they blame you. The above-fold hook ("Your customers don't blame the scammer. They blame you.") works because it makes you feel the injustice immediately — and injustice demands a response. The 52% stat is there to confirm you're not being paranoid: this has happened to more than half of your customers' social network. The 1-star Google review visual is the gut punch that converts awareness into urgency. You've worked hard to build your reputation. This ad shows exactly how fast it can be taken from you by someone using your name.
+
 > **A/B test note:** Original headline "52% of Filipinos Have Been Scammed" / description "Your business pays the price." — The above-fold reframe (*"Your customers don't blame the scammer. They blame you"*) is the campaign's sharpest insight and should lead as the headline, not be buried in body text.
 
 ---
@@ -522,6 +524,8 @@ No CTA. No explanation. The scale of the notification — the likes, the shares,
 
 **Headline:** They Faked a Household Name.
 **Description:** Your business could be next.
+
+> **Why this angle:** This ad uses the *scale shock* — if they can fake a household brand with a full legal team, a million-peso marketing budget, and a social media army, what chance does your business have without verification? The above-fold hook leads with a question that collapses the "big brands get faked, not small businesses like mine" defense. The below-fold details (P7,000 cash giveaways, P10,000 gift vouchers, thousands of clicks) are specific enough to feel real — and the official statement the company had to issue is the detail that sticks. You don't want to be posting that statement about your own business. This ad targets your competitive pride: if your business has less protection than that brand, what does that say about how safe your customers are right now?
 
 > **A/B test note:** Closing line — current: "What's protecting YOUR business page right now?" / test variant: "They have a full legal team. You have this ad." The recommended variant creates explicit contrast and urgency, and removes the "big brand = different problem" objection. Test for higher comment volume and share rate. See creative-testing.md → AD 5 Copy Test.
 
@@ -611,6 +615,8 @@ No person, no expression. The thread reads itself. Any travel business owner wil
 
 **Headline:** Book Now, Fly Never.
 **Description:** 89 travel scam reports in 5 months.
+
+> **Why this angle:** This ad uses the *trust erosion* frame — the insight that scammers don't just steal money from your customers, they steal your customers' confidence in you. If you run a travel agency or tour business, this is your daily reality: every booking now starts with "Is this your real page?" The above-fold tagline ("Book now, fly never") works as a pattern interrupt — it sounds like your ad, then reveals it's your nightmare. The Messenger thread in the creative does the heavy lifting: any legitimate travel agent has lived that conversation, typed those same reassurances. Showing your customers in that hesitation moment — "Paki-send ng DTI registration niyo? And yung GCash number — bago ako magbayad" — makes you feel the cost of distrust every single day. This ad converts awareness into urgency because you recognize yourself in it.
 
 > **Copy note:** The trust-damage line (*"They don't just steal money. They steal your customers' confidence in you"*) is the strongest insight in this ad — it now anchors the visual direction. Original description "89 scam reports in 5 months" moved to creative treatment; trust damage takes the description slot as it's more emotionally resonant.
 >
