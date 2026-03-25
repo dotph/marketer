@@ -987,43 +987,43 @@ This is the only ad in the funnel that shows desire, not fear. At conversion sta
 
 The number of phishing websites targeting the Philippines surged 423% last year — from 731 to 3,824 — according to a new report from cybersecurity firm Check Point.
 
-The report, published in February 2026, paints a picture of what researchers call "industrialized" fraud: scam operations that don't just target individuals, but systematically impersonate businesses, brands, and government agencies at scale.
+If you run a business in the Philippines, that number should concern you directly. The report, published in February 2026, paints a picture of what researchers call "industrialized" fraud: scam operations that don't just target individuals, but systematically impersonate businesses like yours at scale.
 
-**Every metric is accelerating**
+**Every metric is accelerating — and your business is in the crosshairs**
 
 The Check Point data comes on the heels of other alarming findings:
 
-- The GSMA's 2025 ASEAN Consumer Scam Report found that 52% of Filipinos have been scammed at least once — 7 percentage points above the regional average.
-- Whoscall's 2025 Philippines Scam Report showed risky URLs surging from 13,602 to 49,431 within 2025 — a nearly fourfold increase.
+- 52% of Filipinos have been scammed at least once — 7 percentage points above the ASEAN average. Your customers are among them.
+- Risky URLs surged from 13,602 to 49,431 within 2025 — a nearly fourfold increase. Any one of those could be impersonating your brand.
 - The PNP logged over 1,525 online selling scam cases last year alone.
 
-These aren't isolated incidents. They're part of a trend that's been accelerating for years.
+These aren't isolated incidents. They're part of a trend that's accelerating — and if you haven't been affected yet, the odds are shifting against you.
 
-**The second victim nobody talks about: the business being impersonated**
+**The second victim nobody talks about: your business**
 
-Most scam coverage focuses on consumer victims — the people who click the wrong link or pay the wrong account. But there's a second victim that rarely gets mentioned: the business being impersonated.
+Most scam coverage focuses on consumer victims — the people who click the wrong link or pay the wrong account. But there's a second victim that rarely gets mentioned: the business being impersonated. Your business.
 
-When a scammer creates a fake Facebook page using a real business's name, photos, and branding, the real business pays the price. Customers lose trust. Bookings get questioned. Payment channels get flagged. Reputation damage is often permanent.
+When a scammer creates a fake Facebook page using your name, your photos, and your branding, you pay the price. Your customers lose trust. Your bookings get questioned. Your payment channels get flagged. Your reputation damage is often permanent.
 
-Check Point's report noted a 37% rise in fake brand and executive profiles on social media — from 940 to 1,291. That means more businesses are being copied, not fewer.
+Check Point's report noted a 37% rise in fake brand and executive profiles on social media — from 940 to 1,291. That means more businesses like yours are being copied, not fewer.
 
-**Social media is now the #1 channel**
+**Social media is now the #1 channel — the same platform your customers find you on**
 
-The GSMA report identified social media as the leading channel for scams in the Philippines, surpassing SMS and email. This is significant because it means scammers are operating on the same platforms where businesses interact with their customers.
+The GSMA report identified social media as the leading channel for scams in the Philippines, surpassing SMS and email. This matters to you because scammers are operating on the same platforms where your customers interact with your business.
 
-A fake Facebook page doesn't need to look perfect. It needs to look real enough that a customer in a hurry doesn't double-check. And with professional-looking templates, purchased likes, and stolen photos available for almost nothing, the barrier to creating a convincing fake is essentially zero.
+A fake version of your Facebook page doesn't need to look perfect. It needs to look real enough that your customer in a hurry doesn't double-check. And with professional-looking templates, purchased likes, and stolen photos available for almost nothing, the barrier to creating a convincing copy of your page is essentially zero.
 
-**New laws exist — but enforcement can't keep pace**
+**New laws exist — but they can't protect you fast enough**
 
 The Philippine government has responded with legislation. The Anti-Financial Account Scamming Act (AFASA), enacted in 2024, targets digital financial fraud. The Internet Transactions Act of 2023 gave the DTI authority to issue takedown orders against fraudulent online sellers.
 
-But enforcement is reactive — it addresses scams after they happen. The question facing Philippine businesses is increasingly not "will we get impersonated?" but "when it happens, will our customers be able to tell the difference?"
+But enforcement is reactive — it addresses scams after they happen. The question you should be asking is not "will my business get impersonated?" but "when it happens, will my customers be able to tell the difference?"
 
-**The old ways of proving legitimacy no longer work**
+**Your old ways of proving legitimacy no longer work**
 
-With scammers scaling operations faster than enforcement can keep up, the burden is shifting to businesses themselves. Companies that invest in visible, verifiable proof of their identity will be better positioned to maintain customer trust in an environment where fakes are becoming indistinguishable from the real thing.
+With scammers scaling operations faster than enforcement can keep up, the burden is shifting to you. If you invest in visible, verifiable proof of your identity, you'll be better positioned to maintain your customers' trust in an environment where fakes are becoming indistinguishable from the real thing.
 
-The 423% surge isn't just a statistic. It's a signal that the old ways of proving legitimacy — a professional-looking website, a Facebook page with likes, an SSL certificate — are no longer enough.
+The 423% surge isn't just a statistic. It's a signal that your current trust signals — your professional-looking website, your Facebook page with likes, your SSL certificate — are no longer enough.
 
 *Sources: Check Point Philippine Threat Landscape Report 2025, GSMA ASEAN Consumer Scam Report 2025, Whoscall PH Scam Report 2025, PNP-ACG*
 
