@@ -760,6 +760,8 @@ CTA button: *"Get Verified — It's Free."*
 
 The government office setting is universally understood in the Philippines. Anyone who has filed a formal complaint knows exactly what those stacks of paper and that queue number feel like. The exhaustion in the business owner's face makes the "one free submission" feel like genuine relief.
 
+> **Why this angle:** This ad uses the *procedural pain* frame — not fear of the scam, but the exhaustion of the aftermath. By the time your customers see this ad, they've already felt the threat (Awareness stage). What they haven't calculated is the cost of dealing with it after the fact. Showing you exactly what prosecution looks like — DTI, PNP-ACG, NBI, sworn statements, months of waiting, and the fake page still running — makes the "one free submission to dotPH" feel like the most rational decision you've ever been offered. The government office setting triggers a very specific Filipino memory: the queue number, the fluorescent lights, the stack of forms. You don't need to convince your audience that process is painful. They already know. You just need to show them the before (that office) and the after (get verified once).
+
 > **A/B test note:** Headline — "Prevention vs. Prosecution" (current) vs. "Prevention vs. Filing a Complaint" (plain language). "Prosecution" is legally accurate but unfamiliar to small business owners in a business context. "Filing a Complaint" mirrors the language used by DTI, NBI, and Meta's own reporting flow. Winner condition: higher CTR. See creative-testing.md → AD 7 Copy Test.
 
 ---
@@ -819,6 +821,8 @@ dotPH badge fades in. CTA: *"Get Verified — It's Free."* dotPH branding.
 
 The two-moment structure (confident at laptop, confused at empty beach) carries the full story. No narration needed. She is every careful Filipino traveler — and she still got it wrong.
 
+> **Why this angle:** This ad uses the *diligence failure* frame — your customer did everything right, and still got scammed. This is the consideration-stage realization that closes the loop on awareness: it's not about your customers being careless. It's about the signals they trust being unfixable without your verification. The checklist visual (8,000 likes ✅, beautiful photos ✅, fast response ✅, GCash link ✅) is deliberately satisfying to read — then the twist ("She still got scammed") hits harder because you were nodding along. The two-moment structure (confident at laptop → confused at empty beach) doesn't need explanation. Every business owner watching this knows: your careful customers are checking all the same things this woman checked. And if you're not verified, your careful customers can still be fooled.
+
 > **Revision note:** Previous version used a bank manager / government app phishing story (Rappler ref #29). That scenario involves personal phishing, not business impersonation — a category mismatch with the product. This version uses the Bantayan/La Union resort pattern (the customer was diligent; the signals were all fake) which directly mirrors the product's use case and keeps the consideration stage grounded in the awareness stories the audience has already seen.
 
 ---
@@ -874,6 +878,8 @@ CTA button: *"Get Verified Now — It's Free."* dotPH branding.
 
 The competitor discovery moment is the most natural trigger for action at the conversion stage. This audience already knows the product — what they need is a reason to act today instead of next week.
 
+> **Why this angle:** This ad uses *competitive FOMO* — the most powerful trigger at the conversion stage. Your audience has already seen the problem and understood the product. What's stopping them from signing up isn't knowledge — it's inertia. Showing you a competitor's page with the badge, while you're still unverified, creates social pressure that's uniquely effective in the Philippine business context: nobody wants to be the last in their industry to do the smart thing. The visual doesn't need to shame you — it just needs to show you what verified looks like on a competitor's page. Your customers are already noticing. The question is: are you going to make them wait?
+
 > **Revision note:** Previous version re-served the Bantayan P500K case study (already used in Ad 2, Reel R1, and Ad 10's original body). At conversion stage, a retargeted audience doesn't need more evidence of the problem — they need a short, direct push. Case study removed; social proof count + consequence gap + zero-friction CTA replaces it.
 
 ---
@@ -921,6 +927,8 @@ Text: *"The badge removed the doubt. [X] businesses this week."*
 CTA: *"Get Verified — Free."* dotPH branding.
 
 The search tab open mid-payment is the specific detail that makes this real — that extra Google check is costing businesses sales every single day.
+
+> **Why this angle:** This ad uses the *invisible lost sale* frame — the customer who almost paid you but didn't. The over-the-shoulder shot of a finger hovering over "Send" while a second tab searches "is [business name] legit?" is the most specific detail in the entire campaign — and the most universally relatable. Every business owner has had the customer who asked one too many questions and never followed through. That's not hesitation. That's revenue walking out the door. This ad makes you feel the exact moment your sale disappears — and then shows you what that same moment looks like when you're verified. The badge doesn't just protect your customers. It closes your sales.
 
 > **Revision note:** P480B stat retained but moved from center-stage infographic to a single supporting line. At conversion stage, leading with a national data visualization re-runs the awareness phase. The focus shifts to the trust gap consequence (lost revenue from hesitation) and momentum (this week's signup count). Shorter copy overall — the audience doesn't need more evidence, they need a reason to act today.
 
