@@ -1267,29 +1267,29 @@ There's no financial friction. The only question is whether you care enough abou
 
 > **Editor's note:** Update the number [X] and industry breakdowns with real data before publishing. This is a template designed to be refreshed weekly during Weeks 5–8 of the campaign.
 
-Since Verified by dotPH launched, [X] businesses have signed up for free identity verification. Here's what's driving them — and why the number keeps growing.
+Since Verified by dotPH launched, [X] businesses have signed up for free identity verification. Here's what's driving them — and why you should care about the number that keeps growing.
 
-**423% more fake pages — and the number is still climbing**
+**423% more fake pages — and your business could be next**
 
-Phishing sites impersonating Philippine businesses surged 423% in 2025. Fake Facebook pages cloning real resorts, restaurants, and online shops continue to appear daily. And the Philippines loses an estimated P480 billion to scams every year.
+Phishing sites impersonating Philippine businesses surged 423% in 2025. Fake Facebook pages cloning real resorts, restaurants, and online shops continue to appear daily. And the Philippines loses an estimated P480 billion to scams every year — money your customers intended to spend with businesses like yours.
 
-Businesses are tired of being caught in the crossfire. They didn't create the problem, but their customers hold them responsible when things go wrong. Verified by dotPH gives them a way to fight back.
+Business owners like you are tired of being caught in the crossfire. You didn't create the problem, but your customers hold you responsible when things go wrong. Verified by dotPH gives you a way to fight back.
 
-**Who's signing up**
+**Who's signing up — and why you'll recognize yourself in their stories**
 
 The early adopters span multiple industries, but a few patterns have emerged:
 
 **Tourism and hospitality: [X]% of signups**
-Resorts and hotels were among the first to verify. After high-profile scams in Bantayan Island, La Union, Batangas, and across Cebu — where fake Facebook pages collected deposits from hundreds of guests — tourism businesses see verification as essential. "Our guests kept asking how to confirm our page is real," said one resort owner. "Now we just point them to our verification page."
+If you run a resort or hotel, you're in good company. After high-profile scams in Bantayan Island, La Union, Batangas, and across Cebu — where fake Facebook pages collected deposits from hundreds of guests — tourism businesses see verification as essential. "Our guests kept asking how to confirm our page is real," said one resort owner. "Now we just point them to our verification page."
 
 **Online sellers and e-commerce: [X]% of signups**
-Independent sellers who rely on their own .ph domains — not just marketplace platforms — have been quick to adopt. The number one complaint they heard from customers: "Is this your real GCash?" Now their GCash number is listed on their verification page — customers check there instead of asking.
+If you're an independent seller relying on your own .ph domain — not just marketplace platforms — you know the frustration. The number one complaint your customers have: "Is this your real GCash?" With verification, your GCash number is listed on your verification page — your customers check there instead of asking you every time.
 
 **Food and restaurants: [X]% of signups**
-Restaurants dealing with cloned delivery pages — fake versions of their page that accept payment for orders that never arrive — are using verification to help customers distinguish real from fake.
+If you run a restaurant dealing with cloned delivery pages — fake versions of your page that accept payment for orders that never arrive — verification helps your customers distinguish your real page from the fakes.
 
 **Clinics and professionals: [X]% of signups**
-Healthcare providers and professional service firms are verifying to ensure patients and clients find the right contact information and appointment pages.
+If you're a healthcare provider or professional, you're verifying to ensure your patients and clients find your real contact information and appointment pages — not a scammer's.
 
 **In their own words: why they got verified**
 
