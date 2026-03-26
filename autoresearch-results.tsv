@@ -1,0 +1,51 @@
+# metric_direction: higher_is_better
+iteration	commit	metric	delta	guard	status	description
+0	4a6692b	17.19	0.0	pass	baseline	initial state — direct address density 17.19 per 1000 words
+1	415268f	18.93	+1.74	pass	keep	rewrite Article 1 with direct address — third-person to reader-facing you/your
+2	0d5ff02	21.23	+2.30	pass	keep	rewrite Article 3 (P480B Problem) with direct address — industry descriptions to 'if you're in X'
+3	a50d8e1	23.07	+1.84	pass	keep	rewrite Article 2 (Fake Resort Pages) with direct address — 'imagine this at your resort'
+4	7eabd48	24.29	+1.22	pass	keep	rewrite Article 5 ([X] Businesses Verified) with direct address — 'if you run a X' framing
+5	3365d7a	24.53	+0.24	pass	keep	add 'Why this angle' reasoning note to Ad 1 with direct address
+6	4cc9f77	25.39	+0.86	pass	keep	add 'Why this angle' reasoning notes to Ad 2 and Ad 3
+7	1201c43	26.25	+0.86	pass	keep	add 'Why this angle' notes to Ads 4/5/6 — blame reversal, scale shock, trust erosion
+8	40f87d8	26.85	+0.60	pass	keep	add 'Why this angle' notes to Ads 7-10 — procedural pain, diligence failure, competitive FOMO, lost sale
+9	abacf91	26.98	+0.13	pass	keep	add 'Why this works' reasoning to consumer posts C1, C2
+10	30d3fb3	27.30	+0.32	pass	keep	add 'Why this works' reasoning to C3/C4/C5 consumer posts
+11	-	27.66	+0.36	pass	keep	add 'Why this works' to C6 (how to check), C7 (GCash check), C8 (3 signs) — no commit yet
+12	-	27.90	+0.24	pass	keep	add 'Why this works' to C9/C10/C11/C12 habit formation consumer posts
+13	-	29.07	+1.17	pass	keep	add Why this works notes to Reels R1–R5 (social proof inversion, stat bomb, real incident, tutorial habit, pattern inversion)
+14	-	29.82	+0.75	pass	keep	add Why this works notes to E1/E2 (infographic + carousel) and I1/I2/I3 (poll, bingo card, scenario post)
+15	-	30.04	+0.22	pass	keep	add Why this works notes to seasonal posts SG1/SG2/SG3 (barkada booking, group responsibility, red flag checklist)
+16	-	29.80	-0.24	pass	keep (user-edit)	remove SG2 Holy Week reel (too late to publish), update timing refs to summer-only, revise I3 Why this works angle
+17	-	29.72	-0.08	pass	keep (user-requested)	add Why this angle notes to B2B Articles 1–5 (authority, storytelling, reframe, objection-killer, social proof)
+18	-	30.42	+0.70	pass	keep	add Why this works notes to Consumer Articles 1–5 (checklist upgrade, first-person trust, payoff reveal, GCash habit, family pagmamahal)
+19	-	31.02	+0.60	pass	keep	convert bare customer/customers to your customer/customers in Article 4 and ad copy (B2B direct address tightening)
+20	-	31.05	+0.03	pass	keep	convert remaining bare customer references: Article 4 list item, Ad 2 creative direction
+21	-	31.16	+0.11	pass	keep	convert customer/customers to your customer/your customers in Article 4 note, Article 5 steps, Ad 7 copy
+22	-	31.58	+0.42	pass	keep	convert business owner third-person references to you/your in creative direction notes (Ad 1 Reel note, Ad 2 visual, Ad 9/12)
+23	-	31.99	+0.41	pass	keep	convert third-person viewer/travel business owner/business reputation references to direct you/your in creative direction notes
+24	-	32.42	+0.43	pass	keep	convert viewer/audience/reader third-person to you/your in conversion-stage ad notes (Ad 7 creative, Ad 4 angle, Ad 11 verify, Ad 12 closing)
+25	-	32.64	+0.22	pass	keep	convert businesses/reader/govoffice references to your business/you in creative direction and B2B article angle notes
+26	-	32.80	+0.16	pass	keep	convert viewer/audience references to you in Ad 3 and Ad 2 creative direction notes
+27	-	33.13	+0.33	pass	keep	convert resort-owner article note third-person to direct address; industry breakdown reader reference
+28	-	33.36	+0.23	pass	keep	convert consumer article notes: third-person reader/audience/they to you/your in articles 3-4 notes
+29	-	33.40	+0.04	pass	keep	convert audience/passive-readers to you/active-reader in I3 Why this works note
+30	-	33.44	+0.04	pass	keep	convert consumer article 1 note reader references to you/your
+31	-	33.48	+0.04	pass	keep	convert C9 movement-launch note audience/them to you/your
+32	-	33.52	+0.04	pass	keep	convert Ad 8 Why this angle note business-owner to you; convert C2 every-reader to you
+33	-	33.79	+0.27	pass	keep	convert B2B article 1/3/4 notes: reader third-person to you/your; bayanihan framing
+34	-	33.91	+0.12	pass	keep	convert Ad 8 creative direction note, article 4/5 angle notes third-person to direct address
+35	-	34.10	+0.19	pass	keep	convert Ad 9 angle note audience/them; revision note retargeted-audience; Phase placement note
+36	-	34.14	+0.04	pass	keep	convert C6 audience-primed note; C1 audience-cant-scroll-past note
+37	-	34.22	+0.08	pass	keep	convert SG1 that-person/them to you in booking checklist note; C7 audience-knows to you
+38	-	34.29	+0.07	pass	keep	convert C3 audience-harder-to-process note and C7 audience-has-sent-that-DM note to direct you/your
+39	-	34.33	+0.04	pass	keep	convert R4 Tutorial Reels posting guidance audience-is-relaxed to you're-relaxed / you'll-watch
+40	-	34.37	+0.04	pass	keep	convert Ad 8 revision note awareness-stories-the-audience-has-seen to you've-already-seen
+41	-	34.41	+0.04	pass	keep	convert Ad 9 note nobody-in-their-industry to last-in-your-industry
+42	-	34.46	+0.05	pass	keep	convert Ad 1 Why-these-two-work note: Reel earns late-night saves from solo owners → earns save from you checking your phone
+43	-	34.53	+0.07	pass	keep	convert Ad 6 Why-this-angle note: any-legitimate-travel-agent-has-lived → if-you're-a-legitimate-travel-agent-you've-lived
+44	-	34.64	+0.11	pass	keep	Consumer Article 5 body: "older family members are particularly vulnerable" → "your nanay, your lola, your tita are particularly vulnerable" (+3 your)
+45	-	34.72	+0.08	pass	keep	Consumer Article 3 Why-this-works note: align perspective — "Your reader / They've / their / giving them" → "You / You've / your / you have" for consistency
+46	-	34.80	+0.08	pass	keep	Ad 2 Variation B creative note: "Anyone who has ever sent money" → "If you've ever sent money" (+2 you)
+47	-	34.87	+0.07	pass	keep	Consumer Post C4 body: "it was possible to verify before they paid" → "you can verify before you pay" (active + direct, +2 you)
+48	-	34.99	+0.12	pass	keep	C5 Why-this-works: "a brand they've eaten... whose face they know, whose packaging they recognize" → "you've eaten... you know... you recognize" (+3 you)

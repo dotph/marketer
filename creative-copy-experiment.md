@@ -178,7 +178,7 @@ Source: *Check Point, 2025.* No logo. No CTA.
 ---
 
 **Why these two work:**
-The static hits your pride — your brand was franchised without you. The Reel hits your fear — your business ran without you, and someone else collected. Same threat, two emotional doors. The certificate earns shares from business owners ("pre, look at this"); the Reel earns the late-night saves from solo owners who check their phone before bed. Both funnel directly into Ad 7.
+The static hits your pride — your brand was franchised without you. The Reel hits your fear — your business ran without you, and someone else collected. Same threat, two emotional doors. The certificate earns shares from business owners ("pre, look at this"); the Reel earns the late-night save from you, checking your phone before bed. Both funnel directly into Ad 7.
 
 ---
 
@@ -264,7 +264,7 @@ Text overlay, one line, bold:
 Source, bottom left:
 *Source: Bantayan Island resort scam, 2024.*
 
-Anyone who has ever sent money before confirming will feel this immediately.
+If you've ever sent money before confirming, you'll feel this immediately.
 
 **Headline:** 200 Guests Paid. The Page Was Gone.
 **Description:** Guests sent ₱5,000. The resort never existed.
@@ -616,7 +616,7 @@ No person, no expression. The thread reads itself. If you run a travel business,
 **Headline:** Book Now, Fly Never.
 **Description:** 89 travel scam reports in 5 months.
 
-> **Why this angle:** This ad uses the *trust erosion* frame — the insight that scammers don't just steal money from your customers, they steal your customers' confidence in you. If you run a travel agency or tour business, this is your daily reality: every booking now starts with "Is this your real page?" The above-fold tagline ("Book now, fly never") works as a pattern interrupt — it sounds like your ad, then reveals it's your nightmare. The Messenger thread in the creative does the heavy lifting: any legitimate travel agent has lived that conversation, typed those same reassurances. Showing your customers in that hesitation moment — "Paki-send ng DTI registration niyo? And yung GCash number — bago ako magbayad" — makes you feel the cost of distrust every single day. This ad converts awareness into urgency because you recognize yourself in it.
+> **Why this angle:** This ad uses the *trust erosion* frame — the insight that scammers don't just steal money from your customers, they steal your customers' confidence in you. If you run a travel agency or tour business, this is your daily reality: every booking now starts with "Is this your real page?" The above-fold tagline ("Book now, fly never") works as a pattern interrupt — it sounds like your ad, then reveals it's your nightmare. The Messenger thread in the creative does the heavy lifting: if you're a legitimate travel agent, you've lived that conversation and typed those same reassurances. Showing your customers in that hesitation moment — "Paki-send ng DTI registration niyo? And yung GCash number — bago ako magbayad" — makes you feel the cost of distrust every single day. This ad converts awareness into urgency because you recognize yourself in it.
 
 > **Copy note:** The trust-damage line (*"They don't just steal money. They steal your customers' confidence in you"*) is the strongest insight in this ad — it now anchors the visual direction. Original description "89 scam reports in 5 months" moved to creative treatment; trust damage takes the description slot as it's more emotionally resonant.
 >
@@ -823,7 +823,7 @@ The two-moment structure (confident at laptop, confused at empty beach) carries 
 
 > **Why this angle:** This ad uses the *diligence failure* frame — your customer did everything right, and still got scammed. This is the consideration-stage realization that closes the loop on awareness: it's not about your customers being careless. It's about the signals they trust being unfixable without your verification. The checklist visual (8,000 likes ✅, beautiful photos ✅, fast response ✅, GCash link ✅) is deliberately satisfying to read — then the twist ("She still got scammed") hits harder because you were nodding along. The two-moment structure (confident at laptop → confused at empty beach) doesn't need explanation. You know: your careful customers are checking all the same things this woman checked. And if you're not verified, your careful customers can still be fooled.
 
-> **Revision note:** Previous version used a bank manager / government app phishing story (Rappler ref #29). That scenario involves personal phishing, not business impersonation — a category mismatch with the product. This version uses the Bantayan/La Union resort pattern (the customer was diligent; the signals were all fake) which directly mirrors the product's use case and keeps the consideration stage grounded in the awareness stories the audience has already seen.
+> **Revision note:** Previous version used a bank manager / government app phishing story (Rappler ref #29). That scenario involves personal phishing, not business impersonation — a category mismatch with the product. This version uses the Bantayan/La Union resort pattern (the customer was diligent; the signals were all fake) which directly mirrors the product's use case and keeps the consideration stage grounded in the awareness stories you've already seen.
 
 ---
 
@@ -878,7 +878,7 @@ CTA button: *"Get Verified Now — It's Free."* dotPH branding.
 
 The competitor discovery moment is the most natural trigger for action at the conversion stage. You already know the product — what you need is a reason to act today instead of next week.
 
-> **Why this angle:** This ad uses *competitive FOMO* — the most powerful trigger at the conversion stage. You've already seen the problem and understood the product. What's stopping you from signing up isn't knowledge — it's inertia. Showing you a competitor's page with the badge, while you're still unverified, creates social pressure that's uniquely effective in the Philippine business context: nobody wants to be the last in their industry to do the smart thing. The visual doesn't need to shame you — it just needs to show you what verified looks like on a competitor's page. Your customers are already noticing. The question is: are you going to make them wait?
+> **Why this angle:** This ad uses *competitive FOMO* — the most powerful trigger at the conversion stage. You've already seen the problem and understood the product. What's stopping you from signing up isn't knowledge — it's inertia. Showing you a competitor's page with the badge, while you're still unverified, creates social pressure that's uniquely effective in the Philippine business context: nobody wants to be the last in your industry to do the smart thing. The visual doesn't need to shame you — it just needs to show you what verified looks like on a competitor's page. Your customers are already noticing. The question is: are you going to make them wait?
 
 > **Revision note:** Previous version re-served the Bantayan P500K case study (already used in Ad 2, Reel R1, and Ad 10's original body). At conversion stage, you don't need more evidence of the problem — you need a short, direct push. Case study removed; social proof count + consequence gap + zero-friction CTA replaces it.
 
@@ -1057,7 +1057,8 @@ The 423% surge isn't just a statistic. It's a signal that your current trust sig
 **SEO keywords:** fake resort Facebook page Philippines, online booking scam Philippines, resort impersonation scam
 **No product mention.** Human interest, storytelling-driven.
 
-> **Why this angle:** The resort story makes the threat personal for your primary B2B audience. If you're a resort owner reading about "a resort in Bantayan", you're not reading about someone else — you're reading about your own business, your own photos being stolen, your own guests showing up at the wrong page. The storytelling structure (what happened → how it happened → what you can do now) moves you from shock to understanding to agency — which is exactly the emotional sequence that motivates action. No product mention in the article itself; the article earns the trust that later campaign touchpoints spend.
+> **
+ The resort story makes the threat personal for your primary B2B audience. If you're a resort owner reading about "a resort in Bantayan", you're not reading about someone else — you're reading about your own business, your own photos being stolen, your own guests showing up at the wrong page. The storytelling structure (what happened → how it happened → what you can do now) moves you from shock to understanding to agency — which is exactly the emotional sequence that motivates action. No product mention in the article itself; the article earns the trust that later campaign touchpoints spend.
 
 ---
 
@@ -1539,7 +1540,7 @@ Forward this to your family GC before someone books a trip.
 3. "Then they showed up. The resort didn't exist." (empty lot or Google Maps screenshot showing nothing)
 4. "Before you book, check if it's real." (simple CTA, no product yet — Phase 1 is about fear, not solution)
 
-> **Why this works:** The *fabricated place* story is the sharpest scam story in the campaign because there's no "real thing that got copied" — it was invented from scratch. For your audience, that's harder to process than a fake page: someone created an entire fake destination with your region's name and collected bookings. The 8,000 likes detail makes you distrust your own intuition ("I would have liked that page too"). The "Forward this to your family GC" CTA lands naturally before Holy Week and summer travel season — it frames sharing as a protective act, not just engagement.
+> **Why this works:** The *fabricated place* story is the sharpest scam story in the campaign because there's no "real thing that got copied" — it was invented from scratch. For you, that's harder to process than a fake page: someone created an entire fake destination with your region's name and collected bookings. The 8,000 likes detail makes you distrust your own intuition ("I would have liked that page too"). The "Forward this to your family GC" CTA lands naturally before Holy Week and summer travel season — it frames sharing as a protective act, not just engagement.
 
 ---
 
@@ -1555,7 +1556,7 @@ Forward this to your family GC before someone books a trip.
 
 Higher than Thailand. Higher than Indonesia. Higher than the ASEAN average.
 
-And the worst part? Most people don't even know it was possible to verify before they paid.
+And the worst part? Most people don't even know you can verify before you pay.
 
 96% of us are worried about it happening again. But we keep checking the wrong things — likes, photos, reviews — because those are the only signals we know.
 
@@ -1602,7 +1603,7 @@ Tag someone who enters Facebook giveaways.
 3. "All fake. The company had to issue a warning."
 4. "If they can fake a household name, they can fake any business you buy from."
 
-> **Why this works:** The *known brand anchor* works because it collapses the "scams only happen to careless people" belief. If thousands of Filipinos were fooled by a fake page for a brand they've eaten at hundreds of times — whose face they know, whose packaging they recognize — then your ability to spot a fake for a small online seller you've never met is essentially zero. The pivot to your everyday purchases ("The online sellers. The small resorts. The local restaurants") puts the threat in your regular behavior, not an exceptional one. Tagging someone who enters Facebook giveaways is surgical: you're surfacing the most at-risk behavior in your social circle.
+> **Why this works:** The *known brand anchor* works because it collapses the "scams only happen to careless people" belief. If thousands of Filipinos were fooled by a fake page for a brand you've eaten at hundreds of times — whose face you know, whose packaging you recognize — then your ability to spot a fake for a small online seller you've never met is essentially zero. The pivot to your everyday purchases ("The online sellers. The small resorts. The local restaurants") puts the threat in your regular behavior, not an exceptional one. Tagging someone who enters Facebook giveaways is surgical: you're surfacing the most at-risk behavior in your social circle.
 
 ---
 
@@ -1679,7 +1680,7 @@ Send this to the person in your family who sends GCash the most.
 3. "Visit their Verified by dotPH page. Check their listed GCash number." (screenshot of the payment details section with GCash number visible)
 4. "Match? Pay with confidence. No match? Don't send money." + #CheckBeforeYouPay
 
-> **Why this works:** The *"Is this your real GCash?"* hook is the most relatable opener in the campaign — everyone in your audience has sent that DM or received it. Opening on a familiar behavior you already know doesn't protect you is a powerful reframe. "Stop asking. Start checking." is the cleanest instruction in the entire campaign: two parallel imperatives, one behavior eliminated, one behavior installed. The GCash number comparison is the product's core value proposition expressed in one action — you don't need to trust the seller; you check with the registry. Send to the person in your family who sends GCash the most: that's the highest-risk person in every Filipino household, and you know exactly who that is.
+> **Why this works:** The *"Is this your real GCash?"* hook is the most relatable opener in the campaign — you've probably sent that DM or received it. Opening on a familiar behavior you already know doesn't protect you is a powerful reframe. "Stop asking. Start checking." is the cleanest instruction in the entire campaign: two parallel imperatives, one behavior eliminated, one behavior installed. The GCash number comparison is the product's core value proposition expressed in one action — you don't need to trust the seller; you check with the registry. Send to the person in your family who sends GCash the most: that's the highest-risk person in every Filipino household, and you know exactly who that is.
 
 ---
 
@@ -2051,7 +2052,7 @@ Save this. Send it to your nanay.
 
 #CheckBeforeYouPay
 
-**Posting guidance:** Post at 8:30 PM PHT. Tutorial Reels perform best when audience is relaxed (evening window) — they'll watch the full 30 seconds during wind-down time, not during a rushed lunch break.
+**Posting guidance:** Post at 8:30 PM PHT. Tutorial Reels perform best when you're relaxed (evening window) — you'll watch the full 30 seconds during wind-down time, not during a rushed lunch break.
 
 > **Why this works:** This is your permanent checklist — three steps, 30 seconds, applicable to every online transaction from now on. The tutorial format respects your intelligence: it doesn't preach, it equips. After watching this, you have no excuse not to check, and you know exactly how. "Save this. Send it to your nanay." does double work — it anchors the habit (save = return to it later) and activates your protective instinct (your nanay deserves to know this too). This reel turns your audience from passive viewers into active ambassadors for the verification habit.
 
@@ -2534,7 +2535,7 @@ It takes 30 seconds. And it would have saved me P3,500 and a ruined vacation.
 **SEO keywords:** Verified by dotPH, how to check business verification, online trust Philippines
 **Product mention:** Yes — this is the "how to" article. Core of the consumer empowerment phase.
 
-> **Why this works:** This is the payoff article for your reader's two-week journey through the fear activation content. Your reader has already heard about the scams. They've already learned that their old verification habits are insufficient. Now you're giving them something that actually works. The three-step structure is deliberately simple: find badge → click it → compare. The "save this page, share it with your family" closer works because it activates your protective instinct — you're not just reading for yourself, you're reading so you can protect the people you care about.
+> **Why this works:** This is the payoff article for your two-week journey through the fear activation content. You've already heard about the scams. You've already learned that your old verification habits are insufficient. Now you have something that actually works. The three-step structure is deliberately simple: find badge → click it → compare. The "save this page, share it with your family" closer works because it activates your protective instinct — you're not just reading for yourself, you're reading so you can protect the people you care about.
 
 ---
 
@@ -2712,7 +2713,7 @@ The item never arrived.
 
 She didn't tell you about it for two weeks. She was embarrassed.
 
-This story plays out thousands of times a month in the Philippines. Across every age group — but older family members are particularly vulnerable, because the signals they trust (page looks professional, has lots of likes, responds quickly) are exactly the signals that scammers fake.
+This story plays out thousands of times a month in the Philippines. Across every age group — but your nanay, your lola, your tita are particularly vulnerable, because the signals they trust (page looks professional, has lots of likes, responds quickly) are exactly the signals that scammers fake.
 
 52% of Filipinos have been scammed at least once. Many of them are the people in your family group chat right now.
 
