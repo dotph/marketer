@@ -202,7 +202,7 @@ Guests sent deposits through GCash. They showed up expecting their booking. The 
 
 Over 200 victims. P500,000 lost — from one fake page.
 
-The scammers didn't hack anything. They just made a page that looked real. And customers couldn't tell the difference.
+The scammers didn't hack anything. They just made a page that looked real. And your customers couldn't tell the difference.
 
 How would YOUR guests know which page is real?
 
@@ -729,9 +729,9 @@ Here's what prevention looks like instead:
 
 1. Submit your ID and business documents to dotPH.
 2. dotPH verifies you're the real owner of your .ph domain.
-3. You get a verified badge and a public verification page — where your real GCash number, social media, and website are listed for customers to check before they pay.
+3. You get a verified badge and a public verification page — where your real GCash number, social media, and website are listed for your customers to check before they pay.
 
-Before a customer sends money, they click your badge and pull up your dotPH page. The GCash number matches? They pay. It doesn't? They know something's wrong before any money moves.
+Before your customer sends money, they click your badge and pull up your dotPH page. The GCash number matches? They pay. It doesn't? They know something's wrong before any money moves.
 
 Scammers can copy your page. They can't fake a dotPH verification.
 
@@ -1203,7 +1203,7 @@ The question is: what are you doing to make sure your customers can tell you're 
 **SEO keywords:** .ph domain verification, online business trust Philippines, how to prove business is real online
 **This article introduces Verified by dotPH.**
 
-> **Why this angle:** This is the objection-killer. Your most qualified reader already has a .ph domain and thinks they've done what's necessary. This article dismantles that assumption by walking through every signal customers use to gauge trust — domain, padlock, professional design, likes — and showing that scammers optimize for all of them. The "without vs. with verification" customer journey comparison does the conversion work: it's not framed as a safety upgrade, it's framed as a lost sales problem you're currently experiencing without knowing it. Every moment a customer hesitates before paying because they can't tell if you're real is revenue you're leaving on the table.
+> **Why this angle:** This is the objection-killer. Your most qualified reader already has a .ph domain and thinks they've done what's necessary. This article dismantles that assumption by walking through every signal customers use to gauge trust — domain, padlock, professional design, likes — and showing that scammers optimize for all of them. The "without vs. with verification" customer journey comparison does the conversion work: it's not framed as a safety upgrade, it's framed as a lost sales problem you're currently experiencing without knowing it. Every moment your customer hesitates before paying because they can't tell if you're real is revenue you're leaving on the table.
 
 ---
 
@@ -1217,25 +1217,25 @@ But there's a gap between what a domain proves and what your customers need to k
 
 A .ph domain proves that someone registered the domain name through an accredited registrar. That's it.
 
-It doesn't prove the registrant's identity has been verified by a third party. It doesn't prove the business behind the domain is legitimate. It doesn't give customers a way to check who you are before they transact.
+It doesn't prove the registrant's identity has been verified by a third party. It doesn't prove the business behind the domain is legitimate. It doesn't give your customers a way to check who you are before they transact.
 
-SSL certificates — the padlock icon in the browser — prove that the connection between the customer and the website is encrypted. They secure the data in transit. But they don't verify who's on the other end.
+SSL certificates — the padlock icon in the browser — prove that the connection between your customer and your website is encrypted. They secure the data in transit. But they don't verify who's on the other end.
 
-So a scammer can register a domain, install an SSL certificate, and present a website that looks exactly like a legitimate business. To the customer, everything looks right: .ph domain, padlock icon, professional design.
+So a scammer can register a domain, install an SSL certificate, and present a website that looks exactly like your business. To your customer, everything looks right: .ph domain, padlock icon, professional design.
 
-**Customers use 4 signals to decide if a page is real — scammers fake all 4**
+**Your customers use 4 signals to decide if a page is real — scammers fake all 4**
 
 The real problem isn't technology. It's human.
 
-Customers are making split-second decisions about whether to trust an online page. They look at:
+Your customers are making split-second decisions about whether to trust an online page. They look at:
 - Does it have a real-looking domain?
 - Does the page look professional?
 - Are there reviews and likes?
 - Does it accept popular payment methods?
 
-Scammers know this checklist, and they optimize for every item on it. That's why the Cabanas La Union fake resort page had 8,000 likes despite not being a real place. That's why scammers register lookalike domains that mirror major e-commerce platforms — adding a single dash or extra word is enough to fool a customer scanning quickly. Every signal that customers use to gauge trust can be faked.
+Scammers know this checklist, and they optimize for every item on it. That's why the Cabanas La Union fake resort page had 8,000 likes despite not being a real place. That's why scammers register lookalike domains that mirror major e-commerce platforms — adding a single dash or extra word is enough to fool your customer scanning quickly. Every signal your customers use to gauge trust can be faked.
 
-What customers actually need is a way to verify business identity that can't be faked. Not a visual signal. An actual check.
+What your customers actually need is a way to verify your identity that can't be faked. Not a visual signal. An actual check.
 
 **A verification process scammers can't pass**
 
@@ -1255,9 +1255,9 @@ The key difference: this isn't self-reported. It's verified by the domain regist
 
 Consider the customer journey:
 
-Without verification: A customer sees your website or Facebook page. It looks real. But so does the fake one. They hesitate. They screenshot your GCash number and DM you to confirm. Or they just don't pay.
+Without verification: Your customer sees your website or Facebook page. It looks real. But so does the fake one. They hesitate. They screenshot your GCash number and DM you to confirm. Or they just don't pay.
 
-With verification: A customer sees your verified badge. They click through to your verification page on dotPH. They see your listed payment channels — your real GCash number, your real website, your real social media. The details match? They pay with confidence.
+With verification: Your customer sees your verified badge. They click through to your verification page on dotPH. They see your listed payment channels — your real GCash number, your real website, your real social media. The details match? They pay with confidence.
 
 The difference isn't just trust. It's conversion. Every moment of hesitation is a potential lost sale.
 
@@ -1269,7 +1269,7 @@ Verified by dotPH is designed for any .ph domain holder — individuals, small b
 - **Online sellers** whose customers ask "Is this your real GCash?" on every transaction
 - **Restaurants** with cloned delivery pages
 - **Clinics and professionals** with fake appointment pages
-- **Any business that accepts online payments** and deals with customer hesitation
+- **Any business that accepts online payments** and deals with your customers' hesitation before every payment
 
 **It's free.**
 
@@ -1338,7 +1338,7 @@ If you're a healthcare provider or professional, you're verifying to ensure your
 
 In a post-signup survey, the top reasons businesses cited:
 
-1. **Protecting customers from fake pages** — "I don't want my customers paying a scammer who's using my name."
+1. **Protecting your customers from fake pages** — "I don't want my customers paying a scammer who's using my name."
 2. **Reducing payment hesitation** — "My customers ask 'Is this really you?' before every payment. Verification answers that question."
 3. **It's free** — "There's no reason not to."
 4. **Authority of dotPH** — "Being verified by the actual domain registry means something. It's not a random badge — it's from the organization that manages .ph."
@@ -1349,7 +1349,7 @@ Verified by dotPH is free for all .ph domain holders.
 
 Step 1: Submit your government-issued ID and business documents.
 Step 2: dotPH reviews and confirms your identity.
-Step 3: Get your verified badge and verification page — where you list your real GCash number, social media, and website for customers to check.
+Step 3: Get your verified badge and verification page — where you list your real GCash number, social media, and website for your customers to check.
 
 No cost. No catch.
 
