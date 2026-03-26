@@ -549,7 +549,7 @@ Fake hotel bookings. Bogus flight deals. "Travel agents" who vanish after collec
 
 GMA News called it a surge. But if you run a legit travel business, you already know.
 
-Every fake page erodes the trust your customers have in online booking. They hesitate. They second-guess. They call to confirm every single transaction.
+Every fake page erodes the trust your customers have in online booking. They hesitate before your page. They second-guess your payment link. They call to confirm your GCash before every transaction.
 
 The scammers don't just steal money. They steal your customers' confidence in you.
 
@@ -760,7 +760,7 @@ CTA button: *"Get Verified — It's Free."*
 
 The government office setting is universally understood in the Philippines. If you've ever filed a formal complaint, you know exactly what those stacks of paper and that queue number feel like. The exhaustion in the business owner's face makes the "one free submission" feel like genuine relief.
 
-> **Why this angle:** This ad uses the *procedural pain* frame — not fear of the scam, but the exhaustion of the aftermath. By the time your customers see this ad, they've already felt the threat (Awareness stage). What they haven't calculated is the cost of dealing with it after the fact. Showing you exactly what prosecution looks like — DTI, PNP-ACG, NBI, sworn statements, months of waiting, and the fake page still running — makes the "one free submission to dotPH" feel like the most rational decision you've ever been offered. The government office setting triggers a very specific Filipino memory: the queue number, the fluorescent lights, the stack of forms. You don't need to convince your audience that process is painful. They already know. You just need to show them the before (that office) and the after (get verified once).
+> **Why this angle:** This ad uses the *procedural pain* frame — not fear of the scam, but the exhaustion of the aftermath. By the time your customers see this ad, they've already felt the threat (Awareness stage). What they haven't calculated is the cost of dealing with it after the fact. Showing you exactly what prosecution looks like — DTI, PNP-ACG, NBI, sworn statements, months of waiting, and the fake page still running — makes the "one free submission to dotPH" feel like the most rational decision you've ever been offered. The government office setting triggers a very specific Filipino memory: the queue number, the fluorescent lights, the stack of forms. You don't need to explain to your audience that process is painful — they've lived it. What you need to show them is the contrast: your before (that office) and your after (one submission, done).
 
 > **A/B test note:** Headline — "Prevention vs. Prosecution" (current) vs. "Prevention vs. Filing a Complaint" (plain language). "Prosecution" is legally accurate but unfamiliar to small business owners in a business context. "Filing a Complaint" mirrors the language used by DTI, NBI, and Meta's own reporting flow. Winner condition: higher CTR. See creative-testing.md → AD 7 Copy Test.
 
@@ -899,7 +899,7 @@ The competitor discovery moment is the most natural trigger for action at the co
 
 Some of the P480 billion Filipinos lose to scams every year was meant for businesses like yours — customers who wanted to pay you, but paid a scammer instead.
 
-The businesses that signed up? The hesitation is gone. Customers click the badge, see the confirmed GCash number, and pay. No more "Is this your real page?"
+The businesses that signed up? Your customers' hesitation is gone. They click your badge, see your confirmed GCash number, and pay with confidence. No more "Is this your real page?"
 
 Your customers want that confidence. Are they finding it?
 
@@ -943,7 +943,7 @@ The search tab open mid-payment is the specific detail that makes this real — 
 
 > **ABOVE FOLD** — first 125 characters visible before "See more":
 
-When a verified business's customer searches for their page, they find a badge. One click. Confirmed. No hesitation.
+When your customer searches for your page, they find a badge. One click. Confirmed. No hesitation.
 
 > **BELOW FOLD:**
 
@@ -1084,7 +1084,7 @@ Verafiles fact-checked and confirmed the entire operation was fabricated. The pa
 
 In Batangas, a well-known beach resort discovered that scammers weren't just creating fake pages — they were running paid Facebook ads using the resort's name and photos to collect bookings.
 
-If scammers are investing money in advertising fake businesses, the return on your customers' trust must be significant. They're spending to reach your audience before you do.
+If scammers are investing money in advertising fake businesses, the return on your customers' trust must be significant. They're spending to reach your customers — on your platform, with your brand — before you do.
 
 **Cebu tourism issued a joint warning — your region could be next**
 
@@ -1256,7 +1256,7 @@ The key difference: this isn't self-reported. It's verified by the domain regist
 
 Consider the customer journey:
 
-Without verification: Your customer sees your website or Facebook page. It looks real. But so does the fake one. They hesitate. They screenshot your GCash number and DM you to confirm. Or they just don't pay.
+Without verification: Your customer sees your website or Facebook page. It looks real. But so does the fake one. They hesitate in front of your page. They screenshot your GCash number and DM you to confirm. Or they abandon your sale entirely.
 
 With verification: Your customer sees your verified badge. They click through to your verification page on dotPH. They see your listed payment channels — your real GCash number, your real website, your real social media. The details match? They pay with confidence.
 
@@ -1786,7 +1786,7 @@ Protecting your family from scams isn't paranoia. It's pagmamahal.
 
 **Creative direction:** Warm, family-oriented visual. A nanay or tita looking at a phone. Text overlay: "Your nanay shops online. Does she know how to check?" Filipino family tone — not corporate, not scary. The word "pagmamahal" (love/caring) anchors the emotional close.
 
-> **Why this works:** The *family protection* post activates your audience's most powerful motivation: protecting the people they love. By naming your nanay, tita, and lolo specifically, you're not talking about "older Filipinos" abstractly — you're talking about the specific person in your life who sends GCash to people they don't know very well. "You know better now. Teach them." is the campaign's most direct call to intergenerational protection. And "Protecting your family from scams isn't paranoia. It's pagmamahal" — that closing line is what makes this post get shared beyond the Facebook feed and into actual family conversations.
+> **Why this works:** The *family protection* post activates your most powerful motivation: protecting the people you love. By naming your nanay, tita, and lolo specifically, you're not talking about "older Filipinos" abstractly — you're talking about the specific person in your life who sends GCash to people they don't know very well. "You know better now. Teach them." is the campaign's most direct call to intergenerational protection. And "Protecting your family from scams isn't paranoia. It's pagmamahal" — that closing line is what makes this post get shared beyond the Facebook feed and into actual family conversations.
 
 ---
 
@@ -1809,7 +1809,7 @@ Tag a friend who should do this too.
 
 **Creative direction:** Simple branded template with a frame for user screenshots. "I checked before I paid. #CheckBeforeYouPay" — designed so consumers can overlay their own screenshot of a verification page visit.
 
-> **Why this works:** The *UGC prompt* converts your audience from passive consumers into active participants. By inviting screenshots of verification checks — both successful ("I paid with confidence") and protective ("I didn't pay because something didn't match") — you create two categories of shareable story. The second story is especially powerful: people who nearly got scammed but caught it through verification. Those stories become your most persuasive real-world testimonials. "Your story matters" respects the effort of checking. "Drop it here" is deliberately casual — this is a community post, not a formal submission.
+> **Why this works:** The *UGC prompt* converts your audience from passive consumers into active participants by giving you a stage to share your own story. By inviting screenshots of verification checks — both successful ("I paid with confidence") and protective ("I didn't pay because something didn't match") — you create two categories of shareable story. The second story is especially powerful: people who nearly got scammed but caught it through verification. Those stories become your most persuasive real-world testimonials. "Your story matters" respects the effort of checking. "Drop it here" is deliberately casual — this is a community post, not a formal submission.
 
 ---
 
@@ -2000,7 +2000,7 @@ Source: Verafiles, 2024
 
 **Posting guidance:** Post at 8:30 PM PHT (weekday) or 2–3 PM PHT (weekend). Consumer-facing — both windows work. Pair with C3 post on same week.
 
-> **Why this works:** Real incident. Named place. Verifiable source. "8,000 people liked a place that was never real" is designed to make your existing social proof instincts feel untrustworthy — if 8,000 Filipinos were fooled, you could have been fooled too. The four-beat script (book → pay → show up → nothing) mirrors the exact emotional sequence your audience has already witnessed or feared, which is why it stops the scroll. The "forward to your family GC" CTA works because the risk isn't just yours — your nanay, your lola, your auntie planning a beach trip for the holidays is also in danger. You share this to protect the people you love, not just to be informed.
+> **Why this works:** Real incident. Named place. Verifiable source. "8,000 people liked a place that was never real" is designed to make your existing social proof instincts feel untrustworthy — if 8,000 Filipinos were fooled, you could have been fooled too. The four-beat script (book → pay → show up → nothing) mirrors the exact emotional sequence you've already witnessed or feared in your own stories, which is why it stops your scroll. The "forward to your family GC" CTA works because the risk isn't just yours — your nanay, your lola, your auntie planning a beach trip for the holidays is also in danger. You share this to protect the people you love, not just to be informed.
 
 ---
 
@@ -2054,7 +2054,7 @@ Save this. Send it to your nanay.
 
 **Posting guidance:** Post at 8:30 PM PHT. Tutorial Reels perform best when you're relaxed (evening window) — you'll watch the full 30 seconds during wind-down time, not during a rushed lunch break.
 
-> **Why this works:** This is your permanent checklist — three steps, 30 seconds, applicable to every online transaction from now on. The tutorial format respects your intelligence: it doesn't preach, it equips. After watching this, you have no excuse not to check, and you know exactly how. "Save this. Send it to your nanay." does double work — it anchors the habit (save = return to it later) and activates your protective instinct (your nanay deserves to know this too). This reel turns your audience from passive viewers into active ambassadors for the verification habit.
+> **Why this works:** This is your permanent checklist — three steps, 30 seconds, applicable to every online transaction from now on. The tutorial format respects your intelligence: it doesn't preach, it equips. After watching this, you have no excuse not to check, and you know exactly how. "Save this. Send it to your nanay." does double work — it anchors the habit (save = return to it later) and activates your protective instinct (your nanay deserves to know this too). This reel turns you from a passive viewer into an active ambassador for the verification habit — one who shares it with your circle because it genuinely helps, not because you were asked to.
 
 ---
 
@@ -2380,7 +2380,7 @@ Source: dotPH / #CheckBeforeYouPay
 
 **Posting guidance:** Post 8:30 PM PHT, early to mid April during summer season. This infographic is designed for save-and-forward behavior — pin a comment: "Screenshot this before you book. Your family GC needs to see it." High save rate = high algorithmic value.
 
-> **Why this works:** The two-column format converts a complex judgment call — "is this business real?" — into a visual checklist your audience can apply in under 30 seconds. When you scan the red flags column and recognize your own past booking habits, the lesson isn't being delivered to you; you're discovering it yourself. The "mostly green? book / mostly red? don't send that deposit" binary at the bottom removes all decision paralysis. But the real power is the save-and-forward mechanic: every person who screenshots this infographic is voluntarily distributing the verification checklist to their Viber and Messenger contacts. Your audience does the distribution for you, because the content makes *them* look smart and helpful — not because you asked them to.
+> **Why this works:** The two-column format converts a complex judgment call — "is this business real?" — into a visual checklist your audience can apply in under 30 seconds. When you scan the red flags column and recognize your own past booking habits, the lesson isn't being delivered to you; you're discovering it yourself. The "mostly green? book / mostly red? don't send that deposit" binary at the bottom removes all decision paralysis. But the real power is the save-and-forward mechanic: every time you screenshot this infographic, you're voluntarily distributing the verification checklist to your Viber and Messenger contacts. You share it organically, because the content makes you look smart and helpful to your network — not because anyone asked you to.
 
 ---
 
