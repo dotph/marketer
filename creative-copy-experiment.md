@@ -968,7 +968,7 @@ Free for .ph domain holders. Submit your documents. dotPH handles the rest.
 
 Left side: A customer on an unverified business page. Their expression: a slight frown, hesitating. They open a second browser tab — "is this the real [business name]?" They're doing extra work before they can feel comfortable. Maybe they abandon the payment entirely.
 
-Right side: A customer on a verified business page. They spot the dotPH badge, click it, the verification page opens — business name, GCash number, website all confirmed. Their expression: relief, confidence. They pay immediately. No second tab. No extra search. Done.
+Right side: A customer on a verified business page. They spot the dotPH badge, click it, the verification page opens — your business name, your GCash number, your website all confirmed. Their expression: relief, confidence. They pay immediately. No second tab. No extra search. Done.
 
 Below both, centered and bold:
 
