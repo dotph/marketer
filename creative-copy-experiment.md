@@ -897,7 +897,7 @@ The competitor discovery moment is the most natural trigger for action at the co
 
 > **BELOW FOLD:**
 
-Some of the P480 billion Filipinos lose to scams every year was meant for businesses like yours — customers who wanted to pay you, but paid a scammer instead.
+Some of the P480 billion Filipinos lose to scams every year was meant for businesses like yours — your customers who wanted to pay you, but paid a scammer instead.
 
 The businesses that signed up? Your customers' hesitation is gone. They click your badge, see your confirmed GCash number, and pay with confidence. No more "Is this your real page?"
 
@@ -951,7 +951,7 @@ Here's what your customer sees after you get verified:
 
 They find your page. They see the Verified by dotPH badge. They click it. Your business name, your real GCash number, your official website — all confirmed by the official .ph domain registry. They pay. No DM asking "Is this your real account?" No second-guessing. No hesitation.
 
-That's the experience verified businesses give their customers every day.
+That's the experience your verified business gives your customers every day.
 
 Right now, your customers are still doing mental math before they pay you. "Looks legit... but is it?" Some decide yes. Some don't bother.
 
@@ -1144,7 +1144,7 @@ The first is the customer who pays the wrong account. That's the victim the news
 
 The second is you — the business whose name was used. You're the victim nobody talks about.
 
-You don't just lose the revenue from that transaction. You lose something harder to measure: your customers' trust. Customers who've been burned — or who've heard about someone being burned — start questioning everything. "Is this the real page?" "Is this the real GCash number?" "Should I just book somewhere else?"
+You don't just lose the revenue from that transaction. You lose something harder to measure: your customers' trust. Your customers who've been burned — or who've heard about someone being burned — start questioning everything. "Is this the real page?" "Is this the real GCash number?" "Should I just book somewhere else?"
 
 Every hesitation is a potential lost sale for you. And that erosion of trust compounds over time.
 
@@ -1260,7 +1260,7 @@ Without verification: Your customer sees your website or Facebook page. It looks
 
 With verification: Your customer sees your verified badge. They click through to your verification page on dotPH. They see your listed payment channels — your real GCash number, your real website, your real social media. The details match? They pay with confidence.
 
-The difference isn't just trust. It's conversion. Every moment of hesitation is a potential lost sale.
+The difference isn't just trust. It's conversion. Every moment of your customer's hesitation is a sale you're losing.
 
 **Who should get verified**
 
