@@ -786,7 +786,7 @@ She paid. She showed up. There was nothing there.
 
 The problem wasn't that she was careless. The problem is that every signal she checked — likes, photos, reviews, response time — can be faked in 10 minutes for less than P500.
 
-That's exactly what Verified by dotPH solves. Your business gets a verified badge — and a public page on dotPH where your real GCash number, social media, and website are confirmed by the official .ph domain registry. Before your customers pay, they check that page. If the details match, they know it's you. Not because you said so. Because the registry verified it.
+That's exactly what Verified by dotPH solves. Your business gets a verified badge — and a public page on dotPH, verified by the official .ph domain registry as yours, where you list your real GCash number, social media, and website for your customers to check. Before your customers pay, they check that page. If the details match, they know it's you. Not because you said so. Because the registry verified it's your page.
 
 Scammers can copy your page. They can't pass a document check.
 
@@ -848,7 +848,7 @@ Your competitors are already verified. Their customers see the badge. Yours don'
 
 > **BELOW FOLD:**
 
-[X] businesses are now verified. Their customers can click the badge, see the real GCash number confirmed by the official .ph registry, and pay without hesitation.
+[X] businesses are now verified. Their customers can click the badge, see the real GCash number the business listed on their verified dotPH page, and pay without hesitation.
 
 Your customers are still asking: "Is this the real page?" Some wait. Some don't pay at all. Some pay a scammer using your name.
 
@@ -899,7 +899,7 @@ The competitor discovery moment is the most natural trigger for action at the co
 
 Some of the P480 billion Filipinos lose to scams every year was meant for businesses like yours — your customers who wanted to pay you, but paid a scammer instead.
 
-The businesses that signed up? Your customers' hesitation is gone. They click your badge, see your confirmed GCash number, and pay with confidence. No more "Is this your real page?"
+The businesses that signed up? Your customers' hesitation is gone. They click your badge, see your GCash number on your verified dotPH page, and pay with confidence. No more "Is this your real page?"
 
 Your customers want that confidence. Are they finding it?
 
@@ -949,7 +949,7 @@ When your customer searches for your page, they find a badge. One click. Confirm
 
 Here's what your customer sees after you get verified:
 
-They find your page. They see the Verified by dotPH badge. They click it. Your business name, your real GCash number, your official website — all confirmed by the official .ph domain registry. They pay. No DM asking "Is this your real account?" No second-guessing. No hesitation.
+They find your page. They see the Verified by dotPH badge. They click it. Your business name, your real GCash number, your official website — all on a page the official .ph domain registry has verified as yours. They pay. No DM asking "Is this your real account?" No second-guessing. No hesitation.
 
 That's the experience your verified business gives your customers every day.
 
@@ -1665,7 +1665,7 @@ Here's the thing — the seller will always say yes. Even the fake ones.
 
 Stop asking. Start checking.
 
-Go to the business's Verified by dotPH page. Their real GCash number is listed right there — confirmed by the official .ph registry, not by the seller themselves.
+Go to the business's Verified by dotPH page. Their real GCash number is listed right there — placed by the business themselves on a page the official .ph registry has verified as theirs.
 
 GCash number matches? Pay.
 Doesn't match? You just dodged a scam.
@@ -2331,7 +2331,7 @@ Slide 2: ✅ **Find their website.** Real resorts and travel businesses have one
 
 Slide 3: ✅ **Check when the page was created.** Go to "About" and look for "Page transparency." A resort that's been open for years shouldn't have a page made last month. Scammers create fresh pages all the time.
 
-Slide 4: ✅ **Verify the GCash number.** Go to their Verified by dotPH page. Their real GCash number is listed there, confirmed by the official .ph registry. Does it match what the seller gave you?
+Slide 4: ✅ **Verify the GCash number.** Go to their Verified by dotPH page. Their real GCash number is listed there — on the page the official .ph registry has verified as theirs. Does it match what the seller gave you?
 
 Slide 5: ✅ **Look for the Verified by dotPH badge.** Find it on their website footer. Click it. It takes you to their official verification page where you can check everything.
 

@@ -41,9 +41,10 @@ dotPH's tone adapts to where the content lives. The brand voice stays consistent
 | **Carousel slides** | 1080 x 1080 px per slide, 3–5 slides |
 | **Video** | 1080 x 1080 px (feed) or 1080 x 1920 px (Stories/Reels), 15–30 sec |
 | **File formats** | PNG for statics, MP4 for video. Max 30 MB for images, 4 GB for video |
-| **Text on image** | Keep under 20% of image area (Meta's recommendation for ad delivery) |
+| **Text on image** | Keep under 20% of image area (Meta's recommendation for ad delivery). Every text element must be readable on a phone screen without zooming — design for a 6-inch display at arm's length, not a desktop monitor. |
+| **Mobile-first text sizing** | **Hero overlay (main line):** Minimum 60–80px at 1080px canvas — renders as large, unmissable text on mobile. **Secondary line (stat or subtext):** Minimum 36–44px — readable but visually subordinate. **Source citation:** 20–24px, bottom corner — present but not competing. Never rely on fine print to carry key information. |
 | **Color palette** | **Awareness phase:** Dark/muted backgrounds (black, dark navy) with bold white/red text — urgency, alarm. **Consideration phase:** Split tones — dark (problem) vs. light/green (solution). **Conversion phase:** Clean white/light backgrounds with dotPH brand colors — trust, action |
-| **Typography** | Bold sans-serif for hero stat/number (e.g., "423%", "P500K"). Clean readable sans-serif for body. All caps sparingly — for single-word emphasis only |
+| **Typography** | Bold sans-serif for hero overlay — thick stroke weight, wide letter spacing, high contrast against background. Secondary lines: medium weight, same typeface family. All caps acceptable for 1–4 word hero lines only. Drop shadows or semi-transparent backing panels behind text if placed over a busy image area — legibility over aesthetics. |
 | **Branding rule** | **Awareness ads (1–6):** NO dotPH logo, NO product branding — pure problem education. **Consideration ads (7–8):** dotPH logo in bottom corner, CTA button visible. **Conversion ads (9–10):** Full dotPH branding, prominent CTA button, badge visual |
 | **Source citations** | Always visible in small text, bottom corner. Format: "Source, Year" (e.g., "Check Point, 2025") |
 | **Accessibility** | Minimum contrast ratio 4.5:1 for text on backgrounds. Avoid red-green only color distinctions |
@@ -83,7 +84,99 @@ The question isn't whether it's happening. It's whether it's already happening t
 
 > **A/B test note:** Headline test — stat-led ("Fake Pages Up 4x Last Year") vs. personal threat ("Someone Is Using Your Name"). Original "Phishing Sites Up 423% in PH" retired — "phishing sites" refers to URL-based attacks, not Facebook page impersonation. The 423% stat is correctly used in the body copy with context. "4x" framing is accurate, avoids dating, and is more visceral than a percentage. Recommended winner: "Someone Is Using Your Name" — matches the register of the above-fold line and makes no claim that requires stat accuracy.
 
-**Creative direction:** Static image or motion graphic. Dark background, bold white "423%" center-screen. Smaller text below: "increase in phishing websites impersonating PH businesses." Source citation in bottom corner: "Check Point, 2025." No logo, no CTA button — engagement objective only.
+**Creative direction:**
+
+**Primary format — Static image (1080 x 1350 px, 4:5 portrait)**
+
+---
+
+**Variation A — Person**
+
+A real Filipino workplace — a small café, a resort front desk, or an online shop backroom. Natural lighting. Lived-in and authentic, not staged.
+
+The business owner is in the foreground, phone in one hand, arm half-extended toward an employee beside them — the instinctive move when you don't understand something and need a second pair of eyes. Their other hand is raised slightly, mid-gesture, as if they just said "hintay, tingnan mo ito." The employee leans in close, one hand on the counter for balance, the other pointing at one specific part of the screen — not the answer, just the part they also can't make sense of.
+
+Both of them have the same expression: brows knitted, heads tilted at the same angle, that collective "ano ito?" face that only happens when two people are equally confused by the same thing.
+
+Behind both of them, visible on the desk or counter: a laptop open to their business website. Clean, professional, their real site — their name, their branding, their products. Everything looks normal on their end.
+
+But the phone screen, angled toward the viewer and readable, shows the message that started it all:
+
+*"Hi! Just paid po sa website niyo. Kailan ko matatanggap yung order? 8,500 yung binayad ko."*
+
+No record of this customer. No payment received. Their real website shows nothing.
+
+Large text overlay at the top of the frame, bold white:
+
+*"A customer just paid for something you never sold."*
+
+Smaller text directly below, one line:
+*Phishing sites targeting PH businesses up 423% in one year.*
+
+Source, left-aligned, bottom corner, small:
+*Source: Check Point, 2025.*
+
+No dotPH logo. No product mention. No CTA.
+
+**Headline:** Someone Is Using Your Name
+**Description:** Is your business being copied?
+
+---
+
+**Variation B — No person**
+
+Clean, close-up shot of a phone screen. The phone is on a desk — just the device, no hands, no face. Shot from directly above, slightly warm ambient light.
+
+On screen: a Messenger notification, full-width, unmistakably readable:
+
+*"Hi! Just paid po sa website niyo. Kailan ko matatanggap yung order? 8,500 yung binayad ko."*
+
+That is the entire image. No reaction. No context. No person.
+
+The viewer supplies the confusion themselves — because if they run a business, they immediately ask "what if I got this?"
+
+Single text overlay, top of frame, bold white:
+
+*"A customer just paid for something you never sold."*
+
+Source, bottom left:
+*Source: Check Point, 2025.*
+
+No dotPH logo. No CTA. The absence of a person makes the viewer insert themselves into the scene. The Messenger message does all the work.
+
+**Headline:** Someone Is Using Your Name
+**Description:** Is your business being copied?
+
+---
+
+**Secondary format — Companion Reel (1080 x 1920 px, 20–25 sec)**
+
+2 AM. A Filipino bedroom. A business owner asleep. Phone on the bedside table, screen dimming. No sound yet.
+
+Split screen opens silently. Left side: their real Facebook business page — quiet, no activity. Store closed for the night.
+
+Right side: a page with their exact name, exact logo, exact photos. A customer sends a GCash payment notification. The operator — awake, somewhere else — marks it received. Another payment comes in. Then another.
+
+Left side: the real owner's phone buzzes once with an unread message. They don't stir.
+
+Morning. Sunlight. The owner wakes up, checks their phone. Opens Messenger. A customer they don't recognize:
+
+*"Kumusta na yung order ko? Tatlong araw na wala pa ring update."*
+
+They stare at it. They have no record of this order. No payment. Nothing.
+
+Final frame — black screen, white text, slow fade:
+
+*"Your business ran last night.*
+*You weren't there.*
+*Neither was your product."*
+
+Source: *Check Point, 2025.* No logo. No CTA.
+
+---
+
+**Why these two work:**
+The static hits the business owner's pride — their brand was franchised without them. The Reel hits their fear — their business ran without them, and someone else collected. Same threat, two emotional doors. The certificate earns shares among business owners ("pre, look at this"); the Reel earns the late-night saves from solo owners who check their phone before bed. Both funnel directly into Ad 7.
 
 ---
 
@@ -114,12 +207,65 @@ How would YOUR guests know which page is real?
 **Headline:** 50,000 Likes. All Fake.
 **Description:** A real resort. A fake page.
 
-**Creative direction:** Facebook carousel format (3–4 slides):
-1. "A resort in Bantayan Island had its Facebook page copied."
-2. "The fake page got 50,000 likes. The real page was offline."
-3. "200+ guests paid. The resort had no record of them."
-4. "P500,000 lost. How would YOUR guests know the difference?"
-Each slide: clean text on a muted beach/resort background. No product branding.
+**Creative direction:**
+
+---
+
+**Variation A — Person**
+
+A Filipino family at the beach — but something is wrong.
+
+They've arrived. Luggage at their feet. The kids are already looking around, excited, scanning the shoreline for the resort from the photos. The father has his phone in one hand, the booking screenshot still open. He's looking up slowly — from the screen, to the beach, back to the screen.
+
+Nothing here matches.
+
+No check-in counter. No umbrella huts. No smiling staff. Just open beach, a few locals, and the quiet afternoon sounds of a place that has no idea 200 families were expecting to find a resort here today.
+
+The mother has gone quiet. She's looking at her husband, not the beach. That moment — the one just before you say it out loud, just before you have to call everyone and explain — that's the frame.
+
+The kids still haven't caught on. They're pointing at something in the water. They think this is the beginning of the trip.
+
+Phone screen partial and readable — the fake Facebook page, 50,000 likes, "Book Now" link, glowing reviews. Beautiful photos of a resort that was never here.
+
+One detail visible on the screen, readable: the like count on the fake page is higher than the real resort's page.
+
+Text overlay, bold, upper frame:
+
+*"The fake page had more likes than the real one."*
+
+Source, bottom left:
+*Source: Bantayan Island resort scam, 2024.*
+
+No product branding. The kids not knowing yet is the detail that makes every parent feel this. The like count is the detail that makes every business owner feel it differently — their customers couldn't tell either.
+
+**Headline:** 50,000 Likes. All Fake.
+**Description:** A real resort. A fake page.
+
+---
+
+**Variation B — No person**
+
+A phone screen, close up. Two notifications stacked.
+
+First: a GCash receipt — *"Payment successful. ₱5,000 sent."* Timestamp: two weeks ago.
+
+Second, directly below it: a Facebook notification — *"The page you're looking for isn't available."*
+
+That is the entire image. No faces. No beach. No family.
+
+The gap between those two notifications is the whole story.
+
+Text overlay, one line, bold:
+
+*"200 guests paid. The page was already deleted."*
+
+Source, bottom left:
+*Source: Bantayan Island resort scam, 2024.*
+
+Anyone who has ever sent money before confirming will feel this immediately.
+
+**Headline:** 200 Guests Paid. The Page Was Gone.
+**Description:** Guests sent ₱5,000. The resort never existed.
 
 > **A/B test note:** Caption-order test — Variant A (current): setup-first above fold ("A Facebook page got 50,000 likes..."). Variant B (curiosity-first): lead above fold with Slide 4's challenge question ("How would YOUR guests know which page is real? A resort in Bantayan found out the hard way."), then reveal the story. Curiosity-first opens with the reader's problem before asking them to follow a narrative about someone else. Winner condition: higher carousel swipe-through rate (reaching Slide 3+) and higher CTR on the end card. See creative-testing.md → AD 2 Copy Test.
 
@@ -148,7 +294,59 @@ If a completely fake resort can get 8,000 likes, imagine what a scammer can do w
 **Headline:** This Resort Had 8,000 Likes
 **Description:** It didn't exist.
 
-**Creative direction:** Short video (15–30 sec) or static with reveal. Open with a scenic beach photo — text overlay: "This resort in La Union had 8,000 likes." Beat. "Guests paid for bookings." Beat. "Then they showed up." Final frame, black background: "The resort didn't exist." Cite: "Verafiles, 2024."
+**Creative direction:**
+
+---
+
+**Variation A — Person**
+
+A bus to La Union — Urbiztondo-bound, afternoon. Window seat.
+
+A young Filipino traveler has their phone out, scrolling the Cabanas La Union Facebook page. Stunning photos: beachfront cabanas, turquoise water, hammocks, guests in resort wear. 8,000 likes. Five-star reviews. They've been looking at these photos for weeks. The trip is finally happening.
+
+They hold the phone up toward the window — not looking outside, just catching better light to screenshot a photo they want to send their friends. Excited, unbothered, completely trusting.
+
+Outside the window behind them: the barangay road through Urbiztondo. Real La Union. Real coastline. Surfers, roadside stores, the landscape everyone who goes to Elyu knows. Beautiful. Normal.
+
+No resort. No cabanas. Nothing matching what's on the phone screen.
+
+The scene is the dramatic irony: the traveler's face is pure joy. The window behind them is the truth. They're minutes away from an address that has nothing at it.
+
+Text overlay, one line, centered:
+
+*"They had 8,000 likes and beautiful photos. The resort didn't exist."*
+
+Source, bottom left:
+*Source: Verafiles, 2024.*
+
+No product branding. The viewer sees what the traveler can't see yet.
+
+**Headline:** This Resort Had 8,000 Likes
+**Description:** It didn't exist.
+
+---
+
+**Variation B — No person**
+
+Two Facebook pages, side by side. No people.
+
+Left: "Cabanas La Union." Cover photo — a beautiful beachfront resort, sunlit water, wooden cabanas, lush greenery. 8,000 likes. Looks exactly like a real La Union beach destination.
+
+Right: "Seabliss Beach Resort, Lian, Batangas." Cover photo — the exact same image. Same shot. Same angle. Same cabanas. Different page name. Different location. Real resort.
+
+The photos are identical. The pages are not.
+
+Single text overlay, centered, bold:
+
+*"Same photo. One is a scam."*
+
+Source, bottom left:
+*Source: Verafiles, 2024.*
+
+No explanation needed. The viewer sees immediately what happened — and immediately wonders if their own resort photos have already been taken.
+
+**Headline:** Your Photos Could Be Next.
+**Description:** The resort didn't exist.
 
 ---
 
@@ -175,7 +373,64 @@ Every lost customer thinks they got scammed by YOU — not by the fake page that
 **Headline:** They Don't Blame the Scammer.
 **Description:** They blame your business.
 
-**Creative direction:** Text-heavy static or short motion graphic. Opening frame: "They don't blame the scammer." Beat. "They blame your business." Second frame: Big "52%" — "of Filipinos scammed at least once — GSMA, 2025." Arrow pointing to: "And every one of them remembers who they think scammed them." Clean, data-driven feel. No product mention.
+**Creative direction:**
+
+---
+
+**Variation A — Person**
+
+A Filipino business owner, end of day. Their shop is in the background — products on shelves, signage, a counter they've stood behind for years. Everything they built.
+
+It's been a good day. Maybe they just served their last customer, maybe they're counting receipts. There's a small, quiet satisfaction in the air — the kind that only comes from honest work.
+
+Then they check their phone.
+
+One new notification. A Google review. They tap it.
+
+One star. The review reads: *"SCAMMER. Do NOT trust this business."*
+
+The frame freezes on their face in the moment after they read it — not yet anger, not yet panic. That first beat of pure wrongness. The expression of someone who has just been accused of something they didn't do, in front of everyone, with no way to explain.
+
+Their shop — everything they built — is visible behind them. All of it still there. All of it suddenly under a shadow they didn't create.
+
+Single text overlay, bold:
+
+*"They don't blame the scammer. They blame you."*
+
+Source: GSMA, 2025 — in the ad copy, not on the image.
+
+**Headline:** They Don't Blame the Scammer.
+**Description:** They blame your business.
+
+---
+
+**Variation B — No person**
+
+A phone screen. A Google Maps listing for a real Filipino business — restaurant, boutique, or clinic. The profile looks legitimate: photos, address, hours, website.
+
+Below the info: the Reviews section. One review, pinned at the top because it's the newest.
+
+One star. The review:
+
+*"SCAMMER. Do NOT trust this business. Nagpabayad sila tas wala silang isinend. Hindi ko na mababawi ang pera ko."*
+
+The business owner's reply is visible below it, two days later, in smaller text:
+
+*"Hi po, we have no record of this transaction. We believe your payment went to a fake page using our name. We're sorry this happened to you."*
+
+No one has responded to the reply. The 1-star review is still there.
+
+Text overlay, bold:
+
+*"They don't blame the scammer. They blame you."*
+
+Source, bottom left, small:
+*Source: GSMA, 2025.*
+
+No person. No expression needed. The 1-star review speaks for itself — anyone who has ever worked hard to build a business reputation will feel this viscerally without being told how to feel.
+
+**Headline:** They Don't Blame the Scammer.
+**Description:** They blame your business.
 
 > **A/B test note:** Original headline "52% of Filipinos Have Been Scammed" / description "Your business pays the price." — The above-fold reframe (*"Your customers don't blame the scammer. They blame you"*) is the campaign's sharpest insight and should lead as the headline, not be buried in body text.
 
@@ -208,12 +463,59 @@ What's protecting YOUR business page right now?
 **Headline:** They Faked a Household Name.
 **Description:** Your business could be next.
 
-**Creative direction:** Carousel:
-1. "Scammers impersonated a major PH fast food chain on Facebook."
-2. "Fake anniversary giveaways. P7,000 cash. P10,000 vouchers."
-3. "Customers shared personal data. The company had to issue a warning."
-4. "If they can fake a household name, they can fake you."
-Use bold text on simple backgrounds. Cite: "Verafiles fact-checked, confirmed fake."
+**Creative direction:**
+
+---
+
+**Variation A — Person**
+
+A Filipino small business owner at their counter or workspace, mid-scroll on Facebook. Not searching for anything specific — just their feed, a quiet moment between customers.
+
+Then they stop. Phone held slightly tighter, head tilted down. One thumb stops scrolling. The other hand, which was resting on the counter, slowly rises and cups their chin — that micro-pause of someone who just read something that landed differently than the rest of their feed.
+
+Not panicked. Not at the point of action. Just that first beat of "wait."
+
+Their own business is visible in the background: their products, their signage, their brand. Everything they built.
+
+Phone screen readable, showing a partial official notice from a recognizable major Philippine brand:
+
+*"⚠️ OFFICIAL NOTICE: Fake Facebook pages are running unauthorized promos in our name. These are NOT affiliated with us."*
+
+Text overlay on the image, top of frame:
+
+*"That brand has a legal team and a million-peso marketing budget. And they still had to post this."*
+
+Source, left-aligned, bottom:
+*Source: Verafiles, fact-checked and confirmed fake.*
+
+No dotPH branding.
+
+**Headline:** They Faked a Household Name.
+**Description:** Your business could be next.
+
+---
+
+**Variation B — No person**
+
+Just the official notice. Full frame. No person.
+
+Clean screenshot of a Facebook post from a major Philippine brand — formatted exactly as an official statement would look: brand logo as profile picture, bold heading, warning triangle, formal language:
+
+*"⚠️ OFFICIAL NOTICE: Fake Facebook pages are running unauthorized promos in our name. These pages are NOT affiliated with us and are being used to collect personal data from unsuspecting customers."*
+
+Post details visible: thousands of likes, hundreds of shares, hundreds of comments — people tagging each other, sharing warnings.
+
+Single text overlay at the top of the image, bold:
+
+*"If they got faked, what about you?"*
+
+Source, bottom left:
+*Source: Verafiles, fact-checked and confirmed.*
+
+No CTA. No explanation. The scale of the notification — the likes, the shares, the reach — is what hits. This isn't a small incident. This happened to a brand everyone knows.
+
+**Headline:** They Faked a Household Name.
+**Description:** Your business could be next.
 
 > **A/B test note:** Closing line — current: "What's protecting YOUR business page right now?" / test variant: "They have a full legal team. You have this ad." The recommended variant creates explicit contrast and urgency, and removes the "big brand = different problem" objection. Test for higher comment volume and share rate. See creative-testing.md → AD 5 Copy Test.
 
@@ -244,7 +546,65 @@ The scammers don't just steal money. They steal your customers' confidence in yo
 **Headline:** Book Now, Fly Never.
 **Description:** They steal your customers' trust.
 
-**Creative direction:** Video or animated text. Open with a beautiful travel destination shot. Text overlay fades in: "Book now..." then shifts to: "...fly never." Second frame: "Every fake page erodes your customers' trust in online booking." Beat. "They hesitate. They call to confirm. They stop booking." Final frame: "89 travel scam reports. Jan–May 2025." Source: GMA News. No product mention.
+**Creative direction:**
+
+---
+
+**Variation A — Person**
+
+A Filipino travel agent at their desk — late in the day. Travel brochures on the wall, a map, a laptop with multiple tabs open. The desk has the lived-in look of someone who genuinely works here.
+
+Their elbow is on the desk, chin resting in their palm. Phone screen up in front of them. They're reading through it with their free hand — not scrolling fast, reading slowly. The kind of slow scroll you do when you're tired and the thread is long and you've had this conversation too many times.
+
+They're not annoyed at the customer. Their expression is something harder to name — that quiet resignation of someone doing an unreasonable amount of work just to be trusted. They understand why the customer is asking. That understanding is what makes it land.
+
+Messenger chat visible and readable on screen:
+
+*Customer: "Hi! Is this the real [Agency Name]?"*
+*Agent: "Yes po, official page kami 😊"*
+*Customer: "Paki-send ng DTI registration niyo?"*
+*Customer: "And yung GCash number — bago ako magbayad, gusto ko lang ma-confirm."*
+*Customer: "Last na — video call tayo para makita ko kayo?"*
+
+Text overlay at the top:
+
+*"This is what every booking looks like now."*
+
+Source, left-aligned:
+*Source: GMA News, 2025. 89 travel scam reports in 5 months.*
+
+No dotPH logo.
+
+**Headline:** Book Now, Fly Never.
+**Description:** They steal your customers' trust.
+
+---
+
+**Variation B — No person**
+
+Just the Messenger thread. No person. No desk. No context.
+
+Close-up of a phone screen, shot from above. The Messenger conversation fills the frame:
+
+*Customer: "Hi! Is this the real [Agency Name]?"*
+*Agent: "Yes po, official page kami 😊"*
+*Customer: "Paki-send ng DTI registration niyo?"*
+*Customer: "And yung GCash number — bago ako magbayad, gusto ko lang ma-confirm."*
+*Customer: "Last na — video call tayo para makita ko kayo?"*
+
+The thread stops there. No resolution. No reply from the agent.
+
+Single text overlay at the top:
+
+*"This is what every booking looks like now."*
+
+Source, bottom left:
+*Source: GMA News, 2025.*
+
+No person, no expression. The thread reads itself. Any travel business owner will recognize every message — they've typed those same replies, they've sent those same proofs. The viewer doesn't need a face to feel it.
+
+**Headline:** Book Now, Fly Never.
+**Description:** 89 travel scam reports in 5 months.
 
 > **Copy note:** The trust-damage line (*"They don't just steal money. They steal your customers' confidence in you"*) is the strongest insight in this ad — it now anchors the visual direction. Original description "89 scam reports in 5 months" moved to creative treatment; trust damage takes the description slot as it's more emotionally resonant.
 >
@@ -276,7 +636,54 @@ But your customers don't know that test exists yet.
 **Headline:** Your Page Looks Real. So Does Theirs.
 **Description:** Likes can be bought. Fakes can't be verified.
 
-**Creative direction:** Static or motion graphic. Two columns. Left: real business metrics a customer would trust — "10,000 likes" ✅ "200 reviews" ✅ "Responds within minutes" ✅ "Professional photos" ✅. Right: same checklist but labeled "Fake page — also passes all of these." No product mention. Final frame: "There's only one check scammers can't fake." Source annotation: "Verafiles, SunStar Cebu." No product branding — pure problem.
+**Creative direction:**
+
+---
+
+**Variation A — Person**
+
+A Filipino customer at their laptop, late afternoon light from a window. They're leaning forward, both forearms on the desk, one hand with a finger hovering between two open browser tabs — not clicking yet, just hovering, the digital equivalent of looking left and right before crossing.
+
+Their face: brows slightly drawn together, eyes moving from one tab to the other. Not confused in a panicked way — just genuinely, carefully uncertain. This is someone doing their due diligence. They're trying. They just can't tell.
+
+On screen, two side-by-side tabs. Both show what appears to be the same resort or restaurant page. Same name. Same cover photo. Same follower count. The tabs are readable enough to see the similarity but not reveal which is real.
+
+Text overlay, bold, at the top:
+
+*"One of these is real. Can you tell which one?"*
+
+No answer in the image. The answer goes in the pinned comment:
+*"Neither your customers nor ours could tell. That's the problem. Here's the only check that actually works."*
+
+Source, left-aligned, bottom:
+*Source: Verafiles, SunStar Cebu.*
+
+No dotPH branding.
+
+**Headline:** Your Page Looks Real. So Does Theirs.
+**Description:** Likes can be bought. Fakes can't be verified.
+
+---
+
+**Variation B — No person**
+
+Just the two browser tabs, full screen. No desk. No hands. No person.
+
+A laptop display showing two side-by-side browser tabs — both open to what appears to be the same business page. Same profile photo. Same cover image. Same name. Same follower count. Same "About" info.
+
+The tabs are nearly pixel-for-pixel identical. No labels. No highlights. No indication of which is real.
+
+Text overlay, bold, centered:
+
+*"One of these is real. Can you tell which one?"*
+
+Source, bottom:
+*Source: Verafiles, SunStar Cebu.*
+
+No person needed. The image is a direct challenge to the viewer — an open question they immediately want to answer. The discomfort of not being able to tell is the entire message.
+
+**Headline:** Your Page Looks Real. So Does Theirs.
+**Description:** Likes can be bought. Fakes can't be verified.
 
 > **Angle note:** This is the contrarian angle missing from the current set. Every existing awareness ad says "scammers are out there." This ad says "the signals you feel safe about are exactly what scammers exploit." It invalidates the reader's false sense of security — which is a stronger call to action than adding more fear about a distant threat.
 
@@ -323,7 +730,23 @@ Prevention beats prosecution. Every time.
 **Headline:** Prevention vs. Prosecution
 **Description:** Get verified. It's free.
 
-**Creative direction:** Split-screen or "vs." format. Left side (red/dark): "Prosecution" — list of painful steps in small text. Right side (green/light): "Prevention" — "Get verified. Free." dotPH logo at bottom. CTA button: "Learn How."
+**Creative direction:** A Filipino business owner sitting across a government office desk — DTI or NBI setting, recognizable to any Filipino who has ever had to deal with a formal complaint process. Stacks of paper forms in front of them. A number queue ticket. Fluorescent office lighting. They look exhausted, not defeated — but this has clearly been going on for a while.
+
+On the wall behind them: a calendar. Three months visibly marked off. A sticky note on the calendar: "fake page still active."
+
+Their laptop is open beside them, showing their inbox — follow-up emails, waiting on responses from multiple agencies. The fake page that started all of this is still running while they sit here.
+
+Text overlay, bold:
+
+*"6 steps. Multiple agencies. Months of waiting. For one fake page."*
+
+Clean divider line. Below it, a second smaller panel or text block — light background, dotPH branding:
+
+*"Or — submit your documents to dotPH once. Free. Scammers can't pass a registry check."*
+
+CTA button: *"Get Verified — It's Free."*
+
+The government office setting is universally understood in the Philippines. Anyone who has filed a formal complaint knows exactly what those stacks of paper and that queue number feel like. The exhaustion in the business owner's face makes the "one free submission" feel like genuine relief.
 
 > **A/B test note:** Headline — "Prevention vs. Prosecution" (current) vs. "Prevention vs. Filing a Complaint" (plain language). "Prosecution" is legally accurate but unfamiliar to small business owners in a business context. "Filing a Complaint" mirrors the language used by DTI, NBI, and Meta's own reporting flow. Winner condition: higher CTR. See creative-testing.md → AD 7 Copy Test.
 
@@ -349,7 +772,7 @@ She paid. She showed up. There was nothing there.
 
 The problem wasn't that she was careless. The problem is that every signal she checked — likes, photos, reviews, response time — can be faked in 10 minutes for less than P500.
 
-That's exactly what Verified by dotPH solves. Your business gets a verified badge — and a public page on dotPH where your real GCash number, social media, and website are confirmed by the official .ph domain registry. Before your customers pay, they check that page. If the details match, they know it's you. Not because you said so. Because the registry verified it.
+That's exactly what Verified by dotPH solves. Your business gets a verified badge — and a public page on dotPH, verified by the official .ph domain registry as yours, where you list your real GCash number, social media, and website for your customers to check. Before your customers pay, they check that page. If the details match, they know it's you. Not because you said so. Because the registry verified it's your page.
 
 Scammers can copy your page. They can't pass a document check.
 
@@ -358,7 +781,31 @@ Free for .ph domain holders. From the official .ph domain registry.
 **Headline:** Your Customers Can't Tell Anymore
 **Description:** Give them one check that works.
 
-**Creative direction:** Clean editorial style. Dark background. Opening text (sequence): "She checked the likes." ✅ "She checked the reviews." ✅ "She checked the photos." ✅ Beat. "She still got scammed." ❌ Then: "The problem isn't careless customers. It's that fakes look real." Transition to dotPH value prop. CTA: "Get Verified — It's Free." dotPH branding visible.
+**Creative direction:** A Filipino woman at her laptop, carefully reviewing a resort Facebook page before booking — methodical, thorough, the kind of person who does her research. She's cross-referencing: resort page on one side of the screen, her Notes app open on the other, checking items off her list one by one.
+
+Her checklist visible on screen:
+
+*Resort check:*
+*8,000 likes ✅*
+*Beautiful beach photos ✅*
+*Responds fast ✅*
+*Positive reviews ✅*
+*GCash link available ✅*
+
+She looks satisfied. She's done everything right. She's about to pay.
+
+The image splits or transitions: the same woman, now standing at a beach address with a small bag. She's looking around. There is no resort. Just beach. She's looking at her phone, then back at the empty space where the resort should be.
+
+Text overlay, bold:
+
+*"She checked everything. She still got scammed."*
+
+Smaller line:
+*Every item on that list can be faked in 30 minutes for less than ₱500. Every item except one.*
+
+dotPH badge fades in. CTA: *"Get Verified — It's Free."* dotPH branding.
+
+The two-moment structure (confident at laptop, confused at empty beach) carries the full story. No narration needed. She is every careful Filipino traveler — and she still got it wrong.
 
 > **Revision note:** Previous version used a bank manager / government app phishing story (Rappler ref #29). That scenario involves personal phishing, not business impersonation — a category mismatch with the product. This version uses the Bantayan/La Union resort pattern (the customer was diligent; the signals were all fake) which directly mirrors the product's use case and keeps the consideration stage grounded in the awareness stories the audience has already seen.
 
@@ -385,7 +832,7 @@ Your competitors are already verified. Their customers see the badge. Yours don'
 
 > **BELOW FOLD:**
 
-[X] businesses are now verified. Their customers can click the badge, see the real GCash number confirmed by the official .ph registry, and pay without hesitation.
+[X] businesses are now verified. Their customers can click the badge, see the real GCash number the business listed on their verified dotPH page, and pay without hesitation.
 
 Your customers are still asking: "Is this the real page?" Some wait. Some don't pay at all. Some pay a scammer using your name.
 
@@ -396,7 +843,24 @@ It's free. It takes one submission. dotPH handles the rest.
 **Headline:** [X] Businesses Are Verified. Are You?
 **Description:** Free. From the .ph registry.
 
-**Creative direction:** Clean, professional split. Left side: "[X] businesses verified" with verified badge visual. Right side: "Your customers are checking. Are you listed?" CTA button prominent. Tone: peer pressure, not fear. Badge visual should be recognizable — this is the audience's third+ exposure to the product.
+**Creative direction:** A Filipino business owner at their counter or desk, scrolling their phone — and stopping. They're looking at a competitor's Facebook page or website. Clean, professional. And right there on the page: the Verified by dotPH badge.
+
+Their expression: not panic, not fear — competitive awareness. The specific look of realizing someone in your space has done something you haven't yet. A beat of FOMO that every business owner knows.
+
+Behind them: their own business, clearly running, clearly legitimate. They're not behind because they're careless. They just haven't done this yet.
+
+The competitor's page visible on their phone screen shows the badge clearly. Maybe a resort page, a restaurant, an online shop — whichever matches the target audience segment for this ad set.
+
+Text overlay, clean:
+
+*"Your competitors are already verified. Their customers see the badge. Yours don't."*
+
+Smaller line:
+*[X] businesses verified. It's free. It takes one submission.*
+
+CTA button: *"Get Verified Now — It's Free."* dotPH branding.
+
+The competitor discovery moment is the most natural trigger for action at the conversion stage. This audience already knows the product — what they need is a reason to act today instead of next week.
 
 > **Revision note:** Previous version re-served the Bantayan P500K case study (already used in Ad 2, Reel R1, and Ad 10's original body). At conversion stage, a retargeted audience doesn't need more evidence of the problem — they need a short, direct push. Case study removed; social proof count + consequence gap + zero-friction CTA replaces it.
 
@@ -417,7 +881,7 @@ It's free. It takes one submission. dotPH handles the rest.
 
 Some of the P480 billion Filipinos lose to scams every year was meant for businesses like yours — customers who wanted to pay you, but paid a scammer instead.
 
-The businesses that signed up? The hesitation is gone. Customers click the badge, see the confirmed GCash number, and pay. No more "Is this your real page?"
+The businesses that signed up? The hesitation is gone. Customers click the badge, see the GCash number the business listed on their verified dotPH page, and pay. No more "Is this your real page?"
 
 Your customers want that confidence. Are they finding it?
 
@@ -428,7 +892,23 @@ Free for .ph domain holders. Submit your documents. dotPH handles the rest.
 **Headline:** [X] Signed Up This Week. You?
 **Description:** Free. From the .ph registry.
 
-**Creative direction:** Two frames. Frame 1 — clean dark background: "[X] businesses verified this week." Badge visual. Frame 2 — lighter background, CTA prominent: "Your customers are looking for the badge. Are they finding it?" CTA button. Keep it short — this audience has seen the full funnel.
+**Creative direction:** Over-the-shoulder shot of a young Filipino customer sitting on their phone — GCash open, payment screen filled in, recipient and amount ready. Their finger is hovering over "Send." Not pressing. Pausing.
+
+Their other hand is holding a second tab open — a Google search: "is [business name] legit?" They're doing a last-minute check before committing. That search is the lost sale in real time.
+
+Dark, intimate setting — couch at home, or a café. The phone screen is the primary light source. The person's face is partially visible: not afraid, just cautious. The universal Filipino hesitation before a payment they're not 100% sure about.
+
+Text overlay, centered:
+
+*"Someone is about to pay you. But they're not sure if it's really you."*
+
+Second panel or transition: same person, same phone — but this time they're on a business's verified dotPH page first. Details match. Confidence. Finger presses Send without hesitation. "Transfer Successful."
+
+Text: *"The badge removed the doubt. [X] businesses this week."*
+
+CTA: *"Get Verified — Free."* dotPH branding.
+
+The search tab open mid-payment is the specific detail that makes this real — that extra Google check is costing businesses sales every single day.
 
 > **Revision note:** P480B stat retained but moved from center-stage infographic to a single supporting line. At conversion stage, leading with a national data visualization re-runs the awareness phase. The focus shifts to the trust gap consequence (lost revenue from hesitation) and momentum (this week's signup count). Shorter copy overall — the audience doesn't need more evidence, they need a reason to act today.
 
@@ -449,7 +929,7 @@ When a verified business's customer searches for their page, they find a badge. 
 
 Here's what your customer sees after you get verified:
 
-They find your page. They see the Verified by dotPH badge. They click it. Your business name, your real GCash number, your official website — all confirmed by the official .ph domain registry. They pay. No DM asking "Is this your real account?" No second-guessing. No hesitation.
+They find your page. They see the Verified by dotPH badge. They click it. Your business name, your real GCash number, your official website — all on a page the official .ph domain registry has verified as yours. They pay. No DM asking "Is this your real account?" No second-guessing. No hesitation.
 
 That's the experience verified businesses give their customers every day.
 
@@ -464,7 +944,23 @@ Free for .ph domain holders. Submit your documents. dotPH handles the rest.
 **Headline:** Verified Businesses Close More.
 **Description:** No more "Is this your real page?"
 
-**Creative direction:** Clean, light background — full dotPH brand colors. This is the aspirational end-state, not the fear state. Show the customer journey: search → find page → click badge → see verified details → pay. Simple iconographic flow. Badge visual prominent. "The hesitation is gone." Final CTA button. No dark color palette — this ad is about the after, not the before.
+**Creative direction:** Two Filipino customers side by side — same age, same situation, same moment. Both at their phones, both about to pay a business online. Clean, bright dotPH brand colors throughout. This is the after, not the before.
+
+Left side: A customer on an unverified business page. Their expression: a slight frown, hesitating. They open a second browser tab — "is this the real [business name]?" They're doing extra work before they can feel comfortable. Maybe they abandon the payment entirely.
+
+Right side: A customer on a verified business page. They spot the dotPH badge, click it, the verification page opens — business name, GCash number, website all confirmed. Their expression: relief, confidence. They pay immediately. No second tab. No extra search. Done.
+
+Below both, centered and bold:
+
+*"The difference is one badge. And it's free."*
+
+CTA button: *"Get Verified Now — It's Free."* dotPH logo prominent.
+
+The side-by-side customers make the contrast visceral without a word of explanation. Both people are real, both situations are familiar. The verified side is the outcome every business owner wants their customer to have.
+
+CTA button: *"Get Verified Now — It's Free."* dotPH logo prominent.
+
+This is the only ad in the funnel that shows desire, not fear. At conversion stage — after this audience has seen the problem, the stories, and the product — what they need is a vision of the after-state. The thought bubbles make the contrast visceral without a single scary statistic.
 
 > **Angle note:** This is the identity/aspiration angle missing from the current set. Every existing ad activates fear. This ad activates desire — showing verified businesses as more professional, more trusted, and winning more customers than their unverified competitors. At conversion stage, showing the positive outcome is often more effective than re-serving the problem the audience already knows.
 
@@ -1128,7 +1624,7 @@ Here's the thing — the seller will always say yes. Even the fake ones.
 
 Stop asking. Start checking.
 
-Go to the business's Verified by dotPH page. Their real GCash number is listed right there — confirmed by the official .ph registry, not by the seller themselves.
+Go to the business's Verified by dotPH page. Their real GCash number is listed right there — placed by the business themselves on a page the official .ph registry has verified as theirs.
 
 GCash number matches? Pay.
 Doesn't match? You just dodged a scam.
@@ -1762,7 +2258,7 @@ Slide 2: ✅ **Find their website.** Real resorts and travel businesses have one
 
 Slide 3: ✅ **Check when the page was created.** Go to "About" and look for "Page transparency." A resort that's been open for years shouldn't have a page made last month. Scammers create fresh pages all the time.
 
-Slide 4: ✅ **Verify the GCash number.** Go to their Verified by dotPH page. Their real GCash number is listed there, confirmed by the official .ph registry. Does it match what the seller gave you?
+Slide 4: ✅ **Verify the GCash number.** Go to their Verified by dotPH page. Their real GCash number is listed there — on the page the official .ph registry has verified as theirs. Does it match what the seller gave you?
 
 Slide 5: ✅ **Look for the Verified by dotPH badge.** Find it on their website footer. Click it. It takes you to their official verification page where you can check everything.
 
