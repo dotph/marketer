@@ -1015,37 +1015,37 @@ If you run a business in the Philippines, that number should concern you directl
 
 The Check Point data comes on the heels of other alarming findings:
 
-- 52% of Filipinos have been scammed at least once — 7 percentage points above the ASEAN average. Your customers are among them.
-- Risky URLs surged from 13,602 to 49,431 within 2025 — a nearly fourfold increase. Any one of those could be impersonating your brand.
+- 52% of Filipinos have been scammed at least once, 7 percentage points above the ASEAN average. Your customers are among them.
+- Risky URLs surged from 13,602 to 49,431 within 2025, a nearly fourfold increase. Any one of those could be impersonating your brand.
 - The PNP logged over 1,525 online selling scam cases last year alone.
 
-These aren't isolated incidents. They're part of a trend that's accelerating — and if you haven't been affected yet, the odds are shifting against you.
+These aren't isolated incidents. They're part of a trend that's accelerating, and if you haven't been affected yet, the odds are shifting against you.
 
 **The second victim nobody talks about: your business**
 
-Most scam coverage focuses on consumer victims — the people who click the wrong link or pay the wrong account. But there's a second victim that rarely gets mentioned: the business being impersonated. Your business.
+Most scam coverage focuses on consumer victims, the people who click the wrong link or pay the wrong account. But there's a second victim that rarely gets mentioned: the business being impersonated. Your business.
 
 When a scammer creates a fake Facebook page using your name, your photos, and your branding, you pay the price. Your customers lose trust. Your bookings get questioned. Your payment channels get flagged. Your reputation damage is often permanent.
 
-Check Point's report noted a 37% rise in fake brand and executive profiles on social media — from 940 to 1,291. That means more businesses like yours are being copied, not fewer.
+Check Point's report noted a 37% rise in fake brand and executive profiles on social media, from 940 to 1,291. That means more businesses like yours are being copied, not fewer.
 
-**Social media is now the #1 channel — the same platform your customers find you on**
+**Social media is now the #1 channel, the same platform your customers find you on**
 
 The GSMA report identified social media as the leading channel for scams in the Philippines, surpassing SMS and email. This matters to you because scammers are operating on the same platforms where your customers interact with your business.
 
 A fake version of your Facebook page doesn't need to look perfect. It needs to look real enough that your customer in a hurry doesn't double-check. And with professional-looking templates, purchased likes, and stolen photos available for almost nothing, the barrier to creating a convincing copy of your page is essentially zero.
 
-**New laws exist — but they can't protect you fast enough**
+**New laws exist, but they can't protect you fast enough**
 
 The Philippine government has responded with legislation. The Anti-Financial Account Scamming Act (AFASA), enacted in 2024, targets digital financial fraud. The Internet Transactions Act of 2023 gave the DTI authority to issue takedown orders against fraudulent online sellers.
 
-But enforcement is reactive — it addresses scams after they happen. The question you should be asking is not "will my business get impersonated?" but "when it happens, will my customers be able to tell the difference?"
+But enforcement is reactive. It addresses scams after they happen. The question you should be asking is not "will my business get impersonated?" but "when it happens, will my customers be able to tell the difference?"
 
 **Your old ways of proving legitimacy no longer work**
 
 With scammers scaling operations faster than enforcement can keep up, the burden is shifting to you. If you invest in visible, verifiable proof of your identity, you'll be better positioned to maintain your customers' trust in an environment where fakes are becoming indistinguishable from the real thing.
 
-The 423% surge isn't just a statistic. It's a signal that your current trust signals — your professional-looking website, your Facebook page with likes, your SSL certificate — are no longer enough.
+The 423% surge isn't just a statistic. It's a signal that your current trust signals (your professional-looking website, your Facebook page with likes, your SSL certificate) are no longer enough.
 
 *Sources: Check Point Philippine Threat Landscape Report 2025, GSMA ASEAN Consumer Scam Report 2025, Whoscall PH Scam Report 2025, PNP-ACG*
 
@@ -1066,29 +1066,29 @@ The 423% surge isn't just a statistic. It's a signal that your current trust sig
 
 Imagine this: guests start showing up at your resort expecting their bookings to be confirmed. You and your staff have no idea what they're talking about.
 
-They sent deposits through GCash — to a Facebook page that used your resort's name, your photos, and your location. The page had over 50,000 likes. Your real page was offline at the time.
+They sent deposits through GCash, to a Facebook page that used your resort's name, your photos, and your location. The page had over 50,000 likes. Your real page was offline at the time.
 
 This happened to a resort in Bantayan Island. Over 200 guests were affected. The resort estimated losses at P500,000 from that single fake page.
 
 If you run a tourism business in the Philippines, this could happen to you. It's part of a pattern that's hitting businesses like yours across the country.
 
-**The resort that didn't exist — and what it means for your business**
+**The resort that didn't exist, and what it means for your business**
 
 In La Union's popular surf town of San Juan, a Facebook page called "Cabanas La Union" amassed 8,000 likes. It featured stunning beachfront photos, claimed an Urbiztondo address, and accepted bookings with upfront payment.
 
-When guests arrived, there was nothing there. The resort didn't exist. Not on Google Maps. Not in the DTI portal. Nowhere. The photos had been stolen from a real resort in Batangas — hundreds of kilometers away.
+When guests arrived, there was nothing there. The resort didn't exist. Not on Google Maps. Not in the DTI portal. Nowhere. The photos had been stolen from a real resort in Batangas, hundreds of kilometers away.
 
-Verafiles fact-checked and confirmed the entire operation was fabricated. The page changed its name twice to evade detection. If someone can fabricate an entire resort and collect bookings, imagine how easy it is to copy yours — your real resort, with real photos they can just download.
+Verafiles fact-checked and confirmed the entire operation was fabricated. The page changed its name twice to evade detection. If someone can fabricate an entire resort and collect bookings, imagine how easy it is to copy yours. Your real resort, with real photos they can just download.
 
 **Scammers are now running paid ads with your competitors' names**
 
-In Batangas, a well-known beach resort discovered that scammers weren't just creating fake pages — they were running paid Facebook ads using the resort's name and photos to collect bookings.
+In Batangas, a well-known beach resort discovered that scammers weren't just creating fake pages. They were running paid Facebook ads using the resort's name and photos to collect bookings.
 
-If scammers are investing money in advertising fake businesses, the return on your customers' trust must be significant. They're spending to reach your customers — on your platform, with your brand — before you do.
+If scammers are investing money in advertising fake businesses, the return on your customers' trust must be significant. They're spending to reach your customers, on your platform, with your brand, before you do.
 
-**Cebu tourism issued a joint warning — your region could be next**
+**Cebu tourism issued a joint warning. Your region could be next.**
 
-By late 2025 and into 2026, the Cebu hotel industry and provincial tourism office issued a joint warning. Fake Facebook pages were mimicking real hotels across the province, with scammers using official photos and offering realistic rates — not suspiciously cheap ones — to avoid detection.
+By late 2025 and into 2026, the Cebu hotel industry and provincial tourism office issued a joint warning. Fake Facebook pages were mimicking real hotels across the province, with scammers using official photos and offering realistic rates (not suspiciously cheap ones) to avoid detection.
 
 Local authorities believe a large syndicate is behind the coordinated attacks. GMA News reported 89 online travel scam reports filed in just the first five months of last year. If you're in Visayas, your market is already under attack. If you're outside it, your turn is coming.
 
@@ -1096,7 +1096,7 @@ Local authorities believe a large syndicate is behind the coordinated attacks. G
 
 The scam works because of a simple trust gap: your customers have no easy way to verify that a Facebook page actually belongs to you.
 
-Facebook's own verification systems are inconsistent. A blue checkmark on Facebook or Instagram is not a guarantee of business identity — it's a paid subscription. And unless you're a household name, your customers can't spot a fake on sight.
+Facebook's own verification systems are inconsistent. A blue checkmark on Facebook or Instagram is not a guarantee of business identity. It's a paid subscription. And unless you're a household name, your customers can't spot a fake on sight.
 
 So your customers rely on proxies: the number of likes, the quality of photos, the responsiveness of the page. Scammers know what your customers check, and they game every one of those signals.
 
@@ -1108,17 +1108,17 @@ So your customers rely on proxies: the number of likes, the quality of photos, t
 
 3. **Tell your customers how to verify you.** Include your official booking channels in your bio, your website, and every piece of communication. Make it explicit: "We only accept bookings through [specific channels]."
 
-4. **Report fake pages immediately.** File with Facebook, DTI, and PNP-ACG. Document everything — screenshots, payment evidence, customer complaints.
+4. **Report fake pages immediately.** File with Facebook, DTI, and PNP-ACG. Document everything: screenshots, payment evidence, customer complaints.
 
 5. **Monitor for copies of your page.** Search your business name on Facebook regularly. Set up Google Alerts for your brand name.
 
-If you're in tourism, hospitality, or travel, your business depends on your customers finding the real you — not a copy. As long as your customers can't easily tell your real page from a fake one, you're at risk.
+If you're in tourism, hospitality, or travel, your business depends on your customers finding the real you, not a copy. As long as your customers can't easily tell your real page from a fake one, you're at risk.
 
 *Sources: SunStar Cebu, Verafiles, Interaksyon/Philstar, GMA News, InsiderPH*
 
 ---
 
-## Article 3: The P480 Billion Problem — Why Online Scams Are a Business Crisis, Not Just a Consumer One
+## Article 3: The P480 Billion Problem: Why Online Scams Are a Business Crisis, Not Just a Consumer One
 
 **Stage:** AWARENESS (Publish Week 2–3)
 **SEO keywords:** Philippines scam losses, online fraud Philippines business, P480 billion scams
@@ -1134,9 +1134,9 @@ The Philippines loses an estimated P480 billion (USD 8.29 billion) to scams ever
 
 The number comes from ScamWatch HQ's 2025 analysis, and it's staggering. P1.3 billion per day. P55 million per hour. Every hour. And some of that money was meant for your business.
 
-But here's what gets lost in the headline: most of this money was meant for real businesses — businesses like yours. Real resorts. Real online shops. Real restaurants. The scammer didn't create demand — they intercepted it. They intercepted your customers.
+But here's what gets lost in the headline: most of this money was meant for real businesses, businesses like yours. Real resorts. Real online shops. Real restaurants. The scammer didn't create demand — they intercepted it. They intercepted your customers.
 
-**You're a victim too — even if you don't know it yet**
+**You're a victim too, even if you don't know it yet**
 
 When a scammer creates a fake page that copies your business, two people get hurt.
 
@@ -1144,7 +1144,7 @@ The first is the customer who pays the wrong account. That's the victim the news
 
 The second is you — the business whose name was used. You're the victim nobody talks about.
 
-You don't just lose the revenue from that transaction. You lose something harder to measure: your customers' trust. Your customers who've been burned — or who've heard about someone being burned — start questioning everything. "Is this the real page?" "Is this the real GCash number?" "Should I just book somewhere else?"
+You don't just lose the revenue from that transaction. You lose something harder to measure: your customers' trust. Your customers who've been burned (or who've heard about someone being burned) start questioning everything. "Is this the real page?" "Is this the real GCash number?" "Should I just book somewhere else?"
 
 Every hesitation is a potential lost sale for you. And that erosion of trust compounds over time.
 
@@ -1160,15 +1160,15 @@ Online scams aren't random. They follow a business model built on copying you:
 
 You do all the marketing. The scammer harvests your demand.
 
-Check Point's 2025 report documented a 37% increase in fake brand profiles on social media. The GSMA found that social media has overtaken SMS as the #1 scam channel in the Philippines. PNP identity theft cases more than doubled from 2022 to 2023 — from 1,402 to 2,999.
+Check Point's 2025 report documented a 37% increase in fake brand profiles on social media. The GSMA found that social media has overtaken SMS as the #1 scam channel in the Philippines. PNP identity theft cases more than doubled from 2022 to 2023, from 1,402 to 2,999.
 
 **Your industry is already being targeted**
 
-Some industries are hit harder than others — but none are safe:
+Some industries are hit harder than others, but none are safe:
 
 **If you're in tourism and hospitality,** you face the highest volume. Fake booking pages for resorts in Bantayan Island, La Union, Batangas, and across Cebu have become so common that the Cebu provincial tourism office issued a joint warning with the hotel industry.
 
-**If you sell online,** you're dealing with fake storefronts. Scammers register lookalike domains — adding dashes, hyphens, or extra words to mimic your platform — and run phishing operations. The Philippines had the highest number of online shopping scams among 11 economies in the 2023 Asia Scam Report.
+**If you sell online,** you're dealing with fake storefronts. Scammers register lookalike domains (adding dashes, hyphens, or extra words to mimic your platform) and run phishing operations. The Philippines had the highest number of online shopping scams among 11 economies in the 2023 Asia Scam Report.
 
 **If you run a food or restaurant business,** your Facebook page is being cloned with fake delivery pages that take advance payment for orders that never arrive.
 
@@ -1182,15 +1182,15 @@ Filing a complaint against a fake version of your Facebook page involves DTI, PN
 
 This doesn't mean enforcement is pointless. It means you can't rely on enforcement alone.
 
-**You are the primary victim — and you need to start acting like it**
+**You are the primary victim, and you need to start acting like it**
 
-The conversation about scams in the Philippines is still framed as a consumer protection issue. Government warns consumers. Banks tell customers to be careful. But you — the business being impersonated — are treated as a background character in your own story.
+The conversation about scams in the Philippines is still framed as a consumer protection issue. Government warns consumers. Banks tell customers to be careful. But you, the business being impersonated, are treated as a background character in your own story.
 
 That needs to change.
 
 You're the one whose identity is being stolen. You're the one whose customers are being intercepted. And you're the one who bears the reputational cost when things go wrong.
 
-P480 billion is a national problem. But you feel it at the level of your business — one lost booking, one suspicious customer, one damaged reputation at a time.
+P480 billion is a national problem. But you feel it at the level of your business: one lost booking, one suspicious customer, one damaged reputation at a time.
 
 The question is: what are you doing to make sure your customers can tell you're real?
 
@@ -1224,7 +1224,7 @@ SSL certificates — the padlock icon in the browser — prove that the connecti
 
 So a scammer can register a domain, install an SSL certificate, and present a website that looks exactly like your business. To your customer, everything looks right: .ph domain, padlock icon, professional design.
 
-**Your customers use 4 signals to decide if a page is real — scammers fake all 4**
+**Your customers use 4 signals to decide if a page is real. Scammers fake all 4.**
 
 The real problem isn't technology. It's human.
 
@@ -1242,15 +1242,15 @@ What your customers actually need is a way to verify your identity that can't be
 
 This is the gap that Verified by dotPH was built to close.
 
-Verified by dotPH is a free identity verification service from the official .ph domain registry — dotPH. Here's how it works:
+Verified by dotPH is a free identity verification service from the official .ph domain registry, dotPH. Here's how it works:
 
 1. **You submit your documents.** Government-issued ID and business registration documents, through a secure portal.
 
 2. **dotPH reviews your identity.** The team verifies that you are the real person or business behind your .ph domain.
 
-3. **You get verified.** A verified badge for your website. A public verification page on dotPH that anyone can visit — where you list your real social media, payment channels (GCash, bank accounts), and website. Your customers check this page to confirm your details.
+3. **You get verified.** A verified badge for your website. A public verification page on dotPH that anyone can visit, where you list your real social media, payment channels (GCash, bank accounts), and website. Your customers check this page to confirm your details.
 
-The key difference: this isn't self-reported. It's verified by the domain registry itself — the organization that manages the entire .ph domain system. That's a level of authority that no one else in the ecosystem can claim.
+The key difference: this isn't self-reported. It's verified by the domain registry itself, the organization that manages the entire .ph domain system. That's a level of authority that no one else in the ecosystem can claim.
 
 **With vs. without verification: two very different customer journeys**
 
@@ -1258,13 +1258,13 @@ Consider the customer journey:
 
 Without verification: Your customer sees your website or Facebook page. It looks real. But so does the fake one. They hesitate in front of your page. They screenshot your GCash number and DM you to confirm. Or they abandon your sale entirely.
 
-With verification: Your customer sees your verified badge. They click through to your verification page on dotPH. They see your listed payment channels — your real GCash number, your real website, your real social media. The details match? They pay with confidence.
+With verification: Your customer sees your verified badge. They click through to your verification page on dotPH. They see your listed payment channels: your real GCash number, your real website, your real social media. The details match? They pay with confidence.
 
 The difference isn't just trust. It's conversion. Every moment of your customer's hesitation is a sale you're losing.
 
 **Who should get verified**
 
-Verified by dotPH is designed for any .ph domain holder — individuals, small businesses, and enterprises. But some industries benefit immediately:
+Verified by dotPH is designed for any .ph domain holder: individuals, small businesses, and enterprises. But some industries benefit immediately:
 
 - **Resorts and hotels** dealing with fake booking pages
 - **Online sellers** whose customers ask "Is this your real GCash?" on every transaction
@@ -1284,7 +1284,7 @@ There's no financial friction. The only question is whether you care enough abou
 
 ---
 
-## Article 5: [X] Businesses Have Already Gotten Verified — Here's Why
+## Article 5: [X] Businesses Have Already Gotten Verified. Here's Why
 
 **Stage:** CONVERSION (Publish Week 5+)
 **SEO keywords:** Verified by dotPH, business verification Philippines, online trust badge Philippines
