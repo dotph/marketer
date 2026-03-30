@@ -135,7 +135,7 @@ On screen: a Messenger notification, full-width, unmistakably readable:
 
 That is the entire image. No reaction. No context. No person.
 
-You supply the confusion yourself — because if you run a business, you immediately ask "what if I got this?"
+You supply the confusion yourself, because if you run a business, you immediately ask "what if I got this?"
 
 Single text overlay, top of frame, bold white:
 
@@ -178,7 +178,7 @@ Source: *Check Point, 2025.* No logo. No CTA.
 ---
 
 **Why these two work:**
-The static hits your pride — your brand was franchised without you. The Reel hits your fear — your business ran without you, and someone else collected. Same threat, two emotional doors. The certificate earns shares from business owners ("pre, look at this"); the Reel earns the late-night save from you, checking your phone before bed. Both funnel directly into Ad 7.
+The static hits your pride: your brand was franchised without you. The Reel hits your fear: your business ran without you, and someone else collected. Same threat, two emotional doors. The certificate earns shares from business owners ("pre, look at this"); the Reel earns the late-night save from you, checking your phone before bed. Both funnel directly into Ad 7.
 
 ---
 
@@ -238,7 +238,7 @@ Text overlay, bold, upper frame:
 Source, bottom left:
 *Source: Bantayan Island resort scam, 2024.*
 
-No product branding. The kids not knowing yet is the detail that makes every parent feel this. The like count is the detail that hits you differently as a business owner — your customers couldn't tell either.
+No product branding. The kids not knowing yet is the detail that makes every parent feel this. The like count is the detail that hits you differently as a business owner: your customers couldn't tell either.
 
 **Headline:** 50,000 Likes. All Fake.
 **Description:** A real resort. A fake page.
@@ -347,7 +347,7 @@ Single text overlay, centered, bold:
 Source, bottom left:
 *Source: Verafiles, 2024.*
 
-No explanation needed. You see immediately what happened — and immediately wonder if your own resort photos have already been taken.
+No explanation needed. You see immediately what happened, and immediately wonder if your own resort photos have already been taken.
 
 **Headline:** Your Photos Could Be Next.
 **Description:** The resort didn't exist.
@@ -433,7 +433,7 @@ Text overlay, bold:
 Source, bottom left, small:
 *Source: GSMA, 2025.*
 
-No person. No expression needed. The 1-star review speaks for itself — if you've ever worked hard to build your business reputation, you'll feel this viscerally without being told how to feel.
+No person. No expression needed. The 1-star review speaks for itself: if you've ever worked hard to build your business reputation, you'll feel this viscerally without being told how to feel.
 
 **Headline:** They Don't Blame the Scammer.
 **Description:** They blame your business.
@@ -520,7 +520,7 @@ Single text overlay at the top of the image, bold:
 Source, bottom left:
 *Source: Verafiles, fact-checked and confirmed.*
 
-No CTA. No explanation. The scale of the notification — the likes, the shares, the reach — is what hits. This isn't a small incident. This happened to a brand everyone knows.
+No CTA. No explanation. The scale of the notification (the likes, the shares, the reach) is what hits. This isn't a small incident. This happened to a brand everyone knows.
 
 **Headline:** They Faked a Household Name.
 **Description:** Your business could be next.
@@ -611,7 +611,7 @@ Single text overlay at the top:
 Source, bottom left:
 *Source: GMA News, 2025.*
 
-No person, no expression. The thread reads itself. If you run a travel business, you'll recognize every message — you've typed those same replies, you've sent those same proofs. You don't need a face to feel it.
+No person, no expression. The thread reads itself. If you run a travel business, you'll recognize every message: you've typed those same replies, you've sent those same proofs. You don't need a face to feel it.
 
 **Headline:** Book Now, Fly Never.
 **Description:** 89 travel scam reports in 5 months.
@@ -692,7 +692,7 @@ Text overlay, bold, centered:
 Source, bottom:
 *Source: Verafiles, SunStar Cebu.*
 
-No person needed. The image is a direct challenge to you — an open question you immediately want to answer. The discomfort of not being able to tell is the entire message.
+No person needed. The image is a direct challenge to you, an open question you immediately want to answer. The discomfort of not being able to tell is the entire message.
 
 **Headline:** Your Page Looks Real. So Does Theirs.
 **Description:** Likes can be bought. Fakes can't be verified.
@@ -754,9 +754,9 @@ Text overlay, bold:
 
 Clean divider line. Below it, a second smaller panel or text block — light background, dotPH branding:
 
-*"Or — submit your documents to dotPH once. Free. Scammers can't pass a registry check."*
+*"Or: submit your documents to dotPH once. Free. Scammers can't pass a registry check."*
 
-CTA button: *"Get Verified — It's Free."*
+CTA button: *"Get Verified. It's Free."*
 
 The government office setting is universally understood in the Philippines. If you've ever filed a formal complaint, you know exactly what those stacks of paper and that queue number feel like. The exhaustion in the business owner's face makes the "one free submission" feel like genuine relief.
 
@@ -817,9 +817,9 @@ Text overlay, bold:
 Smaller line:
 *Every item on that list can be faked in 30 minutes for less than ₱500. Every item except one.*
 
-dotPH badge fades in. CTA: *"Get Verified — It's Free."* dotPH branding.
+dotPH badge fades in. CTA: *"Get Verified. It's Free."* dotPH branding.
 
-The two-moment structure (confident at laptop, confused at empty beach) carries the full story. No narration needed. She is every careful Filipino traveler — and she still got it wrong.
+The two-moment structure (confident at laptop, confused at empty beach) carries the full story. No narration needed. She is every careful Filipino traveler, and she still got it wrong.
 
 > **Why this angle:** This ad uses the *diligence failure* frame — your customer did everything right, and still got scammed. This is the consideration-stage realization that closes the loop on awareness: it's not about your customers being careless. It's about the signals they trust being unfixable without your verification. The checklist visual (8,000 likes ✅, beautiful photos ✅, fast response ✅, GCash link ✅) is deliberately satisfying to read — then the twist ("She still got scammed") hits harder because you were nodding along. The two-moment structure (confident at laptop → confused at empty beach) doesn't need explanation. You know: your careful customers are checking all the same things this woman checked. And if you're not verified, your careful customers can still be fooled.
 
@@ -861,7 +861,7 @@ It's free. It takes one submission. dotPH handles the rest.
 
 **Creative direction:** A Filipino business owner at their counter or desk, scrolling their phone — and stopping. They're looking at a competitor's Facebook page or website. Clean, professional. And right there on the page: the Verified by dotPH badge.
 
-Their expression: not panic, not fear — competitive awareness. The specific look of realizing someone in your space has done something you haven't yet. A beat of FOMO that you know.
+Their expression: not panic, not fear, just competitive awareness. The specific look of realizing someone in your space has done something you haven't yet. A beat of FOMO that you know.
 
 Behind them: their own business, clearly running, clearly legitimate. They're not behind because they're careless. They just haven't done this yet.
 
@@ -924,9 +924,9 @@ Second panel or transition: same person, same phone — but this time they're on
 
 Text: *"The badge removed the doubt. [X] businesses this week."*
 
-CTA: *"Get Verified — Free."* dotPH branding.
+CTA: *"Get Verified. Free."* dotPH branding.
 
-The search tab open mid-payment is the specific detail that makes this real — that extra Google check is costing your business sales every single day.
+The search tab open mid-payment is the specific detail that makes this real: that extra Google check is costing your business sales every single day.
 
 > **Why this angle:** This ad uses the *invisible lost sale* frame — the customer who almost paid you but didn't. The over-the-shoulder shot of a finger hovering over "Send" while a second tab searches "is [business name] legit?" is the most specific detail in the entire campaign — and the most universally relatable. Every business owner has had the customer who asked one too many questions and never followed through. That's not hesitation. That's revenue walking out the door. This ad makes you feel the exact moment your sale disappears — and then shows you what that same moment looks like when you're verified. The badge doesn't just protect your customers. It closes your sales.
 
@@ -1234,7 +1234,7 @@ Your customers are making split-second decisions about whether to trust an onlin
 - Are there reviews and likes?
 - Does it accept popular payment methods?
 
-Scammers know this checklist, and they optimize for every item on it. That's why the Cabanas La Union fake resort page had 8,000 likes despite not being a real place. That's why scammers register lookalike domains that mirror major e-commerce platforms — adding a single dash or extra word is enough to fool your customer scanning quickly. Every signal your customers use to gauge trust can be faked.
+Scammers know this checklist, and they optimize for every item on it. That's why the Cabanas La Union fake resort page had 8,000 likes despite not being a real place. That's why scammers register lookalike domains that mirror major e-commerce platforms: adding a single dash or extra word is enough to fool your customer scanning quickly. Every signal your customers use to gauge trust can be faked.
 
 What your customers actually need is a way to verify your identity that can't be faked. Not a visual signal. An actual check.
 
@@ -2133,7 +2133,7 @@ The strategy's existing organic calendar runs Mon/Wed/Fri. Reels slot into the e
 **Primary Text:**
 How scammers copy your business, and why it keeps working.
 
-1. Copy a real business page: 10 minutes
+1. Copy your business page: 10 minutes
 2. Buy 5,000 likes: P500
 3. Steal your photos: 5 minutes
 4. Wait for customers to pay
@@ -2368,7 +2368,7 @@ Save this. Send it to your travel group before anyone books.
 | Page created within the last 3 months | Page has been active for years, with posts to show for it |
 | Thousands of likes, but no website link | Website matches the Facebook page details exactly |
 | Professional photos but no tagged customers | Tagged photos from real guests over time |
-| "Send to my personal GCash" — no business account | GCash number matches their Verified by dotPH page |
+| "Send to my personal GCash" (no business account) | GCash number matches their Verified by dotPH page |
 | No badge, no way to verify they're real | Has a Verified by dotPH badge on their website. Click it to confirm. |
 | Responds fast but avoids specific questions | Answers booking questions clearly, including cancellation policy |
 | Price is suspiciously lower than everywhere else | Price is competitive but realistic |
