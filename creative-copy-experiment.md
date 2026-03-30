@@ -1,4 +1,4 @@
-# Campaign Content Drafts — Verified by dotPH
+# Campaign Content Drafts: Verified by dotPH
 
 **Document type:** Production-ready ad copies and blog articles
 **Last updated:** 2026-03-05
@@ -8,17 +8,17 @@
 
 ## Platform Tone Guide
 
-dotPH's tone adapts to where the content lives. The brand voice stays consistent — direct, authoritative, protective — but the register, language, and warmth shift by platform and audience.
+dotPH's tone adapts to where the content lives. The brand voice stays consistent, direct, authoritative, protective, but the register, language, and warmth shift by platform and audience.
 
 | Platform | Tone | Language | Register |
 |----------|------|----------|----------|
-| **Facebook Ads — B2B** (Ads 1–12) | Direct, authoritative, urgent | English only | Professional — speaks to business owners as peers, not customers |
-| **Facebook Consumer Posts** (C1–C12, E1–E2, I1–I3) | Conversational, warm, human | English — Filipino words only where they land harder than any English equivalent (e.g., "pagmamahal") | Accessible — sounds like a person, not a brand |
-| **Facebook Reels** (R1–R5) | Punchy, visual-first | English — text overlays clean and brief | Mobile-first — every line must read at 150% zoom on a phone screen |
-| **Facebook pinned comments / engagement replies** | Casual, human, Filipino-resonant | Taglish is appropriate — this is a person replying, not a brand publishing | Conversational — invite storytelling, respond with warmth |
-| **Email** (warm sequences, cold outreach) | Professional, friendly | **English only** | Calibrated to intent — warm sequences are warmer; cold outreach is crisp and direct |
-| **B2B Blog Articles** (B1–B5) | Journalistic, data-backed | English only | Authoritative — dotPH speaks as an informed industry voice |
-| **Consumer Blog Articles** (CA1–CA5) | Advice from a smart friend | English only | Accessible — practical, never condescending, always ends with an action |
+| **Facebook Ads: B2B** (Ads 1–12) | Direct, authoritative, urgent | English only | Professional, speaks to business owners as peers, not customers |
+| **Facebook Consumer Posts** (C1–C12, E1–E2, I1–I3) | Conversational, warm, human | English: Filipino words only where they land harder than any English equivalent (e.g., "pagmamahal") | Accessible, sounds like a person, not a brand |
+| **Facebook Reels** (R1–R5) | Punchy, visual-first | English, text overlays clean and brief | Mobile-first, every line must read at 150% zoom on a phone screen |
+| **Facebook pinned comments / engagement replies** | Casual, human, Filipino-resonant | Taglish is appropriate, this is a person replying, not a brand publishing | Conversational, invite storytelling, respond with warmth |
+| **Email** (warm sequences, cold outreach) | Professional, friendly | **English only** | Calibrated to intent, warm sequences are warmer; cold outreach is crisp and direct |
+| **B2B Blog Articles** (B1–B5) | Journalistic, data-backed | English only | Authoritative, dotPH speaks as an informed industry voice |
+| **Consumer Blog Articles** (CA1–CA5) | Advice from a smart friend | English only | Accessible, practical, never condescending, always ends with an action |
 
 **Key rule:** The Taglish / Filipino-word register is for Facebook consumer content and comment engagement only. Emails, blog articles, and B2B ads stay in English. When in doubt, match the platform first, then the audience segment.
 
@@ -41,11 +41,11 @@ dotPH's tone adapts to where the content lives. The brand voice stays consistent
 | **Carousel slides** | 1080 x 1080 px per slide, 3–5 slides |
 | **Video** | 1080 x 1080 px (feed) or 1080 x 1920 px (Stories/Reels), 15–30 sec |
 | **File formats** | PNG for statics, MP4 for video. Max 30 MB for images, 4 GB for video |
-| **Text on image** | Keep under 20% of image area (Meta's recommendation for ad delivery). Every text element must be readable on a phone screen without zooming — design for a 6-inch display at arm's length, not a desktop monitor. |
-| **Mobile-first text sizing** | **Hero overlay (main line):** Minimum 60–80px at 1080px canvas — renders as large, unmissable text on mobile. **Secondary line (stat or subtext):** Minimum 36–44px — readable but visually subordinate. **Source citation:** 20–24px, bottom corner — present but not competing. Never rely on fine print to carry key information. |
-| **Color palette** | **Awareness phase:** Dark/muted backgrounds (black, dark navy) with bold white/red text — urgency, alarm. **Consideration phase:** Split tones — dark (problem) vs. light/green (solution). **Conversion phase:** Clean white/light backgrounds with dotPH brand colors — trust, action |
-| **Typography** | Bold sans-serif for hero overlay — thick stroke weight, wide letter spacing, high contrast against background. Secondary lines: medium weight, same typeface family. All caps acceptable for 1–4 word hero lines only. Drop shadows or semi-transparent backing panels behind text if placed over a busy image area — legibility over aesthetics. |
-| **Branding rule** | **Awareness ads (1–6):** NO dotPH logo, NO product branding — pure problem education. **Consideration ads (7–8):** dotPH logo in bottom corner, CTA button visible. **Conversion ads (9–10):** Full dotPH branding, prominent CTA button, badge visual |
+| **Text on image** | Keep under 20% of image area (Meta's recommendation for ad delivery). Every text element must be readable on a phone screen without zooming, design for a 6-inch display at arm's length, not a desktop monitor. |
+| **Mobile-first text sizing** | **Hero overlay (main line):** Minimum 60–80px at 1080px canvas, renders as large, unmissable text on mobile. **Secondary line (stat or subtext):** Minimum 36–44px, readable but visually subordinate. **Source citation:** 20–24px, bottom corner, present but not competing. Never rely on fine print to carry key information. |
+| **Color palette** | **Awareness phase:** Dark/muted backgrounds (black, dark navy) with bold white/red text, urgency, alarm. **Consideration phase:** Split tones, dark (problem) vs. light/green (solution). **Conversion phase:** Clean white/light backgrounds with dotPH brand colors, trust, action |
+| **Typography** | Bold sans-serif for hero overlay, thick stroke weight, wide letter spacing, high contrast against background. Secondary lines: medium weight, same typeface family. All caps acceptable for 1–4 word hero lines only. Drop shadows or semi-transparent backing panels behind text if placed over a busy image area, legibility over aesthetics. |
+| **Branding rule** | **Awareness ads (1–6):** NO dotPH logo, NO product branding, pure problem education. **Consideration ads (7–8):** dotPH logo in bottom corner, CTA button visible. **Conversion ads (9–10):** Full dotPH branding, prominent CTA button, badge visual |
 | **Source citations** | Always visible in small text, bottom corner. Format: "Source, Year" (e.g., "Check Point, 2025") |
 | **Accessibility** | Minimum contrast ratio 4.5:1 for text on backgrounds. Avoid red-green only color distinctions |
 
@@ -55,11 +55,11 @@ dotPH's tone adapts to where the content lives. The brand voice stays consistent
 
 > **Rule (cold ad sets):** No product mention. No dotPH branding. Pure problem education.
 > **Rule (warm ad set):** Lead with the problem, but include a soft product teaser (e.g., "dotPH is launching free verification to fix this"). See [strategy-marketing.md](strategy-marketing.md) for warm awareness ad copy variants (#13–#15).
-> **Objective:** Engagement / Video Views — build retargeting audiences.
+> **Objective:** Engagement / Video Views, build retargeting audiences.
 
 ---
 
-### Ad 1: "423% Surge" — Stat-Driven Hook
+### Ad 1: "423% Surge": Stat-Driven Hook
 
 **Stage:** Awareness
 **Based on:** Reference #2 (Check Point Philippine Threat Landscape Report 2025)
@@ -67,7 +67,7 @@ dotPH's tone adapts to where the content lives. The brand voice stays consistent
 
 **Primary Text:**
 
-> **ABOVE FOLD** — first 125 characters visible before "See more":
+> **ABOVE FOLD**, first 125 characters visible before "See more":
 
 Someone is collecting payments using your business name. Here's how they work ↓
 
@@ -82,25 +82,25 @@ The question isn't whether it's happening. It's whether it's already happening t
 **Headline:** Someone Is Using Your Name
 **Description:** Is your business being copied?
 
-> **Why this angle:** This ad uses the *personal threat* frame — not a statistic about the Philippines, but a direct accusation that someone is already using YOUR name. The above-fold hook ("Someone is collecting payments using your business name") bypasses the "that's someone else's problem" defense by making you the subject of the sentence from the first word. The below-fold escalation works because it gives you the data to confirm the threat is real (423%, 37%) AFTER you're already emotionally invested. The closing question ("whether it's already happening to you") turns passive reading into active self-assessment — you can't read it without mentally checking your own business.
+> **Why this angle:** This ad uses the *personal threat* frame: not a statistic about the Philippines, but a direct accusation that someone is already using YOUR name. The above-fold hook ("Someone is collecting payments using your business name") bypasses the "that's someone else's problem" defense by making you the subject of the sentence from the first word. The below-fold escalation works because it gives you the data to confirm the threat is real (423%, 37%) AFTER you're already emotionally invested. The closing question ("whether it's already happening to you") turns passive reading into active self-assessment, you can't read it without mentally checking your own business.
 
-> **A/B test note:** Headline test — stat-led ("Fake Pages Up 4x Last Year") vs. personal threat ("Someone Is Using Your Name"). Original "Phishing Sites Up 423% in PH" retired — "phishing sites" refers to URL-based attacks, not Facebook page impersonation. The 423% stat is correctly used in the body copy with context. "4x" framing is accurate, avoids dating, and is more visceral than a percentage. Recommended winner: "Someone Is Using Your Name" — matches the register of the above-fold line and makes no claim that requires stat accuracy.
+> **A/B test note:** Headline test, stat-led ("Fake Pages Up 4x Last Year") vs. personal threat ("Someone Is Using Your Name"). Original "Phishing Sites Up 423% in PH" retired: "phishing sites" refers to URL-based attacks, not Facebook page impersonation. The 423% stat is correctly used in the body copy with context. "4x" framing is accurate, avoids dating, and is more visceral than a percentage. Recommended winner: "Someone Is Using Your Name", matches the register of the above-fold line and makes no claim that requires stat accuracy.
 
 **Creative direction:**
 
-**Primary format — Static image (1080 x 1350 px, 4:5 portrait)**
+**Primary format: Static image (1080 x 1350 px, 4:5 portrait)**
 
 ---
 
-**Variation A — Person**
+**Variation A: Person**
 
-A real Filipino workplace — a small café, a resort front desk, or an online shop backroom. Natural lighting. Lived-in and authentic, not staged.
+A real Filipino workplace: a small café, a resort front desk, or an online shop backroom. Natural lighting. Lived-in and authentic, not staged.
 
-The business owner is in the foreground, phone in one hand, arm half-extended toward an employee beside them — the instinctive move when you don't understand something and need a second pair of eyes. Their other hand is raised slightly, mid-gesture, as if they just said "hintay, tingnan mo ito." The employee leans in close, one hand on the counter for balance, the other pointing at one specific part of the screen — not the answer, just the part they also can't make sense of.
+The business owner is in the foreground, phone in one hand, arm half-extended toward an employee beside them: the instinctive move when you don't understand something and need a second pair of eyes. Their other hand is raised slightly, mid-gesture, as if they just said "hintay, tingnan mo ito." The employee leans in close, one hand on the counter for balance, the other pointing at one specific part of the screen: not the answer, just the part they also can't make sense of.
 
 Both of them have the same expression: brows knitted, heads tilted at the same angle, that collective "ano ito?" face that only happens when two people are equally confused by the same thing.
 
-Behind both of them, visible on the desk or counter: a laptop open to their business website. Clean, professional, their real site — their name, their branding, their products. Everything looks normal on their end.
+Behind both of them, visible on the desk or counter: a laptop open to their business website. Clean, professional, their real site, their name, their branding, their products. Everything looks normal on their end.
 
 But the phone screen, angled toward you and readable, shows the message that started it all:
 
@@ -125,9 +125,9 @@ No dotPH logo. No product mention. No CTA.
 
 ---
 
-**Variation B — No person**
+**Variation B: No person**
 
-Clean, close-up shot of a phone screen. The phone is on a desk — just the device, no hands, no face. Shot from directly above, slightly warm ambient light.
+Clean, close-up shot of a phone screen. The phone is on a desk, just the device, no hands, no face. Shot from directly above, slightly warm ambient light.
 
 On screen: a Messenger notification, full-width, unmistakably readable:
 
@@ -151,13 +151,13 @@ No dotPH logo. No CTA. The absence of a person makes you insert yourself into th
 
 ---
 
-**Secondary format — Companion Reel (1080 x 1920 px, 20–25 sec)**
+**Secondary format: Companion Reel (1080 x 1920 px, 20–25 sec)**
 
 2 AM. A Filipino bedroom. A business owner asleep. Phone on the bedside table, screen dimming. No sound yet.
 
-Split screen opens silently. Left side: their real Facebook business page — quiet, no activity. Store closed for the night.
+Split screen opens silently. Left side: their real Facebook business page, quiet, no activity. Store closed for the night.
 
-Right side: a page with their exact name, exact logo, exact photos. A customer sends a GCash payment notification. The operator — awake, somewhere else — marks it received. Another payment comes in. Then another.
+Right side: a page with their exact name, exact logo, exact photos. A customer sends a GCash payment notification. The operator: awake, somewhere else, marks it received. Another payment comes in. Then another.
 
 Left side: the real owner's phone buzzes once with an unread message. They don't stir.
 
@@ -167,7 +167,7 @@ Morning. Sunlight. The owner wakes up, checks their phone. Opens Messenger. A cu
 
 They stare at it. They have no record of this order. No payment. Nothing.
 
-Final frame — black screen, white text, slow fade:
+Final frame, black screen, white text, slow fade:
 
 *"Your business ran last night.*
 *You weren't there.*
@@ -182,15 +182,15 @@ The static hits your pride: your brand was franchised without you. The Reel hits
 
 ---
 
-### Ad 2: "Bantayan Resort Story" — Narrative Hook
+### Ad 2: "Bantayan Resort Story": Narrative Hook
 
 **Stage:** Awareness
 **Based on:** Reference #5 (Bantayan Island Resort Booking Scams)
-**Target:** Tourism, hospitality, resort owners — Visayas geo-targeting
+**Target:** Tourism, hospitality, resort owners: Visayas geo-targeting
 
 **Primary Text:**
 
-> **ABOVE FOLD** — first 125 characters visible before "See more":
+> **ABOVE FOLD**, first 125 characters visible before "See more":
 
 A Facebook page got 50,000 likes. It looked exactly like a real Bantayan resort. It was completely fake.
 
@@ -213,21 +213,21 @@ How would YOUR guests know which page is real?
 
 ---
 
-**Variation A — Person**
+**Variation A: Person**
 
-A Filipino family at the beach — but something is wrong.
+A Filipino family at the beach, but something is wrong.
 
-They've arrived. Luggage at their feet. The kids are already looking around, excited, scanning the shoreline for the resort from the photos. The father has his phone in one hand, the booking screenshot still open. He's looking up slowly — from the screen, to the beach, back to the screen.
+They've arrived. Luggage at their feet. The kids are already looking around, excited, scanning the shoreline for the resort from the photos. The father has his phone in one hand, the booking screenshot still open. He's looking up slowly, from the screen, to the beach, back to the screen.
 
 Nothing here matches.
 
 No check-in counter. No umbrella huts. No smiling staff. Just open beach, a few locals, and the quiet afternoon sounds of a place that has no idea 200 families were expecting to find a resort here today.
 
-The mother has gone quiet. She's looking at her husband, not the beach. That moment — the one just before you say it out loud, just before you have to call everyone and explain — that's the frame.
+The mother has gone quiet. She's looking at her husband, not the beach. That moment: the one just before you say it out loud, just before you have to call everyone and explain, that's the frame.
 
 The kids still haven't caught on. They're pointing at something in the water. They think this is the beginning of the trip.
 
-Phone screen partial and readable — the fake Facebook page, 50,000 likes, "Book Now" link, glowing reviews. Beautiful photos of a resort that was never here.
+Phone screen partial and readable: the fake Facebook page, 50,000 likes, "Book Now" link, glowing reviews. Beautiful photos of a resort that was never here.
 
 One detail visible on the screen, readable: the like count on the fake page is higher than the real resort's page.
 
@@ -245,13 +245,13 @@ No product branding. The kids not knowing yet is the detail that makes every par
 
 ---
 
-**Variation B — No person**
+**Variation B: No person**
 
 A phone screen, close up. Two notifications stacked.
 
-First: a GCash receipt — *"Payment successful. ₱5,000 sent."* Timestamp: two weeks ago.
+First: a GCash receipt: *"Payment successful. ₱5,000 sent."* Timestamp: two weeks ago.
 
-Second, directly below it: a Facebook notification — *"The page you're looking for isn't available."*
+Second, directly below it: a Facebook notification: *"The page you're looking for isn't available."*
 
 That is the entire image. No faces. No beach. No family.
 
@@ -269,21 +269,21 @@ If you've ever sent money before confirming, you'll feel this immediately.
 **Headline:** 200 Guests Paid. The Page Was Gone.
 **Description:** Guests sent ₱5,000. The resort never existed.
 
-> **Why this angle:** This ad uses the *narrative hook* — a real story, not a statistic. If you run a resort, hotel, or any tourism business, the Bantayan story is your worst nightmare made real: someone copied your page, took your customers' money, and your reputation paid the price. The above-fold hook works because it opens with a detail you can't ignore (50,000 likes — more than your page probably has) and closes on a detail that hits your pride ("How would YOUR guests know which page is real?"). The below-fold escalation gives you the cost (P500,000, 200+ victims) so you can do the math on what this would mean for your business. This isn't hypothetical — it happened, and the only thing separating you from this resort owner is timing.
+> **Why this angle:** This ad uses the *narrative hook*: a real story, not a statistic. If you run a resort, hotel, or any tourism business, the Bantayan story is your worst nightmare made real: someone copied your page, took your customers' money, and your reputation paid the price. The above-fold hook works because it opens with a detail you can't ignore (50,000 likes, more than your page probably has) and closes on a detail that hits your pride ("How would YOUR guests know which page is real?"). The below-fold escalation gives you the cost (P500,000, 200+ victims) so you can do the math on what this would mean for your business. This isn't hypothetical, it happened, and the only thing separating you from this resort owner is timing.
 
-> **A/B test note:** Caption-order test — Variant A (current): setup-first above fold ("A Facebook page got 50,000 likes..."). Variant B (curiosity-first): lead above fold with Slide 4's challenge question ("How would YOUR guests know which page is real? A resort in Bantayan found out the hard way."), then reveal the story. Curiosity-first opens with your problem before asking you to follow a narrative about someone else. Winner condition: higher carousel swipe-through rate (reaching Slide 3+) and higher CTR on the end card. See creative-testing.md → AD 2 Copy Test.
+> **A/B test note:** Caption-order test: Variant A (current): setup-first above fold ("A Facebook page got 50,000 likes..."). Variant B (curiosity-first): lead above fold with Slide 4's challenge question ("How would YOUR guests know which page is real? A resort in Bantayan found out the hard way."), then reveal the story. Curiosity-first opens with your problem before asking you to follow a narrative about someone else. Winner condition: higher carousel swipe-through rate (reaching Slide 3+) and higher CTR on the end card. See creative-testing.md → AD 2 Copy Test.
 
 ---
 
-### Ad 3: "Cabanas La Union" — The Resort That Didn't Exist
+### Ad 3: "Cabanas La Union": The Resort That Didn't Exist
 
 **Stage:** Awareness
 **Based on:** Reference #6 (Cabanas La Union Fake Resort Scam)
-**Target:** Tourism, hospitality — La Union / Elyu / North Luzon geo-targeting
+**Target:** Tourism, hospitality: La Union / Elyu / North Luzon geo-targeting
 
 **Primary Text:**
 
-> **ABOVE FOLD** — first 125 characters visible before "See more":
+> **ABOVE FOLD**, first 125 characters visible before "See more":
 
 A resort in La Union had 8,000 likes and stunning beachfront photos. Guests booked. Guests paid. Then they showed up.
 
@@ -302,13 +302,13 @@ If a completely fake resort can get 8,000 likes, imagine what a scammer can do w
 
 ---
 
-**Variation A — Person**
+**Variation A: Person**
 
-A bus to La Union — Urbiztondo-bound, afternoon. Window seat.
+A bus to La Union: Urbiztondo-bound, afternoon. Window seat.
 
 A young Filipino traveler has their phone out, scrolling the Cabanas La Union Facebook page. Stunning photos: beachfront cabanas, turquoise water, hammocks, guests in resort wear. 8,000 likes. Five-star reviews. They've been looking at these photos for weeks. The trip is finally happening.
 
-They hold the phone up toward the window — not looking outside, just catching better light to screenshot a photo they want to send their friends. Excited, unbothered, completely trusting.
+They hold the phone up toward the window: not looking outside, just catching better light to screenshot a photo they want to send their friends. Excited, unbothered, completely trusting.
 
 Outside the window behind them: the barangay road through Urbiztondo. Real La Union. Real coastline. Surfers, roadside stores, the landscape everyone who goes to Elyu knows. Beautiful. Normal.
 
@@ -330,13 +330,13 @@ No product branding. You see what the traveler can't see yet.
 
 ---
 
-**Variation B — No person**
+**Variation B: No person**
 
 Two Facebook pages, side by side. No people.
 
-Left: "Cabanas La Union." Cover photo — a beautiful beachfront resort, sunlit water, wooden cabanas, lush greenery. 8,000 likes. Looks exactly like a real La Union beach destination.
+Left: "Cabanas La Union." Cover photo: a beautiful beachfront resort, sunlit water, wooden cabanas, lush greenery. 8,000 likes. Looks exactly like a real La Union beach destination.
 
-Right: "Seabliss Beach Resort, Lian, Batangas." Cover photo — the exact same image. Same shot. Same angle. Same cabanas. Different page name. Different location. Real resort.
+Right: "Seabliss Beach Resort, Lian, Batangas." Cover photo: the exact same image. Same shot. Same angle. Same cabanas. Different page name. Different location. Real resort.
 
 The photos are identical. The pages are not.
 
@@ -352,11 +352,11 @@ No explanation needed. You see immediately what happened, and immediately wonder
 **Headline:** Your Photos Could Be Next.
 **Description:** The resort didn't exist.
 
-> **Why this angle:** This ad exploits the *fabrication reveal* — the resort didn't just look real, it never existed at all. If you're a business owner, this is more terrifying than a copycat page: someone didn't even need your real business as a starting point. They stole your competitors' photos, invented an address in your town, and collected bookings on your turf. The above-fold hook works because it reads like a success story ("8,000 likes, stunning beachfront photos") until the rug pull ("Then they showed up"). The Variation B creative — your photos side by side with the stolen originals — makes you immediately wonder: has someone already done this with your photos? You can't unsee the comparison, and you can't unfeel the vulnerability. This ad targets your geographic pride (La Union / Elyu community) and turns local identity into local urgency.
+> **Why this angle:** This ad exploits the *fabrication reveal*: the resort didn't just look real, it never existed at all. If you're a business owner, this is more terrifying than a copycat page: someone didn't even need your real business as a starting point. They stole your competitors' photos, invented an address in your town, and collected bookings on your turf. The above-fold hook works because it reads like a success story ("8,000 likes, stunning beachfront photos") until the rug pull ("Then they showed up"). The Variation B creative, your photos side by side with the stolen originals, makes you immediately wonder: has someone already done this with your photos? You can't unsee the comparison, and you can't unfeel the vulnerability. This ad targets your geographic pride (La Union / Elyu community) and turns local identity into local urgency.
 
 ---
 
-### Ad 4: "52% of Filipinos" — National Stat Hook
+### Ad 4: "52% of Filipinos": National Stat Hook
 
 **Stage:** Awareness
 **Based on:** Reference #1 (GSMA ASEAN Consumer Scam Report 2025)
@@ -364,7 +364,7 @@ No explanation needed. You see immediately what happened, and immediately wonder
 
 **Primary Text:**
 
-> **ABOVE FOLD** — first 125 characters visible before "See more":
+> **ABOVE FOLD**, first 125 characters visible before "See more":
 
 Your customers don't blame the scammer. They blame you. And 52% of Filipinos have already been scammed at least once.
 
@@ -383,11 +383,11 @@ Every lost customer thinks they got scammed by YOU, not by the fake page that us
 
 ---
 
-**Variation A — Person**
+**Variation A: Person**
 
-A Filipino business owner, end of day. Their shop is in the background — products on shelves, signage, a counter they've stood behind for years. Everything they built.
+A Filipino business owner, end of day. Their shop is in the background, products on shelves, signage, a counter they've stood behind for years. Everything they built.
 
-It's been a good day. Maybe they just served their last customer, maybe they're counting receipts. There's a small, quiet satisfaction in the air — the kind that only comes from honest work.
+It's been a good day. Maybe they just served their last customer, maybe they're counting receipts. There's a small, quiet satisfaction in the air: the kind that only comes from honest work.
 
 Then they check their phone.
 
@@ -395,24 +395,24 @@ One new notification. A Google review. They tap it.
 
 One star. The review reads: *"SCAMMER. Do NOT trust this business."*
 
-The frame freezes on their face in the moment after they read it — not yet anger, not yet panic. That first beat of pure wrongness. The expression of someone who has just been accused of something they didn't do, in front of everyone, with no way to explain.
+The frame freezes on their face in the moment after they read it: not yet anger, not yet panic. That first beat of pure wrongness. The expression of someone who has just been accused of something they didn't do, in front of everyone, with no way to explain.
 
-Their shop — everything they built — is visible behind them. All of it still there. All of it suddenly under a shadow they didn't create.
+Their shop, everything they built, is visible behind them. All of it still there. All of it suddenly under a shadow they didn't create.
 
 Single text overlay, bold:
 
 *"They don't blame the scammer. They blame you."*
 
-Source: GSMA, 2025 — in the ad copy, not on the image.
+Source: GSMA, 2025, in the ad copy, not on the image.
 
 **Headline:** They Don't Blame the Scammer.
 **Description:** They blame your business.
 
 ---
 
-**Variation B — No person**
+**Variation B: No person**
 
-A phone screen. A Google Maps listing for a real Filipino business — restaurant, boutique, or clinic. The profile looks legitimate: photos, address, hours, website.
+A phone screen. A Google Maps listing for a real Filipino business, restaurant, boutique, or clinic. The profile looks legitimate: photos, address, hours, website.
 
 Below the info: the Reviews section. One review, pinned at the top because it's the newest.
 
@@ -438,21 +438,21 @@ No person. No expression needed. The 1-star review speaks for itself: if you've 
 **Headline:** They Don't Blame the Scammer.
 **Description:** They blame your business.
 
-> **Why this angle:** This ad uses the *blame reversal* — the most uncomfortable truth in the campaign. Your customers don't care that you're the victim. When they get scammed by a page using your name, they blame you. The above-fold hook ("Your customers don't blame the scammer. They blame you.") works because it makes you feel the injustice immediately — and injustice demands a response. The 52% stat is there to confirm you're not being paranoid: this has happened to more than half of your customers' social network. The 1-star Google review visual is the gut punch that converts awareness into urgency. You've worked hard to build your reputation. This ad shows exactly how fast it can be taken from you by someone using your name.
+> **Why this angle:** This ad uses the *blame reversal*: the most uncomfortable truth in the campaign. Your customers don't care that you're the victim. When they get scammed by a page using your name, they blame you. The above-fold hook ("Your customers don't blame the scammer. They blame you.") works because it makes you feel the injustice immediately, and injustice demands a response. The 52% stat is there to confirm you're not being paranoid: this has happened to more than half of your customers' social network. The 1-star Google review visual is the gut punch that converts awareness into urgency. You've worked hard to build your reputation. This ad shows exactly how fast it can be taken from you by someone using your name.
 
-> **A/B test note:** Original headline "52% of Filipinos Have Been Scammed" / description "Your business pays the price." — The above-fold reframe (*"Your customers don't blame the scammer. They blame you"*) is the campaign's sharpest insight and should lead as the headline, not be buried in body text.
+> **A/B test note:** Original headline "52% of Filipinos Have Been Scammed" / description "Your business pays the price.": The above-fold reframe (*"Your customers don't blame the scammer. They blame you"*) is the campaign's sharpest insight and should lead as the headline, not be buried in body text.
 
 ---
 
-### Ad 5: "They Faked a Household Name" — Brand Shock
+### Ad 5: "They Faked a Household Name": Brand Shock
 
 **Stage:** Awareness
-**Based on:** Reference #28 (Major Fast Food Chain Impersonation — Verafiles Fact-Checked)
-**Target:** All business owners PH — especially F&B, restaurants, food businesses
+**Based on:** Reference #28 (Major Fast Food Chain Impersonation: Verafiles Fact-Checked)
+**Target:** All business owners PH, especially F&B, restaurants, food businesses
 
 **Primary Text:**
 
-> **ABOVE FOLD** — first 125 characters visible before "See more":
+> **ABOVE FOLD**, first 125 characters visible before "See more":
 
 If scammers can fake one of the biggest fast food chains in the Philippines, what's stopping them from faking yours?
 
@@ -475,11 +475,11 @@ What's protecting YOUR business page right now?
 
 ---
 
-**Variation A — Person**
+**Variation A: Person**
 
-A Filipino small business owner at their counter or workspace, mid-scroll on Facebook. Not searching for anything specific — just their feed, a quiet moment between customers.
+A Filipino small business owner at their counter or workspace, mid-scroll on Facebook. Not searching for anything specific, just their feed, a quiet moment between customers.
 
-Then they stop. Phone held slightly tighter, head tilted down. One thumb stops scrolling. The other hand, which was resting on the counter, slowly rises and cups their chin — that micro-pause of someone who just read something that landed differently than the rest of their feed.
+Then they stop. Phone held slightly tighter, head tilted down. One thumb stops scrolling. The other hand, which was resting on the counter, slowly rises and cups their chin, that micro-pause of someone who just read something that landed differently than the rest of their feed.
 
 Not panicked. Not at the point of action. Just that first beat of "wait."
 
@@ -503,15 +503,15 @@ No dotPH branding.
 
 ---
 
-**Variation B — No person**
+**Variation B: No person**
 
 Just the official notice. Full frame. No person.
 
-Clean screenshot of a Facebook post from a major Philippine brand — formatted exactly as an official statement would look: brand logo as profile picture, bold heading, warning triangle, formal language:
+Clean screenshot of a Facebook post from a major Philippine brand, formatted exactly as an official statement would look: brand logo as profile picture, bold heading, warning triangle, formal language:
 
 *"⚠️ OFFICIAL NOTICE: Fake Facebook pages are running unauthorized promos in our name. These pages are NOT affiliated with us and are being used to collect personal data from unsuspecting customers."*
 
-Post details visible: thousands of likes, hundreds of shares, hundreds of comments — people tagging each other, sharing warnings.
+Post details visible: thousands of likes, hundreds of shares, hundreds of comments, people tagging each other, sharing warnings.
 
 Single text overlay at the top of the image, bold:
 
@@ -525,21 +525,21 @@ No CTA. No explanation. The scale of the notification (the likes, the shares, th
 **Headline:** They Faked a Household Name.
 **Description:** Your business could be next.
 
-> **Why this angle:** This ad uses the *scale shock* — if they can fake a household brand with a full legal team, a million-peso marketing budget, and a social media army, what chance does your business have without verification? The above-fold hook leads with a question that collapses the "big brands get faked, not small businesses like mine" defense. The below-fold details (P7,000 cash giveaways, P10,000 gift vouchers, thousands of clicks) are specific enough to feel real — and the official statement the company had to issue is the detail that sticks. You don't want to be posting that statement about your own business. This ad targets your competitive pride: if your business has less protection than that brand, what does that say about how safe your customers are right now?
+> **Why this angle:** This ad uses the *scale shock*, if they can fake a household brand with a full legal team, a million-peso marketing budget, and a social media army, what chance does your business have without verification? The above-fold hook leads with a question that collapses the "big brands get faked, not small businesses like mine" defense. The below-fold details (P7,000 cash giveaways, P10,000 gift vouchers, thousands of clicks) are specific enough to feel real, and the official statement the company had to issue is the detail that sticks. You don't want to be posting that statement about your own business. This ad targets your competitive pride: if your business has less protection than that brand, what does that say about how safe your customers are right now?
 
-> **A/B test note:** Closing line — current: "What's protecting YOUR business page right now?" / test variant: "They have a full legal team. You have this ad." The recommended variant creates explicit contrast and urgency, and removes the "big brand = different problem" objection. Test for higher comment volume and share rate. See creative-testing.md → AD 5 Copy Test.
+> **A/B test note:** Closing line, current: "What's protecting YOUR business page right now?" / test variant: "They have a full legal team. You have this ad." The recommended variant creates explicit contrast and urgency, and removes the "big brand = different problem" objection. Test for higher comment volume and share rate. See creative-testing.md → AD 5 Copy Test.
 
 ---
 
-### Ad 6: "Book Now, Fly Never" — Travel Scam Angle
+### Ad 6: "Book Now, Fly Never": Travel Scam Angle
 
 **Stage:** Awareness
-**Based on:** Reference #31 (GMA News — Online Travel Scams Surge)
+**Based on:** Reference #31 (GMA News: Online Travel Scams Surge)
 **Target:** Travel agencies, tour operators, hospitality businesses
 
 **Primary Text:**
 
-> **ABOVE FOLD** — first 125 characters visible before "See more":
+> **ABOVE FOLD**, first 125 characters visible before "See more":
 
 "Book now, fly never." 89 travel scam reports in 5 months, and those are only the ones that got reported.
 
@@ -560,21 +560,21 @@ The scammers don't just steal money. They steal your customers' confidence in yo
 
 ---
 
-**Variation A — Person**
+**Variation A: Person**
 
-A Filipino travel agent at their desk — late in the day. Travel brochures on the wall, a map, a laptop with multiple tabs open. The desk has the lived-in look of someone who genuinely works here.
+A Filipino travel agent at their desk, late in the day. Travel brochures on the wall, a map, a laptop with multiple tabs open. The desk has the lived-in look of someone who genuinely works here.
 
-Their elbow is on the desk, chin resting in their palm. Phone screen up in front of them. They're reading through it with their free hand — not scrolling fast, reading slowly. The kind of slow scroll you do when you're tired and the thread is long and you've had this conversation too many times.
+Their elbow is on the desk, chin resting in their palm. Phone screen up in front of them. They're reading through it with their free hand: not scrolling fast, reading slowly. The kind of slow scroll you do when you're tired and the thread is long and you've had this conversation too many times.
 
-They're not annoyed at the customer. Their expression is something harder to name — that quiet resignation of someone doing an unreasonable amount of work just to be trusted. They understand why the customer is asking. That understanding is what makes it land.
+They're not annoyed at the customer. Their expression is something harder to name, that quiet resignation of someone doing an unreasonable amount of work just to be trusted. They understand why the customer is asking. That understanding is what makes it land.
 
 Messenger chat visible and readable on screen:
 
 *Customer: "Hi! Is this the real [Agency Name]?"*
 *Agent: "Yes po, official page kami 😊"*
 *Customer: "Paki-send ng DTI registration niyo?"*
-*Customer: "And yung GCash number — bago ako magbayad, gusto ko lang ma-confirm."*
-*Customer: "Last na — video call tayo para makita ko kayo?"*
+*Customer: "And yung GCash number, bago ako magbayad, gusto ko lang ma-confirm."*
+*Customer: "Last na, video call tayo para makita ko kayo?"*
 
 Text overlay at the top:
 
@@ -590,7 +590,7 @@ No dotPH logo.
 
 ---
 
-**Variation B — No person**
+**Variation B: No person**
 
 Just the Messenger thread. No person. No desk. No context.
 
@@ -599,8 +599,8 @@ Close-up of a phone screen, shot from above. The Messenger conversation fills th
 *Customer: "Hi! Is this the real [Agency Name]?"*
 *Agent: "Yes po, official page kami 😊"*
 *Customer: "Paki-send ng DTI registration niyo?"*
-*Customer: "And yung GCash number — bago ako magbayad, gusto ko lang ma-confirm."*
-*Customer: "Last na — video call tayo para makita ko kayo?"*
+*Customer: "And yung GCash number, bago ako magbayad, gusto ko lang ma-confirm."*
+*Customer: "Last na, video call tayo para makita ko kayo?"*
 
 The thread stops there. No resolution. No reply from the agent.
 
@@ -616,22 +616,22 @@ No person, no expression. The thread reads itself. If you run a travel business,
 **Headline:** Book Now, Fly Never.
 **Description:** 89 travel scam reports in 5 months.
 
-> **Why this angle:** This ad uses the *trust erosion* frame — the insight that scammers don't just steal money from your customers, they steal your customers' confidence in you. If you run a travel agency or tour business, this is your daily reality: every booking now starts with "Is this your real page?" The above-fold tagline ("Book now, fly never") works as a pattern interrupt — it sounds like your ad, then reveals it's your nightmare. The Messenger thread in the creative does the heavy lifting: if you're a legitimate travel agent, you've lived that conversation and typed those same reassurances. Showing your customers in that hesitation moment — "Paki-send ng DTI registration niyo? And yung GCash number — bago ako magbayad" — makes you feel the cost of distrust every single day. This ad converts awareness into urgency because you recognize yourself in it.
+> **Why this angle:** This ad uses the *trust erosion* frame: the insight that scammers don't just steal money from your customers, they steal your customers' confidence in you. If you run a travel agency or tour business, this is your daily reality: every booking now starts with "Is this your real page?" The above-fold tagline ("Book now, fly never") works as a pattern interrupt, it sounds like your ad, then reveals it's your nightmare. The Messenger thread in the creative does the heavy lifting: if you're a legitimate travel agent, you've lived that conversation and typed those same reassurances. Showing your customers in that hesitation moment: "Paki-send ng DTI registration niyo? And yung GCash number, bago ako magbayad", makes you feel the cost of distrust every single day. This ad converts awareness into urgency because you recognize yourself in it.
 
-> **Copy note:** The trust-damage line (*"They don't just steal money. They steal your customers' confidence in you"*) is the strongest insight in this ad — it now anchors the visual direction. Original description "89 scam reports in 5 months" moved to creative treatment; trust damage takes the description slot as it's more emotionally resonant.
+> **Copy note:** The trust-damage line (*"They don't just steal money. They steal your customers' confidence in you"*) is the strongest insight in this ad, it now anchors the visual direction. Original description "89 scam reports in 5 months" moved to creative treatment; trust damage takes the description slot as it's more emotionally resonant.
 >
-> **A/B test note:** Structure reorder test — Variant A (current): tagline leads above fold ("Book now, fly never..."), stat supports in creative. Variant B (trust-lead): trust damage line leads above fold, tagline moves to closer, stat moves to description. Three hook variants also in test (Hook A: tagline-first; Hook B: trust-damage-first; Hook C: stat-as-proof). Winner condition: higher CTR from trust-lead confirms the insight leads better than the tagline. See creative-testing.md → AD 6 for full hook and format matrix.
+> **A/B test note:** Structure reorder test: Variant A (current): tagline leads above fold ("Book now, fly never..."), stat supports in creative. Variant B (trust-lead): trust damage line leads above fold, tagline moves to closer, stat moves to description. Three hook variants also in test (Hook A: tagline-first; Hook B: trust-damage-first; Hook C: stat-as-proof). Winner condition: higher CTR from trust-lead confirms the insight leads better than the tagline. See creative-testing.md → AD 6 for full hook and format matrix.
 
 ---
 
-### Ad 11: "You've Done Everything Right" — Contrarian Hook
+### Ad 11: "You've Done Everything Right": Contrarian Hook
 
 **Stage:** Awareness (Weeks 1–3)
-**Target:** All business owners PH, 25–55 — specifically those with established online presence (high following, active pages)
+**Target:** All business owners PH, 25–55, specifically those with established online presence (high following, active pages)
 
 **Primary Text:**
 
-> **ABOVE FOLD** — first 125 characters visible before "See more":
+> **ABOVE FOLD**, first 125 characters visible before "See more":
 
 Your page looks professional. 10,000 likes. 200 reviews. A verified email address. None of that proves you're the real business.
 
@@ -652,11 +652,11 @@ But your customers don't know that test exists yet.
 
 ---
 
-**Variation A — Person**
+**Variation A: Person**
 
-A Filipino customer at their laptop, late afternoon light from a window. They're leaning forward, both forearms on the desk, one hand with a finger hovering between two open browser tabs — not clicking yet, just hovering, the digital equivalent of looking left and right before crossing.
+A Filipino customer at their laptop, late afternoon light from a window. They're leaning forward, both forearms on the desk, one hand with a finger hovering between two open browser tabs: not clicking yet, just hovering, the digital equivalent of looking left and right before crossing.
 
-Their face: brows slightly drawn together, eyes moving from one tab to the other. Not confused in a panicked way — just genuinely, carefully uncertain. This is someone doing their due diligence. They're trying. They just can't tell.
+Their face: brows slightly drawn together, eyes moving from one tab to the other. Not confused in a panicked way, just genuinely, carefully uncertain. This is someone doing their due diligence. They're trying. They just can't tell.
 
 On screen, two side-by-side tabs. Both show what appears to be the same resort or restaurant page. Same name. Same cover photo. Same follower count. The tabs are readable enough to see the similarity but not reveal which is real.
 
@@ -677,11 +677,11 @@ No dotPH branding.
 
 ---
 
-**Variation B — No person**
+**Variation B: No person**
 
 Just the two browser tabs, full screen. No desk. No hands. No person.
 
-A laptop display showing two side-by-side browser tabs — both open to what appears to be the same business page. Same profile photo. Same cover image. Same name. Same follower count. Same "About" info.
+A laptop display showing two side-by-side browser tabs, both open to what appears to be the same business page. Same profile photo. Same cover image. Same name. Same follower count. Same "About" info.
 
 The tabs are nearly pixel-for-pixel identical. No labels. No highlights. No indication of which is real.
 
@@ -697,27 +697,27 @@ No person needed. The image is a direct challenge to you, an open question you i
 **Headline:** Your Page Looks Real. So Does Theirs.
 **Description:** Likes can be bought. Fakes can't be verified.
 
-> **Angle note:** This is the contrarian angle missing from the current set. Every existing awareness ad says "scammers are out there." This ad says "the signals you feel safe about are exactly what scammers exploit." It invalidates your false sense of security — which is a stronger call to action than adding more fear about a distant threat.
+> **Angle note:** This is the contrarian angle missing from the current set. Every existing awareness ad says "scammers are out there." This ad says "the signals you feel safe about are exactly what scammers exploit." It invalidates your false sense of security, which is a stronger call to action than adding more fear about a distant threat.
 
 ---
 
 ## CONSIDERATION ADS (Weeks 3–5)
 
 > **Rule:** Introduce Verified by dotPH. Educate on how it works.
-> **Objective:** Traffic — drive to landing page.
+> **Objective:** Traffic, drive to landing page.
 > **Audience:** Retarget people who engaged with Awareness ads.
 
 ---
 
-### Ad 7: "Prevention vs. Prosecution" — Legal Process Pain
+### Ad 7: "Prevention vs. Prosecution": Legal Process Pain
 
 **Stage:** Consideration
 **Based on:** References #10, #11 (Smart Cybersafety + Respicio & Co legal process)
-**Target:** Retarget — engaged with Awareness ads
+**Target:** Retarget, engaged with Awareness ads
 
 **Primary Text:**
 
-> **ABOVE FOLD** — first 125 characters visible before "See more":
+> **ABOVE FOLD**, first 125 characters visible before "See more":
 
 6 steps to take down a fake page. Months of waiting. Or: one free verification that prevents it. Your call.
 
@@ -742,17 +742,17 @@ Prevention beats prosecution. Every time.
 **Headline:** Prevention vs. Prosecution
 **Description:** Get verified. It's free.
 
-**Creative direction:** A Filipino business owner sitting across a government office desk — DTI or NBI setting, recognizable to any Filipino who has ever had to deal with a formal complaint process. Stacks of paper forms in front of them. A number queue ticket. Fluorescent office lighting. They look exhausted, not defeated — but this has clearly been going on for a while.
+**Creative direction:** A Filipino business owner sitting across a government office desk: DTI or NBI setting, recognizable to any Filipino who has ever had to deal with a formal complaint process. Stacks of paper forms in front of them. A number queue ticket. Fluorescent office lighting. They look exhausted, not defeated, but this has clearly been going on for a while.
 
 On the wall behind them: a calendar. Three months visibly marked off. A sticky note on the calendar: "fake page still active."
 
-Their laptop is open beside them, showing their inbox — follow-up emails, waiting on responses from multiple agencies. The fake page that started all of this is still running while they sit here.
+Their laptop is open beside them, showing their inbox, follow-up emails, waiting on responses from multiple agencies. The fake page that started all of this is still running while they sit here.
 
 Text overlay, bold:
 
 *"6 steps. Multiple agencies. Months of waiting. For one fake page."*
 
-Clean divider line. Below it, a second smaller panel or text block — light background, dotPH branding:
+Clean divider line. Below it, a second smaller panel or text block, light background, dotPH branding:
 
 *"Or: submit your documents to dotPH once. Free. Scammers can't pass a registry check."*
 
@@ -760,21 +760,21 @@ CTA button: *"Get Verified. It's Free."*
 
 The government office setting is universally understood in the Philippines. If you've ever filed a formal complaint, you know exactly what those stacks of paper and that queue number feel like. The exhaustion in the business owner's face makes the "one free submission" feel like genuine relief.
 
-> **Why this angle:** This ad uses the *procedural pain* frame — not fear of the scam, but the exhaustion of the aftermath. By the time your customers see this ad, they've already felt the threat (Awareness stage). What they haven't calculated is the cost of dealing with it after the fact. Showing you exactly what prosecution looks like — DTI, PNP-ACG, NBI, sworn statements, months of waiting, and the fake page still running — makes the "one free submission to dotPH" feel like the most rational decision you've ever been offered. The government office setting triggers a very specific Filipino memory: the queue number, the fluorescent lights, the stack of forms. You don't need to explain to your audience that process is painful — they've lived it. What you need to show them is the contrast: your before (that office) and your after (one submission, done).
+> **Why this angle:** This ad uses the *procedural pain* frame: not fear of the scam, but the exhaustion of the aftermath. By the time your customers see this ad, they've already felt the threat (Awareness stage). What they haven't calculated is the cost of dealing with it after the fact. Showing you exactly what prosecution looks like: DTI, PNP-ACG, NBI, sworn statements, months of waiting, and the fake page still running, makes the "one free submission to dotPH" feel like the most rational decision you've ever been offered. The government office setting triggers a very specific Filipino memory: the queue number, the fluorescent lights, the stack of forms. You don't need to explain to your audience that process is painful, they've lived it. What you need to show them is the contrast: your before (that office) and your after (one submission, done).
 
-> **A/B test note:** Headline — "Prevention vs. Prosecution" (current) vs. "Prevention vs. Filing a Complaint" (plain language). "Prosecution" is legally accurate but unfamiliar to small business owners in a business context. "Filing a Complaint" mirrors the language used by DTI, NBI, and Meta's own reporting flow. Winner condition: higher CTR. See creative-testing.md → AD 7 Copy Test.
+> **A/B test note:** Headline: "Prevention vs. Prosecution" (current) vs. "Prevention vs. Filing a Complaint" (plain language). "Prosecution" is legally accurate but unfamiliar to small business owners in a business context. "Filing a Complaint" mirrors the language used by DTI, NBI, and Meta's own reporting flow. Winner condition: higher CTR. See creative-testing.md → AD 7 Copy Test.
 
 ---
 
-### Ad 8: "They Checked Everything" — Diligent Customer Scammed
+### Ad 8: "They Checked Everything": Diligent Customer Scammed
 
 **Stage:** Consideration
 **Based on:** Reference #5 (Bantayan Island Resort Booking Scams) + Reference #6 (Cabanas La Union)
-**Target:** Retarget — engaged with Awareness ads (all industries)
+**Target:** Retarget, engaged with Awareness ads (all industries)
 
 **Primary Text:**
 
-> **ABOVE FOLD** — first 125 characters visible before "See more":
+> **ABOVE FOLD**, first 125 characters visible before "See more":
 
 She checked the likes. She checked the reviews. She checked the photos. She did everything right. She still got scammed.
 
@@ -795,7 +795,7 @@ Free for .ph domain holders. From the official .ph domain registry.
 **Headline:** Your Customers Can't Tell Anymore
 **Description:** Give them one check that works.
 
-**Creative direction:** A Filipino woman at her laptop, carefully reviewing a resort Facebook page before booking — methodical, thorough, the kind of person who does her research. She's cross-referencing: resort page on one side of the screen, her Notes app open on the other, checking items off her list one by one.
+**Creative direction:** A Filipino woman at her laptop, carefully reviewing a resort Facebook page before booking, methodical, thorough, the kind of person who does her research. She's cross-referencing: resort page on one side of the screen, her Notes app open on the other, checking items off her list one by one.
 
 Her checklist visible on screen:
 
@@ -821,28 +821,28 @@ dotPH badge fades in. CTA: *"Get Verified. It's Free."* dotPH branding.
 
 The two-moment structure (confident at laptop, confused at empty beach) carries the full story. No narration needed. She is every careful Filipino traveler, and she still got it wrong.
 
-> **Why this angle:** This ad uses the *diligence failure* frame — your customer did everything right, and still got scammed. This is the consideration-stage realization that closes the loop on awareness: it's not about your customers being careless. It's about the signals they trust being unfixable without your verification. The checklist visual (8,000 likes ✅, beautiful photos ✅, fast response ✅, GCash link ✅) is deliberately satisfying to read — then the twist ("She still got scammed") hits harder because you were nodding along. The two-moment structure (confident at laptop → confused at empty beach) doesn't need explanation. You know: your careful customers are checking all the same things this woman checked. And if you're not verified, your careful customers can still be fooled.
+> **Why this angle:** This ad uses the *diligence failure* frame, your customer did everything right, and still got scammed. This is the consideration-stage realization that closes the loop on awareness: it's not about your customers being careless. It's about the signals they trust being unfixable without your verification. The checklist visual (8,000 likes ✅, beautiful photos ✅, fast response ✅, GCash link ✅) is deliberately satisfying to read, then the twist ("She still got scammed") hits harder because you were nodding along. The two-moment structure (confident at laptop → confused at empty beach) doesn't need explanation. You know: your careful customers are checking all the same things this woman checked. And if you're not verified, your careful customers can still be fooled.
 
-> **Revision note:** Previous version used a bank manager / government app phishing story (Rappler ref #29). That scenario involves personal phishing, not business impersonation — a category mismatch with the product. This version uses the Bantayan/La Union resort pattern (the customer was diligent; the signals were all fake) which directly mirrors the product's use case and keeps the consideration stage grounded in the awareness stories you've already seen.
+> **Revision note:** Previous version used a bank manager / government app phishing story (Rappler ref #29). That scenario involves personal phishing, not business impersonation: a category mismatch with the product. This version uses the Bantayan/La Union resort pattern (the customer was diligent; the signals were all fake) which directly mirrors the product's use case and keeps the consideration stage grounded in the awareness stories you've already seen.
 
 ---
 
 ## CONVERSION ADS (Weeks 5–8+)
 
 > **Rule:** Direct signup push. Use urgency, social proof, objection busters.
-> **Objective:** Conversions — signup on landing page.
+> **Objective:** Conversions, signup on landing page.
 > **Audience:** Retarget landing page visitors who didn't sign up.
 
 ---
 
-### Ad 9: "Already Verified" — Competitor Urgency
+### Ad 9: "Already Verified": Competitor Urgency
 
 **Stage:** Conversion
-**Target:** Retarget — visited landing page, didn't sign up
+**Target:** Retarget, visited landing page, didn't sign up
 
 **Primary Text:**
 
-> **ABOVE FOLD** — first 125 characters visible before "See more":
+> **ABOVE FOLD**, first 125 characters visible before "See more":
 
 Your competitors are already verified. Their customers see the badge. Yours don't.
 
@@ -859,13 +859,13 @@ It's free. It takes one submission. dotPH handles the rest.
 **Headline:** [X] Businesses Are Verified. Are You?
 **Description:** Free. From the .ph registry.
 
-**Creative direction:** A Filipino business owner at their counter or desk, scrolling their phone — and stopping. They're looking at a competitor's Facebook page or website. Clean, professional. And right there on the page: the Verified by dotPH badge.
+**Creative direction:** A Filipino business owner at their counter or desk, scrolling their phone, and stopping. They're looking at a competitor's Facebook page or website. Clean, professional. And right there on the page: the Verified by dotPH badge.
 
 Their expression: not panic, not fear, just competitive awareness. The specific look of realizing someone in your space has done something you haven't yet. A beat of FOMO that you know.
 
 Behind them: their own business, clearly running, clearly legitimate. They're not behind because they're careless. They just haven't done this yet.
 
-The competitor's page visible on their phone screen shows the badge clearly. Maybe a resort page, a restaurant, an online shop — whichever matches the target audience segment for this ad set.
+The competitor's page visible on their phone screen shows the badge clearly. Maybe a resort page, a restaurant, an online shop, whichever matches the target audience segment for this ad set.
 
 Text overlay, clean:
 
@@ -874,24 +874,24 @@ Text overlay, clean:
 Smaller line:
 *[X] businesses verified. It's free. It takes one submission.*
 
-CTA button: *"Get Verified Now — It's Free."* dotPH branding.
+CTA button: *"Get Verified Now: It's Free."* dotPH branding.
 
-The competitor discovery moment is the most natural trigger for action at the conversion stage. You already know the product — what you need is a reason to act today instead of next week.
+The competitor discovery moment is the most natural trigger for action at the conversion stage. You already know the product, what you need is a reason to act today instead of next week.
 
-> **Why this angle:** This ad uses *competitive FOMO* — the most powerful trigger at the conversion stage. You've already seen the problem and understood the product. What's stopping you from signing up isn't knowledge — it's inertia. Showing you a competitor's page with the badge, while you're still unverified, creates social pressure that's uniquely effective in the Philippine business context: nobody wants to be the last in your industry to do the smart thing. The visual doesn't need to shame you — it just needs to show you what verified looks like on a competitor's page. Your customers are already noticing. The question is: are you going to make them wait?
+> **Why this angle:** This ad uses *competitive FOMO*: the most powerful trigger at the conversion stage. You've already seen the problem and understood the product. What's stopping you from signing up isn't knowledge, it's inertia. Showing you a competitor's page with the badge, while you're still unverified, creates social pressure that's uniquely effective in the Philippine business context: nobody wants to be the last in your industry to do the smart thing. The visual doesn't need to shame you, it just needs to show you what verified looks like on a competitor's page. Your customers are already noticing. The question is: are you going to make them wait?
 
-> **Revision note:** Previous version re-served the Bantayan P500K case study (already used in Ad 2, Reel R1, and Ad 10's original body). At conversion stage, you don't need more evidence of the problem — you need a short, direct push. Case study removed; social proof count + consequence gap + zero-friction CTA replaces it.
+> **Revision note:** Previous version re-served the Bantayan P500K case study (already used in Ad 2, Reel R1, and Ad 10's original body). At conversion stage, you don't need more evidence of the problem, you need a short, direct push. Case study removed; social proof count + consequence gap + zero-friction CTA replaces it.
 
 ---
 
-### Ad 10: "Hesitation Costs" — Trust Gap Closer
+### Ad 10: "Hesitation Costs": Trust Gap Closer
 
 **Stage:** Conversion
-**Target:** Retarget — visited landing page, didn't sign up
+**Target:** Retarget, visited landing page, didn't sign up
 
 **Primary Text:**
 
-> **ABOVE FOLD** — first 125 characters visible before "See more":
+> **ABOVE FOLD**, first 125 characters visible before "See more":
 
 [X] businesses signed up this week alone. The number is climbing. Don't be the business your customers can't verify.
 
@@ -910,11 +910,11 @@ Free for .ph domain holders. Submit your documents. dotPH handles the rest.
 **Headline:** [X] Signed Up This Week. You?
 **Description:** Free. From the .ph registry.
 
-**Creative direction:** Over-the-shoulder shot of a young Filipino customer sitting on their phone — GCash open, payment screen filled in, recipient and amount ready. Their finger is hovering over "Send." Not pressing. Pausing.
+**Creative direction:** Over-the-shoulder shot of a young Filipino customer sitting on their phone: GCash open, payment screen filled in, recipient and amount ready. Their finger is hovering over "Send." Not pressing. Pausing.
 
-Their other hand is holding a second tab open — a Google search: "is [business name] legit?" They're doing a last-minute check before committing. That search is the lost sale in real time.
+Their other hand is holding a second tab open: a Google search: "is [business name] legit?" They're doing a last-minute check before committing. That search is the lost sale in real time.
 
-Dark, intimate setting — couch at home, or a café. The phone screen is the primary light source. The person's face is partially visible: not afraid, just cautious. The universal Filipino hesitation before a payment they're not 100% sure about.
+Dark, intimate setting, couch at home, or a café. The phone screen is the primary light source. The person's face is partially visible: not afraid, just cautious. The universal Filipino hesitation before a payment they're not 100% sure about.
 
 Text overlay, centered:
 
@@ -928,20 +928,20 @@ CTA: *"Get Verified. Free."* dotPH branding.
 
 The search tab open mid-payment is the specific detail that makes this real: that extra Google check is costing your business sales every single day.
 
-> **Why this angle:** This ad uses the *invisible lost sale* frame — the customer who almost paid you but didn't. The over-the-shoulder shot of a finger hovering over "Send" while a second tab searches "is [business name] legit?" is the most specific detail in the entire campaign — and the most universally relatable. Every business owner has had the customer who asked one too many questions and never followed through. That's not hesitation. That's revenue walking out the door. This ad makes you feel the exact moment your sale disappears — and then shows you what that same moment looks like when you're verified. The badge doesn't just protect your customers. It closes your sales.
+> **Why this angle:** This ad uses the *invisible lost sale* frame: the customer who almost paid you but didn't. The over-the-shoulder shot of a finger hovering over "Send" while a second tab searches "is [business name] legit?" is the most specific detail in the entire campaign, and the most universally relatable. Every business owner has had the customer who asked one too many questions and never followed through. That's not hesitation. That's revenue walking out the door. This ad makes you feel the exact moment your sale disappears, and then shows you what that same moment looks like when you're verified. The badge doesn't just protect your customers. It closes your sales.
 
-> **Revision note:** P480B stat retained but moved from center-stage infographic to a single supporting line. At conversion stage, leading with a national data visualization re-runs the awareness phase. The focus shifts to the trust gap consequence (lost revenue from hesitation) and momentum (this week's signup count). Shorter copy overall — you don't need more evidence, you need a reason to act today.
+> **Revision note:** P480B stat retained but moved from center-stage infographic to a single supporting line. At conversion stage, leading with a national data visualization re-runs the awareness phase. The focus shifts to the trust gap consequence (lost revenue from hesitation) and momentum (this week's signup count). Shorter copy overall, you don't need more evidence, you need a reason to act today.
 
 ---
 
-### Ad 12: "What Your Customers See Now" — Identity / Aspiration
+### Ad 12: "What Your Customers See Now": Identity / Aspiration
 
 **Stage:** Conversion (Weeks 5–8+)
-**Target:** Retarget — visited landing page, didn't sign up — specifically businesses in high-impersonation industries (resorts, F&B, clinics, online sellers)
+**Target:** Retarget, visited landing page, didn't sign up, specifically businesses in high-impersonation industries (resorts, F&B, clinics, online sellers)
 
 **Primary Text:**
 
-> **ABOVE FOLD** — first 125 characters visible before "See more":
+> **ABOVE FOLD**, first 125 characters visible before "See more":
 
 When your customer searches for your page, they find a badge. One click. Confirmed. No hesitation.
 
@@ -964,25 +964,25 @@ Free for .ph domain holders. Submit your documents. dotPH handles the rest.
 **Headline:** Verified Businesses Close More.
 **Description:** No more "Is this your real page?"
 
-**Creative direction:** Two Filipino customers side by side — same age, same situation, same moment. Both at their phones, both about to pay a business online. Clean, bright dotPH brand colors throughout. This is the after, not the before.
+**Creative direction:** Two Filipino customers side by side, same age, same situation, same moment. Both at their phones, both about to pay a business online. Clean, bright dotPH brand colors throughout. This is the after, not the before.
 
-Left side: A customer on an unverified business page. Their expression: a slight frown, hesitating. They open a second browser tab — "is this the real [business name]?" They're doing extra work before they can feel comfortable. Maybe they abandon the payment entirely.
+Left side: A customer on an unverified business page. Their expression: a slight frown, hesitating. They open a second browser tab: "is this the real [business name]?" They're doing extra work before they can feel comfortable. Maybe they abandon the payment entirely.
 
-Right side: A customer on a verified business page. They spot the dotPH badge, click it, the verification page opens — your business name, your GCash number, your website all confirmed. Their expression: relief, confidence. They pay immediately. No second tab. No extra search. Done.
+Right side: A customer on a verified business page. They spot the dotPH badge, click it, the verification page opens, your business name, your GCash number, your website all confirmed. Their expression: relief, confidence. They pay immediately. No second tab. No extra search. Done.
 
 Below both, centered and bold:
 
 *"The difference is one badge. And it's free."*
 
-CTA button: *"Get Verified Now — It's Free."* dotPH logo prominent.
+CTA button: *"Get Verified Now: It's Free."* dotPH logo prominent.
 
 The side-by-side customers make the contrast visceral without a word of explanation. Both people are real, both situations are familiar. The verified side is the outcome you want your customers to have.
 
-CTA button: *"Get Verified Now — It's Free."* dotPH logo prominent.
+CTA button: *"Get Verified Now: It's Free."* dotPH logo prominent.
 
-This is the only ad in the funnel that shows desire, not fear. At conversion stage — after you've seen the problem, the stories, and the product — what you need is a vision of the after-state. The thought bubbles make the contrast visceral without a single scary statistic.
+This is the only ad in the funnel that shows desire, not fear. At conversion stage, after you've seen the problem, the stories, and the product, what you need is a vision of the after-state. The thought bubbles make the contrast visceral without a single scary statistic.
 
-> **Angle note:** This is the identity/aspiration angle missing from the current set. Every existing ad activates fear. This ad activates desire — showing verified businesses as more professional, more trusted, and winning more customers than their unverified competitors. At conversion stage, showing the positive outcome is often more effective than re-serving the problem you already know.
+> **Angle note:** This is the identity/aspiration angle missing from the current set. Every existing ad activates fear. This ad activates desire, showing verified businesses as more professional, more trusted, and winning more customers than their unverified competitors. At conversion stage, showing the positive outcome is often more effective than re-serving the problem you already know.
 
 ---
 
@@ -1001,7 +1001,7 @@ This is the only ad in the funnel that shows desire, not fear. At conversion sta
 **SEO keywords:** phishing Philippines 2025, online scams Philippines, business impersonation Philippines
 **No product mention.** This article establishes dotPH as an authority voice on online trust.
 
-> **Why this angle:** The 423% stat is the door. It's visceral enough to stop a business owner mid-scroll, and specific enough to feel real. But the real strategic move is the frame shift: most scam coverage focuses on consumer victims. This article reframes your business as the *second victim* — the one who loses reputation, bookings, and customer trust every time a scammer borrows your name. By the end, you're not worried about scams in general. You're worried about your business specifically, and the 423% is no longer an industry stat — it's a signal that your own odds are shifting.
+> **Why this angle:** The 423% stat is the door. It's visceral enough to stop a business owner mid-scroll, and specific enough to feel real. But the real strategic move is the frame shift: most scam coverage focuses on consumer victims. This article reframes your business as the *second victim*: the one who loses reputation, bookings, and customer trust every time a scammer borrows your name. By the end, you're not worried about scams in general. You're worried about your business specifically, and the 423% is no longer an industry stat, it's a signal that your own odds are shifting.
 
 ---
 
@@ -1058,7 +1058,7 @@ The 423% surge isn't just a statistic. It's a signal that your current trust sig
 **No product mention.** Human interest, storytelling-driven.
 
 > **
- The resort story makes the threat personal for your primary B2B audience. If you're a resort owner reading about "a resort in Bantayan", you're not reading about someone else — you're reading about your own business, your own photos being stolen, your own guests showing up at the wrong page. The storytelling structure (what happened → how it happened → what you can do now) moves you from shock to understanding to agency — which is exactly the emotional sequence that motivates action. No product mention in the article itself; the article earns the trust that later campaign touchpoints spend.
+ The resort story makes the threat personal for your primary B2B audience. If you're a resort owner reading about "a resort in Bantayan", you're not reading about someone else, you're reading about your own business, your own photos being stolen, your own guests showing up at the wrong page. The storytelling structure (what happened → how it happened → what you can do now) moves you from shock to understanding to agency, which is exactly the emotional sequence that motivates action. No product mention in the article itself; the article earns the trust that later campaign touchpoints spend.
 
 ---
 
@@ -1122,9 +1122,9 @@ If you're in tourism, hospitality, or travel, your business depends on your cust
 
 **Stage:** AWARENESS (Publish Week 2–3)
 **SEO keywords:** Philippines scam losses, online fraud Philippines business, P480 billion scams
-**No product mention.** Thought leadership — reframes the narrative.
+**No product mention.** Thought leadership, reframes the narrative.
 
-> **Why this angle:** The P480B number is the hook, but the real strategic move is the reframe: scams aren't a consumer problem — they're revenue interception. Every peso a consumer sends to a fake page was meant for a real business. That money was yours. The industry breakdowns (hospitality, e-commerce, food delivery) ensure you see your category named, making the economic loss feel concrete and personal. This article's job is to shift you from "this is a crime problem" to "this is my business problem" — and by naming specific industry losses, it does that without overselling.
+> **Why this angle:** The P480B number is the hook, but the real strategic move is the reframe: scams aren't a consumer problem, they're revenue interception. Every peso a consumer sends to a fake page was meant for a real business. That money was yours. The industry breakdowns (hospitality, e-commerce, food delivery) ensure you see your category named, making the economic loss feel concrete and personal. This article's job is to shift you from "this is a crime problem" to "this is my business problem", and by naming specific industry losses, it does that without overselling.
 
 ---
 
@@ -1204,7 +1204,7 @@ The question is: what are you doing to make sure your customers can tell you're 
 **SEO keywords:** .ph domain verification, online business trust Philippines, how to prove business is real online
 **This article introduces Verified by dotPH.**
 
-> **Why this angle:** This is the objection-killer. Your most qualified reader already has a .ph domain and thinks you've done what's necessary. This article dismantles that assumption by walking through every signal customers use to gauge trust — domain, padlock, professional design, likes — and showing that scammers optimize for all of them. The "without vs. with verification" customer journey comparison does the conversion work: it's not framed as a safety upgrade, it's framed as a lost sales problem you're currently experiencing without knowing it. Every moment your customer hesitates before paying because they can't tell if you're real is revenue you're leaving on the table.
+> **Why this angle:** This is the objection-killer. Your most qualified reader already has a .ph domain and thinks you've done what's necessary. This article dismantles that assumption by walking through every signal customers use to gauge trust, domain, padlock, professional design, likes, and showing that scammers optimize for all of them. The "without vs. with verification" customer journey comparison does the conversion work: it's not framed as a safety upgrade, it's framed as a lost sales problem you're currently experiencing without knowing it. Every moment your customer hesitates before paying because they can't tell if you're real is revenue you're leaving on the table.
 
 ---
 
@@ -1290,7 +1290,7 @@ There's no financial friction. The only question is whether you care enough abou
 **SEO keywords:** Verified by dotPH, business verification Philippines, online trust badge Philippines
 **Social proof article. Update [X] with real numbers as signups come in.**
 
-> **Why this angle:** Social proof momentum. The "[X] businesses already verified" number is designed to activate FOMO: your competitors — the resorts, online sellers, and restaurants in your category — are already doing this. The industry breakdown gives you a mirror that shows your peer group moving. The "it's free" close removes the last objection before you can raise it. This article's job is to close the gap between consideration and conversion by removing every remaining excuse: you're not being asked to pay, you're being asked to not fall behind.
+> **Why this angle:** Social proof momentum. The "[X] businesses already verified" number is designed to activate FOMO: your competitors: the resorts, online sellers, and restaurants in your category, are already doing this. The industry breakdown gives you a mirror that shows your peer group moving. The "it's free" close removes the last objection before you can raise it. This article's job is to close the gap between consideration and conversion by removing every remaining excuse: you're not being asked to pay, you're being asked to not fall behind.
 
 ---
 
@@ -1325,13 +1325,13 @@ If you're a healthcare provider or professional, you're verifying to ensure your
 **In their own words: why they got verified**
 
 > *"I didn't think we needed it until I saw a fake page using our photos. Now I tell every business owner I know to get verified."*
-> — [Name], [Business], [Location]
+>: [Name], [Business], [Location]
 
 > *"I submitted my documents and the team handled the rest. My customers can now pull up our verification page and confirm our real GCash number before they send money. That's worth more than any ad we've ever run."*
-> — [Name], [Business], [Location]
+>: [Name], [Business], [Location]
 
-> *"We put the verified badge on our website footer and our Instagram bio. Customers mention it — they actually check it."*
-> — [Name], [Business], [Location]
+> *"We put the verified badge on our website footer and our Instagram bio. Customers mention it, they actually check it."*
+>: [Name], [Business], [Location]
 
 *(Replace with real testimonials as they come in.)*
 
@@ -1374,12 +1374,12 @@ Join the [X] businesses that are already verified. Your customers will thank you
 | 4 | 52% of Filipinos | Awareness | #1 GSMA | All business owners |
 | 5 | Household Name Gets Faked | Awareness | #28 Fast Food Chain | F&B / All |
 | 6 | Book Now, Fly Never | Awareness | #31 GMA News | Travel / Tourism |
-| 7 | Prevention vs. Prosecution | Consideration | #10, #11 | Retarget — engaged |
-| 8 | They Checked Everything | Consideration | #5 Bantayan / #31 Resort | Retarget — engaged |
-| 9 | Already Verified | Conversion | Signup momentum | Retarget — LP visitors |
-| 10 | Hesitation Costs | Conversion | #4 ScamWatch | Retarget — LP visitors |
-| 11 | Your Page Looks Real | Awareness | Contrarian hook | Cold — business owners |
-| 12 | What Your Customers See Now | Conversion | Identity / aspiration | Retarget — warm |
+| 7 | Prevention vs. Prosecution | Consideration | #10, #11 | Retarget, engaged |
+| 8 | They Checked Everything | Consideration | #5 Bantayan / #31 Resort | Retarget, engaged |
+| 9 | Already Verified | Conversion | Signup momentum | Retarget: LP visitors |
+| 10 | Hesitation Costs | Conversion | #4 ScamWatch | Retarget: LP visitors |
+| 11 | Your Page Looks Real | Awareness | Contrarian hook | Cold, business owners |
+| 12 | What Your Customers See Now | Conversion | Identity / aspiration | Retarget, warm |
 
 ## Blog Articles by Stage
 
@@ -1398,15 +1398,15 @@ Join the [X] businesses that are already verified. Your customers will thank you
 | C1 | Spot the Fake | Fear Activation | 3–5 | Consumer |
 | C2 | I Booked a Resort for Our Family | Fear Activation | 3–5 | Consumer |
 | C3 | This Resort Had 8,000 Likes | Fear Activation | 3–5 | Consumer |
-| C4 | 52% of Filipinos — Consumer Angle | Fear Activation | 3–5 | Dual |
-| C5 | They Faked a Household Name — Consumer Angle | Fear Activation | 3–5 | Dual |
-| C6 | How to Check — Visual Guide | Empowerment | 6–8 | Consumer |
+| C4 | 52% of Filipinos: Consumer Angle | Fear Activation | 3–5 | Dual |
+| C5 | They Faked a Household Name: Consumer Angle | Fear Activation | 3–5 | Dual |
+| C6 | How to Check: Visual Guide | Empowerment | 6–8 | Consumer |
 | C7 | The GCash Check | Empowerment | 6–8 | Consumer |
 | C8 | 3 Signs a Page Is Fake | Empowerment | 6–8 | Dual |
 | C9 | #CheckBeforeYouPay Launch | Habit Formation | 8–10+ | Consumer |
 | C10 | Tell Your Nanay | Habit Formation | 8–10+ | Consumer |
 | C11 | UGC Showcase Prompt | Habit Formation | 8–10+ | Consumer |
-| C12 | Milestone — X Consumers Checked | Habit Formation | 8–10+ | Dual |
+| C12 | Milestone: X Consumers Checked | Habit Formation | 8–10+ | Dual |
 
 ## Consumer Blog Articles by Phase
 
@@ -1420,12 +1420,12 @@ Join the [X] businesses that are already verified. Your customers will thank you
 
 ---
 
-# PART 3: CONSUMER CAMPAIGN — #CheckBeforeYouPay
+# PART 3: CONSUMER CAMPAIGN: #CheckBeforeYouPay
 
 > **Audience:** Filipino consumers (NOT business owners)
-> **Goal:** Behavior change — teach consumers to check for Verified by dotPH before paying online
+> **Goal:** Behavior change, teach consumers to check for Verified by dotPH before paying online
 > **Timeline:** Weeks 3–10 (starts 2 weeks after B2B campaign launch)
-> **Tone:** Protective, empowering, practical — like warning a friend. Mix of English and Filipino context.
+> **Tone:** Protective, empowering, practical, like warning a friend. Mix of English and Filipino context.
 > **Rule:** Never end on fear alone. Every post ends with an actionable step.
 
 ### Visual Specs for Consumer Creatives
@@ -1433,27 +1433,27 @@ Join the [X] businesses that are already verified. Your customers will thank you
 | Spec | Details |
 |------|---------|
 | **Organic post images** | 1080 x 1080 px (square) for feed. 1080 x 1920 px for Stories |
-| **Carousel posts** | 1080 x 1080 px per slide, 3–5 slides. Design for swipe — each slide must work standalone AND in sequence |
-| **Boosted posts** | Same dimensions as organic — these get boosted from organic if >5% engagement, so don't design differently |
+| **Carousel posts** | 1080 x 1080 px per slide, 3–5 slides. Design for swipe, each slide must work standalone AND in sequence |
+| **Boosted posts** | Same dimensions as organic, these get boosted from organic if >5% engagement, so don't design differently |
 | **Screenshot-able design** | Consumer posts should be designed to look good as a screenshot in Messenger/Viber. Avoid dark mode-only designs. Keep text large enough to read on a forwarded screenshot |
-| **Color palette** | **Fear Activation (Weeks 3–5):** Muted/dark tones — blacks, dark blues, muted reds. Somber, not sensational. **Empowerment (Weeks 6–8):** Transitional — lighter backgrounds, green/teal accents. Instructional feel. **Habit Formation (Weeks 8–10):** Warm, bright, community colors — yellows, oranges, light greens. Confidence and social momentum |
-| **Typography** | Conversational sans-serif. Headlines bold but not corporate. Body text at 16pt minimum equivalent for mobile readability. Use line breaks generously — these are mobile-first |
-| **Branding** | **Fear Activation posts:** NO dotPH branding. Posts should feel editorial/news, not branded. **Empowerment posts:** dotPH badge visual prominent — consumers need to learn what it looks like. **Habit Formation posts:** #CheckBeforeYouPay hashtag as visual element. dotPH badge as supporting visual |
+| **Color palette** | **Fear Activation (Weeks 3–5):** Muted/dark tones, blacks, dark blues, muted reds. Somber, not sensational. **Empowerment (Weeks 6–8):** Transitional, lighter backgrounds, green/teal accents. Instructional feel. **Habit Formation (Weeks 8–10):** Warm, bright, community colors, yellows, oranges, light greens. Confidence and social momentum |
+| **Typography** | Conversational sans-serif. Headlines bold but not corporate. Body text at 16pt minimum equivalent for mobile readability. Use line breaks generously, these are mobile-first |
+| **Branding** | **Fear Activation posts:** NO dotPH branding. Posts should feel editorial/news, not branded. **Empowerment posts:** dotPH badge visual prominent, consumers need to learn what it looks like. **Habit Formation posts:** #CheckBeforeYouPay hashtag as visual element. dotPH badge as supporting visual |
 | **Interactive posts (C1)** | Side-by-side comparison must be genuinely hard to distinguish. Label "A" and "B" clearly. Reveal in pinned comment, not in the image |
 | **Tutorial posts (C6, C7)** | Step numbers large and prominent. Each step = one carousel slide. Include actual screenshots or mockups of the verification page and badge |
-| **Shareability test** | Every visual must pass the "Viber GC test" — would it make sense forwarded without the caption? If the image needs the caption to make sense, redesign |
-| **Reels** | 1080 x 1920 px (9:16 vertical). 15–30 seconds max. MP4 format. **Captions required** — 87.64% of PH Facebook traffic is mobile, many watch without sound. Text must be readable at mobile size. Keep key text in the center 80% of the frame (top/bottom get cropped by UI overlays). No end-card CTA button — use caption for links. Background music optional but recommended (trending audio gets algorithmic boost) |
+| **Shareability test** | Every visual must pass the "Viber GC test", would it make sense forwarded without the caption? If the image needs the caption to make sense, redesign |
+| **Reels** | 1080 x 1920 px (9:16 vertical). 15–30 seconds max. MP4 format. **Captions required**: 87.64% of PH Facebook traffic is mobile, many watch without sound. Text must be readable at mobile size. Keep key text in the center 80% of the frame (top/bottom get cropped by UI overlays). No end-card CTA button, use caption for links. Background music optional but recommended (trending audio gets algorithmic boost) |
 
 ---
 
 ## PHASE 1: FEAR ACTIVATION (Weeks 3–5)
 
-> **Goal:** Make consumers feel the threat is personal. Not hypothetical — happening to people exactly like them.
+> **Goal:** Make consumers feel the threat is personal. Not hypothetical, happening to people exactly like them.
 > **Emotion:** Recognition, alertness.
 
 ---
 
-### Post C1: "Spot the Fake" — Interactive Post
+### Post C1: "Spot the Fake": Interactive Post
 
 **Phase:** Fear Activation
 **Type:** Interactive engagement post
@@ -1474,19 +1474,19 @@ Guess in the comments. We'll drop the answer below.
 
 Tag someone and see if they can tell the difference.
 
-**Creative direction:** Two screenshots of Facebook business pages, side by side or in a carousel. Both look professional — same name, similar bio, similar photos. One is labeled "A" and the other "B." The differences are subtle (page creation date, slight URL variation). The answer is revealed in the first comment, with context: "The fake page had more likes than the real one."
+**Creative direction:** Two screenshots of Facebook business pages, side by side or in a carousel. Both look professional, same name, similar bio, similar photos. One is labeled "A" and the other "B." The differences are subtle (page creation date, slight URL variation). The answer is revealed in the first comment, with context: "The fake page had more likes than the real one."
 
 **Engagement strategy:** Pin the reveal comment. Reply to guesses. This format is designed for high comment volume, which drives organic reach.
 
-> **Why this works:** The *interactive quiz* format converts passive scrollers into active participants. The moment you ask "Which one is fake?", you can't just scroll past — you have to stop and try to answer. The genius of this post is that the right answer is unknowable without verification, and that discomfort is the entire message. If you had to think about it for even a second — your customers are thinking about it too. Before paying. Every time. The tagging mechanic ("see if your friend can tell the difference") is organic sharing built into the post itself.
+> **Why this works:** The *interactive quiz* format converts passive scrollers into active participants. The moment you ask "Which one is fake?", you can't just scroll past, you have to stop and try to answer. The genius of this post is that the right answer is unknowable without verification, and that discomfort is the entire message. If you had to think about it for even a second, your customers are thinking about it too. Before paying. Every time. The tagging mechanic ("see if your friend can tell the difference") is organic sharing built into the post itself.
 
 ---
 
-### Post C2: "I Booked a Resort for Our Family Vacation" — Victim Perspective
+### Post C2: "I Booked a Resort for Our Family Vacation": Victim Perspective
 
 **Phase:** Fear Activation
 **Based on:** Reference #5 (Bantayan Island Resort Booking Scams)
-**Type:** Story post — first-person consumer perspective
+**Type:** Story post, first-person consumer perspective
 **Format:** Text post or single image with text overlay
 
 **Primary Text:**
@@ -1506,7 +1506,7 @@ This can happen to literally anyone. Send this to someone before they book their
 
 **Creative direction:** Clean text on a muted background. No sales. No product mention (or very soft at most). The story does the work. Optional: include a real screenshot of the Bantayan scam news headline (SunStar Cebu).
 
-> **Why this works:** The *first-person victim story* is the most shareable format in the campaign. It's not a brand telling you scams are bad — it's a person telling you what happened to them. The specific details (P3,500 deposit, 50,000 likes, "The REAL page only had 12,000 likes") give you enough to picture yourself in the same situation. The closer ("This can happen to literally anyone") is deliberately broad — it removes the "that wouldn't happen to me" defense you use to stay comfortable. The tag CTA ("Send this to someone before they book their next trip") travels this post into every Holy Week and summer barkada group chat in the Philippines.
+> **Why this works:** The *first-person victim story* is the most shareable format in the campaign. It's not a brand telling you scams are bad, it's a person telling you what happened to them. The specific details (P3,500 deposit, 50,000 likes, "The REAL page only had 12,000 likes") give you enough to picture yourself in the same situation. The closer ("This can happen to literally anyone") is deliberately broad, it removes the "that wouldn't happen to me" defense you use to stay comfortable. The tag CTA ("Send this to someone before they book their next trip") travels this post into every Holy Week and summer barkada group chat in the Philippines.
 
 ---
 
@@ -1514,7 +1514,7 @@ This can happen to literally anyone. Send this to someone before they book their
 
 **Phase:** Fear Activation
 **Based on:** Reference #6 (Cabanas La Union Fake Resort Scam)
-**Type:** Scam story — consumer angle
+**Type:** Scam story, consumer angle
 **Format:** Carousel (3–4 slides)
 
 **Primary Text:**
@@ -1538,17 +1538,17 @@ Forward this to your family GC before someone books a trip.
 1. "This resort in La Union had 8,000 likes." (scenic beach photo)
 2. "People booked. They paid through GCash." (payment-style visual)
 3. "Then they showed up. The resort didn't exist." (empty lot or Google Maps screenshot showing nothing)
-4. "Before you book, check if it's real." (simple CTA, no product yet — Phase 1 is about fear, not solution)
+4. "Before you book, check if it's real." (simple CTA, no product yet: Phase 1 is about fear, not solution)
 
-> **Why this works:** The *fabricated place* story is the sharpest scam story in the campaign because there's no "real thing that got copied" — it was invented from scratch. For you, that's harder to process than a fake page: someone created an entire fake destination with your region's name and collected bookings. The 8,000 likes detail makes you distrust your own intuition ("I would have liked that page too"). The "Forward this to your family GC" CTA lands naturally before Holy Week and summer travel season — it frames sharing as a protective act, not just engagement.
+> **Why this works:** The *fabricated place* story is the sharpest scam story in the campaign because there's no "real thing that got copied", it was invented from scratch. For you, that's harder to process than a fake page: someone created an entire fake destination with your region's name and collected bookings. The 8,000 likes detail makes you distrust your own intuition ("I would have liked that page too"). The "Forward this to your family GC" CTA lands naturally before Holy Week and summer travel season, it frames sharing as a protective act, not just engagement.
 
 ---
 
-### Post C4: "52% of Filipinos" — Consumer Protection Angle (Dual Audience)
+### Post C4: "52% of Filipinos": Consumer Protection Angle (Dual Audience)
 
 **Phase:** Fear Activation
 **Based on:** Reference #1 (GSMA ASEAN Consumer Scam Report 2025)
-**Type:** Stat-driven awareness — reframed for consumers
+**Type:** Stat-driven awareness, reframed for consumers
 **Format:** Static image or motion graphic
 
 **Primary Text:**
@@ -1569,17 +1569,17 @@ Share this with someone who shops online.
 **Headline for image:** 52% of Filipinos Have Been Scammed
 **Subtext:** GSMA, 2025
 
-**Creative direction:** Bold "52%" center-screen. Below: "of Filipinos have been scammed at least once." Consumer-focused framing — no business owner language. Clean, data-driven. Final text: "If a deal looks too good — pause before you pay."
+**Creative direction:** Bold "52%" center-screen. Below: "of Filipinos have been scammed at least once." Consumer-focused framing: no business owner language. Clean, data-driven. Final text: "If a deal looks too good, pause before you pay."
 
-> **Why this works:** The *national statistic* post works because it makes you a number before you can opt out. "More than half of us" doesn't leave room for "that wouldn't happen to me." The 96% worried stat confirms you already have ambient anxiety about this — this post just names it clearly and gives it context. The pivot to "scammers know exactly what you check" is the insight that converts passive awareness into active vigilance. This post is designed to be shared not because it's emotional, but because it's factual and slightly embarrassing: you didn't know your defenses were this predictable.
+> **Why this works:** The *national statistic* post works because it makes you a number before you can opt out. "More than half of us" doesn't leave room for "that wouldn't happen to me." The 96% worried stat confirms you already have ambient anxiety about this, this post just names it clearly and gives it context. The pivot to "scammers know exactly what you check" is the insight that converts passive awareness into active vigilance. This post is designed to be shared not because it's emotional, but because it's factual and slightly embarrassing: you didn't know your defenses were this predictable.
 
 ---
 
-### Post C5: "They Faked a Household Name" — Consumer Angle (Dual Audience)
+### Post C5: "They Faked a Household Name": Consumer Angle (Dual Audience)
 
 **Phase:** Fear Activation
 **Based on:** Reference #28 (Major Fast Food Chain Impersonation)
-**Type:** Scam story — consumer awareness
+**Type:** Scam story, consumer awareness
 **Format:** Carousel (3–4 slides)
 
 **Primary Text:**
@@ -1603,13 +1603,13 @@ Tag someone who enters Facebook giveaways.
 3. "All fake. The company had to issue a warning."
 4. "If they can fake a household name, they can fake any business you buy from."
 
-> **Why this works:** The *known brand anchor* works because it collapses the "scams only happen to careless people" belief. If thousands of Filipinos were fooled by a fake page for a brand you've eaten at hundreds of times — whose face you know, whose packaging you recognize — then your ability to spot a fake for a small online seller you've never met is essentially zero. The pivot to your everyday purchases ("The online sellers. The small resorts. The local restaurants") puts the threat in your regular behavior, not an exceptional one. Tagging someone who enters Facebook giveaways is surgical: you're surfacing the most at-risk behavior in your social circle.
+> **Why this works:** The *known brand anchor* works because it collapses the "scams only happen to careless people" belief. If thousands of Filipinos were fooled by a fake page for a brand you've eaten at hundreds of times, whose face you know, whose packaging you recognize, then your ability to spot a fake for a small online seller you've never met is essentially zero. The pivot to your everyday purchases ("The online sellers. The small resorts. The local restaurants") puts the threat in your regular behavior, not an exceptional one. Tagging someone who enters Facebook giveaways is surgical: you're surfacing the most at-risk behavior in your social circle.
 
 ---
 
 ## PHASE 2: EMPOWERMENT (Weeks 6–8)
 
-> **Starts Week 6** — after sufficient verified businesses exist (300–500+) for the badge-checking advice to be actionable. Weeks 3–5 (Fear Activation) build the "so pano?" tension; this phase answers it.
+> **Starts Week 6**, after sufficient verified businesses exist (300–500+) for the badge-checking advice to be actionable. Weeks 3–5 (Fear Activation) build the "so pano?" tension; this phase answers it.
 >
 > **Goal:** Give consumers a specific, actionable way to check. Teach the behavior.
 > **Emotion:** Relief, control.
@@ -1617,11 +1617,11 @@ Tag someone who enters Facebook giveaways.
 
 ---
 
-### Post C6: "How to Check" — Visual Guide
+### Post C6: "How to Check": Visual Guide
 
 **Phase:** Empowerment
-**Type:** Tutorial — step-by-step
-**Format:** Carousel (5 slides) — designed to be saved and shared in Messenger/Viber
+**Type:** Tutorial, step-by-step
+**Format:** Carousel (5 slides), designed to be saved and shared in Messenger/Viber
 
 **Primary Text:**
 Before you pay anyone online, do this:
@@ -1640,20 +1640,20 @@ Save this. Send it to someone you know who books trips, shops online, or sends m
 #CheckBeforeYouPay
 
 **Creative direction:** Carousel slides:
-1. "How to Check if a Business Is Real" (title slide — clean, branded)
+1. "How to Check if a Business Is Real" (title slide, clean, branded)
 2. "Step 1: Look for the Verified by dotPH badge on their website" (screenshot of a badge on a sample website footer)
 3. "Step 2: Click the badge to visit the verification page" (screenshot of a sample verification page)
-4. "Step 3: Check the listed details — real GCash number, website, social media" (close-up of payment details section)
+4. "Step 3: Check the listed details, real GCash number, website, social media" (close-up of payment details section)
 5. "No badge? Ask why. Verification is free." + #CheckBeforeYouPay
 
-> **Why this works:** The *save-and-forward tutorial* works because it's genuinely useful. You've been primed on the fear for 3–5 weeks. What you've been asking — "so pano ba talaga?" — gets answered here in 30 seconds and 5 slides. The design for Viber/Messenger forwarding is intentional: this carousel should leave your page and land in family group chats, barkada threads, and travel booking conversations. The "Save this" CTA is low-friction and feels like self-protection, not brand engagement.
+> **Why this works:** The *save-and-forward tutorial* works because it's genuinely useful. You've been primed on the fear for 3–5 weeks. What you've been asking: "so pano ba talaga?", gets answered here in 30 seconds and 5 slides. The design for Viber/Messenger forwarding is intentional: this carousel should leave your page and land in family group chats, barkada threads, and travel booking conversations. The "Save this" CTA is low-friction and feels like self-protection, not brand engagement.
 
 ---
 
-### Post C7: "The GCash Check" — Payment Verification Tutorial
+### Post C7: "The GCash Check": Payment Verification Tutorial
 
 **Phase:** Empowerment
-**Type:** Tutorial — specific to payment verification
+**Type:** Tutorial, specific to payment verification
 **Format:** Carousel (4 slides) or short video (30 sec)
 
 **Primary Text:**
@@ -1680,14 +1680,14 @@ Send this to the person in your family who sends GCash the most.
 3. "Visit their Verified by dotPH page. Check their listed GCash number." (screenshot of the payment details section with GCash number visible)
 4. "Match? Pay with confidence. No match? Don't send money." + #CheckBeforeYouPay
 
-> **Why this works:** The *"Is this your real GCash?"* hook is the most relatable opener in the campaign — you've probably sent that DM or received it. Opening on a familiar behavior you already know doesn't protect you is a powerful reframe. "Stop asking. Start checking." is the cleanest instruction in the entire campaign: two parallel imperatives, one behavior eliminated, one behavior installed. The GCash number comparison is the product's core value proposition expressed in one action — you don't need to trust the seller; you check with the registry. Send to the person in your family who sends GCash the most: that's the highest-risk person in every Filipino household, and you know exactly who that is.
+> **Why this works:** The *"Is this your real GCash?"* hook is the most relatable opener in the campaign, you've probably sent that DM or received it. Opening on a familiar behavior you already know doesn't protect you is a powerful reframe. "Stop asking. Start checking." is the cleanest instruction in the entire campaign: two parallel imperatives, one behavior eliminated, one behavior installed. The GCash number comparison is the product's core value proposition expressed in one action, you don't need to trust the seller; you check with the registry. Send to the person in your family who sends GCash the most: that's the highest-risk person in every Filipino household, and you know exactly who that is.
 
 ---
 
-### Post C8: "3 Signs a Page Is Fake" — Dual Audience
+### Post C8: "3 Signs a Page Is Fake": Dual Audience
 
 **Phase:** Empowerment
-**Type:** Educational — checklist format
+**Type:** Educational, checklist format
 **Format:** Carousel (4 slides) or single infographic
 
 **Primary Text:**
@@ -1713,7 +1713,7 @@ Screenshot this and send it to your family GC.
 3. Sign #2: "Professional photos. No website. Payment through personal GCash only."
 4. Sign #3: "No verified badge. No way to check if it's real." → "Look for Verified by dotPH."
 
-> **Why this works:** The *checklist* format is the most shareable educational format in Philippine social media because it's practical, fast, and screenshot-ready. But the real insight in this post is the closing caveat: "None of these are 100% proof." That admission builds trust — you're not overselling, you're being honest that the old checks are imperfect. Then the pivot ("The one thing they can't fake...") lands harder because you've earned the credibility to make the claim. The "Screenshot this and send it to your family GC" CTA is explicitly a protective act — you're not sharing content, you're protecting someone you love.
+> **Why this works:** The *checklist* format is the most shareable educational format in Philippine social media because it's practical, fast, and screenshot-ready. But the real insight in this post is the closing caveat: "None of these are 100% proof." That admission builds trust, you're not overselling, you're being honest that the old checks are imperfect. Then the pivot ("The one thing they can't fake...") lands harder because you've earned the credibility to make the claim. The "Screenshot this and send it to your family GC" CTA is explicitly a protective act, you're not sharing content, you're protecting someone you love.
 
 ---
 
@@ -1722,14 +1722,14 @@ Screenshot this and send it to your family GC.
 > **Goal:** Make checking a reflex. Normalize it socially. Spread through family and friend networks.
 > **Emotion:** Confidence, social responsibility, belonging.
 > **Rule:** Every post reinforces the behavior. Use social proof and Filipino family culture.
-> **Framing shift:** Move from "you should check" (individual instruction) to "more of us are checking now" (collective movement). You aren't being told what to do — you're joining something already happening. This is the bayanihan mechanism: showing that the community is already protecting each other creates pressure to participate, not obligation.
+> **Framing shift:** Move from "you should check" (individual instruction) to "more of us are checking now" (collective movement). You aren't being told what to do, you're joining something already happening. This is the bayanihan mechanism: showing that the community is already protecting each other creates pressure to participate, not obligation.
 
 ---
 
-### Post C9: "#CheckBeforeYouPay" — Campaign Launch
+### Post C9: "#CheckBeforeYouPay": Campaign Launch
 
 **Phase:** Habit Formation
-**Type:** Campaign launch post — branded hashtag
+**Type:** Campaign launch post, branded hashtag
 **Format:** Video (30–60 sec) or high-impact static
 
 **Primary Text:**
@@ -1753,16 +1753,16 @@ They need to see this.
 
 #CheckBeforeYouPay
 
-**Creative direction:** Short video: rapid-fire sequence of fake pages flashing on screen — resort pages, online stores, food delivery pages — each with a "FAKE" stamp appearing. Then transition to the Verified by dotPH badge. Click animation → verification page appears. Text: "Before you pay, check." End card: #CheckBeforeYouPay. Music: urgent opening → confident resolution.
+**Creative direction:** Short video: rapid-fire sequence of fake pages flashing on screen, resort pages, online stores, food delivery pages, each with a "FAKE" stamp appearing. Then transition to the Verified by dotPH badge. Click animation → verification page appears. Text: "Before you pay, check." End card: #CheckBeforeYouPay. Music: urgent opening → confident resolution.
 
-> **Why this works:** The *movement launch* post works because it shifts the frame from individual protection ("you should check") to collective momentum ("more of us are checking now"). By Week 8, you've seen the problem, learned the solution, and watched others adopt it. This post gives you an identity to join: the kind of Filipino who checks before paying. The triple-tag CTA (shops online / books resorts / sends money) is the campaign's most efficient distribution mechanism — three tags, three different risk profiles, three new audiences in one post.
+> **Why this works:** The *movement launch* post works because it shifts the frame from individual protection ("you should check") to collective momentum ("more of us are checking now"). By Week 8, you've seen the problem, learned the solution, and watched others adopt it. This post gives you an identity to join: the kind of Filipino who checks before paying. The triple-tag CTA (shops online / books resorts / sends money) is the campaign's most efficient distribution mechanism, three tags, three different risk profiles, three new audiences in one post.
 
 ---
 
-### Post C10: "Tell Your Nanay" — Family Protection
+### Post C10: "Tell Your Nanay": Family Protection
 
 **Phase:** Habit Formation
-**Type:** Emotional — family-centered
+**Type:** Emotional, family-centered
 **Format:** Text post or single image
 
 **Primary Text:**
@@ -1784,9 +1784,9 @@ Protecting your family from scams isn't paranoia. It's pagmamahal.
 
 #CheckBeforeYouPay
 
-**Creative direction:** Warm, family-oriented visual. A nanay or tita looking at a phone. Text overlay: "Your nanay shops online. Does she know how to check?" Filipino family tone — not corporate, not scary. The word "pagmamahal" (love/caring) anchors the emotional close.
+**Creative direction:** Warm, family-oriented visual. A nanay or tita looking at a phone. Text overlay: "Your nanay shops online. Does she know how to check?" Filipino family tone: not corporate, not scary. The word "pagmamahal" (love/caring) anchors the emotional close.
 
-> **Why this works:** The *family protection* post activates your most powerful motivation: protecting the people you love. By naming your nanay, tita, and lolo specifically, you're not talking about "older Filipinos" abstractly — you're talking about the specific person in your life who sends GCash to people they don't know very well. "You know better now. Teach them." is the campaign's most direct call to intergenerational protection. And "Protecting your family from scams isn't paranoia. It's pagmamahal" — that closing line is what makes this post get shared beyond the Facebook feed and into actual family conversations.
+> **Why this works:** The *family protection* post activates your most powerful motivation: protecting the people you love. By naming your nanay, tita, and lolo specifically, you're not talking about "older Filipinos" abstractly, you're talking about the specific person in your life who sends GCash to people they don't know very well. "You know better now. Teach them." is the campaign's most direct call to intergenerational protection. And "Protecting your family from scams isn't paranoia. It's pagmamahal", that closing line is what makes this post get shared beyond the Facebook feed and into actual family conversations.
 
 ---
 
@@ -1807,13 +1807,13 @@ The more people who check, the harder it gets for scammers.
 
 Tag a friend who should do this too.
 
-**Creative direction:** Simple branded template with a frame for user screenshots. "I checked before I paid. #CheckBeforeYouPay" — designed so consumers can overlay their own screenshot of a verification page visit.
+**Creative direction:** Simple branded template with a frame for user screenshots. "I checked before I paid. #CheckBeforeYouPay", designed so consumers can overlay their own screenshot of a verification page visit.
 
-> **Why this works:** The *UGC prompt* converts your audience from passive consumers into active participants by giving you a stage to share your own story. By inviting screenshots of verification checks — both successful ("I paid with confidence") and protective ("I didn't pay because something didn't match") — you create two categories of shareable story. The second story is especially powerful: people who nearly got scammed but caught it through verification. Those stories become your most persuasive real-world testimonials. "Your story matters" respects the effort of checking. "Drop it here" is deliberately casual — this is a community post, not a formal submission.
+> **Why this works:** The *UGC prompt* converts your audience from passive consumers into active participants by giving you a stage to share your own story. By inviting screenshots of verification checks, both successful ("I paid with confidence") and protective ("I didn't pay because something didn't match"), you create two categories of shareable story. The second story is especially powerful: people who nearly got scammed but caught it through verification. Those stories become your most persuasive real-world testimonials. "Your story matters" respects the effort of checking. "Drop it here" is deliberately casual, this is a community post, not a formal submission.
 
 ---
 
-### Post C12: Milestone Post — "X Consumers Checked This Month" (Dual Audience)
+### Post C12: Milestone Post: "X Consumers Checked This Month" (Dual Audience)
 
 **Phase:** Habit Formation
 **Type:** Social proof milestone
@@ -1839,9 +1839,9 @@ Share if you've checked before paying this month.
 
 > **Editor's note:** Update [X] with real verification page analytics before publishing. Refresh monthly.
 
-> **Why this works:** The *milestone post* makes the collective behavior visible. "Every check = a scam that didn't happen" reframes each individual action as a contribution to a larger outcome — your check wasn't just self-protection, it was one less scammer who got paid. The dual CTA ("Consumers: keep checking. / Businesses: your customers are already looking. Are you verified?") is the campaign's most efficient bridge between the two audiences — it runs in the same post, at the same moment, to both segments. The number [X] is what makes this post earn attention: if the number is high, it's momentum. If it's low, it's urgency. Either way, you act.
+> **Why this works:** The *milestone post* makes the collective behavior visible. "Every check = a scam that didn't happen" reframes each individual action as a contribution to a larger outcome, your check wasn't just self-protection, it was one less scammer who got paid. The dual CTA ("Consumers: keep checking. / Businesses: your customers are already looking. Are you verified?") is the campaign's most efficient bridge between the two audiences, it runs in the same post, at the same moment, to both segments. The number [X] is what makes this post earn attention: if the number is high, it's momentum. If it's low, it's urgency. Either way, you act.
 
-**Creative direction:** Big number "[X]" center-screen. Below: "consumers checked before they paid this month." Dual CTA: For consumers — "Keep checking." For businesses — "Get verified. It's free." Split messaging works because both audiences see it.
+**Creative direction:** Big number "[X]" center-screen. Below: "consumers checked before they paid this month." Dual CTA: For consumers: "Keep checking." For businesses: "Get verified. It's free." Split messaging works because both audiences see it.
 
 ---
 
@@ -1851,11 +1851,11 @@ Share if you've checked before paying this month.
 >
 > **Production note:** All scripts are designed for AI-generated motion graphics, text animations, and stock/generated visuals. No live-action filming required.
 >
-> **Specs:** 1080 x 1920 px (vertical), 15–30 seconds, MP4, captions required (87.64% of PH traffic is mobile — many watch without sound)
+> **Specs:** 1080 x 1920 px (vertical), 15–30 seconds, MP4, captions required (87.64% of PH traffic is mobile, many watch without sound)
 
 ---
 
-### Reel R1: "50,000 Likes. All Fake." — Scam Reveal
+### Reel R1: "50,000 Likes. All Fake.": Scam Reveal
 
 **Phase:** Fear Activation (Weeks 3–5)
 **Based on:** Reference #5 (Bantayan Island Resort Booking Scams)
@@ -1865,25 +1865,25 @@ Share if you've checked before paying this month.
 **Script:**
 
 ```
-[Frame 1 — 0:00-0:04]
+[Frame 1: 0:00-0:04]
 Scenic beach backdrop (AI-generated or stock). Text animates in:
 "A resort in Bantayan had 50,000 likes."
 
-[Frame 2 — 0:04-0:07]
+[Frame 2: 0:04-0:07]
 Same beach, color shifts darker. Text:
 "Guests paid. They showed up."
 
-[Frame 3 — 0:07-0:10]
+[Frame 3: 0:07-0:10]
 Hard cut to black screen. White text slams in:
 "The resort had no record of them."
 
-[Frame 4 — 0:10-0:15]
+[Frame 4: 0:10-0:15]
 Dark background, red accent. Stats appear one by one:
 "200+ victims."
 "P500,000 lost."
 "One fake page."
 
-[Frame 5 — 0:15-0:18]
+[Frame 5: 0:15-0:18]
 Muted tone, clean text:
 "Before you book, can you verify it's real?"
 
@@ -1897,13 +1897,13 @@ Over 200 families sent deposits to a page that copied a Bantayan resort's name, 
 
 Send this to someone before they book their next trip.
 
-**Posting guidance:** Post at 8:30 PM PHT (weekday) or 2–3 PM PHT (weekend). These are the peak engagement windows for Philippine Facebook — dinner/wind-down time and lunch break. Avoid posting exactly on the hour (:00) or half-hour (:30) — offset slightly to spread reach. Pin a comment with context: "The fake page was taken down. Then a new one appeared."
+**Posting guidance:** Post at 8:30 PM PHT (weekday) or 2–3 PM PHT (weekend). These are the peak engagement windows for Philippine Facebook, dinner/wind-down time and lunch break. Avoid posting exactly on the hour (:00) or half-hour (:30), offset slightly to spread reach. Pin a comment with context: "The fake page was taken down. Then a new one appeared."
 
-> **Why this works:** The hook flips your social proof instincts against you — if the fake page had *more* likes than the real one, then everything you trust to validate a business online is unreliable. That realization lands before any product mention, which is what makes it stick. The "send this to someone before they book" CTA works because your protective instinct for the people you love is stronger than your protective instinct for yourself. You're not just sharing information — you're protecting your family from arriving somewhere that doesn't exist.
+> **Why this works:** The hook flips your social proof instincts against you, if the fake page had *more* likes than the real one, then everything you trust to validate a business online is unreliable. That realization lands before any product mention, which is what makes it stick. The "send this to someone before they book" CTA works because your protective instinct for the people you love is stronger than your protective instinct for yourself. You're not just sharing information, you're protecting your family from arriving somewhere that doesn't exist.
 
 ---
 
-### Reel R2: "423% in 16 Seconds" — Stat Bomb
+### Reel R2: "423% in 16 Seconds": Stat Bomb
 
 **Phase:** Fear Activation (Weeks 3–5)
 **Based on:** Reference #2 (Check Point), #1 (GSMA)
@@ -1913,31 +1913,31 @@ Send this to someone before they book their next trip.
 **Script:**
 
 ```
-[Frame 1 — 0:00-0:03]
+[Frame 1: 0:00-0:03]
 Black screen. "423%" slams in with impact animation + sound effect.
 
-[Frame 2 — 0:03-0:06]
+[Frame 2: 0:03-0:06]
 Text types out below the number:
 "more phishing sites targeting PH businesses. In one year."
 
-[Frame 3 — 0:06-0:11]
+[Frame 3: 0:06-0:11]
 Single stat, 5-second dwell. White text on black:
 "52% of Filipinos have been scammed at least once."
 Smaller text below: "GSMA, 2025"
 
-[Frame 4 — 0:11-0:14]
+[Frame 4: 0:11-0:14]
 Slower pace. Clean white text on black:
 "Scammers don't hack anything."
 "They just copy your name, your photos, your page."
 
-[Frame 5 — 0:14-0:16]
+[Frame 5: 0:14-0:16]
 End card:
 "Is someone copying YOUR business right now?"
 
 Source: Check Point 2025, GSMA 2025. No product branding.
 ```
 
-> **Pacing note:** One high-impact stat (52%) at 5-second dwell — more memorable than three stats skimmed. The 423% stat is used in body copy with context; P480B appears in other content.
+> **Pacing note:** One high-impact stat (52%) at 5-second dwell, more memorable than three stats skimmed. The 423% stat is used in body copy with context; P480B appears in other content.
 
 **Caption:**
 423% increase in phishing websites targeting the Philippines. In one year.
@@ -1948,13 +1948,13 @@ Tag a business owner who needs to see this.
 
 Sources: Check Point Philippine Threat Landscape Report 2025, GSMA ASEAN Consumer Scam Report 2025
 
-**Posting guidance:** Post at 8:30 PM PHT (weekday). B2B-facing Reel — weekday evening performs better than weekend for business owner audience.
+**Posting guidance:** Post at 8:30 PM PHT (weekday). B2B-facing Reel, weekday evening performs better than weekend for business owner audience.
 
-> **Why this works:** The stat bomb format hits you before you can contextualize it. "423%" is visceral shock — your brain registers threat before your rational mind knows what the number even means. By the time "phishing sites targeting PH businesses" arrives, you're already primed. The closing question — "Is someone copying YOUR business right now?" — converts a national statistic into a personal threat aimed directly at you. It's not happening to someone else. It might be happening to your business this moment. The "tag a business owner" CTA lets you act on that urgency without committing to anything — it's the lowest-friction response to a high-anxiety hook.
+> **Why this works:** The stat bomb format hits you before you can contextualize it. "423%" is visceral shock, your brain registers threat before your rational mind knows what the number even means. By the time "phishing sites targeting PH businesses" arrives, you're already primed. The closing question: "Is someone copying YOUR business right now?", converts a national statistic into a personal threat aimed directly at you. It's not happening to someone else. It might be happening to your business this moment. The "tag a business owner" CTA lets you act on that urgency without committing to anything, it's the lowest-friction response to a high-anxiety hook.
 
 ---
 
-### Reel R3: "The Resort That Didn't Exist" — La Union
+### Reel R3: "The Resort That Didn't Exist": La Union
 
 **Phase:** Fear Activation (Weeks 3–5)
 **Based on:** Reference #6 (Cabanas La Union Fake Resort Scam)
@@ -1964,25 +1964,25 @@ Sources: Check Point Philippine Threat Landscape Report 2025, GSMA ASEAN Consume
 **Script:**
 
 ```
-[Frame 1 — 0:00-0:04]
+[Frame 1: 0:00-0:04]
 AI-generated beach visual. Text overlay:
 "This resort in La Union had 8,000 likes."
 
-[Frame 2 — 0:04-0:08]
+[Frame 2: 0:04-0:08]
 Booking-style visual (calendar, GCash payment screen mockup):
 "People booked. They paid through GCash."
 
-[Frame 3 — 0:08-0:12]
-Google Maps-style visual — empty pin, no building:
+[Frame 3: 0:08-0:12]
+Google Maps-style visual, empty pin, no building:
 "Then they showed up."
 
-[Frame 4 — 0:12-0:16]
+[Frame 4: 0:12-0:16]
 Black screen. Text slams in line by line:
 "No building."
 "No DTI registration."
 "Photos stolen from a resort in Batangas."
 
-[Frame 5 — 0:16-0:20]
+[Frame 5: 0:16-0:20]
 End card, muted tone:
 "8,000 people liked a place that was never real."
 
@@ -1998,13 +1998,13 @@ Forward this to your family GC before someone books a trip.
 
 Source: Verafiles, 2024
 
-**Posting guidance:** Post at 8:30 PM PHT (weekday) or 2–3 PM PHT (weekend). Consumer-facing — both windows work. Pair with C3 post on same week.
+**Posting guidance:** Post at 8:30 PM PHT (weekday) or 2–3 PM PHT (weekend). Consumer-facing, both windows work. Pair with C3 post on same week.
 
-> **Why this works:** Real incident. Named place. Verifiable source. "8,000 people liked a place that was never real" is designed to make your existing social proof instincts feel untrustworthy — if 8,000 Filipinos were fooled, you could have been fooled too. The four-beat script (book → pay → show up → nothing) mirrors the exact emotional sequence you've already witnessed or feared in your own stories, which is why it stops your scroll. The "forward to your family GC" CTA works because the risk isn't just yours — your nanay, your lola, your auntie planning a beach trip for the holidays is also in danger. You share this to protect the people you love, not just to be informed.
+> **Why this works:** Real incident. Named place. Verifiable source. "8,000 people liked a place that was never real" is designed to make your existing social proof instincts feel untrustworthy, if 8,000 Filipinos were fooled, you could have been fooled too. The four-beat script (book → pay → show up → nothing) mirrors the exact emotional sequence you've already witnessed or feared in your own stories, which is why it stops your scroll. The "forward to your family GC" CTA works because the risk isn't just yours, your nanay, your lola, your auntie planning a beach trip for the holidays is also in danger. You share this to protect the people you love, not just to be informed.
 
 ---
 
-### Reel R4: "How to Check in 30 Seconds" — Tutorial
+### Reel R4: "How to Check in 30 Seconds": Tutorial
 
 **Phase:** Empowerment (Weeks 6–8)
 **Content pillar:** Solution & Product
@@ -2013,27 +2013,27 @@ Source: Verafiles, 2024
 **Script:**
 
 ```
-[Frame 1 — 0:00-0:06]
+[Frame 1: 0:00-0:06]
 Screen recording-style mockup of a business website.
 Arrow animation pointing to badge in footer area.
 Text overlay: "Step 1: Look for the Verified by dotPH badge"
 
-[Frame 2 — 0:06-0:12]
+[Frame 2: 0:06-0:12]
 Click animation on badge. Transition to verification page mockup.
 Text overlay: "Step 2: Click it"
 "It takes you to their verification page on dotPH."
 
-[Frame 3 — 0:12-0:20]
+[Frame 3: 0:12-0:20]
 Close-up of verification page details section.
 Highlight animation on GCash number field.
 Text overlay: "Step 3: Check the listed GCash number"
 
-[Frame 4 — 0:20-0:25]
+[Frame 4: 0:20-0:25]
 Side-by-side comparison animation:
 Left: "GCash number matches? ✅ Pay with confidence."
 Right: "Doesn't match? ❌ Don't send money."
 
-[Frame 5 — 0:25-0:30]
+[Frame 5: 0:25-0:30]
 End card with dotPH branding:
 "30 seconds. Could save you thousands."
 #CheckBeforeYouPay
@@ -2052,13 +2052,13 @@ Save this. Send it to your nanay.
 
 #CheckBeforeYouPay
 
-**Posting guidance:** Post at 8:30 PM PHT. Tutorial Reels perform best when you're relaxed (evening window) — you'll watch the full 30 seconds during wind-down time, not during a rushed lunch break.
+**Posting guidance:** Post at 8:30 PM PHT. Tutorial Reels perform best when you're relaxed (evening window), you'll watch the full 30 seconds during wind-down time, not during a rushed lunch break.
 
-> **Why this works:** This is your permanent checklist — three steps, 30 seconds, applicable to every online transaction from now on. The tutorial format respects your intelligence: it doesn't preach, it equips. After watching this, you have no excuse not to check, and you know exactly how. "Save this. Send it to your nanay." does double work — it anchors the habit (save = return to it later) and activates your protective instinct (your nanay deserves to know this too). This reel turns you from a passive viewer into an active ambassador for the verification habit — one who shares it with your circle because it genuinely helps, not because you were asked to.
+> **Why this works:** This is your permanent checklist, three steps, 30 seconds, applicable to every online transaction from now on. The tutorial format respects your intelligence: it doesn't preach, it equips. After watching this, you have no excuse not to check, and you know exactly how. "Save this. Send it to your nanay." does double work, it anchors the habit (save = return to it later) and activates your protective instinct (your nanay deserves to know this too). This reel turns you from a passive viewer into an active ambassador for the verification habit, one who shares it with your circle because it genuinely helps, not because you were asked to.
 
 ---
 
-### Reel R5: "Things Scammers Can Fake" — Checklist Reveal
+### Reel R5: "Things Scammers Can Fake": Checklist Reveal
 
 **Phase:** Empowerment (Weeks 6–8)
 **Content pillar:** Problem Education → Solution bridge
@@ -2067,7 +2067,7 @@ Save this. Send it to your nanay.
 **Script:**
 
 ```
-[Frames 1-7 — 0:00-0:09]
+[Frames 1-7: 0:00-0:09]
 Rapid-fire checklist. Items appear one by one with green checkmarks:
 ✅ Business name
 ✅ Logo
@@ -2077,11 +2077,11 @@ Rapid-fire checklist. Items appear one by one with green checkmarks:
 ✅ GCash link
 ✅ Professional design
 
-[Frame 8 — 0:09-0:12]
+[Frame 8: 0:09-0:12]
 Pause. All checkmarks visible. Then: red X slams across the screen:
 ❌ A verification page on the official .ph registry
 
-[Frame 9 — 0:12-0:15]
+[Frame 9: 0:12-0:15]
 End card, clean:
 "Check the one thing they can't fake."
 dotPH branding. #CheckBeforeYouPay
@@ -2096,20 +2096,20 @@ Before you pay, check.
 
 #CheckBeforeYouPay
 
-**Posting guidance:** Post at 8:30 PM PHT. Short-form (15 sec) performs well on any day — prioritize consistency over day selection.
+**Posting guidance:** Post at 8:30 PM PHT. Short-form (15 sec) performs well on any day, prioritize consistency over day selection.
 
-> **Why this works:** The rapid-fire checklist forces you to mentally agree seven times in a row — "yes, scammers can fake that" — before the red X arrives. By the time you see the one thing they *can't* fake, you've already accepted the entire premise. Your existing verification instincts (likes, reviews, logos, professional design) have been systematically dismantled in 9 seconds. The pattern inversion — everything checkmarked in green, then one thing X'd in red — makes the product benefit feel like a logical conclusion you reached yourself, not a sales pitch you were given. "Check the one thing they can't fake" is the payoff you feel like you earned.
+> **Why this works:** The rapid-fire checklist forces you to mentally agree seven times in a row: "yes, scammers can fake that", before the red X arrives. By the time you see the one thing they *can't* fake, you've already accepted the entire premise. Your existing verification instincts (likes, reviews, logos, professional design) have been systematically dismantled in 9 seconds. The pattern inversion, everything checkmarked in green, then one thing X'd in red, makes the product benefit feel like a logical conclusion you reached yourself, not a sales pitch you were given. "Check the one thing they can't fake" is the payoff you feel like you earned.
 
 ---
 
 ## Reel Integration into Existing Calendar
 
-The strategy's existing organic calendar runs Mon/Wed/Fri. Reels slot into the existing cadence — they replace or supplement planned posts, not add extra days.
+The strategy's existing organic calendar runs Mon/Wed/Fri. Reels slot into the existing cadence, they replace or supplement planned posts, not add extra days.
 
 | Week | Day | Current Plan | Reel |
 |------|-----|--------------|------|
 | 3 | Fri | Bantayan story (C2) | **R1** as companion Reel |
-| 4 | Wed or Fri | — | **R2** alongside existing B2B post |
+| 4 | Wed or Fri |: | **R2** alongside existing B2B post |
 | 5 | Fri | Alternate slot | **R3** (La Union) |
 | 6 | Mon | "How to Check" (C6) | **R4** as companion Reel |
 | 7 | Mon week | "GCash Check" (C7) | **R5** as companion Reel |
@@ -2120,11 +2120,11 @@ The strategy's existing organic calendar runs Mon/Wed/Fri. Reels slot into the e
 
 ## EDUCATIONAL POSTS (2 Posts)
 
-> High-share educational formats that maintain the authoritative brand voice. Infographic and carousel — not memes.
+> High-share educational formats that maintain the authoritative brand voice. Infographic and carousel: not memes.
 
 ---
 
-### Post E1: "The Scam Copy-Paste Business Model" — Infographic
+### Post E1: "The Scam Copy-Paste Business Model": Infographic
 
 **Phase:** Fear Activation (Weeks 3–5)
 **Content pillar:** Problem Education
@@ -2148,13 +2148,13 @@ That's why the number of fake pages keeps growing. 423% more phishing sites in o
 
 Once you know how this works, you can't unsee it. Share this with a business owner who needs to see it.
 
-**Creative direction:** Clean infographic layout — data visualization style, not a meme. Numbered steps with time/cost callouts. Muted dark palette consistent with Awareness phase visual specs. Source citation: "Check Point 2025, SunStar Cebu" in bottom corner. No product branding.
+**Creative direction:** Clean infographic layout, data visualization style, not a meme. Numbered steps with time/cost callouts. Muted dark palette consistent with Awareness phase visual specs. Source citation: "Check Point 2025, SunStar Cebu" in bottom corner. No product branding.
 
-> **Why this works:** Breaking the scammer's operation into numbered steps with real time and cost figures does something powerful — it makes the threat feel *understandable*, not just scary. When you see "P500 and 15 minutes," your brain recalibrates: this isn't sophisticated crime, it's opportunism. That realization closes the psychological distance. The "scammers go where the ROI is — and right now, that's your customers" line makes this personal: your business, your customers, your loss. "Once you know how this works, you can't unsee it" is the anchor — it frames sharing the infographic as an act of education, not fear-mongering.
+> **Why this works:** Breaking the scammer's operation into numbered steps with real time and cost figures does something powerful, it makes the threat feel *understandable*, not just scary. When you see "P500 and 15 minutes," your brain recalibrates: this isn't sophisticated crime, it's opportunism. That realization closes the psychological distance. The "scammers go where the ROI is, and right now, that's your customers" line makes this personal: your business, your customers, your loss. "Once you know how this works, you can't unsee it" is the anchor, it frames sharing the infographic as an act of education, not fear-mongering.
 
 ---
 
-### Post E2: "I Checked Everything. Still Got Scammed." — Carousel
+### Post E2: "I Checked Everything. Still Got Scammed.": Carousel
 
 **Phase:** Fear Activation (Weeks 3–5)
 **Based on:** Reference #5 (Bantayan Island Resort Booking Scams)
@@ -2183,12 +2183,12 @@ Tag someone who's about to book a trip or buy from an online seller.
 1. "I checked the likes. 50,000. ✅" (clean text, muted background)
 2. "I checked the photos. Professional. ✅" (same style)
 3. "I checked the reviews. All positive. ✅" (same style)
-4. "I checked everything." (pause beat — same background)
+4. "I checked everything." (pause beat, same background)
 5. "Still got scammed." (black background, white text. Below: "Because everything I checked can be faked in 10 minutes." Source: SunStar Cebu)
 
 No product mention on slides 1–5 (Fear Activation phase). Caption carries the bridge to verification.
 
-> **Why this works:** The first-person carousel forces you to agree with the narrator four times before the collapse arrives. Each "✅ I checked that" makes you think: *I would do this too. This is what smart buyers do.* Then "Still got scammed" lands — and the lesson hits harder because you were already nodding along. The systematic credibility collapse (every signal you trust, dismantled one by one) doesn't feel like a lecture because you're not being told what you did wrong. You're watching someone who did everything right — and it still wasn't enough. The "tag someone who's about to book" CTA puts you in the role of protector, which is one of the strongest sharing motivations in Filipino social culture.
+> **Why this works:** The first-person carousel forces you to agree with the narrator four times before the collapse arrives. Each "✅ I checked that" makes you think: *I would do this too. This is what smart buyers do.* Then "Still got scammed" lands, and the lesson hits harder because you were already nodding along. The systematic credibility collapse (every signal you trust, dismantled one by one) doesn't feel like a lecture because you're not being told what you did wrong. You're watching someone who did everything right, and it still wasn't enough. The "tag someone who's about to book" CTA puts you in the role of protector, which is one of the strongest sharing motivations in Filipino social culture.
 
 ---
 
@@ -2198,7 +2198,7 @@ No product mention on slides 1–5 (Fear Activation phase). Caption carries the 
 
 ---
 
-### Post I1: "How Do YOU Check?" — Poll
+### Post I1: "How Do YOU Check?": Poll
 
 **Phase:** Fear Activation (Weeks 3–5)
 **Content pillar:** Problem Education
@@ -2217,21 +2217,21 @@ Drop your answer below.
 (We'll share why all four of these can be faked, and what actually works, in the comments.)
 
 **Engagement strategy:**
-- Pin a reply after 2–4 hours: "All four can be faked. Likes can be purchased for P500. Photos can be stolen. Reviews can be manufactured. Page dates can be manipulated by renaming old pages. The one thing that can't be faked: a verification from the official .ph registry. — Also dropping this below: sino dito na naka-encounter ng fake page? Tell us what happened. 👇"
-- This second question triggers storytelling comments — people who've been scammed or nearly scammed will share their experience in the replies
+- Pin a reply after 2–4 hours: "All four can be faked. Likes can be purchased for P500. Photos can be stolen. Reviews can be manufactured. Page dates can be manipulated by renaming old pages. The one thing that can't be faked: a verification from the official .ph registry.: Also dropping this below: sino dito na naka-encounter ng fake page? Tell us what happened. 👇"
+- This second question triggers storytelling comments, people who've been scammed or nearly scammed will share their experience in the replies
 - Reply to individual poll answers with the relevant data point (e.g., someone picks A → "A fake Bantayan resort page had 50,000 likes, more than the real one.")
 - Reply to every personal story with: "Thank you for sharing this. This is exactly what other people need to hear. Tag someone who should know before booking/buying."
-- Do NOT mention Verified by dotPH in the post itself during Fear Activation phase — only in the pinned comment
+- Do NOT mention Verified by dotPH in the post itself during Fear Activation phase, only in the pinned comment
 
-> **Why this works:** The poll makes you publicly commit to a verification method before you know that method is unreliable. Picking "A) Number of likes" or "B) Reviews" puts your answer on record — so when the pinned comment reveals those are all fakeable, you feel the rug pulled personally. That emotional whiplash is exactly what drives the comment section. The follow-up question ("sino dito na naka-encounter ng fake page?") redirects anxiety into storytelling — and each personal testimony in the comments is a free testimonial that builds the campaign's credibility without you having to ask for it.
+> **Why this works:** The poll makes you publicly commit to a verification method before you know that method is unreliable. Picking "A) Number of likes" or "B) Reviews" puts your answer on record, so when the pinned comment reveals those are all fakeable, you feel the rug pulled personally. That emotional whiplash is exactly what drives the comment section. The follow-up question ("sino dito na naka-encounter ng fake page?") redirects anxiety into storytelling, and each personal testimony in the comments is a free testimonial that builds the campaign's credibility without you having to ask for it.
 
 ---
 
-### Post I2: "Filipino Online Shopping Bingo" — Interactive Image
+### Post I2: "Filipino Online Shopping Bingo": Interactive Image
 
 **Phase:** Empowerment (Weeks 6–8)
 **Content pillar:** Problem Education + Solution bridge
-**Format:** Static image (1080 x 1080 px) — bingo card design
+**Format:** Static image (1080 x 1080 px), bingo card design
 
 **Primary Text:**
 Filipino online shopping bingo. How many can you check off?
@@ -2254,13 +2254,13 @@ The one square that actually protects you? "Checked for Verified by dotPH badge.
 | "Sabi ni [friend] ok naman daw" | Paid COD just to be safe | Searched the name on Facebook | Checked for Verified by dotPH badge | Checked if they have IG too |
 | "Bahala na, order na" | Waited for payday muna | Asked for video of the actual item | Checked Google Maps listing | Looked for a business permit |
 
-**Creative direction:** Clean bingo card design. Light, engaging visual (Empowerment phase palette). The "Checked for Verified by dotPH badge" square visually distinct — highlighted or different color. Design must be screenshot-friendly and readable when forwarded in Messenger/Viber.
+**Creative direction:** Clean bingo card design. Light, engaging visual (Empowerment phase palette). The "Checked for Verified by dotPH badge" square visually distinct, highlighted or different color. Design must be screenshot-friendly and readable when forwarded in Messenger/Viber.
 
-> **Why this works:** The bingo card is engineered to be screenshot-forwarded. When you share your card, you're implicitly endorsing the entire verification checklist to your network — your 200 Facebook friends now see "Checked for Verified by dotPH badge" as a normal thing people do before paying online. The humor does real work here: "Bahala na, order na" and "Sana hindi scam" are recognizably *your own* inner monologue. That self-recognition disarms defensiveness. This doesn't feel like a safety lecture — it feels like something your barkada would share because it's funny and true. The product message rides inside a joke, which is how it gets past your guard.
+> **Why this works:** The bingo card is engineered to be screenshot-forwarded. When you share your card, you're implicitly endorsing the entire verification checklist to your network, your 200 Facebook friends now see "Checked for Verified by dotPH badge" as a normal thing people do before paying online. The humor does real work here: "Bahala na, order na" and "Sana hindi scam" are recognizably *your own* inner monologue. That self-recognition disarms defensiveness. This doesn't feel like a safety lecture, it feels like something your barkada would share because it's funny and true. The product message rides inside a joke, which is how it gets past your guard.
 
 ---
 
-### Post I3: "Which Page Is Real?" — Scenario Post
+### Post I3: "Which Page Is Real?": Scenario Post
 
 **Phase:** Fear Activation (Weeks 3–5)
 **Content pillar:** Problem Education
@@ -2287,32 +2287,32 @@ Answer below. Real answer dropping in the comments.
 - Reply to personal stories with: "Salamat sa pagshare. Important 'to para malaman ng lahat. Tag mo 'yung booking buddy mo."
 - Fear Activation phase: keep verification mention to the pinned comment, not the post body
 
-> **Note:** C1 ("Spot the Fake") uses a visual side-by-side comparison. I3 uses a text-based scenario that drives opinion comments. Different mechanics — C1 is visual quiz, I3 is opinion debate.
+> **Note:** C1 ("Spot the Fake") uses a visual side-by-side comparison. I3 uses a text-based scenario that drives opinion comments. Different mechanics: C1 is visual quiz, I3 is opinion debate.
 
-> **Why this works:** The scenario post puts you in an active decision role — not a passive reader, but someone who has to make a call right now. Asking "which one is real?" with no right answer available from the information given triggers real debate in the comments: some will say "go with more likes," others will say "message both," others will say "there's no way to know." That debate is the point. The pinned comment resolves the tension with a real data point (the fake had MORE likes), which reframes the entire conversation — and the follow-up question ("Sino dito na nakapili ng maling page?") invites personal testimonies that keep the comment section active for days. The post does its best work in the comment section, not in the caption itself.
+> **Why this works:** The scenario post puts you in an active decision role: not a passive reader, but someone who has to make a call right now. Asking "which one is real?" with no right answer available from the information given triggers real debate in the comments: some will say "go with more likes," others will say "message both," others will say "there's no way to know." That debate is the point. The pinned comment resolves the tension with a real data point (the fake had MORE likes), which reframes the entire conversation, and the follow-up question ("Sino dito na nakapili ng maling page?") invites personal testimonies that keep the comment section active for days. The post does its best work in the comment section, not in the caption itself.
 
 ---
 
 ## SEASONAL CONTENT: SUMMER
 
-> **Timing:** Summer season in the Philippines runs April–May — publish at the start of summer (early April) for maximum relevance. This content cluster is designed to ride the summer travel wave.
+> **Timing:** Summer season in the Philippines runs April–May, publish at the start of summer (early April) for maximum relevance. This content cluster is designed to ride the summer travel wave.
 >
-> **Tone:** Utility-first, not fear-first. These are *genuinely helpful* guides that Filipinos will share because they're useful — the verification step lives naturally inside good booking advice. Smart traveler framing throughout.
+> **Tone:** Utility-first, not fear-first. These are *genuinely helpful* guides that Filipinos will share because they're useful: the verification step lives naturally inside good booking advice. Smart traveler framing throughout.
 >
-> **Language:** English. The resort scam stories in the campaign are Filipino-specific but the tone stays English — accessible, practical, advice-from-a-friend register. No Taglish in the copy itself.
+> **Language:** English. The resort scam stories in the campaign are Filipino-specific but the tone stays English, accessible, practical, advice-from-a-friend register. No Taglish in the copy itself.
 >
 > **Distribution mechanic:** Designed to be forwarded in barkada and family GCs ahead of trip planning. Save-and-share format for carousels; Reel for viral reach.
 >
-> **Phase placement:** Fits Empowerment (Weeks 6–8) — you've been primed on the threat, now get practical tools right before the season you need them.
+> **Phase placement:** Fits Empowerment (Weeks 6–8), you've been primed on the threat, now get practical tools right before the season you need them.
 
 ---
 
-### Post SG1: "Summer Booking Checklist" — Carousel
+### Post SG1: "Summer Booking Checklist": Carousel
 
 **Phase:** Empowerment / Seasonal
 **Content pillar:** Solution & Product
-**Format:** Carousel (6 slides, 1080 x 1080 px) — designed to be saved and forwarded before trips
-**Tone:** Smart traveler, practical — not fear-driven
+**Format:** Carousel (6 slides, 1080 x 1080 px), designed to be saved and forwarded before trips
+**Tone:** Smart traveler, practical: not fear-driven
 
 **Primary Text:**
 Planning a trip this summer? Before you send any deposit, go through this first.
@@ -2337,20 +2337,20 @@ Slide 5: ✅ **Look for the Verified by dotPH badge.** Find it on their website 
 
 Slide 6 (Closer): No badge? No website? Payment to a personal GCash only? Ask why before you pay. Legit businesses can answer. If something doesn't add up, book somewhere else.
 
-**Creative direction:** Clean, travel-inspired visual palette — warm sunshine tones, not the dark Fear Activation colors. Each slide has a single checklist item with a green checkmark. The Verified by dotPH badge appears naturally on Slide 4–5 as part of the checklist flow, not as a product pitch. Final slide uses muted warm background — reassuring, not alarming. Design must be readable as a mobile screenshot (large text, strong contrast).
+**Creative direction:** Clean, travel-inspired visual palette, warm sunshine tones, not the dark Fear Activation colors. Each slide has a single checklist item with a green checkmark. The Verified by dotPH badge appears naturally on Slide 4–5 as part of the checklist flow, not as a product pitch. Final slide uses muted warm background, reassuring, not alarming. Design must be readable as a mobile screenshot (large text, strong contrast).
 
 **Posting guidance:** Post 8:30 PM PHT, early April at the start of summer season. Pin a comment: "Sending this to your barkada group chat before you finalize the booking? That's the move. 👌"
 
-> **Why this works:** The save-and-forward carousel is built around a specific Filipino group dynamic: one person handles the booking for the entire barkada. That person is under real pressure — if the resort turns out to be fake, it's on you. This checklist gives you the confidence to verify without slowing the trip down. Placing the verification step inside a practical travel guide (not a scam warning) keeps the tone useful, not alarming. "Send it to whoever's handling the booking" is the perfect CTA because it redirects the share instinct: you're not sharing a warning, you're equipping the person your group trusts to get this right.
+> **Why this works:** The save-and-forward carousel is built around a specific Filipino group dynamic: one person handles the booking for the entire barkada. That person is under real pressure, if the resort turns out to be fake, it's on you. This checklist gives you the confidence to verify without slowing the trip down. Placing the verification step inside a practical travel guide (not a scam warning) keeps the tone useful, not alarming. "Send it to whoever's handling the booking" is the perfect CTA because it redirects the share instinct: you're not sharing a warning, you're equipping the person your group trusts to get this right.
 
 ---
 
-### Post SG3: "Red Flags vs. Green Flags When Booking Online" — Infographic
+### Post SG3: "Red Flags vs. Green Flags When Booking Online": Infographic
 
 **Phase:** Empowerment / Seasonal
 **Content pillar:** Problem Education → Solution bridge
-**Format:** Static infographic (1080 x 1080 px or 1080 x 1350 px) — two-column format
-**Tone:** Practical, assertive — not preachy
+**Format:** Static infographic (1080 x 1080 px or 1080 x 1350 px), two-column format
+**Tone:** Practical, assertive: not preachy
 
 **Primary Text:**
 Booking a resort or tour online this summer?
@@ -2376,11 +2376,11 @@ Save this. Send it to your travel group before anyone books.
 *Bottom of infographic:* "Mostly green? Go ahead and book. Mostly red? Don't send that deposit."
 Source: dotPH / #CheckBeforeYouPay
 
-**Creative direction:** Two-column layout — left column in muted red/orange (🚩 Red Flags), right column in green/teal (✅ Green Flags). Clean, bold typography. The Verified by dotPH badge appears in the Green Flags column as a visual element. Designed to be read as a saved image in a phone gallery or forwarded screenshot. No small text — every item must be legible at 50% scale (forwarded image size in Viber/Messenger). Bottom line large enough to read without zooming.
+**Creative direction:** Two-column layout, left column in muted red/orange (🚩 Red Flags), right column in green/teal (✅ Green Flags). Clean, bold typography. The Verified by dotPH badge appears in the Green Flags column as a visual element. Designed to be read as a saved image in a phone gallery or forwarded screenshot. No small text, every item must be legible at 50% scale (forwarded image size in Viber/Messenger). Bottom line large enough to read without zooming.
 
-**Posting guidance:** Post 8:30 PM PHT, early to mid April during summer season. This infographic is designed for save-and-forward behavior — pin a comment: "Screenshot this before you book. Your family GC needs to see it." High save rate = high algorithmic value.
+**Posting guidance:** Post 8:30 PM PHT, early to mid April during summer season. This infographic is designed for save-and-forward behavior, pin a comment: "Screenshot this before you book. Your family GC needs to see it." High save rate = high algorithmic value.
 
-> **Why this works:** The two-column format converts a complex judgment call — "is this business real?" — into a visual checklist your audience can apply in under 30 seconds. When you scan the red flags column and recognize your own past booking habits, the lesson isn't being delivered to you; you're discovering it yourself. The "mostly green? book / mostly red? don't send that deposit" binary at the bottom removes all decision paralysis. But the real power is the save-and-forward mechanic: every time you screenshot this infographic, you're voluntarily distributing the verification checklist to your Viber and Messenger contacts. You share it organically, because the content makes you look smart and helpful to your network — not because anyone asked you to.
+> **Why this works:** The two-column format converts a complex judgment call: "is this business real?", into a visual checklist your audience can apply in under 30 seconds. When you scan the red flags column and recognize your own past booking habits, the lesson isn't being delivered to you; you're discovering it yourself. The "mostly green? book / mostly red? don't send that deposit" binary at the bottom removes all decision paralysis. But the real power is the save-and-forward mechanic: every time you screenshot this infographic, you're voluntarily distributing the verification checklist to your Viber and Messenger contacts. You share it organically, because the content makes you look smart and helpful to your network: not because anyone asked you to.
 
 ---
 
@@ -2389,7 +2389,7 @@ Source: dotPH / #CheckBeforeYouPay
 > **Publish on:** newsroom.dot.ph
 > **Tone:** Consumer-friendly. Practical. Written like advice from a smart friend, not a corporate notice.
 > **Length:** 600–1,000 words each
-> **SEO focus:** Consumer search terms — how to check if a business is real, online scam Philippines, fake Facebook page
+> **SEO focus:** Consumer search terms, how to check if a business is real, online scam Philippines, fake Facebook page
 > **Rule:** Always end with an actionable step. Never end on fear alone.
 
 ---
@@ -2398,9 +2398,9 @@ Source: dotPH / #CheckBeforeYouPay
 
 **Phase:** FEAR ACTIVATION (Publish Week 3)
 **SEO keywords:** fake Facebook page Philippines, how to spot fake business page, online scam Philippines
-**Product mention:** Soft — introduced at the end as one of several checks.
+**Product mention:** Soft, introduced at the end as one of several checks.
 
-> **Why this works:** The checklist format gives you immediate practical value — five things you can do right now. But the real power is the closing line: "The scammers are getting better. But so can you." It reframes the entire article: this isn't a warning, it's an upgrade. You're not being told to be afraid — you're being equipped. The soft product introduction at the end lands as a natural sixth check, not a pitch, because the first five checks already established that you're someone who takes verification seriously.
+> **Why this works:** The checklist format gives you immediate practical value, five things you can do right now. But the real power is the closing line: "The scammers are getting better. But so can you." It reframes the entire article: this isn't a warning, it's an upgrade. You're not being told to be afraid, you're being equipped. The soft product introduction at the end lands as a natural sixth check, not a pitch, because the first five checks already established that you're someone who takes verification seriously.
 
 ---
 
@@ -2464,7 +2464,7 @@ The scammers are getting better. But so can you.
 **SEO keywords:** resort booking scam Philippines, fake resort Facebook page, Bantayan scam
 **Product mention:** None. Pure story. Emotional anchor for the consumer campaign.
 
-> **Why this works:** First-person narrative is the highest-trust format in content marketing because you're not being told what to think — you're being shown what happened to someone exactly like you. "I'm not careless. I checked." is the sentence that removes your defense. You check too. You would have been fooled too. The four failed verification attempts (likes, photos, response time, payment method) mirror your own mental checklist — and by the time they've all been shown to be insufficient, you're ready to ask: what's the one thing I should have checked?
+> **Why this works:** First-person narrative is the highest-trust format in content marketing because you're not being told what to think, you're being shown what happened to someone exactly like you. "I'm not careless. I checked." is the sentence that removes your defense. You check too. You would have been fooled too. The four failed verification attempts (likes, photos, response time, payment method) mirror your own mental checklist, and by the time they've all been shown to be insufficient, you're ready to ask: what's the one thing I should have checked?
 
 ---
 
@@ -2533,9 +2533,9 @@ It takes 30 seconds. And it would have saved me P3,500 and a ruined vacation.
 
 **Phase:** EMPOWERMENT (Publish Week 5)
 **SEO keywords:** Verified by dotPH, how to check business verification, online trust Philippines
-**Product mention:** Yes — this is the "how to" article. Core of the consumer empowerment phase.
+**Product mention:** Yes, this is the "how to" article. Core of the consumer empowerment phase.
 
-> **Why this works:** This is the payoff article for your two-week journey through the fear activation content. You've already heard about the scams. You've already learned that your old verification habits are insufficient. Now you have something that actually works. The three-step structure is deliberately simple: find badge → click it → compare. The "save this page, share it with your family" closer works because it activates your protective instinct — you're not just reading for yourself, you're reading so you can protect the people you care about.
+> **Why this works:** This is the payoff article for your two-week journey through the fear activation content. You've already heard about the scams. You've already learned that your old verification habits are insufficient. Now you have something that actually works. The three-step structure is deliberately simple: find badge → click it → compare. The "save this page, share it with your family" closer works because it activates your protective instinct, you're not just reading for yourself, you're reading so you can protect the people you care about.
 
 ---
 
@@ -2621,9 +2621,9 @@ Save this page. Share it with your family. The 30 seconds it takes to check coul
 
 **Phase:** EMPOWERMENT (Publish Week 5–6)
 **SEO keywords:** GCash scam check, how to verify GCash payment, online payment scam Philippines
-**Product mention:** Yes — directly tied to the payment verification behavior.
+**Product mention:** Yes, directly tied to the payment verification behavior.
 
-> **Why this works:** The opening exchange — "Is this your real GCash?" / "Yes po, that's our official GCash." — is the most recognizable moment in Philippine online commerce. Every Filipino who's bought anything online has typed that message. The article's entire value is in the reveal: asking doesn't protect you. You don't just learn a new habit — you unlearn a false sense of security you've been carrying for years. That realization creates urgency: every payment you've made without the 3-step check was potentially at risk. The 3-step check becomes the thing you install immediately.
+> **Why this works:** The opening exchange: "Is this your real GCash?" / "Yes po, that's our official GCash.", is the most recognizable moment in Philippine online commerce. Every Filipino who's bought anything online has typed that message. The article's entire value is in the reveal: asking doesn't protect you. You don't just learn a new habit, you unlearn a false sense of security you've been carrying for years. That realization creates urgency: every payment you've made without the 3-step check was potentially at risk. The 3-step check becomes the thing you install immediately.
 
 ---
 
@@ -2693,13 +2693,13 @@ One takes 5 seconds and tells you nothing. The other takes 30 seconds and could 
 
 ---
 
-### Consumer Article 5: Tell Your Nanay — A Family Guide to Avoiding Online Scams
+### Consumer Article 5: Tell Your Nanay: A Family Guide to Avoiding Online Scams
 
 **Phase:** HABIT FORMATION (Publish Week 7+)
 **SEO keywords:** how to avoid online scams Philippines, protect family from scams, online scam tips Filipino
-**Product mention:** Yes — positioned as the specific tool families can use.
+**Product mention:** Yes, positioned as the specific tool families can use.
 
-> **Why this works:** Filipino family structure makes this the most shareable article in the entire campaign. You're not protecting yourself — you're protecting your nanay, your lola, your tita who trusts every page that looks professional. The "show, don't lecture" instruction respects Filipino family dynamics: you don't make your elders feel stupid, you discover the solution together. The family group chat message template gives you an exact script you can paste right now. "Protecting your family from scams isn't paranoia. It's pagmamahal." — that line transforms a practical guide into an act of love, which is the strongest sharing motivation in Filipino culture.
+> **Why this works:** Filipino family structure makes this the most shareable article in the entire campaign. You're not protecting yourself, you're protecting your nanay, your lola, your tita who trusts every page that looks professional. The "show, don't lecture" instruction respects Filipino family dynamics: you don't make your elders feel stupid, you discover the solution together. The family group chat message template gives you an exact script you can paste right now. "Protecting your family from scams isn't paranoia. It's pagmamahal.", that line transforms a practical guide into an act of love, which is the strongest sharing motivation in Filipino culture.
 
 ---
 
