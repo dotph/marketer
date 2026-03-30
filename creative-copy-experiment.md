@@ -897,7 +897,7 @@ The competitor discovery moment is the most natural trigger for action at the co
 
 > **BELOW FOLD:**
 
-Some of the P480 billion Filipinos lose to scams every year was meant for businesses like yours — your customers who wanted to pay you, but paid a scammer instead.
+Some of the P480 billion Filipinos lose to scams every year was meant for businesses like yours: your customers who wanted to pay you, but paid a scammer instead.
 
 The businesses that signed up? Your customers' hesitation is gone. They click your badge, see your GCash number on your verified dotPH page, and pay with confidence. No more "Is this your real page?"
 
@@ -920,7 +920,7 @@ Text overlay, centered:
 
 *"Someone is about to pay you. But they're not sure if it's really you."*
 
-Second panel or transition: same person, same phone — but this time they're on a business's verified dotPH page first. Details match. Confidence. Finger presses Send without hesitation. "Transfer Successful."
+Second panel or transition: same person, same phone, but this time they're on a business's verified dotPH page first. Details match. Confidence. Finger presses Send without hesitation. "Transfer Successful."
 
 Text: *"The badge removed the doubt. [X] businesses this week."*
 
@@ -2219,7 +2219,7 @@ Drop your answer below.
 **Engagement strategy:**
 - Pin a reply after 2–4 hours: "All four can be faked. Likes can be purchased for P500. Photos can be stolen. Reviews can be manufactured. Page dates can be manipulated by renaming old pages. The one thing that can't be faked: a verification from the official .ph registry. — Also dropping this below: sino dito na naka-encounter ng fake page? Tell us what happened. 👇"
 - This second question triggers storytelling comments — people who've been scammed or nearly scammed will share their experience in the replies
-- Reply to individual poll answers with the relevant data point (e.g., someone picks A → "A fake Bantayan resort page had 50,000 likes — more than the real one.")
+- Reply to individual poll answers with the relevant data point (e.g., someone picks A → "A fake Bantayan resort page had 50,000 likes, more than the real one.")
 - Reply to every personal story with: "Thank you for sharing this. This is exactly what other people need to hear. Tag someone who should know before booking/buying."
 - Do NOT mention Verified by dotPH in the post itself during Fear Activation phase — only in the pinned comment
 
@@ -2281,7 +2281,7 @@ D) Look for a way to verify which one is the real business
 Answer below. Real answer dropping in the comments.
 
 **Engagement strategy:**
-- Pin a reply: "In Bantayan, the fake page had MORE likes (50,000) than the real one (12,000). More likes doesn't mean real. More professional photos doesn't mean real. Fast replies don't mean real. The only reliable check is verifying the business's identity through a source that scammers can't fake. — Sino dito na nakapili ng maling page? Drop your story below. 👇"
+- Pin a reply: "In Bantayan, the fake page had MORE likes (50,000) than the real one (12,000). More likes doesn't mean real. More professional photos doesn't mean real. Fast replies don't mean real. The only reliable check is verifying the business's identity through a source that scammers can't fake. Sino dito na nakapili ng maling page? Drop your story below. 👇"
 - The storytelling trigger ("Sino dito na...") invites personal testimonies. These comments drive extended conversations and organic reach
 - Reply to each poll answer with the relevant data point
 - Reply to personal stories with: "Salamat sa pagshare. Important 'to para malaman ng lahat. Tag mo 'yung booking buddy mo."
@@ -2442,7 +2442,7 @@ Google the business name. Search it on Facebook itself. If you find multiple pag
 
 **5. Check for a verification badge from a trusted source**
 
-This is the most reliable check. Some businesses now have a Verified by dotPH badge on their website — a verification seal from the official .ph domain registry. Clicking the badge takes you to a public verification page where you can see the business's listed details: their real Facebook page, their real payment channels (including GCash number), and their real website.
+This is the most reliable check. Some businesses now have a Verified by dotPH badge on their website, a verification seal from the official .ph domain registry. Clicking the badge takes you to a public verification page where you can see the business's listed details: their real Facebook page, their real payment channels (including GCash number), and their real website.
 
 A scammer can copy photos and buy likes. They can't copy a verification page on dotPH.
 
@@ -2458,7 +2458,7 @@ The scammers are getting better. But so can you.
 
 ---
 
-### Consumer Article 2: I Paid a Scammer Who Copied a Real Resort — Here's What Happened
+### Consumer Article 2: I Paid a Scammer Who Copied a Real Resort: Here's What Happened
 
 **Phase:** FEAR ACTIVATION (Publish Week 3–4)
 **SEO keywords:** resort booking scam Philippines, fake resort Facebook page, Bantayan scam
