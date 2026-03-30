@@ -75,7 +75,7 @@ Someone is collecting payments using your business name. Here's how they work �
 
 Phishing websites impersonating Philippine businesses jumped from 731 to 3,824 in one year. Fake brand profiles on social media? Up 37%.
 
-Scammers aren't slowing down. They're scaling up — faster than most businesses realize. And they don't need to hack anything. They just copy your name, your logo, your photos. Then they wait for your customers to pay.
+Scammers aren't slowing down. They're scaling up, faster than most businesses realize. And they don't need to hack anything. They just copy your name, your logo, your photos. Then they wait for your customers to pay.
 
 The question isn't whether it's happening. It's whether it's already happening to you.
 
@@ -198,7 +198,7 @@ Same name. Same photos. Same location on the map. The real resort page? It was o
 
 Guests sent deposits through GCash. They showed up expecting their booking. The resort had no record of them.
 
-Over 200 victims. P500,000 lost — from one fake page.
+Over 200 victims. P500,000 lost. All from one fake page.
 
 The scammers didn't hack anything. They just made a page that looked real. And customers couldn't tell the difference.
 
@@ -368,7 +368,7 @@ That's 7 percentage points above the ASEAN average. And 96% of us are worried it
 
 But here's what nobody talks about: scams don't just hurt customers. They hurt the businesses being impersonated. When a scammer copies your page and takes money from your customers, it's YOUR reputation that takes the hit.
 
-Every lost customer thinks they got scammed by YOU — not by the fake page that used your name.
+Every lost customer thinks they got scammed by YOU, not by the fake page that used your name.
 
 **Headline:** They Don't Blame the Scammer.
 **Description:** They blame your business.
@@ -450,7 +450,7 @@ If scammers can fake one of the biggest fast food chains in the Philippines, wha
 
 > **BELOW FOLD:**
 
-Fake Facebook pages impersonated a household name. They ran fake anniversary promos — P7,000 cash giveaways, P10,000 gift vouchers, "Labor Day gifts." All fake.
+Fake Facebook pages impersonated a household name. They ran fake anniversary promos: P7,000 cash giveaways, P10,000 gift vouchers, "Labor Day gifts." All fake.
 
 Customers clicked. They entered their email, phone number, personal data. They thought they were interacting with the real brand.
 
@@ -531,11 +531,11 @@ No CTA. No explanation. The scale of the notification — the likes, the shares,
 
 > **ABOVE FOLD** — first 125 characters visible before "See more":
 
-"Book now, fly never." 89 travel scam reports in 5 months — and those are only the ones that got reported.
+"Book now, fly never." 89 travel scam reports in 5 months, and those are only the ones that got reported.
 
 > **BELOW FOLD:**
 
-Fake hotel bookings. Bogus flight deals. "Travel agents" who vanish after collecting payment. All using cloned pages — real photos, real logos, fake everything else.
+Fake hotel bookings. Bogus flight deals. "Travel agents" who vanish after collecting payment. All using cloned pages: real photos, real logos, fake everything else.
 
 GMA News called it a surge. But if you run a legit travel business, you already know.
 
@@ -625,7 +625,7 @@ Your page looks professional. 10,000 likes. 200 reviews. A verified email addres
 
 > **BELOW FOLD:**
 
-Likes can be purchased for P500. Photos can be stolen in 30 seconds. Reviews can be manufactured. "Verified email" proves someone owns an email address — not that they own your business.
+Likes can be purchased for P500. Photos can be stolen in 30 seconds. Reviews can be manufactured. "Verified email" proves someone owns an email address, not that they own your business.
 
 Scammers know what your customers look for. And they build pages specifically designed to pass every check your customers know how to do.
 
@@ -707,7 +707,7 @@ No person needed. The image is a direct challenge to the viewer — an open ques
 
 > **ABOVE FOLD** — first 125 characters visible before "See more":
 
-6 steps to take down a fake page. Months of waiting. Or — one free verification that prevents it. Your call.
+6 steps to take down a fake page. Months of waiting. Or: one free verification that prevents it. Your call.
 
 > **BELOW FOLD:**
 
@@ -717,7 +717,7 @@ Here's what prevention looks like instead:
 
 1. Submit your ID and business documents to dotPH.
 2. dotPH verifies you're the real owner of your .ph domain.
-3. You get a verified badge and a public verification page — where your real GCash number, social media, and website are listed for customers to check before they pay.
+3. You get a verified badge and a public verification page, where your real GCash number, social media, and website are listed for customers to check before they pay.
 
 Before a customer sends money, they click your badge and pull up your dotPH page. The GCash number matches? They pay. It doesn't? They know something's wrong before any money moves.
 
@@ -770,9 +770,9 @@ The page had over 8,000 likes. Professional beach photos. Positive comments. A G
 
 She paid. She showed up. There was nothing there.
 
-The problem wasn't that she was careless. The problem is that every signal she checked — likes, photos, reviews, response time — can be faked in 10 minutes for less than P500.
+The problem wasn't that she was careless. The problem is that every signal she checked (likes, photos, reviews, response time) can be faked in 10 minutes for less than P500.
 
-That's exactly what Verified by dotPH solves. Your business gets a verified badge — and a public page on dotPH, verified by the official .ph domain registry as yours, where you list your real GCash number, social media, and website for your customers to check. Before your customers pay, they check that page. If the details match, they know it's you. Not because you said so. Because the registry verified it's your page.
+That's exactly what Verified by dotPH solves. Your business gets a verified badge and a public page on dotPH, verified by the official .ph domain registry as yours, where you list your real GCash number, social media, and website for your customers to check. Before your customers pay, they check that page. If the details match, they know it's you. Not because you said so. Because the registry verified it's your page.
 
 Scammers can copy your page. They can't pass a document check.
 
@@ -838,7 +838,7 @@ Your customers are still asking: "Is this the real page?" Some wait. Some don't 
 
 It's free. It takes one submission. dotPH handles the rest.
 
-[Get Verified — It's Free]
+[Get Verified. It's Free]
 
 **Headline:** [X] Businesses Are Verified. Are You?
 **Description:** Free. From the .ph registry.
@@ -887,7 +887,7 @@ Your customers want that confidence. Are they finding it?
 
 Free for .ph domain holders. Submit your documents. dotPH handles the rest.
 
-[Get Verified — It's Free]
+[Get Verified. It's Free]
 
 **Headline:** [X] Signed Up This Week. You?
 **Description:** Free. From the .ph registry.
@@ -929,7 +929,7 @@ When a verified business's customer searches for their page, they find a badge. 
 
 Here's what your customer sees after you get verified:
 
-They find your page. They see the Verified by dotPH badge. They click it. Your business name, your real GCash number, your official website — all on a page the official .ph domain registry has verified as yours. They pay. No DM asking "Is this your real account?" No second-guessing. No hesitation.
+They find your page. They see the Verified by dotPH badge. They click it. Your business name, your real GCash number, your official website: all on a page the official .ph domain registry has verified as yours. They pay. No DM asking "Is this your real account?" No second-guessing. No hesitation.
 
 That's the experience verified businesses give their customers every day.
 
@@ -939,7 +939,7 @@ The badge removes the math.
 
 Free for .ph domain holders. Submit your documents. dotPH handles the rest.
 
-[Get Verified — It's Free]
+[Get Verified. It's Free]
 
 **Headline:** Verified Businesses Close More.
 **Description:** No more "Is this your real page?"
@@ -1251,7 +1251,7 @@ Verified by dotPH is free for all .ph domain holders. Submit your documents, and
 
 There's no financial friction. The only question is whether you care enough about your customers' trust to do it.
 
-[Get Verified — It's Free →]
+[Get Verified. It's Free →]
 
 *Verified by dotPH is a service of dotPH, the official .ph domain registry.*
 
@@ -1282,7 +1282,7 @@ Businesses are tired of being caught in the crossfire. They didn't create the pr
 The early adopters span multiple industries, but a few patterns have emerged:
 
 **Tourism and hospitality: [X]% of signups**
-Resorts and hotels were among the first to verify. After high-profile scams in Bantayan Island, La Union, Batangas, and across Cebu — where fake Facebook pages collected deposits from hundreds of guests — tourism businesses see verification as essential. "Our guests kept asking how to confirm our page is real," said one resort owner. "Now we just point them to our verification page."
+Resorts and hotels were among the first to verify. After high-profile scams in Bantayan Island, La Union, Batangas, and across Cebu, where fake Facebook pages collected deposits from hundreds of guests, tourism businesses see verification as essential. "Our guests kept asking how to confirm our page is real," said one resort owner. "Now we just point them to our verification page."
 
 **Online sellers and e-commerce: [X]% of signups**
 Independent sellers who rely on their own .ph domains — not just marketplace platforms — have been quick to adopt. The number one complaint they heard from customers: "Is this your real GCash?" Now their GCash number is listed on their verification page — customers check there instead of asking.
@@ -1311,9 +1311,9 @@ Healthcare providers and professional service firms are verifying to ensure pati
 In a post-signup survey, the top reasons businesses cited:
 
 1. **Protecting customers from fake pages** — "I don't want my customers paying a scammer who's using my name."
-2. **Reducing payment hesitation** — "My customers ask 'Is this really you?' before every payment. Verification answers that question."
-3. **It's free** — "There's no reason not to."
-4. **Authority of dotPH** — "Being verified by the actual domain registry means something. It's not a random badge — it's from the organization that manages .ph."
+2. **Reducing payment hesitation:** "My customers ask 'Is this really you?' before every payment. Verification answers that question."
+3. **It's free:** "There's no reason not to."
+4. **Authority of dotPH:** "Being verified by the actual domain registry means something. It's not a random badge: it's from the organization that manages .ph."
 
 **How to join them**
 
@@ -1321,11 +1321,11 @@ Verified by dotPH is free for all .ph domain holders.
 
 Step 1: Submit your government-issued ID and business documents.
 Step 2: dotPH reviews and confirms your identity.
-Step 3: Get your verified badge and verification page — where you list your real GCash number, social media, and website for customers to check.
+Step 3: Get your verified badge and verification page, where you list your real GCash number, social media, and website for customers to check.
 
 No cost. No catch.
 
-[Get Verified — It's Free →]
+[Get Verified. It's Free →]
 
 Join the [X] businesses that are already verified. Your customers will thank you.
 
@@ -1437,7 +1437,7 @@ Same name. Same photos. Same GCash link.
 
 Which one is fake? 👇
 
-(If you had to think about it for even a second — that's the whole problem.)
+(If you had to think about it for even a second, that's the whole problem.)
 
 Scammers don't make obvious fakes anymore. They only need ONE person to fall for it.
 
@@ -1471,7 +1471,7 @@ I checked the likes. I checked the photos. I checked the reviews. Still got scam
 
 Because there was no way to check if the page actually belonged to the real resort.
 
-This can happen to literally anyone. Send this to someone before they book their next trip — or tag them below so they see it.
+This can happen to literally anyone. Send this to someone before they book their next trip, or tag them below so they see it.
 
 **Creative direction:** Clean text on a muted background. No sales. No product mention (or very soft at most). The story does the work. Optional: include a real screenshot of the Bantayan scam news headline (SunStar Cebu).
 
@@ -1523,11 +1523,11 @@ Higher than Thailand. Higher than Indonesia. Higher than the ASEAN average.
 
 And the worst part? Most people don't even know it was possible to verify before they paid.
 
-96% of us are worried about it happening again. But we keep checking the wrong things — likes, photos, reviews — because those are the only signals we know.
+96% of us are worried about it happening again. But we keep checking the wrong things (likes, photos, reviews) because those are the only signals we know.
 
 Scammers know exactly what you check. And they fake every one of those signals. On purpose.
 
-Next time you're about to pay online — pause. If you can't verify the page is real through something other than how it looks, don't send money yet.
+Next time you're about to pay online, pause. If you can't verify the page is real through something other than how it looks, don't send money yet.
 
 Share this with someone who shops online.
 
@@ -1554,9 +1554,9 @@ All fake. The real company had to issue a public statement: "These are scams."
 
 Now think about the businesses you buy from that AREN'T household names. The online sellers. The small resorts. The local restaurants.
 
-If scammers can fake a brand everyone knows — what's stopping them from faking the page you're about to pay?
+If scammers can fake a brand everyone knows, what's stopping them from faking the page you're about to pay?
 
-Next time you see a promo or giveaway on Facebook — pause. If there's no way to verify, don't click.
+Next time you see a promo or giveaway on Facebook, pause. If there's no way to verify, don't click.
 
 Tag someone who enters Facebook giveaways.
 
@@ -1589,10 +1589,10 @@ Before you pay anyone online, do this:
 
 1. Look for the Verified by dotPH badge on their website.
 2. Click it. It takes you to their verification page.
-3. Check the listed details — their real GCash number, website, and social media are all there.
+3. Check the listed details: their real GCash number, website, and social media are all there.
 
 Links match the page you're buying from? You're good.
-Links don't match — or there's no badge? Think twice before you pay.
+Links don't match, or there's no badge? Think twice before you pay.
 
 Takes 30 seconds. Could save you thousands.
 
@@ -1620,11 +1620,11 @@ Save this. Send it to someone you know who books trips, shops online, or sends m
 
 You've probably asked this. Or someone in your family has.
 
-Here's the thing — the seller will always say yes. Even the fake ones.
+Here's the thing: the seller will always say yes. Even the fake ones.
 
 Stop asking. Start checking.
 
-Go to the business's Verified by dotPH page. Their real GCash number is listed right there — placed by the business themselves on a page the official .ph registry has verified as theirs.
+Go to the business's Verified by dotPH page. Their real GCash number is listed right there, placed by the business themselves on a page the official .ph registry has verified as theirs.
 
 GCash number matches? Pay.
 Doesn't match? You just dodged a scam.
@@ -1650,9 +1650,9 @@ Send this to the person in your family who sends GCash the most.
 **Primary Text:**
 3 signs a Facebook page might be fake:
 
-1. Page created last month — but the business says they've been around for years. (Check "Page transparency.")
+1. Page created last month, but the business says they've been around for years. (Check "Page transparency.")
 
-2. Professional photos but no website link. Scammers keep it Facebook-only — harder to trace.
+2. Professional photos but no website link. Scammers keep it Facebook-only, harder to trace.
 
 3. Payment is personal GCash or bank transfer to an individual. No business account.
 
@@ -1698,7 +1698,7 @@ Here's what "check" means: go to the business's website, look for the Verified b
 
 #CheckBeforeYouPay
 
-Fake pages look real. Fake GCash links look real. Fake websites look real. But a verification page on dotPH — confirmed by the official .ph registry — can't be faked.
+Fake pages look real. Fake GCash links look real. Fake websites look real. But a verification page on dotPH, confirmed by the official .ph registry, can't be faked.
 
 Tag someone who shops online.
 Tag someone who books resorts on Facebook.
@@ -1935,7 +1935,7 @@ Source: Verafiles. No product branding.
 **Caption:**
 "Cabanas La Union." 8,000 likes. Scenic beach photos. Urbiztondo address.
 
-Verafiles fact-checked: the resort was completely fabricated. The photos were stolen from a real resort in Batangas — hundreds of kilometers away. The page changed its name twice to avoid detection.
+Verafiles fact-checked: the resort was completely fabricated. The photos were stolen from a real resort in Batangas, hundreds of kilometers away. The page changed its name twice to avoid detection.
 
 Forward this to your family GC before someone books a trip.
 
@@ -2068,20 +2068,20 @@ The strategy's existing organic calendar runs Mon/Wed/Fri. Reels slot into the e
 **Format:** Static infographic (1080 x 1080 px or 1080 x 1350 px)
 
 **Primary Text:**
-How scammers copy your business — and why it keeps working.
+How scammers copy your business, and why it keeps working.
 
-1. Copy a real business page — 10 minutes
-2. Buy 5,000 likes — P500
-3. Steal your photos — 5 minutes
+1. Copy a real business page: 10 minutes
+2. Buy 5,000 likes: P500
+3. Steal your photos: 5 minutes
 4. Wait for customers to pay
 5. Disappear. Create a new page. Repeat.
 
 Total investment: P500 and 15 minutes.
-Potential return: P500,000 — documented. One fake page. One resort in Bantayan.
+Potential return: P500,000 (documented). One fake page. One resort in Bantayan.
 
 The scary part? None of this is hard. You don't need technical skill. You just need a Facebook account and P500.
 
-That's why the number of fake pages keeps growing. 423% more phishing sites in one year. Scammers go where the ROI is — and right now, that's your customers.
+That's why the number of fake pages keeps growing. 423% more phishing sites in one year. Scammers go where the ROI is, and right now, that's your customers.
 
 Once you know how this works, you can't unsee it. Share this with a business owner who needs to see it.
 
@@ -2097,10 +2097,10 @@ Once you know how this works, you can't unsee it. Share this with a business own
 **Format:** Carousel (5 slides, 1080 x 1080 px per slide)
 
 **Primary Text:**
-I checked the likes — 50,000. Looked legit.
-I checked the photos — professional. Real resort photos.
-I checked the reviews — positive. Recent.
-I checked the response time — fast. Polite.
+I checked the likes: 50,000. Looked legit.
+I checked the photos: professional. Real resort photos.
+I checked the reviews: positive. Recent.
+I checked the response time: fast. Polite.
 
 Still got scammed.
 
@@ -2110,7 +2110,7 @@ The one thing I couldn't check: whether the page actually belonged to the resort
 
 200+ families went through the same thing. P500,000 lost from one fake page.
 
-Next time — don't check the likes. Check if it's verified.
+Next time, don't check the likes. Check if it's verified.
 
 Tag someone who's about to book a trip or buy from an online seller.
 
@@ -2147,7 +2147,7 @@ D) I just check if it "looks legit"
 
 Drop your answer below.
 
-(We'll share why all four of these can be faked — and what actually works — in the comments.)
+(We'll share why all four of these can be faked, and what actually works, in the comments.)
 
 **Engagement strategy:**
 - Pin a reply after 2–4 hours: "All four can be faked. Likes can be purchased for P500. Photos can be stolen. Reviews can be manufactured. Page dates can be manipulated by renaming old pages. The one thing that can't be faked: a verification from the official .ph registry. — Also dropping this below: sino dito na naka-encounter ng fake page? Tell us what happened. 👇"
@@ -2167,9 +2167,9 @@ Drop your answer below.
 **Primary Text:**
 Filipino online shopping bingo. How many can you check off?
 
-Screenshot your card and share in the comments — or send it to your family GC.
+Screenshot your card and share in the comments, or send it to your family GC.
 
-(If you checked "Bahala na" — we need to talk. 😅)
+(If you checked "Bahala na," we need to talk. 😅)
 
 The one square that actually protects you? "Checked for Verified by dotPH badge."
 
@@ -2252,13 +2252,13 @@ Swipe through the checklist. Save it. Send it to whoever's handling the booking.
 
 **Carousel Slides:**
 
-Slide 1 (Title): "The Summer Booking Checklist" — Before you send that GCash deposit.
+Slide 1 (Title): "The Summer Booking Checklist: Before you send that GCash deposit."
 
-Slide 2: ✅ **Find their website.** Real resorts and travel businesses have one. Make sure it matches the Facebook page — same name, same contact details, same booking info.
+Slide 2: ✅ **Find their website.** Real resorts and travel businesses have one. Make sure it matches the Facebook page: same name, same contact details, same booking info.
 
 Slide 3: ✅ **Check when the page was created.** Go to "About" and look for "Page transparency." A resort that's been open for years shouldn't have a page made last month. Scammers create fresh pages all the time.
 
-Slide 4: ✅ **Verify the GCash number.** Go to their Verified by dotPH page. Their real GCash number is listed there — on the page the official .ph registry has verified as theirs. Does it match what the seller gave you?
+Slide 4: ✅ **Verify the GCash number.** Go to their Verified by dotPH page. Their real GCash number is listed there, on the page the official .ph registry has verified as theirs. Does it match what the seller gave you?
 
 Slide 5: ✅ **Look for the Verified by dotPH badge.** Find it on their website footer. Click it. It takes you to their official verification page where you can check everything.
 
@@ -2390,7 +2390,7 @@ The page looks real. It has likes. It has photos. It responds to messages.
 
 But is it actually the real business?
 
-In 2025, phishing websites targeting the Philippines surged 423%. Fake brand profiles on social media rose 37%. And a GSMA report found that 52% of Filipinos have been scammed at least once — more than any other ASEAN country except one.
+In 2025, phishing websites targeting the Philippines surged 423%. Fake brand profiles on social media rose 37%. And a GSMA report found that 52% of Filipinos have been scammed at least once, more than any other ASEAN country except one.
 
 Most of those scams didn't involve hacking. They involved copying. A scammer creates a Facebook page that looks like a real business, uses the same name and photos, and waits for you to pay.
 
@@ -2400,11 +2400,11 @@ Here's how to protect yourself.
 
 Go to the page's "About" section and look for "Page transparency." Facebook shows when the page was created.
 
-If the business claims to have been operating for years but the page was created last month, that's a red flag. Scammers create new pages constantly — and they can buy hundreds of likes overnight.
+If the business claims to have been operating for years but the page was created last month, that's a red flag. Scammers create new pages constantly, and they can buy hundreds of likes overnight.
 
 **2. Look for a website link**
 
-Real businesses connect their online channels. They have a website, or at least a link to their official pages elsewhere. Scammers usually keep things on Facebook only — it's easier to create and harder for victims to trace.
+Real businesses connect their online channels. They have a website, or at least a link to their official pages elsewhere. Scammers usually keep things on Facebook only, because it's easier to create and harder for victims to trace.
 
 If a business has no website, no linked Instagram, and no online presence outside Facebook, be cautious.
 
@@ -2412,7 +2412,7 @@ If a business has no website, no linked Instagram, and no online presence outsid
 
 Legitimate businesses increasingly use business e-wallet accounts, payment links, or bank accounts under their business name. If the only option is a personal GCash or bank transfer to an individual's name, slow down.
 
-This isn't definitive — some small businesses legitimately operate this way. But combined with other red flags, it's a sign to verify before paying.
+This isn't definitive. Some small businesses legitimately operate this way. But combined with other red flags, it's a sign to verify before paying.
 
 **4. Search the business name**
 
@@ -2454,22 +2454,22 @@ We sent P3,500 through GCash. Got a confirmation message. Booked the days off wo
 
 When we arrived, the resort said they had no record of our booking.
 
-The receptionist looked tired. Not surprised — tired. "You're the fifth one today," she said.
+The receptionist looked tired. Not surprised. Tired. "You're the fifth one today," she said.
 
 **The fake page had more likes than the real one**
 
-The page we'd booked through wasn't the real resort's page. It was a copy. Same name. Same photos — downloaded directly from the resort's real page, which had been offline for maintenance. Same location on the Facebook map.
+The page we'd booked through wasn't the real resort's page. It was a copy. Same name. Same photos, downloaded directly from the resort's real page, which had been offline for maintenance. Same location on the Facebook map.
 
 The fake page had more likes than the real one.
 
-Over 200 people were scammed the same way. One resort estimated P500,000 in losses — money that went to scammers using their name. The guests blamed the resort. The resort blamed Facebook. Facebook eventually took the page down. By then, a new fake had already appeared.
+Over 200 people were scammed the same way. One resort estimated P500,000 in losses, money that went to scammers using their name. The guests blamed the resort. The resort blamed Facebook. Facebook eventually took the page down. By then, a new fake had already appeared.
 
 **Why it worked on me**
 
 I'm not careless. I checked.
 
 I checked the likes: 50,000. Seemed legitimate.
-I checked the photos: beautiful, high-quality. Real resort photos (because they were — they were stolen from the real page).
+I checked the photos: beautiful, high-quality. Real resort photos (because they were: stolen from the real page).
 I checked the response time: fast, polite, professional. The scammer was good at customer service.
 I checked the payment method: GCash. Normal for Philippine bookings.
 
@@ -2479,7 +2479,7 @@ Because the one thing I couldn't check was whether the page actually belonged to
 
 **Bantayan, La Union, Batangas, Cebu — it's happening everywhere**
 
-In La Union, a completely fabricated resort called "Cabanas La Union" amassed 8,000 likes using photos stolen from a Batangas resort. The resort didn't exist. Guests showed up to nothing. Verafiles fact-checked and confirmed — total fabrication.
+In La Union, a completely fabricated resort called "Cabanas La Union" amassed 8,000 likes using photos stolen from a Batangas resort. The resort didn't exist. Guests showed up to nothing. Verafiles fact-checked and confirmed: total fabrication.
 
 In Batangas, scammers ran paid Facebook ads impersonating a real beach resort. They spent money on advertising a fake business.
 
@@ -2489,11 +2489,11 @@ This isn't an isolated problem. It's an industry under siege.
 
 **What I wish I'd known**
 
-I wish there had been a way to check — not the likes, not the photos, not the vibes — but the actual identity of the business behind the page.
+I wish there had been a way to check, not the likes, not the photos, not the vibes, but the actual identity of the business behind the page.
 
-I've since learned that some businesses are now getting verified through the official .ph domain registry. That means there's a page on dotPH you can visit to see their listed details: their real Facebook, their GCash number, their website. The business's identity is confirmed by the registry — and their payment details are right there for you to compare.
+I've since learned that some businesses are now getting verified through the official .ph domain registry. That means there's a page on dotPH you can visit to see their listed details: their real Facebook, their GCash number, their website. The business's identity is confirmed by the registry, and their payment details are right there for you to compare.
 
-I'm not saying verification would have stopped every scam. But if the resort I booked had been verified — and I knew how to check — I would have known in 10 seconds that the page I was paying wasn't the real one.
+I'm not saying verification would have stopped every scam. But if the resort I booked had been verified, and I knew how to check, I would have known in 10 seconds that the page I was paying wasn't the real one.
 
 **What I do now**
 
@@ -2521,31 +2521,31 @@ You've heard the warnings. You know fake pages exist. You know the likes and pho
 
 But now there's something you can actually check.
 
-**A verification that scammers can't copy — from the official .ph registry**
+**A verification that scammers can't copy, from the official .ph registry**
 
-Verified by dotPH is a free identity verification service from dotPH — the official registry that manages all .ph domains in the Philippines.
+Verified by dotPH is a free identity verification service from dotPH, the official registry that manages all .ph domains in the Philippines.
 
 When a business gets verified, dotPH confirms their identity by reviewing government-issued IDs and business registration documents. The business then receives:
 
 1. **A verified badge** they can display on their website
 2. **A public verification page** on dotPH that anyone can visit
-3. **A place to list their real details** — their payment channels (GCash number, bank accounts), social media, and website — all on one page customers can check
+3. **A place to list their real details:** their payment channels (GCash number, bank accounts), social media, and website, all on one page customers can check
 
 This is different from a Facebook blue checkmark (which is a paid subscription) or an SSL padlock (which only encrypts the connection). Verified by dotPH confirms the *identity* of the person or business behind the domain.
 
-**How to check — step by step**
+**How to check, step by step**
 
 **Step 1: Look for the badge**
 
 When you visit a business's website, look for the Verified by dotPH badge. It's typically placed in the footer, on the checkout page, or on the contact page.
 
-The badge is a visual signal that the business has been verified. But don't stop there — anyone can copy an image.
+The badge is a visual signal that the business has been verified. But don't stop there. Anyone can copy an image.
 
 **Step 2: Click the badge**
 
 This is the critical step. Click the badge. It should take you directly to the business's verification page on the dotPH website.
 
-If clicking the badge takes you to a page on dotPH (verified.dot.ph or similar), you're looking at a real verification. If it goes nowhere, goes to a different site, or just shows an image — it's not real.
+If clicking the badge takes you to a page on dotPH (verified.dot.ph or similar), you're looking at a real verification. If it goes nowhere, goes to a different site, or just shows an image, it's not real.
 
 **Step 3: Check the listed details**
 
@@ -2556,14 +2556,14 @@ Compare these links with the page you're buying from:
 - Is the GCash number the same?
 - Is the website the same?
 
-If everything matches — you're dealing with the real business.
-If something doesn't match — stop. Don't pay until you've confirmed directly with the business through their verified channels.
+If everything matches, you're dealing with the real business.
+If something doesn't match, stop. Don't pay until you've confirmed directly with the business through their verified channels.
 
 **What if a business doesn't have a badge?**
 
 Not every business is verified yet. The service is still new. So the absence of a badge doesn't automatically mean a business is fake.
 
-But you can ask: "Are you Verified by dotPH?" If the business is legitimate, they'll either be verified already or they'll look into it — verification is free.
+But you can ask: "Are you Verified by dotPH?" If the business is legitimate, they'll either be verified already or they'll look into it, because verification is free.
 
 If they dismiss the question or get defensive, that tells you something too.
 
@@ -2573,7 +2573,7 @@ Before Verified by dotPH, consumers had no reliable way to check if a Facebook p
 
 Scammers optimized for all of those. They bought likes. They stole photos. They nailed the vibes.
 
-Now there's a check they can't fake — because it lives on dotPH, not on the business's own page. You're not trusting the business to tell you they're real. You're checking with the registry that verified them.
+Now there's a check they can't fake, because it lives on dotPH, not on the business's own page. You're not trusting the business to tell you they're real. You're checking with the registry that verified them.
 
 **Quick reference**
 
@@ -2617,13 +2617,13 @@ There's a better way.
 
 **Step 1: Find the business's verification page**
 
-Before you send money, check if the business has a Verified by dotPH badge on their website. Click it — it should take you to their verification page on the official .ph domain registry.
+Before you send money, check if the business has a Verified by dotPH badge on their website. Click it. It should take you to their verification page on the official .ph domain registry.
 
 If you don't see a badge, search for the business on dotPH directly.
 
 **Step 2: Check the listed payment details**
 
-On the verification page, the business has listed their official payment channels — GCash number, bank accounts, payment links. The business added these details to their verified profile on dotPH.
+On the verification page, the business has listed their official payment channels: GCash number, bank accounts, payment links. The business added these details to their verified profile on dotPH.
 
 Write down or screenshot the GCash number listed on the page.
 
@@ -2634,11 +2634,11 @@ Is the GCash number the seller gave you the same as the one on their verificatio
 - **Match:** You're paying the real business. Send with confidence.
 - **No match:** Stop. Do not send money. The page you're dealing with may be a fake.
 
-**Scammers can fake a page in 10 minutes — they can't fake a registry verification**
+**Scammers can fake a page in 10 minutes. They can't fake a registry verification.**
 
 A scammer can create a fake Facebook page in 10 minutes. They can copy the name, the photos, and the customer service style.
 
-But they can't create a verification page on dotPH. That requires submitting real identity documents to the official .ph registry. It's verified by a third party — not self-reported.
+But they can't create a verification page on dotPH. That requires submitting real identity documents to the official .ph registry. It's verified by a third party, not self-reported.
 
 When you check the verification page, you're not asking the seller if they're real. You're checking with the organization that manages every .ph domain in the country.
 
@@ -2649,7 +2649,7 @@ If a business doesn't have a verification page, it doesn't mean they're a scam. 
 But if you're about to send money and you have no way to verify the payment link, take extra precautions:
 - Call the business directly (find their number through Google, not through the Facebook page).
 - Check their website for official payment information.
-- Ask if they're Verified by dotPH — it's free, and legitimate businesses have no reason to avoid it.
+- Ask if they're Verified by dotPH. It's free, and legitimate businesses have no reason to avoid it.
 
 **"Is this your real GCash?" is a hope, not a check**
 
@@ -2675,7 +2675,7 @@ One takes 5 seconds and tells you nothing. The other takes 30 seconds and could 
 
 #### Tell Your Nanay: A Family Guide to Avoiding Online Scams
 
-Your nanay is on Facebook. She's been there for years. She follows recipe pages, sends you Viber stickers, and — lately — she's been buying things online.
+Your nanay is on Facebook. She's been there for years. She follows recipe pages, sends you Viber stickers, and lately she's been buying things online.
 
 She found a great deal on a kitchen gadget. A nice-looking online store. GCash payment. She sent the money.
 
@@ -2691,8 +2691,8 @@ This story plays out thousands of times a month in the Philippines. Across every
 
 The scam landscape has changed. It's not just the obvious "you won a million pesos" messages anymore. Today's scams are:
 
-- **Fake resort pages** that look exactly like the real thing — same name, same photos, same location on the map. A fake resort page in Bantayan Island had 50,000 likes. Over 200 families paid.
-- **Fake online stores** that use professional photos and realistic pricing. They're not suspiciously cheap — they're just normal enough that you don't question it.
+- **Fake resort pages** that look exactly like the real thing: same name, same photos, same location on the map. A fake resort page in Bantayan Island had 50,000 likes. Over 200 families paid.
+- **Fake online stores** that use professional photos and realistic pricing. They're not suspiciously cheap, just normal enough that you don't question it.
 - **Fake payment links** that appear in the same message thread as your real GCash notifications. The CICC warned that scam SMS now infiltrates legitimate e-wallet threads.
 
 Your nanay can't spot these by looking. Nobody can.
@@ -2703,27 +2703,27 @@ You don't need to make your family paranoid. You need to give them ONE simple ha
 
 **1. "Before you pay, check."**
 
-Teach them the phrase. Make it a reflex. Before they send money to any business online — resort, online store, food delivery — they should pause and check.
+Teach them the phrase. Make it a reflex. Before they send money to any business online (resort, online store, food delivery), they should pause and check.
 
 **2. "Look for the Verified by dotPH badge."**
 
-If the business has a website, look for the badge. Click it. It should take you to a verification page on dotPH where the business has listed their real details — their GCash number, their website, their social media.
+If the business has a website, look for the badge. Click it. It should take you to a verification page on dotPH where the business has listed their real details: their GCash number, their website, their social media.
 
 Compare the GCash number on the verification page with the one the seller gave you. If they match, it's safe. If they don't, stop.
 
 **3. "No badge? Call before you pay."**
 
-If the business doesn't have a badge (many are still new to verification), don't just trust the Facebook page. Find the business's phone number through Google — not through the page itself — and call to confirm the payment details.
+If the business doesn't have a badge (many are still new to verification), don't just trust the Facebook page. Find the business's phone number through Google (not through the page itself) and call to confirm the payment details.
 
 **How to have the conversation**
 
-Don't lecture. Don't make them feel stupid. Scammers fool everyone — even bank managers (a senior BPI manager almost fell for a fake app, according to a Rappler investigation).
+Don't lecture. Don't make them feel stupid. Scammers fool everyone. Even bank managers (a senior BPI manager almost fell for a fake app, according to a Rappler investigation).
 
 Instead, try:
 
 *"Ma, I just learned about this new way to check if an online business is real before you pay. Let me show you real quick."*
 
-Show them how to look for the badge. Show them how to click it. Show them the verification page. Make it feel like something you discovered together — not something you're teaching them because they're vulnerable.
+Show them how to look for the badge. Show them how to click it. Show them the verification page. Make it feel like something you discovered together, not something you're teaching them because they're vulnerable.
 
 **Make it a family rule**
 
