@@ -1250,7 +1250,7 @@ Verified by dotPH is a free identity verification service from the official .ph 
 
 3. **You get verified.** A verified badge for your website. A public verification page on dotPH that anyone can visit, where you list your real social media, payment channels (GCash, bank accounts), and website. Your customers check this page to confirm your details.
 
-The key difference: this isn't self-reported. It's verified by the domain registry itself, the organization that manages the entire .ph domain system. That's a level of authority that no one else in the ecosystem can claim.
+The key difference: this isn't self-reported. It's verified by the domain registry itself, the organization that manages the entire .ph domain system. That's a level of authority no one else in your ecosystem can claim.
 
 **With vs. without verification: two very different customer journeys**
 
@@ -1346,7 +1346,7 @@ In a post-signup survey, the top reasons businesses cited:
 
 **How to get your business verified**
 
-Verified by dotPH is free for all .ph domain holders.
+Verified by dotPH is free. If you have a .ph domain, you qualify.
 
 Step 1: Submit your government-issued ID and business documents.
 Step 2: dotPH reviews and confirms your identity.
