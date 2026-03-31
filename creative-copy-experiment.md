@@ -1220,7 +1220,7 @@ A .ph domain proves that you registered the domain name through an accredited re
 
 It doesn't prove your identity has been verified by a third party. It doesn't prove your business behind the domain is legitimate. It doesn't give your customers a way to check who you are before they transact.
 
-SSL certificates (the padlock icon in the browser) prove that the connection between your customer and your website is encrypted. They secure the data in transit. But they don't verify who's on the other end.
+SSL certificates (the padlock icon in the browser) prove that the connection between your customer and your website is encrypted. They secure the data in transit. But they don't verify whether you're the legitimate business on the other end.
 
 So a scammer can register a domain, install an SSL certificate, and present a website that looks exactly like your business. To your customer, everything looks right: .ph domain, padlock icon, professional design.
 
@@ -1298,7 +1298,7 @@ There's no financial friction. The only question is whether you care enough abou
 
 > **Editor's note:** Update the number [X] and industry breakdowns with real data before publishing. This is a template designed to be refreshed weekly during Weeks 5–8 of the campaign.
 
-Since Verified by dotPH launched, [X] businesses have signed up for free identity verification. Here's what's driving them, and why you should care about the number that keeps growing.
+Since Verified by dotPH launched, [X] businesses have signed up for free identity verification. Here's what's driving them, and why it matters to your business.
 
 **423% more fake pages, and your business could be next**
 
@@ -2729,7 +2729,7 @@ Your nanay can't spot these by looking. Nobody can.
 
 **The 3 things to teach your family**
 
-You don't need to make your family paranoid. You need to give them ONE simple habit.
+You don't need to make your family paranoid. You need to give your family ONE simple habit.
 
 **1. "Before you pay, check."**
 
