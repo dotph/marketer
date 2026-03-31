@@ -153,19 +153,19 @@ No dotPH logo. No CTA. The absence of a person makes you insert yourself into th
 
 **Secondary format: Companion Reel (1080 x 1920 px, 20–25 sec)**
 
-2 AM. A Filipino bedroom. A business owner asleep. Phone on the bedside table, screen dimming. No sound yet.
+2 AM. A Filipino bedroom. You're asleep. Phone on the bedside table, screen dimming. No sound yet.
 
-Split screen opens silently. Left side: their real Facebook business page, quiet, no activity. Store closed for the night.
+Split screen opens silently. Left side: your real Facebook business page, quiet, no activity. Store closed for the night.
 
-Right side: a page with their exact name, exact logo, exact photos. A customer sends a GCash payment notification. The operator: awake, somewhere else, marks it received. Another payment comes in. Then another.
+Right side: a page with your exact name, your exact logo, your exact photos. A customer sends a GCash payment notification. The operator: awake, somewhere else, marks it received. Another payment comes in. Then another.
 
-Left side: the real owner's phone buzzes once with an unread message. They don't stir.
+Left side: your phone buzzes once with an unread message. You don't stir.
 
-Morning. Sunlight. The owner wakes up, checks their phone. Opens Messenger. A customer they don't recognize:
+Morning. Sunlight. You wake up, check your phone. Open Messenger. A customer you don't recognize:
 
 *"Kumusta na yung order ko? Tatlong araw na wala pa ring update."*
 
-They stare at it. They have no record of this order. No payment. Nothing.
+You stare at it. You have no record of this order. No payment. Nothing.
 
 Final frame, black screen, white text, slow fade:
 
@@ -1216,9 +1216,9 @@ But there's a gap between what a domain proves and what your customers need to k
 
 **What a domain actually proves**
 
-A .ph domain proves that someone registered the domain name through an accredited registrar. That's it.
+A .ph domain proves that you registered the domain name through an accredited registrar. That's it.
 
-It doesn't prove your identity has been verified by a third party. It doesn't prove the business behind the domain is legitimate. It doesn't give your customers a way to check who you are before they transact.
+It doesn't prove your identity has been verified by a third party. It doesn't prove your business behind the domain is legitimate. It doesn't give your customers a way to check who you are before they transact.
 
 SSL certificates (the padlock icon in the browser) prove that the connection between your customer and your website is encrypted. They secure the data in transit. But they don't verify who's on the other end.
 
