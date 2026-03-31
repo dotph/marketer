@@ -2136,7 +2136,7 @@ How scammers copy your business, and why it keeps working.
 1. Copy your business page: 10 minutes
 2. Buy 5,000 likes: P500
 3. Steal your photos: 5 minutes
-4. Wait for customers to pay
+4. Wait for your customers to pay
 5. Disappear. Create a new page. Repeat.
 
 Total investment: P500 and 15 minutes.
