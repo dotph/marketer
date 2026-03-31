@@ -385,19 +385,19 @@ Every lost customer thinks they got scammed by YOU, not by the fake page that us
 
 **Variation A: Person**
 
-A Filipino business owner, end of day. Their shop is in the background, products on shelves, signage, a counter they've stood behind for years. Everything they built.
+End of day. Your shop is in the background, products on shelves, signage, a counter you've stood behind for years. Everything you built.
 
-It's been a good day. Maybe they just served their last customer, maybe they're counting receipts. There's a small, quiet satisfaction in the air: the kind that only comes from honest work.
+It's been a good day. Maybe you just served your last customer, maybe you're counting receipts. There's a small, quiet satisfaction in the air: the kind that only comes from honest work.
 
-Then they check their phone.
+Then you check your phone.
 
-One new notification. A Google review. They tap it.
+One new notification. A Google review. You tap it.
 
 One star. The review reads: *"SCAMMER. Do NOT trust this business."*
 
-The frame freezes on their face in the moment after they read it: not yet anger, not yet panic. That first beat of pure wrongness. The expression of someone who has just been accused of something they didn't do, in front of everyone, with no way to explain.
+The frame freezes on your face in the moment after you read it: not yet anger, not yet panic. That first beat of pure wrongness. The expression of someone who has just been accused of something they didn't do, in front of everyone, with no way to explain.
 
-Their shop, everything they built, is visible behind them. All of it still there. All of it suddenly under a shadow they didn't create.
+Your shop, everything you built, is visible behind you. All of it still there. All of it suddenly under a shadow you didn't create.
 
 Single text overlay, bold:
 
