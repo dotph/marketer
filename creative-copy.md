@@ -735,7 +735,7 @@ Before your customer sends money, they click your badge and pull up your dotPH p
 
 Scammers can copy your page. They can't fake a dotPH verification.
 
-Free for .ph domain holders. From the official .ph domain registry.
+Free for you, as a .ph domain holder. From the official .ph domain registry.
 
 Prevention beats prosecution. Every time.
 
@@ -760,7 +760,7 @@ CTA button: *"Get Verified. It's Free."*
 
 The government office setting is universally understood in the Philippines. If you've ever filed a formal complaint, you know exactly what those stacks of paper and that queue number feel like. The exhaustion in the business owner's face makes the "one free submission" feel like genuine relief.
 
-> **Why this angle:** This ad uses the *procedural pain* frame: not fear of the scam, but the exhaustion of the aftermath. By the time your customers see this ad, they've already felt the threat (Awareness stage). What they haven't calculated is the cost of dealing with it after the fact. Showing you exactly what prosecution looks like: DTI, PNP-ACG, NBI, sworn statements, months of waiting, and the fake page still running, makes the "one free submission to dotPH" feel like the most rational decision you've ever been offered. The government office setting triggers a very specific Filipino memory: the queue number, the fluorescent lights, the stack of forms. You don't need to explain to your audience that process is painful, they've lived it. What you need to show them is the contrast: your before (that office) and your after (one submission, done).
+> **Why this angle:** This ad uses the *procedural pain* frame: not fear of the scam, but the exhaustion of the aftermath. By the time your customers see this ad, they've already felt the threat (Awareness stage). What they haven't calculated is the cost of dealing with it after the fact. Showing you exactly what prosecution looks like: DTI, PNP-ACG, NBI, sworn statements, months of waiting, and the fake page still running, makes the "one free submission to dotPH" feel like the most rational decision you've ever been offered. The government office setting triggers a very specific Filipino memory: the queue number, the fluorescent lights, the stack of forms. You don't need to explain to your audience that process is painful, they've lived it. What you need to show your audience is the contrast: your before (that office) and your after (one submission, done).
 
 > **A/B test note:** Headline: "Prevention vs. Prosecution" (current) vs. "Prevention vs. Filing a Complaint" (plain language). "Prosecution" is legally accurate but unfamiliar to small business owners in a business context. "Filing a Complaint" mirrors the language used by DTI, NBI, and Meta's own reporting flow. Winner condition: higher CTR. See creative-testing.md → AD 7 Copy Test.
 
@@ -790,7 +790,7 @@ That's exactly what Verified by dotPH solves. Your business gets a verified badg
 
 Scammers can copy your page. They can't pass a document check.
 
-Free for .ph domain holders. From the official .ph domain registry.
+Free for you, as a .ph domain holder. From the official .ph domain registry.
 
 **Headline:** Your Customers Can't Tell Anymore
 **Description:** Give your customers one check that works.
@@ -823,7 +823,7 @@ The two-moment structure (confident at laptop, confused at empty beach) carries 
 
 > **Why this angle:** This ad uses the *diligence failure* frame, your customer did everything right, and still got scammed. This is the consideration-stage realization that closes the loop on awareness: it's not about your customers being careless. It's about the signals they trust being unfixable without your verification. The checklist visual (8,000 likes ✅, beautiful photos ✅, fast response ✅, GCash link ✅) is deliberately satisfying to read, then the twist ("She still got scammed") hits harder because you were nodding along. The two-moment structure (confident at laptop → confused at empty beach) doesn't need explanation. You know: your careful customers are checking all the same things this woman checked. And if you're not verified, your careful customers can still be fooled.
 
-> **Revision note:** Previous version used a bank manager / government app phishing story (Rappler ref #29). That scenario involves personal phishing, not business impersonation: a category mismatch with the product. This version uses the Bantayan/La Union resort pattern (the customer was diligent; the signals were all fake) which directly mirrors the product's use case and keeps the consideration stage grounded in the awareness stories you've already seen.
+> **Revision note:** Previous version used a bank manager / government app phishing story (Rappler ref #29). That scenario involves personal phishing, not business impersonation: a category mismatch with the product. This version uses the Bantayan/La Union resort pattern (your customer was diligent; the signals were all fake) which directly mirrors the product's use case and keeps the consideration stage grounded in the awareness stories you've already seen.
 
 ---
 
@@ -852,7 +852,7 @@ Your competitors are already verified. Their customers see the badge. Yours don'
 
 Your customers are still asking: "Is this the real page?" Some wait. Some don't pay at all. Some pay a scammer using your name.
 
-It's free. It takes one submission. dotPH handles the rest.
+It's free. You make one submission. dotPH handles the rest.
 
 [Get Verified. It's Free]
 
@@ -903,7 +903,7 @@ The businesses that signed up? Your customers' hesitation is gone. They click yo
 
 Your customers want that confidence. Are they finding it?
 
-Free for .ph domain holders. Submit your documents. dotPH handles the rest.
+Free for you, if you have a .ph domain. Submit your documents. dotPH handles the rest.
 
 [Get Verified. It's Free]
 
@@ -957,7 +957,7 @@ Right now, your customers are still doing mental math before they pay you. "Look
 
 The badge removes the math.
 
-Free for .ph domain holders. Submit your documents. dotPH handles the rest.
+Free for you, if you have a .ph domain. Submit your documents. dotPH handles the rest.
 
 [Get Verified. It's Free]
 
@@ -1140,7 +1140,7 @@ But here's what gets lost in the headline: most of this money was meant for real
 
 When a scammer creates a fake page that copies your business, two people get hurt.
 
-The first is the customer who pays the wrong account. That's the victim the news covers.
+The first is your customer who pays the wrong account. That's the victim the news covers.
 
 The second is you, the business whose name was used. You're the victim nobody talks about.
 
@@ -1250,11 +1250,11 @@ Verified by dotPH is a free identity verification service from the official .ph 
 
 3. **You get verified.** A verified badge for your website. A public verification page on dotPH that anyone can visit, where you list your real social media, payment channels (GCash, bank accounts), and website. Your customers check this page to confirm your details.
 
-The key difference: this isn't self-reported. It's verified by the domain registry itself, the organization that manages the entire .ph domain system. That's a level of authority that no one else in the ecosystem can claim.
+The key difference: this isn't self-reported. It's verified by the domain registry itself, the organization that manages the entire .ph domain system. That's a level of authority no one else in your ecosystem can claim.
 
 **With vs. without verification: two very different customer journeys**
 
-Consider the customer journey:
+Consider your customer's journey:
 
 Without verification: Your customer sees your website or Facebook page. It looks real. But so does the fake one. They hesitate in front of your page. They screenshot your GCash number and DM you to confirm. Or they abandon your sale entirely.
 
@@ -1274,7 +1274,7 @@ Verified by dotPH is designed for any .ph domain holder: individuals, small busi
 
 **It's free.**
 
-Verified by dotPH is free for all .ph domain holders. Submit your documents, and the dotPH team handles the verification.
+Verified by dotPH is free. If you have a .ph domain, you qualify. Submit your documents, and the dotPH team handles the verification.
 
 There's no financial friction. The only question is whether you care enough about your customers' trust to do it.
 
@@ -1346,7 +1346,7 @@ In a post-signup survey, the top reasons businesses cited:
 
 **How to get your business verified**
 
-Verified by dotPH is free for all .ph domain holders.
+Verified by dotPH is free. If you have a .ph domain, you qualify.
 
 Step 1: Submit your government-issued ID and business documents.
 Step 2: dotPH reviews and confirms your identity.
@@ -1502,7 +1502,7 @@ I checked the likes. I checked the photos. I checked the reviews. Still got scam
 
 Because there was no way to check if the page actually belonged to the real resort.
 
-This can happen to literally anyone. Send this to someone before they book their next trip, or tag them below so they see it.
+This can happen to literally anyone. Send this to someone you care about before they book their next trip, or tag them below so they see it.
 
 **Creative direction:** Clean text on a muted background. No sales. No product mention (or very soft at most). The story does the work. Optional: include a real screenshot of the Bantayan scam news headline (SunStar Cebu).
 
@@ -1564,7 +1564,7 @@ Scammers know exactly what you check. And they fake every one of those signals. 
 
 Next time you're about to pay online, pause. If you can't verify the page is real through something other than how it looks, don't send money yet.
 
-Share this with someone who shops online.
+Share this with someone you know who shops online.
 
 **Headline for image:** 52% of Filipinos Have Been Scammed
 **Subtext:** GSMA, 2025
@@ -1595,7 +1595,7 @@ If scammers can fake a brand everyone knows, what's stopping them from faking th
 
 Next time you see a promo or giveaway on Facebook, pause. If there's no way to verify, don't click.
 
-Tag someone who enters Facebook giveaways.
+Tag someone you know who enters Facebook giveaways.
 
 **Creative direction:** Carousel:
 1. "Scammers impersonated a major PH fast food chain."
@@ -1745,9 +1745,9 @@ Here's what "check" means: go to the business's website, look for the Verified b
 
 Fake pages look real. Fake GCash links look real. Fake websites look real. But a verification page on dotPH, confirmed by the official .ph registry, can't be faked.
 
-Tag someone who shops online.
-Tag someone who books resorts on Facebook.
-Tag someone who sends money through GCash.
+Tag someone you know who shops online.
+Tag someone you know who books resorts on Facebook.
+Tag someone you know who sends money through GCash.
 
 They need to see this.
 
@@ -1803,9 +1803,9 @@ We want to see it, whether you found a verified business and paid with confidenc
 
 Your story matters. Drop it here. Use #CheckBeforeYouPay and we'll feature the best ones.
 
-The more people who check, the harder it gets for scammers.
+The more people who check, the harder it gets for scammers to fool you.
 
-Tag a friend who should do this too.
+Tag a friend of yours who should do this too.
 
 **Creative direction:** Simple branded template with a frame for user screenshots. "I checked before I paid. #CheckBeforeYouPay", designed so consumers can overlay their own screenshot of a verification page visit.
 
@@ -1895,7 +1895,7 @@ The fake page had more likes than the real one.
 
 Over 200 families sent deposits to a page that copied a Bantayan resort's name, photos, and location. The real resort had no idea until guests started showing up.
 
-Send this to someone before they book their next trip.
+Send this to someone you know before they book their next trip.
 
 **Posting guidance:** Post at 8:30 PM PHT (weekday) or 2–3 PM PHT (weekend). These are the peak engagement windows for Philippine Facebook, dinner/wind-down time and lunch break. Avoid posting exactly on the hour (:00) or half-hour (:30), offset slightly to spread reach. Pin a comment with context: "The fake page was taken down. Then a new one appeared."
 
@@ -2177,7 +2177,7 @@ The one thing I couldn't check: whether the page actually belonged to the resort
 
 Next time, don't check the likes. Check if it's verified.
 
-Tag someone who's about to book a trip or buy from an online seller.
+Tag someone you know who's about to book a trip or buy from an online seller.
 
 **Creative direction:** Carousel slides:
 1. "I checked the likes. 50,000. ✅" (clean text, muted background)
@@ -2319,7 +2319,7 @@ Planning a trip this summer? Before you send any deposit, go through this first.
 
 Not because every page is fake. Because the ones that are fake look exactly like the real ones.
 
-Swipe through the checklist. Save it. Send it to whoever's handling the booking.
+Swipe through the checklist. Save it. Send it to whoever's handling your group's booking.
 
 #CheckBeforeYouPay
 
@@ -2426,7 +2426,7 @@ If the business claims to have been operating for years but the page was created
 
 **2. Look for a website link**
 
-Real businesses connect their online channels. They have a website, or at least a link to their official pages elsewhere. Scammers usually keep things on Facebook only, because it's easier to create and harder for victims to trace.
+Real businesses connect their online channels. They have a website, or at least a link to their official pages elsewhere. Scammers usually keep things on Facebook only, because it's easier to create and harder for you to trace.
 
 If a business has no website, no linked Instagram, and no online presence outside Facebook, be cautious.
 
@@ -2555,7 +2555,7 @@ When a business gets verified, dotPH confirms their identity by reviewing govern
 
 1. **A verified badge** they can display on their website
 2. **A public verification page** on dotPH that anyone can visit
-3. **A place to list their real details:** their payment channels (GCash number, bank accounts), social media, and website, all on one page customers can check
+3. **A place to list their real details:** their payment channels (GCash number, bank accounts), social media, and website, all on one page you can check
 
 This is different from a Facebook blue checkmark (which is a paid subscription) or an SSL padlock (which only encrypts the connection). Verified by dotPH confirms the *identity* of the person or business behind the domain.
 
@@ -2595,7 +2595,7 @@ If they dismiss the question or get defensive, that tells you something too.
 
 **You're not trusting the business. You're checking with the registry that verified them.**
 
-Before Verified by dotPH, consumers had no reliable way to check if a Facebook page or website actually belonged to the business it claimed to represent. You had to trust the likes, the photos, the "vibes."
+Before Verified by dotPH, you had no reliable way to check if a Facebook page or website actually belonged to the business it claimed to represent. You had to trust the likes, the photos, the "vibes."
 
 Scammers optimized for all of those. They bought likes. They stole photos. They nailed the vibes.
 
