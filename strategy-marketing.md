@@ -229,27 +229,31 @@ A: A government-issued ID (for individuals) and/or business registration documen
 **Purpose:** Plant the problem. Soft product name-drop. Open a loop with a named destination.
 
 ```
-Subject: Is someone pretending to be your business online?
-Preview: It's happening to more Philippine businesses than you think.
+Subject: Someone is pretending to be you.
+Preview: It's happening to .ph businesses right now.
 ```
 
 Hi [First Name],
 
-Something is happening to businesses with an online presence — and most don't find out until a customer complains.
+You won't know until a customer tells you.
 
-Scammers are copying business names, logos, and Facebook pages. They set up fake payment links. They take orders. They collect deposits. And your real customers end up paying them instead of you.
+Customers place orders. Send payments. Think they're paying you.
 
-The worst part? Your customers blame *you*.
+You find out when someone shows up asking about an order you never received.
 
-We're seeing this across every industry — resorts, restaurants, clinics, online shops. And a domain name alone is no longer enough to prove you're the real deal.
+This is happening to online shops, resorts, clinics. Businesses that look exactly like yours online.
 
-We're building something to fix this. It's called **Verified by dotPH** — a way for businesses to prove they're real, backed by the official .ph domain registry. More details next week.
+Your domain is real. But your customers have no way to prove it's actually you.
+
+We're doing something about this.
+
+[Read more about Verified by dotPH →]
 
 [Name]
-dotPH — The .ph Domain Registry
+dotPH
 
 ```
-CTA: None (intentional — loop stays open, but the destination is named)
+CTA: Link to Verified by dotPH landing page
 Psychology: Zeigarnik Effect (they now know WHAT is coming but not HOW it works),
 Loss Aversion (customers paying scammers)
 Note: This is the warm audience version. These are existing .ph holders who trust dotPH —
