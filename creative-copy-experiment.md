@@ -982,7 +982,7 @@ CTA button: *"Get Verified Now: It's Free."* dotPH logo prominent.
 
 This is the only ad in the funnel that shows desire, not fear. At conversion stage, after you've seen the problem, the stories, and the product, what you need is a vision of the after-state. The thought bubbles make the contrast visceral without a single scary statistic.
 
-> **Angle note:** This is the identity/aspiration angle missing from the current set. Every existing ad activates fear. This ad activates desire, showing verified businesses as more professional, more trusted, and winning more customers than their unverified competitors. At conversion stage, showing the positive outcome is often more effective than re-serving the problem you already know.
+> **Angle note:** This is the identity/aspiration angle missing from the current set. Every existing ad activates fear. This ad activates desire, showing verified businesses as more professional, more trusted, and winning more customers than your unverified competitors. At conversion stage, showing the positive outcome is often more effective than re-serving the problem you already know.
 
 ---
 
@@ -1322,7 +1322,7 @@ If you run a restaurant dealing with cloned delivery pages (fake versions of you
 **Clinics and professionals: [X]% of signups**
 If you're a healthcare provider or professional, you're verifying to ensure your patients and clients find your real contact information and appointment pages, not a scammer's.
 
-**In their own words: why they got verified**
+**In their own words: why businesses like yours got verified**
 
 > *"I didn't think we needed it until I saw a fake page using our photos. Now I tell every business owner I know to get verified."*
 >: [Name], [Business], [Location]
@@ -1448,7 +1448,7 @@ Join the [X] businesses that are already verified. Your customers will thank you
 
 ## PHASE 1: FEAR ACTIVATION (Weeks 3–5)
 
-> **Goal:** Make consumers feel the threat is personal. Not hypothetical, happening to people exactly like them.
+> **Goal:** Make consumers feel the threat is personal. Not hypothetical, happening to people exactly like you.
 > **Emotion:** Recognition, alertness.
 
 ---
