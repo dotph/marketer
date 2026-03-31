@@ -852,7 +852,7 @@ Your competitors are already verified. Their customers see the badge. Yours don'
 
 Your customers are still asking: "Is this the real page?" Some wait. Some don't pay at all. Some pay a scammer using your name.
 
-It's free. It takes one submission. dotPH handles the rest.
+It's free. You make one submission. dotPH handles the rest.
 
 [Get Verified. It's Free]
 
