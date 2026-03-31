@@ -153,19 +153,19 @@ No dotPH logo. No CTA. The absence of a person makes you insert yourself into th
 
 **Secondary format: Companion Reel (1080 x 1920 px, 20–25 sec)**
 
-2 AM. A Filipino bedroom. You're asleep. Phone on the bedside table, screen dimming. No sound yet.
+2 AM. A Filipino bedroom. A business owner asleep. Phone on the bedside table, screen dimming. No sound yet.
 
-Split screen opens silently. Left side: your real Facebook business page, quiet, no activity. Store closed for the night.
+Split screen opens silently. Left side: their real Facebook business page, quiet, no activity. Store closed for the night.
 
-Right side: a page with your exact name, your exact logo, your exact photos. A customer sends a GCash payment notification. The operator: awake, somewhere else, marks it received. Another payment comes in. Then another.
+Right side: a page with their exact name, exact logo, exact photos. A customer sends a GCash payment notification. The operator: awake, somewhere else, marks it received. Another payment comes in. Then another.
 
-Left side: your phone buzzes once with an unread message. You don't stir.
+Left side: the real owner's phone buzzes once with an unread message. They don't stir.
 
-Morning. Sunlight. You wake up, check your phone. Open Messenger. A customer you don't recognize:
+Morning. Sunlight. The owner wakes up, checks their phone. Opens Messenger. A customer they don't recognize:
 
 *"Kumusta na yung order ko? Tatlong araw na wala pa ring update."*
 
-You stare at it. You have no record of this order. No payment. Nothing.
+They stare at it. They have no record of this order. No payment. Nothing.
 
 Final frame, black screen, white text, slow fade:
 
@@ -385,19 +385,19 @@ Every lost customer thinks they got scammed by YOU, not by the fake page that us
 
 **Variation A: Person**
 
-End of day. Your shop is in the background, products on shelves, signage, a counter you've stood behind for years. Everything you built.
+A Filipino business owner, end of day. Their shop is in the background, products on shelves, signage, a counter they've stood behind for years. Everything they built.
 
-It's been a good day. Maybe you just served your last customer, maybe you're counting receipts. There's a small, quiet satisfaction in the air: the kind that only comes from honest work.
+It's been a good day. Maybe they just served their last customer, maybe they're counting receipts. There's a small, quiet satisfaction in the air: the kind that only comes from honest work.
 
-Then you check your phone.
+Then they check their phone.
 
-One new notification. A Google review. You tap it.
+One new notification. A Google review. They tap it.
 
 One star. The review reads: *"SCAMMER. Do NOT trust this business."*
 
-The frame freezes on your face in the moment after you read it: not yet anger, not yet panic. That first beat of pure wrongness. The expression of someone who has just been accused of something they didn't do, in front of everyone, with no way to explain.
+The frame freezes on their face in the moment after they read it: not yet anger, not yet panic. That first beat of pure wrongness. The expression of someone who has just been accused of something they didn't do, in front of everyone, with no way to explain.
 
-Your shop, everything you built, is visible behind you. All of it still there. All of it suddenly under a shadow you didn't create.
+Their shop, everything they built, is visible behind them. All of it still there. All of it suddenly under a shadow they didn't create.
 
 Single text overlay, bold:
 
