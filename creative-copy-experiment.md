@@ -793,7 +793,7 @@ Scammers can copy your page. They can't pass a document check.
 Free for .ph domain holders. From the official .ph domain registry.
 
 **Headline:** Your Customers Can't Tell Anymore
-**Description:** Give them one check that works.
+**Description:** Give your customers one check that works.
 
 **Creative direction:** A Filipino woman at her laptop, carefully reviewing a resort Facebook page before booking, methodical, thorough, the kind of person who does her research. She's cross-referencing: resort page on one side of the screen, her Notes app open on the other, checking items off her list one by one.
 
@@ -1306,7 +1306,7 @@ Phishing sites impersonating Philippine businesses surged 423% in 2025. Fake Fac
 
 Business owners like you are tired of being caught in the crossfire. You didn't create the problem, but your customers hold you responsible when things go wrong. Verified by dotPH gives you a way to fight back.
 
-**Who's signing up, and why you'll recognize yourself in their stories**
+**Who's signing up, and why you'll recognize your business in these stories**
 
 The early adopters span multiple industries, but a few patterns have emerged:
 
@@ -1344,7 +1344,7 @@ In a post-signup survey, the top reasons businesses cited:
 3. **It's free:** "There's no reason not to."
 4. **Authority of dotPH:** "Being verified by the actual domain registry means something. It's not a random badge: it's from the organization that manages .ph."
 
-**How to join them**
+**How to get your business verified**
 
 Verified by dotPH is free for all .ph domain holders.
 
