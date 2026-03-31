@@ -1745,9 +1745,9 @@ Here's what "check" means: go to the business's website, look for the Verified b
 
 Fake pages look real. Fake GCash links look real. Fake websites look real. But a verification page on dotPH, confirmed by the official .ph registry, can't be faked.
 
-Tag someone who shops online.
-Tag someone who books resorts on Facebook.
-Tag someone who sends money through GCash.
+Tag someone you know who shops online.
+Tag someone you know who books resorts on Facebook.
+Tag someone you know who sends money through GCash.
 
 They need to see this.
 
