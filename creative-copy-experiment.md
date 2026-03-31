@@ -1564,7 +1564,7 @@ Scammers know exactly what you check. And they fake every one of those signals. 
 
 Next time you're about to pay online, pause. If you can't verify the page is real through something other than how it looks, don't send money yet.
 
-Share this with someone who shops online.
+Share this with someone you know who shops online.
 
 **Headline for image:** 52% of Filipinos Have Been Scammed
 **Subtext:** GSMA, 2025
@@ -1595,7 +1595,7 @@ If scammers can fake a brand everyone knows, what's stopping them from faking th
 
 Next time you see a promo or giveaway on Facebook, pause. If there's no way to verify, don't click.
 
-Tag someone who enters Facebook giveaways.
+Tag someone you know who enters Facebook giveaways.
 
 **Creative direction:** Carousel:
 1. "Scammers impersonated a major PH fast food chain."
@@ -2177,7 +2177,7 @@ The one thing I couldn't check: whether the page actually belonged to the resort
 
 Next time, don't check the likes. Check if it's verified.
 
-Tag someone who's about to book a trip or buy from an online seller.
+Tag someone you know who's about to book a trip or buy from an online seller.
 
 **Creative direction:** Carousel slides:
 1. "I checked the likes. 50,000. ✅" (clean text, muted background)
