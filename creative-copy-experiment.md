@@ -1944,7 +1944,7 @@ Source: Check Point 2025, GSMA 2025. No product branding.
 
 These aren't hackers. They're copiers. Same name. Same logo. Same photos. Different payment link.
 
-Tag a business owner who needs to see this.
+Tag a business owner you know who needs to see this.
 
 Sources: Check Point Philippine Threat Landscape Report 2025, GSMA ASEAN Consumer Scam Report 2025
 
@@ -2146,7 +2146,7 @@ The scary part? None of this is hard. You don't need technical skill. You just n
 
 That's why the number of fake pages keeps growing. 423% more phishing sites in one year. Scammers go where the ROI is, and right now, that's your customers.
 
-Once you know how this works, you can't unsee it. Share this with a business owner who needs to see it.
+Once you know how this works, you can't unsee it. Share this with a business owner in your network who needs to see it.
 
 **Creative direction:** Clean infographic layout, data visualization style, not a meme. Numbered steps with time/cost callouts. Muted dark palette consistent with Awareness phase visual specs. Source citation: "Check Point 2025, SunStar Cebu" in bottom corner. No product branding.
 
