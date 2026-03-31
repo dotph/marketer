@@ -178,7 +178,7 @@ Source: *Check Point, 2025.* No logo. No CTA.
 ---
 
 **Why these two work:**
-The static hits your pride: your brand was franchised without you. The Reel hits your fear: your business ran without you, and someone else collected. Same threat, two emotional doors. The certificate earns shares from business owners ("pre, look at this"); the Reel earns the late-night save from you, checking your phone before bed. Both funnel directly into Ad 7.
+The static hits your pride: your brand was franchised without you. The Reel hits your fear: your business ran without you, and someone else collected. Same threat, two emotional doors. The certificate earns shares from business owners like you ("pre, look at this"); the Reel earns the late-night save from you, checking your phone before bed. Both funnel directly into Ad 7.
 
 ---
 
@@ -786,7 +786,7 @@ She paid. She showed up. There was nothing there.
 
 The problem wasn't that she was careless. The problem is that every signal she checked (likes, photos, reviews, response time) can be faked in 10 minutes for less than P500.
 
-That's exactly what Verified by dotPH solves. Your business gets a verified badge and a public page on dotPH, verified by the official .ph domain registry as yours, where you list your real GCash number, social media, and website for your customers to check. Before your customers pay, they check that page. If the details match, they know it's you. Not because you said so. Because the registry verified it's your page.
+That's exactly what Verified by dotPH solves. Your business gets a verified badge and a public page on dotPH, verified by the official .ph domain registry as yours, where you list your real GCash number, social media, and website for your customers to check. Before your customers pay, they check your dotPH page. If the details match, they know it's you. Not because you said so. Because the registry verified it's your page.
 
 Scammers can copy your page. They can't pass a document check.
 
