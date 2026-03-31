@@ -1140,7 +1140,7 @@ But here's what gets lost in the headline: most of this money was meant for real
 
 When a scammer creates a fake page that copies your business, two people get hurt.
 
-The first is the customer who pays the wrong account. That's the victim the news covers.
+The first is your customer who pays the wrong account. That's the victim the news covers.
 
 The second is you, the business whose name was used. You're the victim nobody talks about.
 
