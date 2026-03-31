@@ -2426,7 +2426,7 @@ If the business claims to have been operating for years but the page was created
 
 **2. Look for a website link**
 
-Real businesses connect their online channels. They have a website, or at least a link to their official pages elsewhere. Scammers usually keep things on Facebook only, because it's easier to create and harder for victims to trace.
+Real businesses connect their online channels. They have a website, or at least a link to their official pages elsewhere. Scammers usually keep things on Facebook only, because it's easier to create and harder for you to trace.
 
 If a business has no website, no linked Instagram, and no online presence outside Facebook, be cautious.
 
@@ -2555,7 +2555,7 @@ When a business gets verified, dotPH confirms their identity by reviewing govern
 
 1. **A verified badge** they can display on their website
 2. **A public verification page** on dotPH that anyone can visit
-3. **A place to list their real details:** their payment channels (GCash number, bank accounts), social media, and website, all on one page customers can check
+3. **A place to list their real details:** their payment channels (GCash number, bank accounts), social media, and website, all on one page you can check
 
 This is different from a Facebook blue checkmark (which is a paid subscription) or an SSL padlock (which only encrypts the connection). Verified by dotPH confirms the *identity* of the person or business behind the domain.
 
@@ -2595,7 +2595,7 @@ If they dismiss the question or get defensive, that tells you something too.
 
 **You're not trusting the business. You're checking with the registry that verified them.**
 
-Before Verified by dotPH, consumers had no reliable way to check if a Facebook page or website actually belonged to the business it claimed to represent. You had to trust the likes, the photos, the "vibes."
+Before Verified by dotPH, you had no reliable way to check if a Facebook page or website actually belonged to the business it claimed to represent. You had to trust the likes, the photos, the "vibes."
 
 Scammers optimized for all of those. They bought likes. They stole photos. They nailed the vibes.
 
