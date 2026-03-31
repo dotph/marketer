@@ -1472,7 +1472,7 @@ Scammers don't make obvious fakes anymore. They only need ONE person to fall for
 
 Guess in the comments. We'll drop the answer below.
 
-Tag someone and see if they can tell the difference.
+Tag someone and see if your friend can tell the difference.
 
 **Creative direction:** Two screenshots of Facebook business pages, side by side or in a carousel. Both look professional, same name, similar bio, similar photos. One is labeled "A" and the other "B." The differences are subtle (page creation date, slight URL variation). The answer is revealed in the first comment, with context: "The fake page had more likes than the real one."
 
@@ -2747,7 +2747,7 @@ If the business doesn't have a badge (many are still new to verification), don't
 
 **How to have the conversation**
 
-Don't lecture. Don't make them feel stupid. Scammers fool everyone. Even bank managers (a senior BPI manager almost fell for a fake app, according to a Rappler investigation).
+Don't lecture. Don't make your family feel stupid. Scammers fool everyone. Even bank managers (a senior BPI manager almost fell for a fake app, according to a Rappler investigation).
 
 Instead, try:
 
