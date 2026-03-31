@@ -823,7 +823,7 @@ The two-moment structure (confident at laptop, confused at empty beach) carries 
 
 > **Why this angle:** This ad uses the *diligence failure* frame, your customer did everything right, and still got scammed. This is the consideration-stage realization that closes the loop on awareness: it's not about your customers being careless. It's about the signals they trust being unfixable without your verification. The checklist visual (8,000 likes ✅, beautiful photos ✅, fast response ✅, GCash link ✅) is deliberately satisfying to read, then the twist ("She still got scammed") hits harder because you were nodding along. The two-moment structure (confident at laptop → confused at empty beach) doesn't need explanation. You know: your careful customers are checking all the same things this woman checked. And if you're not verified, your careful customers can still be fooled.
 
-> **Revision note:** Previous version used a bank manager / government app phishing story (Rappler ref #29). That scenario involves personal phishing, not business impersonation: a category mismatch with the product. This version uses the Bantayan/La Union resort pattern (the customer was diligent; the signals were all fake) which directly mirrors the product's use case and keeps the consideration stage grounded in the awareness stories you've already seen.
+> **Revision note:** Previous version used a bank manager / government app phishing story (Rappler ref #29). That scenario involves personal phishing, not business impersonation: a category mismatch with the product. This version uses the Bantayan/La Union resort pattern (your customer was diligent; the signals were all fake) which directly mirrors the product's use case and keeps the consideration stage grounded in the awareness stories you've already seen.
 
 ---
 
@@ -1254,7 +1254,7 @@ The key difference: this isn't self-reported. It's verified by the domain regist
 
 **With vs. without verification: two very different customer journeys**
 
-Consider the customer journey:
+Consider your customer's journey:
 
 Without verification: Your customer sees your website or Facebook page. It looks real. But so does the fake one. They hesitate in front of your page. They screenshot your GCash number and DM you to confirm. Or they abandon your sale entirely.
 
