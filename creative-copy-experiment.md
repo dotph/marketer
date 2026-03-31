@@ -735,7 +735,7 @@ Before your customer sends money, they click your badge and pull up your dotPH p
 
 Scammers can copy your page. They can't fake a dotPH verification.
 
-Free for .ph domain holders. From the official .ph domain registry.
+Free for you, as a .ph domain holder. From the official .ph domain registry.
 
 Prevention beats prosecution. Every time.
 
@@ -790,7 +790,7 @@ That's exactly what Verified by dotPH solves. Your business gets a verified badg
 
 Scammers can copy your page. They can't pass a document check.
 
-Free for .ph domain holders. From the official .ph domain registry.
+Free for you, as a .ph domain holder. From the official .ph domain registry.
 
 **Headline:** Your Customers Can't Tell Anymore
 **Description:** Give your customers one check that works.
@@ -903,7 +903,7 @@ The businesses that signed up? Your customers' hesitation is gone. They click yo
 
 Your customers want that confidence. Are they finding it?
 
-Free for .ph domain holders. Submit your documents. dotPH handles the rest.
+Free for you, if you have a .ph domain. Submit your documents. dotPH handles the rest.
 
 [Get Verified. It's Free]
 
@@ -957,7 +957,7 @@ Right now, your customers are still doing mental math before they pay you. "Look
 
 The badge removes the math.
 
-Free for .ph domain holders. Submit your documents. dotPH handles the rest.
+Free for you, if you have a .ph domain. Submit your documents. dotPH handles the rest.
 
 [Get Verified. It's Free]
 
