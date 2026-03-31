@@ -2747,7 +2747,7 @@ If the business doesn't have a badge (many are still new to verification), don't
 
 **How to have the conversation**
 
-Don't lecture. Don't make your family feel stupid. Scammers fool everyone. Even bank managers (a senior BPI manager almost fell for a fake app, according to a Rappler investigation).
+Don't lecture. Don't make them feel stupid. Scammers fool everyone. Even bank managers (a senior BPI manager almost fell for a fake app, according to a Rappler investigation).
 
 Instead, try:
 
