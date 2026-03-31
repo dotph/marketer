@@ -1274,7 +1274,7 @@ Verified by dotPH is designed for any .ph domain holder: individuals, small busi
 
 **It's free.**
 
-Verified by dotPH is free for all .ph domain holders. Submit your documents, and the dotPH team handles the verification.
+Verified by dotPH is free. If you have a .ph domain, you qualify. Submit your documents, and the dotPH team handles the verification.
 
 There's no financial friction. The only question is whether you care enough about your customers' trust to do it.
 
