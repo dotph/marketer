@@ -1803,9 +1803,9 @@ We want to see it, whether you found a verified business and paid with confidenc
 
 Your story matters. Drop it here. Use #CheckBeforeYouPay and we'll feature the best ones.
 
-The more people who check, the harder it gets for scammers.
+The more people who check, the harder it gets for scammers to fool you.
 
-Tag a friend who should do this too.
+Tag a friend of yours who should do this too.
 
 **Creative direction:** Simple branded template with a frame for user screenshots. "I checked before I paid. #CheckBeforeYouPay", designed so consumers can overlay their own screenshot of a verification page visit.
 
@@ -2319,7 +2319,7 @@ Planning a trip this summer? Before you send any deposit, go through this first.
 
 Not because every page is fake. Because the ones that are fake look exactly like the real ones.
 
-Swipe through the checklist. Save it. Send it to whoever's handling the booking.
+Swipe through the checklist. Save it. Send it to whoever's handling your group's booking.
 
 #CheckBeforeYouPay
 
