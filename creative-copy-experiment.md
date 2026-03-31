@@ -1502,7 +1502,7 @@ I checked the likes. I checked the photos. I checked the reviews. Still got scam
 
 Because there was no way to check if the page actually belonged to the real resort.
 
-This can happen to literally anyone. Send this to someone before they book their next trip, or tag them below so they see it.
+This can happen to literally anyone. Send this to someone you care about before they book their next trip, or tag them below so they see it.
 
 **Creative direction:** Clean text on a muted background. No sales. No product mention (or very soft at most). The story does the work. Optional: include a real screenshot of the Bantayan scam news headline (SunStar Cebu).
 
@@ -1895,7 +1895,7 @@ The fake page had more likes than the real one.
 
 Over 200 families sent deposits to a page that copied a Bantayan resort's name, photos, and location. The real resort had no idea until guests started showing up.
 
-Send this to someone before they book their next trip.
+Send this to someone you know before they book their next trip.
 
 **Posting guidance:** Post at 8:30 PM PHT (weekday) or 2–3 PM PHT (weekend). These are the peak engagement windows for Philippine Facebook, dinner/wind-down time and lunch break. Avoid posting exactly on the hour (:00) or half-hour (:30), offset slightly to spread reach. Pin a comment with context: "The fake page was taken down. Then a new one appeared."
 
