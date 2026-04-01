@@ -2355,7 +2355,7 @@ Slide 6 (Closer): No badge? No website? Payment to a personal GCash only? Ask wh
 **Primary Text:**
 Booking a resort or tour online this summer?
 
-Here's how to tell the real ones from the fake ones.
+Here's how you tell the real ones from the fake ones.
 
 Save this. Send it to your travel group before anyone books.
 
