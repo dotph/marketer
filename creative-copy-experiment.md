@@ -1134,7 +1134,7 @@ The Philippines loses an estimated P480 billion (USD 8.29 billion) to scams ever
 
 The number comes from ScamWatch HQ's 2025 analysis, and it's staggering. P1.3 billion per day. P55 million per hour. Every hour. And some of that money was meant for your business.
 
-But here's what gets lost in the headline: most of this money was meant for real businesses, businesses like yours. Real resorts. Real online shops. Real restaurants. The scammer didn't create demand. They intercepted it. They intercepted your customers.
+But here's what gets lost in the headline: most of this money was meant for real businesses, businesses like yours. Resorts like yours. Online shops like yours. Restaurants like yours. The scammer didn't create demand. They intercepted it. They intercepted your customers.
 
 **You're a victim too, even if you don't know it yet**
 
