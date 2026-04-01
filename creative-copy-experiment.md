@@ -196,7 +196,7 @@ A Facebook page got 50,000 likes. It looked exactly like a real Bantayan resort.
 
 > **BELOW FOLD:**
 
-Same name. Same photos. Same location on the map. The real resort page? It was offline.
+Your name. Your photos. Your location on the map. The real resort page? It was offline.
 
 Guests sent deposits through GCash. They showed up expecting their booking. The resort had no record of them.
 
