@@ -1589,7 +1589,7 @@ Anniversary promos. P7,000 cash giveaways. P10,000 gift vouchers. Thousands of p
 
 All fake. The real company had to issue a public statement: "These are scams."
 
-Now think about the businesses you buy from that AREN'T household names. The online sellers. The small resorts. The local restaurants.
+Now think about the businesses you buy from that AREN'T household names. The online sellers. The small resorts. The local restaurants you love.
 
 If scammers can fake a brand everyone knows, what's stopping them from faking the page you're about to pay?
 
