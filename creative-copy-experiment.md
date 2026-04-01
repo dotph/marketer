@@ -2317,7 +2317,7 @@ Answer below. Real answer dropping in the comments.
 **Primary Text:**
 Planning a trip this summer? Before you send any deposit, go through this first.
 
-Not because every page is fake. Because the ones that are fake look exactly like the real ones.
+Not because every page is fake. Because the ones that are fake look exactly like the real ones — until you check.
 
 Swipe through the checklist. Save it. Send it to whoever's handling your group's booking.
 
