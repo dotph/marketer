@@ -545,7 +545,7 @@ No CTA. No explanation. The scale of the notification (the likes, the shares, th
 
 > **BELOW FOLD:**
 
-Fake hotel bookings. Bogus flight deals. "Travel agents" who vanish after collecting payment. All using cloned pages: real photos, real logos, fake everything else.
+Fake hotel bookings. Bogus flight deals. "Travel agents" who vanish after collecting payment. All using cloned pages: your photos, your logos, fake everything else.
 
 GMA News called it a surge. But if you run a legit travel business, you already know.
 
