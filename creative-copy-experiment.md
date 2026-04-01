@@ -1352,7 +1352,7 @@ Step 1: Submit your government-issued ID and business documents.
 Step 2: dotPH reviews and confirms your identity.
 Step 3: Get your verified badge and verification page, where you list your real GCash number, social media, and website for your customers to check.
 
-No cost. No catch.
+No cost to you. No catch.
 
 [Get Verified. It's Free →]
 
