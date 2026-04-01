@@ -2672,7 +2672,7 @@ When you check the verification page, you're not asking the seller if they're re
 
 **What about businesses that aren't verified yet?**
 
-If a business doesn't have a verification page, it doesn't mean they're a scam. Verification is still new, and many legitimate businesses haven't signed up yet.
+If a business doesn't have a verification page, it doesn't mean they're a scam. Verification is still new, and many legitimate businesses you buy from haven't signed up yet.
 
 But if you're about to send money and you have no way to verify the payment link, take extra precautions:
 - Call the business directly (find their number through Google, not through the Facebook page).
