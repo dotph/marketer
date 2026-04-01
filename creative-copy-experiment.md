@@ -1695,7 +1695,7 @@ Send this to the person in your family who sends GCash the most.
 
 1. Page created last month, but the business says they've been around for years. (Check "Page transparency.")
 
-2. Professional photos but no website link. Scammers keep it Facebook-only, harder to trace.
+2. Professional photos but no website link. Scammers keep it Facebook-only, harder for you to trace.
 
 3. Payment is personal GCash or bank transfer to an individual. No business account.
 
