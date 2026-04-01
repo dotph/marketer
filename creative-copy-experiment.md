@@ -1532,7 +1532,7 @@ Verafiles confirmed: completely fabricated.
 
 Next time you're about to book something online, if you can't verify it's real in 5 seconds, don't pay yet.
 
-Forward this to your family GC before someone books a trip.
+Forward this to your family GC before someone you love books a trip.
 
 **Creative direction:** Carousel slides:
 1. "This resort in La Union had 8,000 likes." (scenic beach photo)
@@ -1994,7 +1994,7 @@ Source: Verafiles. No product branding.
 
 Verafiles fact-checked: the resort was completely fabricated. The photos were stolen from a real resort in Batangas, hundreds of kilometers away. The page changed its name twice to avoid detection.
 
-Forward this to your family GC before someone books a trip.
+Forward this to your family GC before someone you love books a trip.
 
 Source: Verafiles, 2024
 
@@ -2220,7 +2220,7 @@ Drop your answer below.
 - Pin a reply after 2–4 hours: "All four can be faked. Likes can be purchased for P500. Photos can be stolen. Reviews can be manufactured. Page dates can be manipulated by renaming old pages. The one thing that can't be faked: a verification from the official .ph registry.: Also dropping this below: sino dito na naka-encounter ng fake page? Tell us what happened. 👇"
 - This second question triggers storytelling comments, people who've been scammed or nearly scammed will share their experience in the replies
 - Reply to individual poll answers with the relevant data point (e.g., someone picks A → "A fake Bantayan resort page had 50,000 likes, more than the real one.")
-- Reply to every personal story with: "Thank you for sharing this. This is exactly what other people need to hear. Tag someone who should know before booking/buying."
+- Reply to every personal story with: "Thank you for sharing this. This is exactly what others you know need to hear. Tag someone who should know before booking/buying."
 - Do NOT mention Verified by dotPH in the post itself during Fear Activation phase, only in the pinned comment
 
 > **Why this works:** The poll makes you publicly commit to a verification method before you know that method is unreliable. Picking "A) Number of likes" or "B) Reviews" puts your answer on record, so when the pinned comment reveals those are all fakeable, you feel the rug pulled personally. That emotional whiplash is exactly what drives the comment section. The follow-up question ("sino dito na naka-encounter ng fake page?") redirects anxiety into storytelling, and each personal testimony in the comments is a free testimonial that builds the campaign's credibility without you having to ask for it.
