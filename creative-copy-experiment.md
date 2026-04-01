@@ -1942,7 +1942,7 @@ Source: Check Point 2025, GSMA 2025. No product branding.
 **Caption:**
 423% increase in phishing websites targeting the Philippines. In one year.
 
-These aren't hackers. They're copiers. Your name. Your logo. Your photos. Different payment link.
+These aren't hackers. They're copiers. Your name. Your logo. Your photos. Not your GCash.
 
 Tag a business owner you know who needs to see this.
 
