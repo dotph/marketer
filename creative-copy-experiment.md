@@ -73,7 +73,7 @@ Someone is collecting payments using your business name. Here's how they work â†
 
 > **BELOW FOLD:**
 
-Phishing websites impersonating Philippine businesses jumped from 731 to 3,824 in one year. Fake brand profiles on social media? Up 37%.
+Phishing websites impersonating Philippine businesses like yours jumped from 731 to 3,824 in one year. Fake brand profiles on social media? Up 37%.
 
 Scammers aren't slowing down. They're scaling up, faster than you realize. And they don't need to hack anything. They just copy your name, your logo, your photos. Then they wait for your customers to pay.
 
