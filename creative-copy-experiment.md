@@ -1701,7 +1701,7 @@ Send this to the person in your family who sends GCash the most.
 
 None of these are 100% proof. Scammers are getting better at faking everything.
 
-The one thing they can't fake: a Verified by dotPH badge that links to a verification page on the official .ph registry. Check their real links — your answer in seconds.
+The one thing they can't fake: a Verified by dotPH badge that links to a verification page on the official .ph registry. Check their real links. Your answer in seconds.
 
 No badge? Ask why. Verification is free.
 
@@ -2317,7 +2317,7 @@ Answer below. Real answer dropping in the comments.
 **Primary Text:**
 Planning a trip this summer? Before you send any deposit, go through this first.
 
-Not because every page is fake. Because the ones that are fake look exactly like the real ones — until you check.
+Not because every page is fake. Because the ones that are fake look exactly like the real ones. Until you check.
 
 Swipe through the checklist. Save it. Send it to whoever's handling your group's booking.
 
