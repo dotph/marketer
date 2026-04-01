@@ -1828,7 +1828,7 @@ Every check = a scam that didn't happen.
 Every check = a scammer who didn't get paid.
 Every check = money that went to the real business.
 
-That's a community looking out for itself.
+That's a community looking out for you.
 
 Consumers: keep checking.
 Businesses: your customers are already looking. Are you verified?
