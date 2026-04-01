@@ -2757,7 +2757,7 @@ Show them how to look for the badge. Show them how to click it. Show them the ve
 
 **Make it a family rule**
 
-The best protection isn't a one-time lesson. It's a habit.
+The best protection for your family isn't a one-time lesson. It's a habit.
 
 Add it to your family group chat: *"Reminder: before anyone sends money online, check for the Verified by dotPH badge first. If no badge, call the business directly."*
 
