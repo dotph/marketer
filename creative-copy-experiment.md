@@ -1778,7 +1778,7 @@ You know better now. Teach them.
 
 Show them the Verified by dotPH badge. Show them how to check the verification page. Show them how to confirm the real GCash number before sending money.
 
-2 minutes to teach. Could save them thousands.
+2 minutes to teach. Could save your family thousands.
 
 Protecting your family from scams isn't paranoia. It's pagmamahal.
 
