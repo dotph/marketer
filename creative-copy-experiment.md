@@ -1701,7 +1701,7 @@ Send this to the person in your family who sends GCash the most.
 
 None of these are 100% proof. Scammers are getting better at faking everything.
 
-The one thing they can't fake: a Verified by dotPH badge that links to a verification page on the official .ph registry. Check their real links in seconds.
+The one thing they can't fake: a Verified by dotPH badge that links to a verification page on the official .ph registry. Check their real links — your answer in seconds.
 
 No badge? Ask why. Verification is free.
 
