@@ -1468,7 +1468,7 @@ Which one is fake? 👇
 
 (If you had to think about it for even a second, that's the whole problem.)
 
-Scammers don't make obvious fakes anymore. They only need ONE person to fall for it.
+Scammers don't make obvious fakes anymore. They only need ONE person to fall for it. Don't let that be you.
 
 Guess in the comments. We'll drop the answer below.
 
