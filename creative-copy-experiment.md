@@ -1298,7 +1298,7 @@ There's no financial friction. The only question is whether you care enough abou
 
 > **Editor's note:** Update the number [X] and industry breakdowns with real data before publishing. This is a template designed to be refreshed weekly during Weeks 5–8 of the campaign.
 
-Since Verified by dotPH launched, [X] businesses have signed up for free identity verification. Here's what's driving them, and why it matters to your business.
+Since Verified by dotPH launched, [X] businesses have signed up for free identity verification. Here's what's driving businesses like yours, and why it matters to you.
 
 **423% more fake pages, and your business could be next**
 
