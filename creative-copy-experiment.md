@@ -2597,7 +2597,7 @@ If they dismiss the question or get defensive, that tells you something too.
 
 Before Verified by dotPH, you had no reliable way to check if a Facebook page or website actually belonged to the business it claimed to represent. You had to trust the likes, the photos, the "vibes."
 
-Scammers optimized for all of those. They bought likes. They stole photos. They nailed the vibes.
+Scammers optimized for all of those signals you relied on. They bought likes. They stole photos. They nailed the vibes.
 
 Now there's a check they can't fake, because it lives on dotPH, not on the business's own page. You're not trusting the business to tell you they're real. You're checking with the registry that verified them.
 
