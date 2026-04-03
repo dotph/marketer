@@ -2715,15 +2715,17 @@ The people in Bantayan Island asked the right question. They just asked the wron
 
 Your nanay is on Facebook. She's been there for years. She follows recipe pages, sends you Viber stickers, and lately she's been buying things online.
 
-She found a great deal on a kitchen gadget. A nice-looking online store. GCash payment. She sent the money.
+A few weeks ago she found a kitchen gadget she'd been looking for. The page was clean, professional. Real photos. Good reviews in the comments. A hundred people had left heart reactions. She messaged the seller and got a quick, friendly reply. The price was normal, not suspiciously cheap. She paid through GCash.
 
 The item never arrived.
 
-She didn't tell you about it for two weeks. She was embarrassed.
+She waited two weeks before she told you. She kept checking her messages. She kept thinking it was just delayed, that she'd misread the timeline, that there was probably a good explanation. By the time she accepted there wasn't, she'd already moved past wanting to talk about it. She was embarrassed. She didn't want to seem naive.
 
-This story plays out thousands of times a month in the Philippines. Across every age group. Your nanay, your lola, your tita are particularly vulnerable, because the signals they trust (page looks professional, has lots of likes, responds quickly) are exactly the signals that scammers fake.
+She isn't naive. She did everything right. The page she bought from was designed to look exactly like a trustworthy seller, because the person running it had studied what trustworthy sellers look like.
 
-52% of Filipinos have been scammed at least once. Many of them are the people in your family group chat right now.
+This happens thousands of times a month across the Philippines. Not just to elders. To everyone. Your nanay, your lola, your tita are particularly vulnerable because the signals they rely on, a professional-looking page, lots of likes, quick replies, are exactly the signals that scammers spend time getting right.
+
+52% of Filipinos have been scammed at least once. Many of them are in your family group chat right now.
 
 **Why your family needs your help**
 
