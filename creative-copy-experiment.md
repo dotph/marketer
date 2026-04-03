@@ -2468,58 +2468,60 @@ The scammers are getting better. But so can you.
 
 > *This article is a composite narrative based on documented cases of resort booking scams in the Philippines. The details are drawn from news reports and verified accounts. It represents the experience of hundreds of real victims.*
 
-We planned it for months. A long weekend in Bantayan Island. My partner found the resort on Facebook: a page with over 50,000 likes, beautiful photos, and a quick response time. The rates were reasonable. Not suspiciously cheap. Just normal.
+You planned it for months. A long weekend in Bantayan Island. Your partner found the resort on Facebook: a page with over 50,000 likes, beautiful photos, a quick response time. The rates were reasonable. Not suspiciously cheap. Just normal.
 
-We sent P3,500 through GCash. Got a confirmation message. Booked the days off work.
+You sent P3,500 through GCash. Got a confirmation message. Booked the days off work.
 
-When we arrived, the resort said they had no record of our booking.
+You packed light, the way you do when you've been looking forward to something for a while. You had the confirmation screenshot saved on your phone.
 
-The receptionist looked tired. Not surprised. Tired. "You're the fifth one today," she said.
+When you arrived, the resort said they had no record of your booking.
+
+The receptionist looked tired. Not surprised. Tired. She'd had this conversation already that day. "You're the fifth one today," she said. She handed you a printed list from the real Facebook page, the one that had been offline for maintenance, the one that wasn't yours.
 
 **The fake page had more likes than the real one**
 
-The page we'd booked through wasn't the real resort's page. It was a copy. Same name. Same photos, downloaded directly from the resort's real page, which had been offline for maintenance. Same location on the Facebook map.
+The page you'd booked through wasn't the real resort's page. It was a copy. Same name. Same photos, pulled directly from the resort's real page while it was down. Same location pinned on the Facebook map.
 
 The fake page had more likes than the real one.
 
-Over 200 people were scammed the same way. One resort estimated P500,000 in losses, money that went to scammers using their name. The guests blamed the resort. The resort blamed Facebook. Facebook eventually took the page down. By then, a new fake had already appeared.
+Over 200 people were scammed the same way. The resort estimated P500,000 in losses from that single fake page, money that left through their name and went somewhere else. The guests blamed the resort. The resort blamed Facebook. Facebook eventually took the page down. By then, a new one was already running.
 
-**Why it worked on me**
+**Why it worked on you**
 
-I'm not careless. I checked.
+You're not careless. You checked.
 
-I checked the likes: 50,000. Seemed legitimate.
-I checked the photos: beautiful, high-quality. Real resort photos (because they were: stolen from the real page).
-I checked the response time: fast, polite, professional. The scammer was good at customer service.
-I checked the payment method: GCash. Normal for Philippine bookings.
+You checked the likes: 50,000. Seemed legitimate.
+You checked the photos: beautiful, high-quality. Real resort photos. They were, because they were stolen from the real page.
+You checked the response time: fast, polite, professional. The scammer knew how to do customer service.
+You checked the payment method: GCash. Normal for Philippine bookings.
 
-Everything passed. And I still got scammed.
+Everything passed. And you still got scammed.
 
-Because the one thing I couldn't check was whether the page actually belonged to the resort. There was no way to verify that. I was trusting signals that any scammer can fake.
+Because the one thing you couldn't check was whether the page actually belonged to the resort. There was no way to verify that. You were trusting signals that any scammer can replicate in an afternoon.
 
 **Bantayan, La Union, Batangas, Cebu: it's happening everywhere**
 
-In La Union, a completely fabricated resort called "Cabanas La Union" amassed 8,000 likes using photos stolen from a Batangas resort. The resort didn't exist. Guests showed up to nothing. Verafiles fact-checked and confirmed: total fabrication.
+In La Union, a completely fabricated resort called "Cabanas La Union" amassed 8,000 likes using photos stolen from a resort in Batangas. The resort didn't exist. Guests showed up to nothing. Verafiles fact-checked and confirmed: total fabrication. The page changed its name twice to avoid being taken down.
 
-In Batangas, scammers ran paid Facebook ads impersonating a real beach resort. They spent money on advertising a fake business.
+In Batangas, scammers ran paid Facebook ads impersonating a real beach resort. They spent money on reaching the resort's customers before the resort could.
 
-The Cebu hotel industry and provincial tourism office issued a joint warning. GMA News reported 89 online travel scam reports in just the first five months of 2025.
+The Cebu hotel industry and provincial tourism office issued a joint warning, reported by GMA News. Eighty-nine online travel scam reports in just the first five months of 2025.
 
-This isn't an isolated problem. It's an industry under siege.
+This isn't an isolated problem. It is a pattern, and it works on people who check.
 
-**What I wish I'd known**
+**What you wish you'd known**
 
-I wish there had been a way to check, not the likes, not the photos, not the vibes, but the actual identity of the business behind the page.
+There should have been a way to check not the likes, not the photos, not the vibes, but the actual identity of the business behind the page.
 
-I've since learned that some businesses are now getting verified through the official .ph domain registry. That means there's a page on dotPH you can visit to see their listed details: their real Facebook, their GCash number, their website. The business's identity is confirmed by the registry, and their payment details are right there for you to compare.
+Some businesses are now getting verified through the official .ph domain registry. That means there's a page on dotPH you can visit to see their listed details: their real Facebook, their GCash number, their website. The business's identity is confirmed by the registry, and their payment details are there for you to compare against what you've been given.
 
-I'm not saying verification would have stopped every scam. But if the resort I booked had been verified, and I knew how to check, I would have known in 10 seconds that the page I was paying wasn't the real one.
+Verification wouldn't stop every scam. But if the resort you booked had been verified, and you knew to check, you would have seen in 10 seconds that the GCash number on the page didn't match the one in your booking confirmation. That's all it would have taken.
 
-**What I do now**
+**What you do now**
 
-Before I pay any business online, I check. I look for the badge. I visit the verification page on dotPH. I compare the GCash number and payment details listed there with what the seller gave me.
+Before you pay any business online, you check. You look for the badge. You visit the verification page on dotPH. You compare the GCash number listed there with what the seller gave you.
 
-It takes 30 seconds. And it would have saved me P3,500 and a ruined vacation.
+It takes 30 seconds. It would have saved P3,500 and a vacation you had been planning for months.
 
 *Sources: SunStar Cebu, Verafiles, Interaksyon/Philstar, GMA News, Cebu Daily News*
 
