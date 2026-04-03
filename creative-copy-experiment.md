@@ -2402,17 +2402,17 @@ Source: dotPH / #CheckBeforeYouPay
 
 #### How to Spot a Fake Business Page on Facebook
 
-You found a great deal on Facebook. A resort package for summer. A food delivery business with amazing reviews. An online store with the exact item you've been looking for.
+It had 8,000 likes.
 
-The page looks real. It has likes. It has photos. It responds to messages.
+The photos were stunning: a beachfront property in La Union, turquoise water, palm shade, the kind of place you save to your phone in January and stare at when the week gets long. It claimed to be in Urbiztondo. It accepted GCash. The page was called "Cabanas La Union."
 
-But is it actually the real business?
+There was no Cabanas La Union. The resort didn't exist. Not on Google Maps, not in the DTI portal. The photos had been lifted from a real resort in Batangas, hundreds of kilometers away. Verafiles fact-checked the entire page and confirmed it: total fabrication, 8,000 followers, real bookings collected from real people who showed up to a beach and found nothing.
 
-In 2025, phishing websites targeting the Philippines surged 423%. Fake brand profiles on social media rose 37%. And a GSMA report found that 52% of Filipinos have been scammed at least once, more than any other ASEAN country except one.
+The page changed its name twice to avoid being reported. Then it changed its name again.
 
-Most of those scams didn't involve hacking. They involved copying. A scammer creates a Facebook page that looks like a real business, uses the same name and photos, and waits for you to pay.
+This isn't about clicking an obvious scam. Most people who paid were not careless. They checked the likes, checked the photos, checked that someone answered their messages. They did everything you'd do. They still lost their money.
 
-Here's how to protect yourself.
+Here's how to protect yourself before it happens to you.
 
 **1. Check the page's creation date**
 
@@ -2440,7 +2440,7 @@ Google the business name. Search it on Facebook itself. If you find multiple pag
 
 This is the most reliable check. Some businesses now have a Verified by dotPH badge on their website, a verification seal from the official .ph domain registry. Clicking the badge takes you to a public verification page where you can see the business's listed details: their real Facebook page, their real payment channels (including GCash number), and their real website.
 
-A scammer can copy photos and buy likes. They can't copy a verification page on dotPH.
+A scammer can copy photos and buy likes. They can put "Official" in their page name and respond in 30 seconds. What they cannot do is create a verified listing on dotPH, because that requires submitting real identity documents to the registry. The verification lives on dotPH's servers, not on the business's own page. It can't be stolen or copied.
 
 **What to do if you think a page is fake**
 
