@@ -1007,9 +1007,11 @@ This is the only ad in the funnel that shows desire, not fear. At conversion sta
 
 ### Phishing Sites Targeting Philippine Businesses Surge 423% in 2025
 
-The number of phishing websites targeting the Philippines surged 423% last year, from 731 to 3,824, according to a new report from cybersecurity firm Check Point.
+Somewhere in the Philippines right now, a small operation is running that looks exactly like yours. Same name. Same photos. Same prices. Different GCash number.
 
-If you run a business in the Philippines, that number should concern you directly. The report, published in February 2026, paints a picture of what researchers call "industrialized" fraud: scam operations that don't just target individuals, but systematically impersonate businesses like yours at scale.
+The number of phishing websites targeting the Philippines surged 423% last year, from 731 to 3,824, according to a new report from cybersecurity firm Check Point. The report, published in February 2026, names the scale precisely: what researchers call "industrialized" fraud, scam operations built not to hit one business, but to systematically impersonate businesses like yours at volume.
+
+This is not a cybersecurity problem in the technical sense. It does not require hacking. It requires a downloaded logo, a Facebook account, and a GCash number that isn't yours.
 
 **Every metric is accelerating, and your business is in the crosshairs**
 
@@ -1043,9 +1045,9 @@ But enforcement is reactive. It addresses scams after they happen. The question 
 
 **Your old ways of proving legitimacy no longer work**
 
-With scammers scaling operations faster than enforcement can keep up, the burden is shifting to you. If you invest in visible, verifiable proof of your identity, you'll be better positioned to maintain your customers' trust in an environment where fakes are becoming indistinguishable from the real thing.
+Your professional-looking website. Your Facebook page with its accumulated likes. Your SSL padlock. A scammer can replicate every one of those signals at almost no cost.
 
-The 423% surge isn't just a statistic. It's a signal that your current trust signals (your professional-looking website, your Facebook page with likes, your SSL certificate) are no longer enough.
+With fraud operations scaling faster than enforcement can respond, the burden is shifting to you. The 423% surge isn't just a statistic. It's a signal that the trust signals your customers have always used to find the real you are no longer enough to protect either of you.
 
 *Sources: Check Point Philippine Threat Landscape Report 2025, GSMA ASEAN Consumer Scam Report 2025, Whoscall PH Scam Report 2025, PNP-ACG*
 
