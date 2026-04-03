@@ -1180,11 +1180,13 @@ This doesn't mean enforcement is pointless. It means you can't rely on enforceme
 
 The conversation about scams in the Philippines is still framed as a consumer protection issue. Government warns consumers. Banks tell customers to be careful. But you, the business being impersonated, are treated as a background character in your own story.
 
-That needs to change.
+Consider what that looks like in practice. A resort owner in Bantayan built her business over years. She invested in the photos. She earned the reviews. Then a page using her name and her photos collected P500,000 from over 200 guests. She found out when they started arriving at her front desk. And when the story was told, it was told as a consumer scam story. She was the backdrop.
 
-You're the one whose identity is being stolen. You're the one whose customers are being intercepted. And you're the one who bears the reputational cost when things go wrong.
+That framing needs to change.
 
-P480 billion is a national problem. But you feel it at the level of your business: one lost booking, one suspicious customer, one damaged reputation at a time.
+You're the one whose identity is being stolen. You're the one whose customers are being intercepted. And you're the one who bears the reputational cost when things go wrong, who fields the angry messages, who carries the association with a fraud you had nothing to do with.
+
+P480 billion is a national number. But you feel it at the level of your business: one lost booking, one suspicious customer, one damaged reputation at a time. The money flows through your name and lands somewhere else.
 
 The question is: what are you doing to make sure your customers can tell you're real?
 
