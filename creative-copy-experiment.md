@@ -2629,9 +2629,13 @@ Save this page. Share it with your family. The 30 seconds it takes to check coul
 
 "Is this your real GCash?"
 
-If you've ever bought something from a Facebook page or an online store in the Philippines, you've probably sent that message. And the seller probably responded: "Yes po, that's our official GCash."
+Someone typed that message to a Facebook page in Bantayan Island. The page had 50,000 likes and used the name and photos of a real resort. The answer came back in minutes: "Yes po, that's our official GCash." Polite. Professional. A smiley face at the end.
 
-And you believed them. Because what else can you do?
+They sent the money. They packed their bags. They showed up.
+
+The resort had no record of them. The page they'd asked wasn't the resort. It was a copy. The person on the other end of that message had been waiting for exactly that question, because they'd learned that answering it well was all they needed to get paid.
+
+Over 200 people went through the same exchange. Over P500,000 moved through that page before it was taken down.
 
 Here's the problem: a scammer running a fake page will give you the exact same answer. "Yes po, that's our official GCash." Politely. Quickly. With a smiley face.
 
@@ -2679,11 +2683,17 @@ But if you're about to send money and you have no way to verify the payment link
 
 **"Is this your real GCash?" is a hope, not a check**
 
+When you ask the seller to confirm their GCash number, you're placing your trust in whoever is on the other end of the message. You have no way to know if that person is the business owner or someone who spent an afternoon copying their page.
+
+Hope is what you do when there's nothing else to do. But now there's something else to do.
+
 Asking the seller is not a check. It's a hope.
 
 Checking the payment details listed on their dotPH page is a check.
 
-One takes 5 seconds and tells you nothing. The other takes 30 seconds and could save you thousands.
+One takes 5 seconds and tells you nothing you didn't already know. The other takes 30 seconds and puts you in contact with the registry that verified them, not the seller telling you about themselves.
+
+The people in Bantayan Island asked the right question. They just asked the wrong party.
 
 #CheckBeforeYouPay
 
